@@ -1,0 +1,586 @@
+paper_id,title,year,eigenvector,cluster_id
+W2560609797,PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,2017,0.3074703664405307,12
+W2979750740,Dynamic Graph CNN for Learning on Point Clouds,2019,0.2664347150731474,12
+W2963231572,PointConv: Deep Convolutional Networks on 3D Point Clouds,2019,0.20369950526769667,12
+W3012494314,RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds,2020,0.19443324734948325,12
+W2963281829,Large-Scale Point Cloud Semantic Segmentation with Superpoint Graphs,2018,0.1741947314809666,12
+W4214755140,Point Transformer,2021,0.1597716225503057,12
+W3153465022,PCT: Point cloud transformer,2021,0.15506524652561074,12
+W2963125977,4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks,2019,0.15319885754241044,12
+W2960986959,PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing,2019,0.14877410272813948,12
+W2963509914,Relation-Shape Convolutional Neural Network for Point Cloud Analysis,2019,0.13020842822251877,12
+W2981199548,Graph Attention Convolution for Point Cloud Semantic Segmentation,2019,0.11326470653275322,12
+W2981983525,ShellNet: Efficient Point Cloud Convolutional Neural Networks Using Concentric Shells Statistics,2019,0.1042531868999212,12
+W4313145913,Stratified Transformer for 3D Point Cloud Segmentation,2022,0.10198005062144674,12
+W4399206244,PointNAT: Large-Scale Point Cloud Semantic Segmentation via Neighbor Aggregation With Transformer,2024,0.10118189238239347,12
+W2991216808,SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences,2019,0.09735085172249457,12
+W3034314779,PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection,2020,0.09700793887642668,12
+W4321482463,LCPFormer: Towards Effective 3D Point Cloud Analysis via Local Context Propagation in Transformers,2023,0.09318922732515977,12
+W3171215128,Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion,2021,0.09049362071224931,12
+W2982210492,Interpolated Convolutional Networks for 3D Point Cloud Understanding,2019,0.09032358309016358,12
+W4389104901,GAF-Net: Geometric Contextual Feature Aggregation and Adaptive Fusion for Large-Scale Point Cloud Semantic Segmentation,2023,0.08784201398868201,12
+W4214624153,An End-to-End Transformer Model for 3D Object Detection,2021,0.08561650844927836,12
+W2798270772,Attentional ShapeContextNet for Point Cloud Recognition,2018,0.08511786256774932,12
+W3155390614,PRA-Net: Point Relation-Aware Network for 3D Point Cloud Analysis,2021,0.07856169041221997,12
+W4226106508,Contrastive Boundary Learning for Point Cloud Segmentation,2022,0.07846366697267138,12
+W2963123724,Point2Sequence: Learning the Shape Representation of 3D Point Clouds with an Attention-Based Sequence to Sequence Network,2019,0.07411363870611198,12
+W4402334165,Point cloud semantic segmentation with adaptive spatial structure graph transformer,2024,0.07363018747710803,12
+W2795374598,Pointwise Convolutional Neural Networks,2018,0.07273201130023287,12
+W3003437478,RangeNet ++: Fast and Accurate LiDAR Semantic Segmentation,2019,0.07268592094938725,12
+W3117839341,SegGroup: Seg-Level Supervision for 3D Instance and Semantic Segmentation,2022,0.07248040880956977,12
+W4317987768,DCNet: Large-Scale Point Cloud Semantic Segmentation With Discriminative and Efficient Feature Aggregation,2023,0.07194554068179637,12
+W4365141696,3D point cloud descriptors: state-of-the-art,2023,0.07169314532652724,12
+W4390872902,Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation,2023,0.07134421846899297,12
+W4386702620,SFL-NET: Slight Filter Learning Network for Point Cloud Semantic Segmentation,2023,0.07081968742462053,12
+W3162787701,Learning Semantic Segmentation of Large-Scale Point Clouds with Random Sampling,2021,0.07038850462877677,12
+W4402667891,"Point Transformer V3: Simpler, Faster, Stronger",2024,0.06987948376021523,12
+W3168037706,SCF-Net: Learning Spatial Contextual Features for Large-Scale Point Cloud Segmentation,2021,0.06920404114104073,12
+W3107518100,JSENet: Joint Semantic Segmentation and Edge Detection Network for 3D Point Clouds,2020,0.06883192870060927,12
+W4312270234,Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling,2022,0.06744166976014034,12
+W4386076422,PointVector: A Vector Representation In Point Cloud Analysis,2023,0.06732735156302207,12
+W4317553477,AGConv: Adaptive Graph Convolution on 3D Point Clouds,2023,0.06669791147835061,12
+W4220967590,A Novel Local–Global Graph Convolutional Method for Point Cloud Semantic Segmentation,2022,0.06641844883823461,12
+W2985088149,DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing,2019,0.06590114906789174,12
+W4225966217,DenseKPNET: Dense Kernel Point Convolutional Neural Networks for Point Cloud Semantic Segmentation,2022,0.06537264883564117,12
+W4409314704,3D point cloud semantic segmentation based on visual guidance and feature enhancement,2025,0.06518058432473052,12
+W4214521144,Adaptive Graph Convolution for Point Cloud Analysis,2021,0.0647857508887821,12
+W4391007469,Large-scale point cloud semantic segmentation via local perception and global descriptor vector,2024,0.06404872368332182,12
+W2990045899,DeepGCNs: Can GCNs Go As Deep As CNNs?,2019,0.06394151737017215,12
+W4312616477,Fast Point Transformer,2022,0.06372597553739269,12
+W2962701877,A-CNN: Annularly Convolutional Neural Networks on Point Clouds,2019,0.0631653284806336,12
+W4287025408,PVT: Point‐voxel transformer for point cloud learning,2022,0.06141569056167467,12
+W4386113258,FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer,2023,0.06139779829648507,12
+W4321022054,SAT3D: Slot Attention Transformer for 3D Point Cloud Semantic Segmentation,2023,0.06116854092676949,12
+W4386076097,"ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding",2023,0.05969495426668298,12
+W3203495808,Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud Semantic Segmentation,2021,0.05929460472873779,12
+W4407693788,Deep hierarchical learning on point clouds in feature space,2025,0.05925248646177587,12
+W3159746229,Dual Transformer for Point Cloud Analysis,2022,0.05911568965714902,12
+W4226237684,PointMixer: MLP-Mixer for Point Cloud Understanding,2022,0.05907850387337718,12
+W3204832889,VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation,2021,0.05687672725948955,12
+W4386083124,GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds,2023,0.056866396830205924,12
+W3157424380,Geometric Back-Projection Network for Point Cloud Classification,2021,0.0567084912792256,12
+W3035536783,Learning to Segment 3D Point Clouds in 2D Image Space,2020,0.05659001783792789,12
+W3083861253,Point2SpatialCapsule: Aggregating Features and Spatial Relationships of Local Regions on Point Clouds Using Spatial-Aware Capsules,2020,0.056487390397781556,12
+W3137210930,RPVNet: A Deep and Efficient Range-Point-Voxel Fusion Network for LiDAR Point Cloud Segmentation,2021,0.056154207506805574,12
+W3166470370,3D Object Detection with Pointformer,2021,0.055911338172294864,12
+W2895472109,3D Recurrent Neural Networks with Context Fusion for Point Cloud Semantic Segmentation,2018,0.055844070052572164,12
+W3109944402,SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation,2020,0.05561843927386989,12
+W4386083150,PointConvFormer: Revenge of the Point-based Convolution,2023,0.05547177500458829,12
+W4361799363,Point Cloud Classification Using Content-Based Transformer via Clustering in Feature Space,2023,0.054898250533153385,12
+W4214777292,Voxel Transformer for 3D Object Detection,2021,0.05435565217032154,12
+W4380479780,Mesh Convolution With Continuous Filters for 3-D Surface Parsing,2023,0.05420272676958177,12
+W4312944418,Pyramid Architecture for Multi-Scale Processing in Point Cloud Segmentation,2022,0.05356404084779971,12
+W3117907911,Geometric attentional dynamic graph convolutional neural networks for point cloud analysis,2020,0.0532199437306901,12
+W4225619493,Learning Discriminative Features by Covering Local Geometric Space for Point Cloud Analysis,2022,0.05300394119912675,12
+W4221138238,3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification,2022,0.05271821119043336,12
+W2769312834,SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation,2018,0.05252962127650707,12
+W3025802147,Point attention network for semantic segmentation of 3D point clouds,2020,0.05229814790776138,12
+W3181190968,(AF)<sup>2</sup>-S3Net: Attentive Feature Fusion with Adaptive Feature Selection for Sparse Semantic Segmentation Network,2021,0.05185333017058549,12
+W4223991150,FG-Net: A Fast and Accurate Framework for Large-Scale LiDAR Point Cloud Understanding,2022,0.051521837759247346,12
+W3034430142,3D-MPA: Multi-Proposal Aggregation for 3D Semantic Instance Segmentation,2020,0.05141656434803337,12
+W4287197011,Point Cloud Learning with Transformer,2022,0.05131647851062709,12
+W4297224465,Mixed Feature Prediction on Boundary Learning for Point Cloud Semantic Segmentation,2022,0.05124250572296009,12
+W3174510152,Learning Geometry-Disentangled Representation for Complementary Understanding of 3D Object Point Cloud,2021,0.0512233088635938,12
+W3122159272,Deep Parametric Continuous Convolutional Neural Networks,2018,0.051090189639863,12
+W3156957502,PTANet: Triple Attention Network for point cloud semantic segmentation,2021,0.05088569352089861,12
+W4386065344,RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving,2023,0.050564514644968264,12
+W4312259052,HybridCR: Weakly-Supervised 3D Point Cloud Semantic Segmentation via Hybrid Contrastive Regularization,2022,0.05051964318719956,12
+W4386075508,Self-Positioning Point-Based Transformer for Point Cloud Understanding,2023,0.050359308171190005,12
+W4366714559,NeiEA-NET: Semantic segmentation of large-scale point cloud scene via neighbor enhancement and aggregation,2023,0.05020102246734604,12
+W4285141051,Context-Aware Network for Semantic Segmentation Toward Large-Scale Point Clouds in Urban Environments,2022,0.05013726276574339,12
+W3202349074,Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation,2021,0.04969676444162777,12
+W3135761984,FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation,2021,0.04948969747577631,12
+W4386634677,MPCT: Multiscale Point Cloud Transformer With a Residual Network,2023,0.04872121877294075,12
+W4407027385,Dual-path geometric relation-aware transformer for point cloud classification and segmentation,2025,0.048531176530769035,12
+W2963035165,Modeling Local Geometric Structure of 3D Point Clouds Using Geo-CNN,2019,0.048428756952488244,12
+W2959771705,Associatively Segmenting Instances and Semantics in Point Clouds,2019,0.048390932600419746,12
+W4312442876,PatchFormer: An Efficient Point Transformer with Patch Attention,2022,0.04817527984948386,12
+W4399563599,Pix4Point: Image Pretrained Standard Transformers for 3D Point Cloud Understanding,2024,0.04809984200422439,12
+W3167855660,Omni-supervised Point Cloud Segmentation via Gradual Receptive Field Component Reasoning,2021,0.04777157924392499,12
+W4386076370,PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer,2023,0.04769525539639215,12
+W4205419321,SensatUrban: Learning Semantics from Urban-Scale Photogrammetric Point Clouds,2022,0.04765301197760729,12
+W4380264255,FSS-Net: A Fast Search Structure for 3D Point Clouds in Deep Learning,2023,0.0474510854605783,12
+W4386076488,Self-Supervised Pre-Training with Masked Shape Prediction for 3D Scene Understanding,2023,0.04690414598972336,12
+W4210344621,LFT-Net: Local Feature Transformer Network for Point Clouds Analysis,2022,0.046860515513866025,12
+W3169120894,One Thing One Click: A Self-Training Approach for Weakly Supervised 3D Semantic Segmentation,2021,0.0468457470708971,12
+W4206398307,Mix3D: Out-of-Context Data Augmentation for 3D Scenes,2021,0.04650267970576918,12
+W4312980726,Masked Discrimination for Self-supervised Learning on Point Clouds,2022,0.04647197123556781,12
+W3119816767,FKAConv: Feature-Kernel Alignment for Point Cloud Convolution,2021,0.04643314005943757,12
+W4281896735,PSNet: Fast Data Structuring for Hierarchical Deep Learning on Point Cloud,2022,0.04627002867735043,12
+W4406814688,HFA-Net: hybrid feature-aware network for large-scale point cloud semantic segmentation,2025,0.04595173208661178,12
+W4312941264,CAT-Det: Contrastively Augmented Transformer for Multimodal 3D Object Detection,2022,0.04561009024751639,12
+W4323057734,PU-Transformer: Point Cloud Upsampling Transformer,2023,0.04493845757539496,12
+W2997333789,Point2Node: Correlation Learning of Dynamic-Node for Point Cloud Feature Modeling,2020,0.044879834115745955,12
+W4310078553,PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection,2022,0.044814440071357126,12
+W3118969708,PointCutMix: Regularization strategy for point cloud classification,2022,0.044814256406180884,12
+W4312546175,Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds,2022,0.04468391355940106,12
+W3195380476,LIF-Seg: LiDAR and Camera Image Fusion for 3D LiDAR Semantic Segmentation,2023,0.044507238590875166,12
+W4322706915,TransRVNet: LiDAR Semantic Segmentation With Transformer,2023,0.04440991881766454,12
+W3186678659,Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR-Based Perception,2021,0.04420885679684508,12
+W3118341329,Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,2021,0.04367031251619985,12
+W4392693773,A Large-Scale Network Construction and Lightweighting Method for Point Cloud Semantic Segmentation,2024,0.043424277914747886,12
+W4390871922,Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation,2023,0.04336806077351113,12
+W3122683654,PIG-Net: Inception based deep learning architecture for 3D point cloud segmentation,2021,0.04328477115040845,12
+W4378469802,SPDC: A SUPER-POINT AND POINT COMBINING BASED DUAL-SCALE CONTRASTIVE LEARNING NETWORK FOR POINT CLOUD SEMANTIC SEGMENTATION,2023,0.04312384807249994,12
+W4212831793,AGNet: An Attention-Based Graph Network for Point Cloud Classification and Segmentation,2022,0.042919995196407615,12
+W4386800201,PointMatch: A consistency training framework for weakly supervised semantic segmentation of 3D point clouds,2023,0.04261768893650015,12
+W3173671050,Regularization Strategy for Point Cloud via Rigidly Mixed Sample,2021,0.04249457259536705,12
+W3080980548,Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review,2020,0.04236275489115403,12
+W4387068285,Positive-Negative Receptive Field Reasoning for Omni-Supervised 3D Segmentation,2023,0.0422467035739703,12
+W4385154268,Spatial Adaptive Fusion Consistency Contrastive Constraint: Weakly Supervised Building Facade Point Cloud Semantic Segmentation,2023,0.042219670853091265,12
+W3166446055,Image2Point: 3D Point-Cloud Understanding with Pretrained 2D ConvNets.,2021,0.04205661421490863,12
+W3203898101,PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers,2021,0.04198051423247031,12
+W4378781606,Prototype Adaption and Projection for Few- and Zero-Shot 3D Point Cloud Semantic Segmentation,2023,0.041857329553532226,12
+W3084053805,ePointDA: An End-to-End Simulation-to-Real Domain Adaptation Framework for LiDAR Point Cloud Segmentation,2021,0.0418085950211981,12
+W3138458448,A point-based deep learning network for semantic segmentation of MLS point clouds,2021,0.04163659115308957,12
+W4376466999,FARP-Net: Local-Global Feature Aggregation and Relation-Aware Proposals for 3D Object Detection,2023,0.041059196505794766,12
+W4394984976,Context-based local-global fusion network for 3D point cloud classification and segmentation,2024,0.04094816563307788,12
+W3159695738,"M3DETR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers",2022,0.040897426860867274,12
+W3084505175,Multi-Scale Neighborhood Feature Extraction and Aggregation for Point Cloud Segmentation,2020,0.04064598965767268,12
+W4386065523,OcTr: Octree-Based Transformer for 3D Object Detection,2023,0.040124576621331974,12
+W3205005447,Improving 3D Object Detection with Channel-wise Transformer,2021,0.04005515996908226,12
+W4403809023,GPSFormer: A Global Perception and Local Structure Fitting-Based Transformer for Point Cloud Understanding,2024,0.03968102376808509,12
+W4394817488,A lightweight Transformer‐based neural network for large‐scale masonry arch bridge point cloud segmentation,2024,0.039199186004311826,12
+W4399563472,A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning,2024,0.03904583003439048,12
+W3195846826,Automated semantic segmentation of industrial point clouds using ResPointNet++,2021,0.03871458690612491,12
+W3203089644,Shape Self-Correction for Unsupervised Point Cloud Understanding,2021,0.038505586802296606,12
+W4312307873,Embracing Single Stride 3D Object Detector with Sparse Transformer,2022,0.03847557912616296,12
+W4380723689,Efficient 3D Semantic Segmentation with Superpoint Transformer,2023,0.03822144927573569,12
+W2997944991,JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds,2020,0.03785036575359037,12
+W4200629389,EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection,2022,0.03781534959770355,12
+W4317569045,A large-scale point cloud semantic segmentation network via local dual features and global correlations,2023,0.037765491454330884,12
+W4394625769,U3DS<sup>3</sup>: Unsupervised 3D Semantic Scene Segmentation,2024,0.037669951328717304,12
+W4390872957,Mask-Attention-Free Transformer for 3D Instance Segmentation,2023,0.037603502515013564,12
+W4386076221,Poly-PC: A Polyhedral Network for Multiple Point Cloud Tasks at Once,2023,0.03749420954569743,12
+W3035426492,Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds,2020,0.037169202873371984,12
+W3012143260,A Rotation-Invariant Framework for Deep Point Cloud Analysis,2021,0.0371026751684164,12
+W4387010603,Inter-Modal Masked Autoencoder for Self-Supervised Learning on Point Clouds,2023,0.03689681831796482,12
+W4313169553,An MIL-Derived Transformer for Weakly Supervised Point Cloud Segmentation,2022,0.03664236553879739,12
+W4313056955,Weakly Supervised 3D Scene Segmentation with Region-Level Boundary Awareness and Instance Discrimination,2022,0.03650518239731176,12
+W3205586691,Point Transformer,2021,0.0362965433370916,12
+W4313449037,Self-Supervised Point Cloud Understanding via Mask Transformer and Contrastive Learning,2022,0.036096272803612675,12
+W4410106375,GGF: Global Geometric Feature for Rotation-Invariant Point Cloud Understanding,2025,0.03608322055307316,12
+W4391235309,PointGL: A Simple Global-Local Framework for Efficient Point Cloud Analysis,2024,0.03530100315847296,12
+W3174926460,Boundary-Aware Geometric Encoding for Semantic Segmentation of Point Clouds,2021,0.03523403883137143,12
+W2991485494,Unsupervised Multi-Task Feature Learning on Point Clouds,2019,0.03503065328121928,12
+W2904332125,3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans,2019,0.03498148603371871,12
+W4313149358,Focal Sparse Convolutional Networks for 3D Object Detection,2022,0.034925744734090436,12
+W3191573718,SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer,2021,0.034900908385003704,12
+W4394744580,ExpPoint-MAE: Better Interpretability and Performance for Self-Supervised Point Cloud Transformers,2024,0.03461642565080523,12
+W3107212734,Pillar-Based Object Detection for Autonomous Driving,2020,0.034611840782713364,12
+W3153131045,DeepGCNs: Making GCNs Go as Deep as CNNs,2021,0.03451110427177615,12
+W4383109105,Mask3D: Mask Transformer for 3D Semantic Instance Segmentation,2023,0.034379717934221565,12
+W3205364888,FG-Conv: Large-Scale LiDAR Point Clouds Understanding Leveraging Feature Correlation Mining and Geometric-Aware Modeling,2021,0.03433886221984378,12
+W4386066365,DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets,2023,0.03433587886670003,12
+W3009750677,Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds From Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction,2019,0.03431204557107479,12
+W3206724875,TORNADO-Net: mulTiview tOtal vaRiatioN semAntic segmentation with Diamond inceptiOn module,2021,0.03405638874530822,12
+W2995932445,A Review of Deep Learning-Based Semantic Segmentation for Point Cloud,2019,0.03385656289776732,12
+W4398254563,Graph Transformer for 3d Point Clouds Classification and Semantic Segmentation,2024,0.03374010809048245,12
+W3168377947,Few-shot 3D Point Cloud Semantic Segmentation,2021,0.03362135406201356,12
+W2982319484,Rotation Invariant Convolutions for 3D Point Clouds Deep Learning,2019,0.033540290740936424,12
+W3109518641,GRNet: Gridding Residual Network for Dense Point Cloud Completion,2020,0.033515865979884,12
+W3178738710,Self-Contrastive Learning with Hard Negative Sampling for Self-supervised Point Cloud Learning,2021,0.03315769598583199,12
+W4393074218,Active self-training for weakly supervised 3D scene semantic segmentation,2024,0.033128483231382615,12
+W4312161045,Attention-enhanced sampling point cloud network (ASPCNet) for efficient 3D tunnel semantic segmentation,2022,0.032736031133913955,12
+W4312569019,Points to Patches: Enabling the Use of Self-Attention for 3D Shape Recognition,2022,0.0324747107350275,12
+W4390871713,UniTR: A Unified and Efficient Multi-Modal Transformer for Bird’s-Eye-View Representation,2023,0.032365076303060875,12
+W4312704718,FBNet: Feedback Network for Point Cloud Completion,2022,0.03222175835307818,12
+W4312437143,Point Density-Aware Voxels for LiDAR 3D Object Detection,2022,0.03188207696322864,12
+W4221162708,Sparse Cross-Scale Attention Network for Efficient LiDAR Panoptic Segmentation,2022,0.0314784578808993,12
+W3209035582,SA-Det3D: Self-Attention Based Context-Aware 3D Object Detection,2021,0.03145013583432313,12
+W2997188997,PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection,2019,0.031445614177002465,12
+W3034602892,Structure Aware Single-Stage 3D Object Detection From Point Cloud,2020,0.031432830396810246,12
+W4226344270,RBGNet: Ray-based Grouping for 3D Object Detection,2022,0.03133120734047393,12
+W4392543489,Image Understands Point Cloud: Weakly Supervised 3D Semantic Segmentation via Association Learning,2024,0.031242734674925606,12
+W4386075636,LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross- Modal Fusion,2023,0.03115193607426331,12
+W4390976733,A 3D Point Cloud Classification Method Based on Adaptive Graph Convolution and Global Attention,2024,0.03108847629690476,12
+W3107819843,3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-view Spatial Feature Fusion for 3D Object Detection,2020,0.030904029583671246,12
+W4390873184,Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models,2023,0.030718061266315162,12
+W4393965536,Boundary-aware dual edge convolution network for indoor point cloud semantic segmentation,2024,0.030636538670278445,12
+W3201719054,Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection,2021,0.030305192864133662,12
+W3034579518,A Hierarchical Graph Network for 3D Object Detection on Point Clouds,2020,0.030256137297701723,12
+W2976081675,Deep Learning on Point Clouds and Its Application: A Survey,2019,0.030220110959932545,12
+W4410421405,Boosting few-shot point cloud segmentation with intra-class correlation and iterative prototype fusion,2025,0.030184332997953763,12
+W4362606119,PointCMC: Cross-Modal Multi-Scale Correspondences Learning for Point Cloud Understanding,2023,0.029981700785759572,12
+W4390908074,Point-to-Pixel Prompting for Point Cloud Analysis With Pre-Trained Image Models,2024,0.029712460503234686,12
+W4393149778,Frozen CLIP Transformer Is an Efficient Point Cloud Encoder,2024,0.029706986264520577,12
+W4308211562,Dynamic graph transformer for 3D object detection,2022,0.029662368245931013,12
+W4406015577,Local-non-local complementary learning network for 3D point cloud analysis,2025,0.029260733485309182,12
+W4393356350,PointMM: Point Cloud Semantic Segmentation CNN under Multi-Spatial Feature Encoding and Multi-Head Attention Pooling,2024,0.02910788568041314,12
+W4402727566,Density-Guided Semi-Supervised 3D Semantic Segmentation with Dual-Space Hardness Sampling,2024,0.029097074893090817,12
+W2795014656,3DMV: Joint 3D-Multi-view Prediction for 3D Semantic Scene Segmentation,2018,0.029040626991227204,12
+W4386075722,3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds,2023,0.029038435216412965,12
+W3129559111,Domain Transfer for Semantic Segmentation of LiDAR Data using Deep Neural Networks,2020,0.02877287494342985,12
+W4386076308,Single Domain Generalization for LiDAR Semantic Segmentation,2023,0.028417063487177086,12
+W3162696321,SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation,2022,0.028403122414675276,12
+W3035748168,Joint 3D Instance Segmentation and Object Detection for Autonomous Driving,2020,0.028011372057872026,12
+W3094019236,Relation Graph Network for 3D Object Detection in Point Clouds,2020,0.027873872168403556,12
+W4312588336,Self-Distillation for Robust LiDAR Semantic Segmentation in Autonomous Driving,2022,0.027738477532605138,12
+W4285505472,Joint Semantic-Instance Segmentation Method for Intelligent Transportation System,2022,0.02753957104410403,12
+W4308148751,SAT-GCN: Self-attention graph convolutional network-based 3D object detection for autonomous driving,2022,0.027533195992024452,12
+W3035461736,PointPainting: Sequential Fusion for 3D Object Detection,2020,0.02741430096747106,12
+W4312950653,PTTR: Relational 3D Point Cloud Object Tracking with Transformer,2022,0.02723967031934142,12
+W4386075951,Temporal Consistent 3D LiDAR Representation Learning for Semantic Perception in Autonomous Driving,2023,0.02723022782138315,12
+W4386075863,PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models,2023,0.027201945518200068,12
+W4393147949,Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders,2024,0.02687304897580608,12
+W3130463448,CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection,2020,0.02674896794734409,12
+W4394625711,PointCT: Point Central Transformer Network for Weakly-supervised Point Cloud Semantic Segmentation,2024,0.02657531867906819,12
+W3039659384,Deep learning based point cloud registration: an overview,2020,0.026513689947932777,12
+W3034428269,MLCVNet: Multi-Level Context VoteNet for 3D Object Detection,2020,0.02632811161614676,12
+W4383108930,Slice Transformer and Self-supervised Learning for 6DoF Localization in 3D Point Cloud Maps,2023,0.026065265733166695,12
+W4367399975,GL-Net: Semantic segmentation for point clouds of shield tunnel via global feature learning and local feature discriminative aggregation,2023,0.02591903053384999,12
+W3171648433,Semantic segmentation of 3D indoor LiDAR point clouds through feature pyramid architecture search,2021,0.025898105202228072,12
+W4313400313,RM3D: Robust Data-Efficient 3D Scene Parsing via Traditional and Learnt 3D Descriptors-Based Semantic Region Merging,2022,0.02588970956351499,12
+W3035541121,View-GCN: View-Based Graph Convolutional Network for 3D Shape Analysis,2020,0.025867898306862185,12
+W4390817445,TSSTDet: Transformation-Based 3-D Object Detection via a Spatial Shape Transformer,2024,0.025847790478022825,12
+W4402727277,OneFormer3D: One Transformer for Unified Point Cloud Segmentation,2024,0.025568028585862646,12
+W3011970623,Point Cloud Semantic Segmentation Using a Deep Learning Framework for Cultural Heritage,2020,0.025493496424013457,12
+W4407736339,BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds,2025,0.02544188678591648,12
+W4392196767,Multimodal contrastive learning using point clouds and their rendered images,2024,0.025400006730573393,12
+W3034584726,PF-Net: Point Fractal Network for 3D Point Cloud Completion,2020,0.025052897319805555,12
+W3108012830,Detail Preserved Point Cloud Completion via Separated Feature Aggregation,2020,0.025003908402242616,12
+W3113317635,SPU-Net: Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction With Self-Projection Optimization,2022,0.024968410807826573,12
+W3035750252,xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation,2020,0.024908164816325486,12
+W4385804883,FUTR3D: A Unified Sensor Fusion Framework for 3D Detection,2023,0.02482071881823625,12
+W2995182785,3D Instance Segmentation via Multi-Task Metric Learning,2019,0.024816751683523017,12
+W4388811597,PartCom: Part Composition Learning for 3D Open-Set Recognition,2023,0.02445474866929748,12
+W2954174912,Pseudo-LiDAR From Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving,2019,0.024387592370685232,12
+W4406767225,Bi-Att3DDet: Attention-Based Bi-Directional Fusion for Multi-Modal 3D Object Detection,2025,0.023841738099721406,12
+W4312501532,CenterFormer: Center-Based Transformer for 3D Object Detection,2022,0.02381273163109782,12
+W4307339700,Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer,2022,0.023648754017798628,12
+W4285094936,Semantic segmentation of 3D LiDAR data using deep learning: a review of projection-based methods,2022,0.023568469177696012,12
+W4403390875,SwinURNet: Hybrid Transformer-CNN Architecture for Real-time Unstructured Road Segmentation,2024,0.023438920558621727,12
+W4388776207,POS-BERT: Point cloud one-stage BERT pre-training,2023,0.02326463606649833,12
+W4386072382,CXTrack: Improving 3D Point Cloud Tracking with Contextual Information,2023,0.02317348203556754,12
+W2986519585,LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis,2019,0.02315943748006978,12
+W4386075910,MSeg3D: Multi-Modal 3D Semantic Segmentation for Autonomous Driving,2023,0.02314598000895319,12
+W4311728943,A Survey on Deep-Learning-Based LiDAR 3D Object Detection for Autonomous Driving,2022,0.022945064643724346,12
+W4214812658,PointBA: Towards Backdoor Attacks in 3D Point Cloud,2021,0.022889132947814205,12
+W3206676377,LiDARNet: A Boundary-Aware Domain Adaptation Model for Point Cloud Semantic Segmentation,2021,0.02282278494299308,12
+W3173636389,Unsupervised 3D Learning for Shape Analysis via Multiresolution Instance Discrimination,2021,0.022804638987817514,12
+W3188283811,Transformer3D-Det: Improving 3D Object Detection by Vote Refinement,2021,0.022771293614621012,12
+W4408238587,Active Semi-Supervised 3d Semantic Segmentation for Sparsely Labeled Point Cloud,2025,0.022437619913740187,12
+W3189651322,Cascaded Refinement Network for Point Cloud Completion with Self-supervision,2021,0.022355626110962524,12
+W2890018557,SeqViews2SeqLabels: Learning 3D Global Features via Aggregating Sequential Views by RNN With Attention,2018,0.022349324407337726,12
+W3170953943,Subdivision-based Mesh Convolution Networks,2022,0.022269206452974543,12
+W4386065804,"BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration",2023,0.022265959998531946,12
+W3177276051,HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection,2021,0.02224838149649876,12
+W3120082156,MinkLoc3D: Point Cloud Based Large-Scale Place Recognition,2021,0.02216815859213392,12
+W2962941647,PPFNet: Global Context Aware Local Features for Robust 3D Point Matching,2018,0.02199297921156339,12
+W3108059345,Iterative Distance-Aware Similarity Matrix Convolution with Mutual-Supervised Point Elimination for Efficient Point Cloud Registration,2020,0.021907568419888883,12
+W3036737467,SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks,2020,0.02177752891115372,12
+W3035168834,IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning,2020,0.02163858554329141,12
+W4367663338,PANet: A Point-Attention Based Multi-Scale Feature Fusion Network for Point Cloud Registration,2023,0.021488561648094213,12
+W4390824585,Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation,2024,0.021360323170089315,12
+W2989599677,PointNGCNN: Deep convolutional networks on 3D point clouds with neighborhood graph filters,2019,0.021314061725662824,12
+W4313047263,DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation,2022,0.021187255305485212,12
+W2963120444,LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving,2019,0.021056422303322147,12
+W4386083014,AnchorFormer: Point Cloud Completion from Discriminative Nodes,2023,0.020892692534009234,12
+W4226098442,SASA: Semantics-Augmented Set Abstraction for Point-Based 3D Object Detection,2022,0.02030833774722646,12
+W4313183789,SeedFormer: Patch Seeds Based Point Cloud Completion with Upsample Transformer,2022,0.02025651491588254,12
+W4386065792,Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection,2023,0.02019360897943195,12
+W4242710771,Geometry-Aware Self-Training for Unsupervised Domain Adaptation on Object Point Clouds,2021,0.020110163461483293,12
+W4382457953,Superpoint Transformer for 3D Scene Instance Segmentation,2023,0.019743553712813024,12
+W4309122661,Sampling-attention deep learning network with transfer learning for large-scale urban point cloud semantic segmentation,2022,0.019689888311154143,12
+W4312649925,Language-Grounded Indoor 3D Semantic Segmentation in the Wild,2022,0.01966808977315603,12
+W4409498455,VPFormer: Leveraging Transformer with Voxel Integration for Viewport Prediction in Volumetric Video,2025,0.01958049453746536,12
+W3171377125,3D-MAN: 3D Multi-frame Attention Network for Object Detection,2021,0.019575227409211644,12
+W3207776935,A Benchmark for LiDAR-based Panoptic Segmentation based on KITTI,2021,0.01951957480771698,12
+W4386076224,Rotation-Invariant Transformer for Point Cloud Matching,2023,0.019435532482590834,12
+W4308067897,Unsupervised Point Cloud Pre-Training Via Contrasting and Clustering,2022,0.019250168244412832,12
+W3212953023,Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection From Point Clouds,2021,0.01921658693738646,12
+W4402951674,4D Contrastive Superflows are Dense 3D Representation Learners,2024,0.019080639277082298,12
+W4390872444,FocalFormer3D : Focusing on Hard Instance for 3D Object Detection,2023,0.019030405043713828,12
+W4221158735,PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths,2022,0.018912429606183674,12
+W4379931579,Point-LGMask: Local and Global Contexts Embedding for Point Cloud Pre-Training With Multi-Ratio Masking,2023,0.018819614519361032,12
+W3194700450,PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds,2021,0.01874808727741074,12
+W4226278712,Autoregressive 3D Shape Generation via Canonical Mapping,2022,0.018591073468751457,12
+W3172602550,FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration,2022,0.018505140342080655,12
+W3217335336,Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion,2022,0.01844311571338903,12
+W4386065846,GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts,2023,0.018208223247292595,12
+W4312731878,HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction,2022,0.0180781309054789,12
+W4312708188,GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation,2022,0.018068446495582154,12
+W4389776357,ACF-Net: Asymmetric Cascade Fusion for 3D Detection With LiDAR Point Clouds and Images,2023,0.017952031162199997,12
+W4327967895,FA-ResNet: Feature affine residual network for large-scale point cloud segmentation,2023,0.017926593795033873,12
+W4210368713,Refine-Net: Normal Refinement Neural Network for Noisy Point Clouds,2022,0.017826210002853,12
+W3104006012,Mesorasi: Architecture Support for Point Cloud Analytics via Delayed-Aggregation,2020,0.017625387196621004,12
+W3184736166,PU-GCN: Point Cloud Upsampling using Graph Convolutional Networks,2021,0.01750230626471235,12
+W4386113267,"OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation",2023,0.017446859762695204,12
+W4393149117,GridFormer: Point-Grid Transformer for Surface Reconstruction,2024,0.017419258255879443,12
+W4392940137,Generative Variational-Contrastive Learning for Self-Supervised Point Cloud Representation,2024,0.017369355991283766,12
+W4312516208,REGTR: End-to-end Point Cloud Correspondences with Transformers,2022,0.017199457616164048,12
+W3109462203,MeshWalker,2020,0.017093535961110132,12
+W3167684723,SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration,2021,0.01706885618993265,12
+W4362654659,Multi-Modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy,2023,0.01701988906153587,12
+W4394592999,2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation,2024,0.016908585879541905,12
+W3108426750,EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection,2020,0.016871822984035938,12
+W3119197669,SemanticPOSS: A Point Cloud Dataset with Large Quantity of Dynamic Instances,2020,0.01674287034889526,12
+W4313411609,PST: Plant segmentation transformer for 3D point clouds of rapeseed plants at the podding stage,2022,0.016720279975201868,12
+W4367281358,VP-Net: Voxels as Points for 3-D Object Detection,2023,0.016693981958114903,12
+W3152527861,SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds with 1000x Fewer Labels.,2021,0.016682895326678743,12
+W2785053089,Dynamic Graph CNN for Learning on Point Clouds,2018,0.016535750732750983,12
+W4399052822,Deep learning framework with Local Sparse Transformer for construction worker detection in 3D with LiDAR,2024,0.016532340923751516,12
+W3195577467,L3DOC: Lifelong 3D Object Classification,2021,0.015982160562157496,12
+W4390872346,GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection,2023,0.015882093346685937,12
+W4285102223,Retriever: Point Cloud Retrieval in Compressed 3D Maps,2022,0.01581347341291428,12
+W2963926543,Occupancy Networks: Learning 3D Reconstruction in Function Space,2019,0.01568523613059575,12
+W4313036632,ShapeFormer: Transformer-based Shape Completion via Sparse Representation,2022,0.015620103946604886,12
+W3131242954,Deep Compression for Dense Point Cloud Maps,2021,0.015561595355284513,12
+W4406379239,Generalized Robotic Vision-Language Learning Model via Linguistic Foreground-Aware Contrast,2025,0.015466315286629454,12
+W4392805955,Omni-Scan2BIM: A ready-to-use Scan2BIM approach based on vision foundation models for MEP scenes,2024,0.015458084077768715,12
+W4385975752,GraphAlign++: An Accurate Feature Alignment by Graph Matching for Multi-Modal 3D Object Detection,2023,0.015262643069239733,12
+W3179923621,FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation,2021,0.015259082964838444,12
+W4387449245,Probabilistic Boundary-Guided Point Cloud Primitive Segmentation Network,2023,0.015193542304252718,12
+W4386065568,FAC: 3D Representation Learning via Foreground Aware Feature Contrast,2023,0.015127111229583065,12
+W2962922818,Leveraging Shape Completion for 3D Siamese Tracking,2019,0.014953256495666839,12
+W4206778101,SegContrast: 3D Point Cloud Feature Representation Learning Through Self-Supervised Segment Discrimination,2022,0.014947868854701327,12
+W4390480812,Occlusion-Robust Pallet Pose Estimation for Warehouse Automation,2024,0.014911084976281042,12
+W3180312551,Scan2BIM-NET: Deep Learning Method for Segmentation of Point Clouds for Scan-to-BIM,2021,0.014883777826284892,12
+W3034236957,HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection,2020,0.014881819406360937,12
+W4306403150,Deep Learning for LiDAR Point Cloud Classification in Remote Sensing,2022,0.014870945317370996,12
+W4389820057,CFSA-Net: Efficient Large-Scale Point Cloud Semantic Segmentation Based on Cross-Fusion Self-Attention,2023,0.01471889678782761,12
+W4382469124,CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer,2023,0.014665700295842172,12
+W4380079737,Self-Supervised Intra-Modal and Cross-Modal Contrastive Learning for Point Cloud Understanding,2023,0.014657722511799073,12
+W4312562010,LIFT: Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection,2022,0.014203366624645414,12
+W4386075938,Generalizable Local Feature Pre-training for Deformable Shape Analysis,2023,0.01411693465398864,12
+W4321020868,RoReg: Pairwise Point Cloud Registration With Oriented Descriptors and Local Rotations,2023,0.014091867173838483,12
+W2962887844,Target-driven visual navigation in indoor scenes using deep reinforcement learning,2017,0.014082629443916484,12
+W4313148639,Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training,2022,0.01408049240130708,12
+W3198741602,A Transfer Learning-Based Multi-Fidelity Point-Cloud Neural Network Approach for Melt Pool Modeling in Additive Manufacturing,2021,0.01396658978882252,12
+W4408624624,MPVF: Multi-Modal 3D Object Detection Algorithm with Pointwise and Voxelwise Fusion,2025,0.013777664826495402,12
+W3176751833,Equivariant Point Network for 3D Point Cloud Analysis,2021,0.013689904692746408,12
+W4390874055,Density-invariant Features for Distant Point Cloud Registration,2023,0.013649581243612888,12
+W4389988234,Interpreting Hidden Semantics in the Intermediate Layers of 3D Point Cloud Classification Neural Network,2023,0.013266240076914002,12
+W3208501016,Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds,2021,0.013260484063123204,12
+W4390748068,Deep learning-based fusion networks with high-order attention mechanism for 3D object detection in autonomous driving scenarios,2024,0.012844514572263495,12
+W3163945288,FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism,2021,0.012637241839505289,12
+W3097606838,DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization,2020,0.012586121941724105,12
+W4226373316,Geometric Transformer for Fast and Robust Point Cloud Registration,2022,0.012280777097383724,12
+W4382364303,Stereoscopic scalable quantum convolutional neural networks,2023,0.012261499140095762,12
+W3090789587,SpAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting from Sensor Data,2020,0.012138385335127667,12
+W2953941229,Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction,2019,0.012050109129000012,12
+W3133797311,OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration,2021,0.011981587822004942,12
+W4408987436,VoxT-GNN: A 3D object detection approach from point cloud based on voxel-level transformer and graph neural network,2025,0.01197260551439302,12
+W4391709742,Learning Self-Prior for Mesh Inpainting Using Self-Supervised Graph Convolutional Networks,2024,0.01196030866509347,12
+W4391540516,Deep learning-based tooth segmentation methods in medical imaging: A review,2024,0.011729178467555855,12
+W4394994942,Fully Sparse Fusion for 3D Object Detection,2024,0.011549895896801547,12
+W4313024968,MPPNet: Multi-frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection,2022,0.011354988108149286,12
+W3034722190,VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation,2020,0.011079512971439642,12
+W3114323021,Survey of State-of-Art Autonomous Driving Technologies with Deep Learning,2020,0.011042486815031557,12
+W4391595044,HVDistill: Transferring Knowledge from Images to Point Clouds via Unsupervised Hybrid-View Distillation,2024,0.011018167679540272,12
+W4386076564,Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process,2023,0.010985490933320864,12
+W4402753761,Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers,2024,0.010915702003025126,12
+W4394015779,Semantic segmentation of large-scale point clouds by integrating attention mechanisms and transformer models,2024,0.01086045550526584,12
+W4394593003,Top-Down Beats Bottom-Up in 3D Instance Segmentation,2024,0.010734455512248983,12
+W4318833281,PA3DNet: 3-D Vehicle Detection With Pseudo Shape Segmentation and Adaptive Camera-LiDAR Fusion,2023,0.010584926209536738,12
+W4312953085,Deformable Feature Aggregation for Dynamic Multi-modal 3D Object Detection,2022,0.010560804178519304,12
+W4386066301,Robust Outlier Rejection for 3D Registration with Variational Bayes,2023,0.010524227898522562,12
+W2981084009,Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting from Sensor Data,2019,0.010336193906316281,12
+W4205588343,Contrastive Instance Association for 4D Panoptic Segmentation Using Sequences of 3D LiDAR Scans,2022,0.010295671571963533,12
+W2963759562,Rules of the Road: Predicting Driving Behavior With a Convolutional Model of Semantic Interactions,2019,0.010196819520504467,12
+W4408764841,$$\hbox {C}^2$$DFL: cross-view cross-layer discriminative feature learning for fine-grained 3D shape classification,2025,0.010102791515877617,12
+W3035030518,Deep Global Registration,2020,0.009887950407836243,12
+W4285147600,OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition,2022,0.009817391796683223,12
+W4400235858,Coarse to fine-based image–point cloud fusion network for 3D object detection,2024,0.009749158430810145,12
+W4409069990,MDFusion: Multi-Dimension Semantic–Spatial Feature Fusion for LiDAR–Camera 3D Object Detection,2025,0.009749045964370802,12
+W3216353509,Lepard: Learning partial point cloud matching in rigid and deformable scenes,2022,0.009452716991661964,12
+W2973014570,Deep Geometric Prior for Surface Reconstruction,2019,0.0093645382914948,12
+W4312804128,LTP: Lane-based Trajectory Prediction for Autonomous Driving,2022,0.00931795302730983,12
+W4392746833,3D object recognition using deep learning for automatically generating semantic BIM data,2024,0.009275882214692643,12
+W3005922524,Differentiable Graph Module (DGM) for Graph Convolutional Networks,2022,0.009193457045804465,12
+W3149485574,PTP: Parallelized Tracking and Prediction With Graph Neural Networks and Diversity Sampling,2021,0.00919060830844467,12
+W2968257580,DeepVoxels: Learning Persistent 3D Feature Embeddings,2019,0.00904406240793834,12
+W4410409096,S-FusionNet: A Multi-Modal Semi-Fusion 3D Object Detection Network,2025,0.008968820815083548,12
+W4396830596,SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval,2024,0.008956078649608807,12
+W4386280904,Cosine Mixup: A Mixup Strategy for Point Cloud Contrastive Representation Learning,2023,0.00866119826079481,12
+W4406028217,ADG-Net: A Sim2Real Multimodal Learning Framework for Adaptive Dexterous Grasping,2025,0.00855605013055452,12
+W2900724751,Scan2Mesh: From Unstructured Range Scans to 3D Meshes,2019,0.00855605013055452,12
+W4402754178,OmniVec2 - A Novel Transformer Based Network for Large Scale Multimodal and Multitask Learning,2024,0.008145021759988519,12
+W3194916214,PR-GCN: A Deep Graph Convolutional Network with Point Refinement for 6D Pose Estimation,2021,0.008080522712384644,12
+W4296414148,SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence,2022,0.007575350097481085,12
+W4407353781,3D pedestrian detection based on hybrid multi-scale cascade fusion network,2025,0.00747417202253325,12
+W4383103607,A graph empowered insider threat detection framework based on daily activities,2023,0.0074141414181674485,12
+W4390872355,Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation,2023,0.007411339057008996,12
+W3164083741,SuMa++: Efficient LiDAR-based Semantic SLAM,2019,0.007244003704928108,12
+W4407054264,PEVA-Net: Prompt-enhanced view aggregation network for zero/few-shot multi-view 3D shape recognition,2025,0.007193860477857712,12
+W4310591442,Sparse Tensor-Based Multiscale Representation for Point Cloud Geometry Compression,2022,0.006972105629181064,12
+W4292347911,TransFuser: Imitation With Transformer-Based Sensor Fusion for Autonomous Driving,2022,0.006900055725105006,12
+W3114753236,"Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net",2018,0.006684271971431993,12
+W4386596856,TR3D: Towards Real-Time Indoor 3D Object Detection,2023,0.006461049936364279,12
+W4390492478,Instance-Aware Monocular 3D Semantic Scene Completion,2024,0.00633898985533084,12
+W3128486562,Tra2Tra: Trajectory-to-Trajectory Prediction With a Global Social Spatial-Temporal Attentive Neural Network,2021,0.006176272122554319,12
+W3198923361,PQ-Transformer: Jointly Parsing 3D Objects and Layouts From Point Clouds,2022,0.006087374555483846,12
+W4390788068,MTR++: Multi-Agent Motion Prediction With Symmetric Scene Modeling and Guided Intention Querying,2024,0.006023659228818906,12
+W3161855852,Moving Object Segmentation in 3D LiDAR Data: A Learning-Based Approach Exploiting Sequential Data,2021,0.005690975765979154,12
+W2944579304,What Do Single-View 3D Reconstruction Networks Learn?,2019,0.0055682763215222095,12
+W3170984066,M3DSSD: Monocular 3D Single Stage Object Detector,2021,0.005528833529433993,12
+W4408469701,Integrating frequency limitation and feature refinement for robust 3D Gaussian segmentation,2025,0.005083840612296999,12
+W4384562436,YOLOPose V2: Understanding and improving transformer-based 6D pose estimation,2023,0.004870620567798841,12
+W3176319743,Objects are Different: Flexible Monocular 3D Object Detection,2021,0.004867374171316519,12
+W3215926197,Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations,2022,0.004765166303248742,12
+W4312893480,Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction,2022,0.004673455168833937,12
+W3109585842,NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis,2020,0.0044860455295075655,12
+W4385574728,Multi-Sensor Fusion and Cooperative Perception for Autonomous Driving: A Review,2023,0.004364350401781216,12
+W2424778531,Social LSTM: Human Trajectory Prediction in Crowded Spaces,2016,0.004325792073625059,12
+W3036843665,Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains,2020,0.003921268866571697,12
+W4390874213,Cross Modal Transformer: Towards Fast and Robust 3D Object Detection,2023,0.003709996566491436,12
+W4386076591,PEAL: Prior-embedded Explicit Attention Learning for Low-overlap Point Cloud Registration,2023,0.0036150881676945503,12
+W3201095209,Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering,2021,0.003536942975327877,12
+W4408399518,PillarFocusNet for 3D object detection with perceptual diffusion and key feature understanding,2025,0.0033379604132598587,12
+W2999947750,M3D-RPN: Monocular 3D Region Proposal Network for Object Detection,2019,0.003296327282967107,12
+W2798930779,"Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net",2020,0.003190271558109436,12
+W3034917353,PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes,2020,0.0031083040311054985,12
+W4409430117,Self-supervised Transformer for 3D point clouds completion and morphology evaluation of granular particle,2025,0.0030720512888808183,12
+W3035096461,Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction,2020,0.0030482627880157455,12
+W4312989058,Optimization over Disentangled Encoding: Unsupervised Cross-Domain Point Cloud Completion via Occlusion Factor Manipulation,2022,0.00291999510348873,12
+W3156976925,A survey of LiDAR and camera fusion enhancement,2021,0.002838019584868638,12
+W4390872573,RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration,2023,0.0028136859631672285,12
+W2967177252,Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks,2019,0.0027049594907099,12
+W2607296803,DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents,2017,0.0026600649532917534,12
+W3132535424,End-to-end Contextual Perception and Prediction with Interaction Transformer,2020,0.002627587484452076,12
+W3169575318,Multimodal Motion Prediction with Stacked Transformers,2021,0.002324062105926774,12
+W3099201369,Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images,2020,0.0022849316002652516,12
+W3176368002,pixelNeRF: Neural Radiance Fields from One or Few Images,2021,0.002127413232405462,12
+W4409730967,An Improved Multi-Modal Fusion 3D Object Detection Algorithm Based on Point Density,2025,0.00210241409392602,12
+W4205490894,RePCD-Net: Feature-Aware Recurrent Point Cloud Denoising Network,2022,0.0020623776381063007,12
+W3035046407,Learning Unsupervised Hierarchical Part Decomposition of 3D Objects From a Single RGB Image,2020,0.001983692010488066,12
+W4408977440,Trajectory Prediction Model of Electric Vehicle Autonomous Driving Based on Hybrid Attention Transformer Network,2025,0.0019553103075543553,12
+W4362714502,Vehicle Trajectory Prediction Method Driven by Raw Sensing Data for Intelligent Vehicles,2023,0.001895663438786626,12
+W4379743268,Artificial intelligence of things (<scp>AIoT</scp>) data acquisition based on graph neural networks: A systematical review,2023,0.0018880162056764663,12
+W4407820415,Mapping Carbon Stock and Growth of Individual Street Trees Using Lidar-Camera Fusion-Based Mobile Mapping System,2025,0.0018767151905927512,12
+W4387245323,LXL: LiDAR Excluded Lean 3D Object Detection With 4D Imaging Radar and Camera Fusion,2023,0.0018691647993147138,12
+W3160050461,Transformer Networks for Trajectory Forecasting,2021,0.001856884566869153,12
+W4320060387,Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks,2022,0.0018302463220784065,12
+W2964341242,CSGNet: Neural Shape Parser for Constructive Solid Geometry,2018,0.0017096701318188134,12
+W3105863736,Pix2Vox: Context-Aware 3D Reconstruction From Single and Multi-View Images,2019,0.0017095173043221038,12
+W4385221361,HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding,2023,0.0017086020608383457,12
+W3210613940,In-Place Scene Labelling and Understanding with Implicit Scene Representation,2021,0.001658613360324586,12
+W3139491754,AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting,2021,0.001627524560096597,12
+W2963527880,CubeNet: Equivariance to 3D Rotation and Translation,2018,0.001559790528442742,12
+W4313590738,Lane Transformer: A High-Efficiency Trajectory Prediction Model,2023,0.0014676744088900676,12
+W4392505162,Hierarchical vector transformer vehicle trajectories prediction with diffusion convolutional neural networks,2024,0.001384397737279261,12
+W4409652298,DCSTNet: A Dual‐Channel Spatio‐Temporal Information Fusion Network for Map‐Free Vehicle Trajectory Prediction,2025,0.0013834304812866448,12
+W3123730522,LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving,2021,0.0013617434559549519,12
+W4308480154,IMFNet: Interpretable Multimodal Fusion for Point Cloud Registration,2022,0.0013389002503453045,12
+W4308146710,ST‐SIGMA: Spatio‐temporal semantics and interaction graph aggregation for multi‐agent perception and trajectory forecasting,2022,0.0012894429426746608,12
+W4390871698,GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving,2023,0.001243975915002581,12
+W4376464702,Real-Time Heterogeneous Road-Agents Trajectory Prediction Using Hierarchical Convolutional Networks and Multi-Task Learning,2023,0.0012236680255543978,12
+W4312325284,Plenoxels: Radiance Fields without Neural Networks,2022,0.001222619362397633,12
+W4312809144,"ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning",2022,0.0011737084081099587,12
+W3199048838,Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving,2022,0.0011541186465227487,12
+W3202995573,Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis,2021,0.0011314268696558008,12
+W4321020006,Point cloud registration for LiDAR and photogrammetric data: A critical synthesis and performance analysis on classic and deep learning algorithms,2023,0.0010918734607957311,12
+W4390492375,A Multi-Task Learning Network With a Collision-Aware Graph Transformer for Traffic-Agents Trajectory Prediction,2024,0.001074308008530968,12
+W3176179930,GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields,2021,0.0010498666525126559,12
+W4391697055,Graspability-Aware Object Pose Estimation in Cluttered Scenes,2024,0.0010457894254338317,12
+W3042505632,SimAug: Learning Robust Representations from Simulation for Trajectory Prediction,2020,0.0010371062861190634,12
+W4319300261,Vision Transformer for NeRF-Based View Synthesis from a Single Input Image,2023,0.001035878071874225,12
+W3097237405,Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction,2020,0.001021875972046132,12
+W4313196423,Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations,2022,0.0009813003418284183,12
+W4408134320,MSCFusion: Multi-Sensor Cooperative Fusion 3D Object Detection Based on Bird’s-Eye View,2025,0.0009693297442164843,12
+W4408286873,Fast Multimodal Trajectory Prediction for Vehicles Based on Multimodal Information Fusion,2025,0.0009513203726734318,12
+W4386432277,MacFormer: Map-Agent Coupled Transformer for Real-Time and Robust Trajectory Prediction,2023,0.0009391745609881434,12
+W4406856912,Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network,2025,0.0008850569092591525,12
+W4312265233,Adaptive Trajectory Prediction via Transferable GNN,2022,0.0008830371860878699,12
+W4390873675,SHERF: Generalizable Human NeRF from a Single Image,2023,0.0008803613901684445,12
+W4323338412,Dual Transformer Based Prediction for Lane Change Intentions and Trajectories in Mixed Traffic Environment,2023,0.0008687505257007766,12
+W4303426745,Graph Neural Networks in IoT: A Survey,2022,0.000858003076735648,12
+W4409578551,Trajectory prediction via proposal guided transformer with out way attention,2025,0.0008562279839865606,12
+W4390873915,Generative Novel View Synthesis with 3D-Aware Diffusion Models,2023,0.000839829440941375,12
+W4285102480,CRAT-Pred: Vehicle Trajectory Prediction with Crystal Graph Convolutional Neural Networks and Multi-Head Self-Attention,2022,0.0008188488431725754,12
+W4386075659,Interactive Segmentation of Radiance Fields,2023,0.0008002052664615987,12
+W4402727597,SNI-SLAM: Semantic Neural Implicit SLAM,2024,0.0007750788119646818,12
+W4386076275,3D Neural Field Generation Using Triplane Diffusion,2023,0.0007407330180559154,12
+W3037376004,Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs,2020,0.0007262753046691432,12
+W4402716032,Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields,2024,0.0007110278836430951,12
+W3215121054,FENeRF: Face Editing in Neural Radiance Fields,2022,0.0007107834372442863,12
+W3204682594,Aligning Latent and Image Spaces to Connect the Unconnectable,2021,0.0006996439503383912,12
+W4391309499,"Machine learning for autonomous vehicle's trajectory prediction: A comprehensive survey, challenges, and future research directions",2024,0.000664503248165951,12
+W4312955971,Generalizable Patch-Based Neural Rendering,2022,0.0006342373973010738,12
+W4409741639,MSIE-Transformer: A novel driving behavior modeling approach for virtual simulation test environment,2025,0.0006332195806575845,12
+W4407103413,Mode recognition in a kerosene-fueled scramjet combustor by a Swin Transformer neural network,2025,0.0006219199015076233,12
+W3009254297,3D Object Recognition and Pose Estimation From Point Cloud Using Stably Observed Point Pair Feature,2020,0.0006120038000175083,12
+W4214748949,Dynamic View Synthesis from Dynamic Monocular Video,2021,0.0005915367454652768,12
+W3035524985,SynSin: End-to-End View Synthesis From a Single Image,2020,0.0005753271386007762,12
+W4407338768,Enhanced Location Prediction for Wargaming with Graph Neural Networks and Transformers,2025,0.0005483539047055187,12
+W4402698361,T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-Specific Token Memory,2024,0.0005424865313876422,12
+W4386076483,UniSim: A Neural Closed-Loop Sensor Simulator,2023,0.0005409631805543886,12
+W3136999308,AST-GNN: An attention-based spatio-temporal graph neural network for Interaction-aware pedestrian trajectory prediction,2021,0.0005244975700621126,12
+W4402754301,RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D,2024,0.0005176432179815414,12
+W4394939088,Attention-Aware Social Graph Transformer Networks for Stochastic Trajectory Prediction,2024,0.0004971204722298594,12
+W4408076713,Multimodal Fusion via Voting Network for 3D Object Detection in Indoors,2025,0.0004736164519293387,12
+W4395009736,Transformer based composite network for autonomous driving trajectory prediction on multi-lane highways,2024,0.0004650117710975313,12
+W4313186696,Social-SSL: Self-supervised Cross-Sequence Representation Learning Based on Transformers for Multi-agent Trajectory Prediction,2022,0.00044767120629118755,12
+W4285307478,Intention-Aware Vehicle Trajectory Prediction Based on Spatial-Temporal Dynamic Attention Network for Internet of Vehicles,2022,0.0004459986951321905,12
+W4312493401,Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks,2022,0.00043647675122837886,12
+W4386075774,Learning Locally Editable Virtual Humans,2023,0.00043647675122837886,12
+W4285244183,Trajectory Prediction for Autonomous Driving Using Spatial-Temporal Graph Attention Transformer,2022,0.0004323170416402781,12
+W4400461351,Multidimensional graph transformer networks for trajectory prediction in urban road intersections,2024,0.00041893162360535165,12
+W4317385013,Safety-Compliant Generative Adversarial Networks for Human Trajectory Forecasting,2023,0.00038390223888950197,12
+W3003834424,INFER: INtermediate representations for FuturE pRediction,2019,0.0003813041276254857,12
+W4385517014,Multimodal Manoeuvre and Trajectory Prediction for Automated Driving on Highways Using Transformer Networks,2023,0.0003773965415277644,12
+W4316660993,Long-Short Term Spatio-Temporal Aggregation for Trajectory Prediction,2023,0.00036650520213412106,12
+W4386065570,DINER: Depth-aware Image-based NEural Radiance fields,2023,0.000334284746299832,12
+W4386065515,FreeNeRF: Improving Few-Shot Neural Rendering with Free Frequency Regularization,2023,0.00032463682231371116,12
+W4385657669,A physics-informed Transformer model for vehicle trajectory prediction on highways,2023,0.0003225592256675855,12
+W4285600491,Kernelized convolutional transformer network based driver behavior estimation for conflict resolution at unsignalized roundabout,2022,0.00030890652913292016,12
+W4386076259,Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars,2023,0.0003070245349263671,12
+W3209988186,Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information,2021,0.0003037987911845775,12
+W4386066388,RODIN: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion,2023,0.00030094190974329853,12
+W4283264004,Spatial-Temporal Attentive LSTM for Vehicle-Trajectory Prediction,2022,0.00030022635207211377,12
+W4390872109,Trajectory Unified Transformer for Pedestrian Trajectory Prediction,2023,0.000294020948538415,12
+W2963914175,An LSTM network for highway trajectory prediction,2017,0.0002868752184063632,12
+W4205342285,SIT: A Spatial Interaction-Aware Transformer-Based Model for Freeway Trajectory Prediction,2022,0.00027553458251963265,12
+W4285740942,Vehicle Trajectory Prediction Based on Intention-Aware Non-Autoregressive Transformer With Multi-Attention Learning for Internet of Vehicles,2022,0.0002663579950387336,12
+W2799059904,Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction,2018,0.0002578569703883231,12
+W4385326851,ForceFormer: Exploring Social Force and Transformer for Pedestrian Trajectory Prediction,2023,0.00025294773318005427,12
+W4407393168,SocialTrans：Transformer Based Social Intentions Interaction for Pedestrian Trajectory Prediction,2025,0.00024947818258894003,12
+W4323567413,Context‐aware trajectory prediction for autonomous driving in heterogeneous environments,2023,0.0002473183388729105,12
+W4289812631,Structural Transformer Improves Speed-Accuracy Trade-Off in Interactive Trajectory Prediction of Multiple Surrounding Vehicles,2022,0.0002469952518088618,12
+W4327808993,Improving Multi-Agent Trajectory Prediction Using Traffic States on Interactive Driving Scenarios,2023,0.00023968659323252676,12
+W4386066131,Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion,2023,0.00023968659323252676,12
+W3217184254,GeoNeRF: Generalizing NeRF with Geometry Priors,2022,0.0002370474302032366,12
+W4400016719,A two-stage framework for parking search behavior prediction through adversarial inverse reinforcement learning and transformer,2024,0.000236719017850431,12
+W4386066489,ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields,2023,0.00023496634736078987,12
+W4312238725,Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields,2022,0.00022852653428836203,12
+W3106199031,Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network,2020,0.00021827293810732873,12
+W2996287921,Personalized Vehicle Trajectory Prediction Based on Joint Time-Series Modeling for Connected Vehicles,2019,0.00021499922315041512,12
+W3176850665,A Hierarchical Framework for Interactive Behaviour Prediction of Heterogeneous Traffic Participants Based on Graph Neural Network,2021,0.0002131825013590035,12
+W2891058410,Convolutional Neural Network for Trajectory Prediction,2019,0.00021051389128567554,12
+W4392033237,Vessel trajectory prediction based on spatio-temporal graph convolutional network for complex and crowded sea areas,2024,0.00020519955725185183,12
+W3207826836,MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square,2021,0.00020158059315701963,12
+W4386075614,"K-Planes: Explicit Radiance Fields in Space, Time, and Appearance",2023,0.00019620180251940137,12
+W4313582463,MALS-Net: A Multi-Head Attention-Based LSTM Sequence-to-Sequence Network for Socio-Temporal Interaction Modelling and Trajectory Prediction,2023,0.00018555729202735858,12
+W4407307143,Vehicle Trajectory Prediction Algorithm Based on Hybrid Prediction Model with Multiple Influencing Factors,2025,0.0001855368148265465,12
+W4280608862,Vision and Trajectory–Based Dynamic Collision Prewarning Mechanism for Tower Cranes,2022,0.00018002973967147837,12
+W4281711047,A temporal fusion transformer for short-term freeway traffic speed multistep prediction,2022,0.00014751675570966055,12
+W4402727792,ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Image,2024,0.00014326952641897955,12
+W3012055358,Pedestrian Trajectory Prediction Based on Deep Convolutional LSTM Network,2020,0.00013317513994619035,12
+W3128389553,Toward Safe and Smart Mobility: Energy-Aware Deep Learning for Driving Behavior Analysis and Prediction of Connected Vehicles,2021,0.0001315212126892775,12
+W4287734800,GA-STT: Human Trajectory Prediction With Group Aware Spatial-Temporal Transformer,2022,0.00012846354950739035,12
+W3193995421,Pedestrian trajectory prediction with convolutional neural networks,2021,0.00012739796780168437,12
+W2990210508,Dynamic State Estimation for the Advanced Brake System of Electric Vehicles by Using Deep Recurrent Neural Networks,2019,0.00012635766632526405,12
+W4392909913,Text2Avatar: Text to 3d Human Avatar Generation with Codebook-Driven Body Controllable Attribute,2024,0.00012483424299635965,12
+W3009584831,Social and Scene-Aware Trajectory Prediction in Crowded Spaces,2019,0.00012391996560977872,12
+W3199132857,Environment-Attention Network for Vehicle Trajectory Prediction,2021,0.0001216753901318826,12
+W3118566922,Attention-based parallel networks (APNet) for PM2.5 spatiotemporal prediction,2021,0.00012037483242617814,12
+W4407941494,Human and environmental feature-driven neural network for path-constrained robot navigation using deep reinforcement learning,2025,0.00012037483242617814,12
+W4213069740,A Novel Multimodal Vehicle Path Prediction Method Based on Temporal Convolutional Networks,2022,0.00011736641527989448,12
+W3129932917,Multiple Trajectory Prediction with Deep Temporal and Spatial Convolutional Neural Networks,2020,0.00011654913048449287,12
+W3199720294,Early Lane Change Prediction for Automated Driving Systems Using Multi-Task Attention-Based Convolutional Neural Networks,2022,0.00010994837054460012,12
+W4391669221,Discovering interpretable elastoplasticity models via the neural polynomial method enabled symbolic regressions,2024,0.00010920263170071207,12
+W4382318725,EINNs: Epidemiologically-Informed Neural Networks,2023,0.00010911807009622847,12
+W4205214482,End-to-End Pedestrian Trajectory Forecasting with Transformer Network,2022,0.0001074936259644637,12
+W4392651794,Predicting vehicle trajectory of non-lane based driving behaviour with Temporal Fusion Transformer,2024,9.423707297950269e-05,12
+W4382203254,Learning Dynamic Graph for Overtaking Strategy in Autonomous Driving,2023,8.482472482567412e-05,12
+W4386076168,SUDS: Scalable Urban Dynamic Scenes,2023,7.96978342872664e-05,12
+W4392808188,G-Trans: A hierarchical approach to vessel trajectory prediction with GRU-based transformer,2024,6.467222228610622e-05,12
+W4408153159,Modeling residual dynamics of helicopters based on temporal-spatial Transformer and low-rank compression,2025,5.167196313814697e-05,12
+W4401798154,Knowledge and data fusion-driven dynamical modeling approach for structures with hysteresis-affected uncertain boundaries,2024,5.167196313814697e-05,12
+W4402722906,A Unified Approach for Text-and Image-Guided 4D Scene Generation,2024,3.94818699241001e-05,12
+W3088934411,Transformer-Based Capsule Network For Stock Movement Prediction,2019,2.8435982775362265e-05,12
+W4410068141,Poster Abstract: Graph Learning on Cyber-Physical Knowledge Graphs,2025,2.387585321377947e-05,12
+W4393154693,IT3D: Improved Text-to-3D Generation with Explicit View Synthesis,2024,1.4404579452855635e-05,12
+W4389266945,Social Interaction‐Aware Dynamical Models and Decision‐Making for Autonomous Vehicles,2023,7.175446501389395e-06,12
+W4391945358,Spatial linear transformer and temporal convolution network for traffic flow prediction,2024,4.104983421848504e-06,12
+W3036548566,Discovering Symbolic Models from Deep Learning with Inductive Biases,2020,3.0388072907191704e-06,12

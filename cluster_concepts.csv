@@ -1,0 +1,8098 @@
+cluster_id,concept,count
+15,computer science,1722
+15,artificial intelligence,1595
+15,machine learning,984
+15,engineering,639
+15,artificial neural network,574
+15,transformer,552
+15,voltage,520
+15,convolutional neural network,514
+15,pattern recognition (psychology),498
+15,deep learning,491
+1,computer science,2938
+1,artificial intelligence,2814
+1,natural language processing,2529
+1,philosophy,1386
+1,linguistics,1360
+1,machine translation,1231
+1,chemistry,948
+1,biochemistry,914
+1,translation (biology),811
+1,messenger rna,804
+2,computer science,6509
+2,artificial intelligence,5998
+2,natural language processing,4986
+2,philosophy,2424
+2,linguistics,2305
+2,machine learning,2204
+2,mathematics,1733
+2,programming language,1593
+2,task (project management),1477
+2,information retrieval,1351
+3,computer science,7845
+3,artificial intelligence,7741
+3,pattern recognition (psychology),5641
+3,feature (linguistics),5052
+3,computer vision,3523
+3,philosophy,3433
+3,linguistics,3356
+3,convolutional neural network,3002
+3,machine learning,2603
+3,mathematics,2441
+25,computer science,491
+25,linguistics,463
+25,psychology,462
+25,philosophy,422
+25,mathematics education,276
+25,artificial intelligence,248
+25,sociology,183
+25,political science,173
+25,pedagogy,157
+25,natural language processing,147
+351,computer science,1877
+351,artificial intelligence,1800
+351,machine learning,995
+351,natural language processing,870
+351,feature (linguistics),728
+351,philosophy,702
+351,pattern recognition (psychology),689
+351,linguistics,657
+351,feature learning,586
+351,mathematics,477
+6,computer science,2708
+6,artificial intelligence,2442
+6,natural language processing,2088
+6,automatic summarization,1054
+6,philosophy,980
+6,information retrieval,880
+6,linguistics,862
+6,mathematics,702
+6,machine learning,643
+6,task (project management),602
+7,computer science,1709
+7,artificial intelligence,1551
+7,speech recognition,1526
+7,natural language processing,673
+7,physics,451
+7,philosophy,407
+7,linguistics,384
+7,mathematics,379
+7,pattern recognition (psychology),362
+7,artificial neural network,335
+20,computer science,912
+20,artificial intelligence,821
+20,programming language,648
+20,natural language processing,638
+20,code (set theory),513
+20,set (abstract data type),287
+20,source code,257
+20,machine learning,248
+20,information retrieval,225
+20,mathematics,208
+9,computer science,2443
+9,artificial intelligence,2180
+9,natural language processing,1846
+9,machine learning,832
+9,philosophy,731
+9,task (project management),729
+9,information retrieval,696
+9,data mining,675
+9,management,662
+9,relationship extraction,660
+10,computer science,3978
+10,artificial intelligence,3733
+10,sentiment analysis,2815
+10,natural language processing,2510
+10,machine learning,1737
+10,philosophy,1341
+10,linguistics,1334
+10,world wide web,815
+10,mathematics,814
+10,feature (linguistics),786
+11,computer science,3095
+11,artificial intelligence,3028
+11,natural language processing,1975
+11,image (mathematics),1131
+11,machine learning,976
+11,philosophy,888
+11,pattern recognition (psychology),869
+11,physics,864
+11,linguistics,841
+11,mathematics,706
+14,feature (linguistics),334
+14,computer science,276
+14,artificial intelligence,276
+14,pattern recognition (psychology),235
+14,philosophy,184
+14,linguistics,181
+14,feature learning,168
+14,identification (biology),164
+14,machine learning,157
+14,botany,153
+19,computer science,457
+19,artificial intelligence,446
+19,pattern recognition (psychology),260
+19,linguistics,256
+19,philosophy,248
+19,mathematics,178
+19,sign language,176
+19,natural language processing,155
+19,feature (linguistics),152
+19,action recognition,140
+23,computer science,895
+23,artificial intelligence,768
+23,natural language processing,695
+23,linguistics,435
+23,philosophy,399
+23,psychology,325
+23,machine learning,267
+23,speech recognition,215
+23,world wide web,215
+23,offensive,194
+18,computer science,414
+18,artificial intelligence,403
+18,natural language processing,264
+18,pattern recognition (psychology),238
+18,image (mathematics),159
+18,philosophy,138
+18,linguistics,132
+18,feature (linguistics),130
+18,mathematics,130
+18,information retrieval,116
+21,computer science,147
+21,artificial intelligence,133
+21,natural language processing,89
+21,speech recognition,70
+21,linguistics,60
+21,spelling,56
+21,telecommunications,49
+21,philosophy,46
+21,mathematics,45
+21,algorithm,32
+30,performing arts,2
+30,value (mathematics),2
+30,capital (architecture),2
+30,realm,1
+30,affect (linguistics),1
+30,incentive,1
+30,capitalism,1
+30,human capital,1
+30,public relations,1
+30,sociology,1
+31,education for sustainable development,1
+31,curriculum,1
+31,environmental education,1
+31,argumentation theory,1
+31,sustainability,1
+31,sustainable development,1
+31,norwegian,1
+31,pedagogy,1
+31,sociology,1
+31,curriculum development,1
+32,agricultural policy,2
+32,agricultural land,2
+32,social capital,1
+32,agriculture,1
+32,business,1
+32,government (linguistics),1
+32,bridging (networking),1
+32,common agricultural policy,1
+32,public policy,1
+32,economic growth,1
+33,empathy,1
+33,psychology,1
+33,psychological intervention,1
+33,psychosocial,1
+33,narrative,1
+33,social psychology,1
+33,stalking,1
+33,applied psychology,1
+33,suicide prevention,1
+33,poison control,1
+34,medicine,3
+34,entrepreneurship,2
+34,coronavirus disease 2019 (covid-19),2
+34,political science,2
+34,world order,2
+34,2019-20 coronavirus outbreak,2
+34,sociology,2
+34,public relations,2
+34,economics,2
+34,infectious disease (medical specialty),2
+35,business,2
+35,pandemic,2
+35,industrial organization,2
+35,coronavirus disease 2019 (covid-19),2
+35,contingency,2
+35,contingency plan,2
+35,medicine,2
+35,disease,2
+35,pathology,2
+35,new normal,2
+36,vietnamese,2
+36,resource-based view,2
+36,dynamic capabilities,2
+36,dynamism,1
+36,resilience (materials science),1
+36,knowledge management,1
+36,business,1
+36,organizational learning,1
+36,context (archaeology),1
+36,organizational behavior and human resources,1
+37,coronavirus disease 2019 (covid-19),1
+37,creativity,1
+37,entrepreneurship,1
+37,business,1
+37,government (linguistics),1
+37,hospitality,1
+37,resilience (materials science),1
+37,marketing,1
+37,psychological resilience,1
+37,social media,1
+38,globe,2
+38,pandemic,2
+38,small business,1
+38,business,1
+38,revenue,1
+38,marketing,1
+38,government (linguistics),1
+38,entrepreneurship,1
+38,developing country,1
+38,coronavirus disease 2019 (covid-19),1
+39,sustainable business,2
+39,green development,2
+39,climate finance,2
+39,carbon finance,2
+39,green economy,1
+39,sustainable development,1
+39,sustainability,1
+39,entrepreneurship,1
+39,government (linguistics),1
+39,business,1
+40,promotion (chess),2
+40,crisis management,2
+40,hospitality,1
+40,government (linguistics),1
+40,hospitality industry,1
+40,business,1
+40,marketing,1
+40,coronavirus disease 2019 (covid-19),1
+40,public relations,1
+40,economics,1
+41,consumer behaviour,2
+41,consumer information,2
+41,presentation (obstetrics),2
+41,sharing economy,2
+41,purchasing,1
+41,business,1
+41,information sharing,1
+41,advertising,1
+41,marketing,1
+41,affect (linguistics),1
+42,socialization,2
+42,accommodation,1
+42,sharing economy,1
+42,tourism,1
+42,scopus,1
+42,government (linguistics),1
+42,business,1
+42,public relations,1
+42,marketing,1
+42,political science,1
+43,risk governance,2
+43,hazard,1
+43,natural hazard,1
+43,risk management,1
+43,stakeholder,1
+43,resilience (materials science),1
+43,risk analysis (engineering),1
+43,terminology,1
+43,business,1
+43,risk assessment,1
+44,hospitality,2
+44,business operations,2
+44,pandemic,1
+44,business,1
+44,government (linguistics),1
+44,resilience (materials science),1
+44,tourism,1
+44,sustainability,1
+44,marketing,1
+44,coronavirus disease 2019 (covid-19),1
+45,psychology,3
+45,computer science,3
+45,phone,2
+45,philosophy,2
+45,linguistics,2
+45,social media,2
+45,digital native,2
+45,social skills,2
+45,world wide web,2
+45,medicine,2
+46,employability,2
+46,language policy,1
+46,ideology,1
+46,sociology,1
+46,linguistics,1
+46,literal and figurative language,1
+46,pedagogy,1
+46,political science,1
+46,politics,1
+46,law,1
+47,contingency,2
+47,crisis management,2
+47,renting,1
+47,business,1
+47,tourism,1
+47,term (time),1
+47,contingency plan,1
+47,coronavirus disease 2019 (covid-19),1
+47,service (business),1
+47,service provider,1
+48,transformative learning,2
+48,instructional leadership,2
+48,value (mathematics),2
+48,educational leadership,1
+48,leadership development,1
+48,originality,1
+48,shared leadership,1
+48,transactional leadership,1
+48,leadership style,1
+48,emotional intelligence,1
+49,thematic analysis,2
+49,pandemic,2
+49,2019-20 coronavirus outbreak,2
+49,coping (psychology),1
+49,coronavirus disease 2019 (covid-19),1
+49,romance,1
+49,psychology,1
+49,social psychology,1
+49,severe acute respiratory syndrome coronavirus 2 (sars-cov-2),1
+49,narrative,1
+50,pandemic,2
+50,2019-20 coronavirus outbreak,2
+50,coronavirus disease 2019 (covid-19),1
+50,context (archaeology),1
+50,narrative,1
+50,resilience (materials science),1
+50,mental health,1
+50,psychological resilience,1
+50,psychology,1
+50,nursing,1
+51,generosity,2
+51,gratification,2
+51,eulogy,2
+51,gratitude,2
+51,openness to experience,2
+51,pledge,1
+51,normative,1
+51,harm,1
+51,subject (documents),1
+51,sociology,1
+52,value (mathematics),2
+52,reciprocal,2
+52,survey data collection,2
+52,big data,1
+52,marketing,1
+52,tourism,1
+52,hospitality,1
+52,business,1
+52,control (management),1
+52,hospitality industry,1
+53,sample (material),2
+53,context (archaeology),1
+53,psychology,1
+53,pandemic,1
+53,portuguese,1
+53,autonomy,1
+53,developmental psychology,1
+53,medical education,1
+53,perception,1
+53,coronavirus disease 2019 (covid-19),1
+54,pandemic,4
+54,context (archaeology),2
+54,early childhood education,2
+54,sociology of education,2
+54,pedagogy,2
+54,early childhood,2
+54,psychology,2
+54,coronavirus disease 2019 (covid-19),2
+54,sociology,2
+54,political science,2
+55,government (linguistics),1
+55,educational attainment,1
+55,psychology,1
+55,livelihood,1
+55,distance education,1
+55,face (sociological concept),1
+55,pedagogy,1
+55,medical education,1
+55,economic growth,1
+55,sociology,1
+56,pandemic,1
+56,psychology,1
+56,coronavirus disease 2019 (covid-19),1
+56,learning disability,1
+56,affect (linguistics),1
+56,narrative,1
+56,scale (ratio),1
+56,special education,1
+56,developmental psychology,1
+56,medical education,1
+57,learning management,2
+57,competence (human resources),1
+57,information and communications technology,1
+57,phone,1
+57,pandemic,1
+57,psychology,1
+57,distance education,1
+57,coronavirus disease 2019 (covid-19),1
+57,medical education,1
+57,mathematics education,1
+58,2019-20 coronavirus outbreak,2
+58,coronavirus disease 2019 (covid-19),1
+58,psychology,1
+58,closure (psychology),1
+58,stress (linguistics),1
+58,severe acute respiratory syndrome coronavirus 2 (sars-cov-2),1
+58,developmental psychology,1
+58,medicine,1
+58,virology,1
+58,linguistics,1
+59,multivariate analysis of variance,1
+59,psychology,1
+59,descriptive statistics,1
+59,academic achievement,1
+59,variance (accounting),1
+59,structural equation modeling,1
+59,mathematics education,1
+59,affect (linguistics),1
+59,applied psychology,1
+59,educational technology,1
+60,videoconferencing,1
+60,distance education,1
+60,the internet,1
+60,psychology,1
+60,government (linguistics),1
+60,order (exchange),1
+60,public relations,1
+60,pedagogy,1
+60,political science,1
+60,multimedia,1
+61,social distance,2
+61,snowball sampling,1
+61,psychology,1
+61,phone,1
+61,government (linguistics),1
+61,medical education,1
+61,qualitative research,1
+61,cheating,1
+61,coronavirus disease 2019 (covid-19),1
+61,social psychology,1
+62,association (psychology),2
+62,coronavirus disease 2019 (covid-19),1
+62,psychology,1
+62,distance education,1
+62,2019-20 coronavirus outbreak,1
+62,severe acute respiratory syndrome coronavirus 2 (sars-cov-2),1
+62,developmental psychology,1
+62,stress (linguistics),1
+62,medical education,1
+62,medicine,1
+63,contingency theory,2
+63,manufacturing,2
+63,business,1
+63,supply chain,1
+63,contingency,1
+63,digital transformation,1
+63,supply chain management,1
+63,process management,1
+63,process (computing),1
+63,knowledge management,1
+64,indonesian,1
+64,medicine,1
+64,traditional medicine,1
+64,philosophy,1
+64,linguistics,1
+65,thematic analysis,2
+65,spouse,2
+65,connotation,2
+65,active duty,1
+65,duty,1
+65,health care,1
+65,psychology,1
+65,medicine,1
+65,nursing,1
+65,family medicine,1
+66,counterintuitive,2
+66,sustainability,1
+66,scopus,1
+66,terminology,1
+66,greenwashing,1
+66,categorization,1
+66,originality,1
+66,relevance (law),1
+66,public relations,1
+66,marketing,1
+67,green economy,2
+67,qualitative analysis,2
+67,circular economy,1
+67,variety (cybernetics),1
+67,government (linguistics),1
+67,business,1
+67,sign (mathematics),1
+67,action (physics),1
+67,quantitative analysis (chemistry),1
+67,economics,1
+68,globe,2
+68,german,1
+68,covert,1
+68,transparency (behavior),1
+68,categorization,1
+68,narrative,1
+68,political science,1
+68,democracy,1
+68,sociology,1
+68,media studies,1
+69,intangible cultural heritage,2
+69,safeguarding,1
+69,situated,1
+69,negotiation,1
+69,indigenous,1
+69,construct (python library),1
+69,government (linguistics),1
+69,sustainability,1
+69,cultural heritage,1
+69,business,1
+70,maldevelopment,1
+70,politics,1
+70,climate change,1
+70,population,1
+70,natural (archaeology),1
+70,environmental resource management,1
+70,perception,1
+70,attribution,1
+70,geography,1
+70,government (linguistics),1
+71,opposition (politics),2
+71,incitement,2
+71,fatherland,2
+71,sedition,2
+71,grassroots,1
+71,rhetoric,1
+71,political science,1
+71,law,1
+71,media studies,1
+71,sociology,1
+72,agency (philosophy),1
+72,originality,1
+72,diversity (politics),1
+72,narrative,1
+72,value (mathematics),1
+72,sociology,1
+72,career development,1
+72,social capital,1
+72,psychology,1
+72,social psychology,1
+73,infographic,2
+73,digital storytelling,1
+73,mathematics education,1
+73,psychology,1
+73,storytelling,1
+73,pedagogy,1
+73,multiculturalism,1
+73,computer science,1
+73,narrative,1
+73,linguistics,1
+74,wildlife tourism,2
+74,wildlife,1
+74,sustainable tourism,1
+74,tourism,1
+74,environmental planning,1
+74,government (linguistics),1
+74,geography,1
+74,political science,1
+74,environmental resource management,1
+74,business,1
+75,through-the-lens metering,2
+75,transactional leadership,1
+75,occupational stress,1
+75,lens (geology),1
+75,higher education,1
+75,stress (linguistics),1
+75,psychology,1
+75,political science,1
+75,social psychology,1
+75,optics,1
+76,memristor,2
+76,control reconfiguration,2
+76,physical neural network,2
+76,neuromorphic engineering,1
+76,computer science,1
+76,artificial neural network,1
+76,computer architecture,1
+76,artificial intelligence,1
+76,electronic engineering,1
+76,embedded system,1
+77,decoupling (probability),2
+77,indonesian,1
+77,business,1
+77,state owned,1
+77,accounting,1
+77,finance,1
+77,economics,1
+77,market economy,1
+77,philosophy,1
+77,linguistics,1
+78,constructive,2
+78,action research,2
+78,reflexivity,1
+78,pedagogy,1
+78,narrative,1
+78,sociology,1
+78,teacher education,1
+78,narrative inquiry,1
+78,social science,1
+78,linguistics,1
+79,focus group,1
+79,thematic analysis,1
+79,qualitative research,1
+79,health care,1
+79,population,1
+79,telemedicine,1
+79,nursing,1
+79,government (linguistics),1
+79,medicine,1
+79,psychology,1
+80,psychology,1
+80,storytelling,1
+80,cognition,1
+80,autism,1
+80,cognitive psychology,1
+80,human–computer interaction,1
+80,developmental psychology,1
+80,computer science,1
+80,narrative,1
+80,philosophy,1
+81,interpreter,1
+81,spoken language,1
+81,linguistics,1
+81,psychology,1
+81,hearing loss,1
+81,audiology,1
+81,computer science,1
+81,medicine,1
+81,philosophy,1
+81,programming languagespoken language,1
+82,digital transformation,1
+82,european union,1
+82,government (linguistics),1
+82,population,1
+82,process (computing),1
+82,public relations,1
+82,economic growth,1
+82,political science,1
+82,business,1
+82,economics,1
+83,mobile phone,2
+83,information overload,1
+83,anxiety,1
+83,social media,1
+83,psychology,1
+83,social support,1
+83,government (linguistics),1
+83,applied psychology,1
+83,social psychology,1
+83,internet privacy,1
+84,boredom,2
+84,socialization,2
+84,anger,1
+84,psychology,1
+84,affect (linguistics),1
+84,mood,1
+84,anxiety,1
+84,social psychology,1
+84,consumption (sociology),1
+84,social science,1
+85,sociocultural evolution,1
+85,identity (music),1
+85,context (archaeology),1
+85,conversation,1
+85,identification (biology),1
+85,psychology,1
+85,narrative,1
+85,social psychology,1
+85,developmental psychology,1
+85,sociology,1
+86,white (mutation),1
+86,identification (biology),1
+86,psychology,1
+86,affect (linguistics),1
+86,ethnic group,1
+86,preference,1
+86,social psychology,1
+86,developmental psychology,1
+86,ecology,1
+86,biology,1
+87,contingency,2
+87,pandemic,1
+87,coronavirus disease 2019 (covid-19),1
+87,online learning,1
+87,psychology,1
+87,affect (linguistics),1
+87,mathematics education,1
+87,salient,1
+87,medical education,1
+87,higher education,1
+88,institution,2
+88,negotiation,1
+88,narrative,1
+88,face (sociological concept),1
+88,coronavirus disease 2019 (covid-19),1
+88,pandemic,1
+88,sociology,1
+88,qualitative research,1
+88,higher education,1
+88,space (punctuation),1
+89,level design,2
+89,mental health,1
+89,space (punctuation),1
+89,observational study,1
+89,psychology,1
+89,vegetation (pathology),1
+89,urban green space,1
+89,affect (linguistics),1
+89,applied psychology,1
+89,geography,1
+90,ornamental plant,2
+90,well-being,2
+90,front (military),1
+90,intervention (counseling),1
+90,pride,1
+90,geography,1
+90,space (punctuation),1
+90,socioeconomics,1
+90,psychology,1
+90,environmental health,1
+91,transformative learning,3
+91,corporate governance,2
+91,urban planning,2
+91,environmental planning,2
+91,adaptive capacity,2
+91,sustainability,2
+91,capacity building,2
+91,political science,2
+91,sociology,2
+91,environmental resource management,2
+92,technostress,2
+92,snowball sampling,2
+92,self-efficacy,2
+92,survey data collection,2
+92,moderated mediation,2
+92,stressor,1
+92,psychology,1
+92,affect (linguistics),1
+92,mediation,1
+92,structural equation modeling,1
+93,modernization theory,1
+93,public economics,1
+93,business,1
+93,tax reform,1
+93,government (linguistics),1
+93,economics,1
+93,economic growth,1
+93,linguistics,1
+93,philosophy,1
+94,business,1
+94,marketing,1
+94,government (linguistics),1
+94,scale (ratio),1
+94,knowledge management,1
+94,public relations,1
+94,linguistics,1
+94,philosophy,1
+94,physics,1
+94,quantum mechanics,1
+95,raw data,1
+95,computer science,1
+95,artificial intelligence,1
+95,machine learning,1
+95,big data,1
+95,missing data,1
+95,deep learning,1
+95,data science,1
+95,natural language processing,1
+95,data mining,1
+96,supply chain,1
+96,blockchain,1
+96,profitability index,1
+96,business,1
+96,harm,1
+96,quality (philosophy),1
+96,government (linguistics),1
+96,industrial organization,1
+96,supply chain management,1
+96,profit (economics),1
+97,textile industry,2
+97,supply chain,1
+97,business,1
+97,supply chain management,1
+97,context (archaeology),1
+97,emerging markets,1
+97,government (linguistics),1
+97,viewpoints,1
+97,marketing,1
+97,industrial organization,1
+98,sustainability,3
+98,business,3
+98,industrial organization,3
+98,marketing,3
+98,philosophy,3
+98,ecology,3
+98,linguistics,3
+98,political science,3
+98,supply chain,2
+98,economics,2
+99,sharing economy,2
+99,textile industry,2
+99,value (mathematics),2
+99,circular economy,1
+99,sustainability,1
+99,business,1
+99,clothing,1
+99,incentive,1
+99,government (linguistics),1
+99,industrial organization,1
+100,supply chain,2
+100,business,2
+100,originality,2
+100,supply chain management,2
+100,economics,2
+100,marketing,2
+100,industrial organization,2
+100,qualitative research,2
+100,sociology,2
+100,computer science,2
+101,supply chain,1
+101,business,1
+101,structural equation modeling,1
+101,sustainability,1
+101,chatbot,1
+101,industrial organization,1
+101,marketing,1
+101,computer science,1
+101,artificial intelligence,1
+101,biology,1
+102,circular economy,2
+102,value (mathematics),2
+102,sustainable business,2
+102,triple bottom line,1
+102,sustainability,1
+102,mediation,1
+102,context (archaeology),1
+102,business,1
+102,turkish,1
+102,structural equation modeling,1
+103,declaration,1
+103,curriculum,1
+103,environmental education,1
+103,legislature,1
+103,government (linguistics),1
+103,indigenous,1
+103,tanzania,1
+103,political science,1
+103,process (computing),1
+103,economic growth,1
+104,affect (linguistics),1
+104,climate change,1
+104,psychology,1
+104,social psychology,1
+104,communication,1
+104,ecology,1
+104,biologyaffect,1
+105,foundation (evidence),2
+105,sustainability,1
+105,early childhood education,1
+105,context (archaeology),1
+105,environmental education,1
+105,maltese,1
+105,perception,1
+105,psychology,1
+105,developmental psychology,1
+105,pedagogy,1
+106,streaming data,2
+106,factor (programming language),2
+106,feature vector,2
+106,feature selection,1
+106,missing data,1
+106,computer science,1
+106,feature (linguistics),1
+106,selection (genetic algorithm),1
+106,data mining,1
+106,quality (philosophy),1
+107,thematic analysis,2
+107,scarcity,2
+107,circular economy,1
+107,supply chain,1
+107,institutional theory,1
+107,government (linguistics),1
+107,business,1
+107,industrial organization,1
+107,environmental economics,1
+107,process management,1
+108,technology assessment,2
+108,scope (computer science),1
+108,narrative,1
+108,engineering ethics,1
+108,political science,1
+108,sociology,1
+108,knowledge management,1
+108,engineering,1
+108,business,1
+108,computer science,1
+109,health professionals,2
+109,danish,1
+109,rehabilitation,1
+109,mediation,1
+109,nursing,1
+109,psychology,1
+109,medicine,1
+109,health care,1
+109,physical therapy,1
+109,sociology,1
+110,value (mathematics),2
+110,articulation (sociology),2
+110,politics,1
+110,serendipity,1
+110,corporate governance,1
+110,agency (philosophy),1
+110,action (physics),1
+110,space (punctuation),1
+110,fragmentation (computing),1
+110,political science,1
+111,preparedness,1
+111,higher education,1
+111,context (archaeology),1
+111,psychology,1
+111,rasch model,1
+111,government (linguistics),1
+111,distance education,1
+111,medical education,1
+111,mathematics education,1
+111,pedagogy,1
+112,pace,1
+112,foreign language,1
+112,perspective (graphical),1
+112,psychology,1
+112,mathematics education,1
+112,digital media,1
+112,pedagogy,1
+112,online learning,1
+112,czech,1
+112,medical education,1
+113,flipped classroom,2
+113,blended learning,2
+113,mathematics education,1
+113,syntax,1
+113,class (philosophy),1
+113,panacea (medicine),1
+113,computer science,1
+113,independence (probability theory),1
+113,active learning (machine learning),1
+113,educational technology,1
+114,internet access,1
+114,distance education,1
+114,china,1
+114,rural area,1
+114,the internet,1
+114,economic growth,1
+114,government (linguistics),1
+114,poverty,1
+114,business,1
+114,political science,1
+116,student engagement,2
+116,psychology,1
+116,indonesian,1
+116,metacognition,1
+116,thematic analysis,1
+116,cognition,1
+116,mathematics education,1
+116,language acquisition,1
+116,pedagogy,1
+116,qualitative research,1
+117,government (linguistics),1
+117,coronavirus disease 2019 (covid-19),1
+117,social media,1
+117,narrative,1
+117,pandemic,1
+117,coding (social sciences),1
+117,public relations,1
+117,political science,1
+117,sociology,1
+117,social science,1
+118,feature (linguistics),3
+118,qualitative research,2
+118,template,2
+118,sociology,2
+118,data science,2
+118,computer science,2
+118,social science,2
+118,philosophy,2
+118,craft,1
+118,convention,1
+119,qualitative research,1
+119,computer science,1
+119,sample (material),1
+119,scholarship,1
+119,coding (social sciences),1
+119,linguistics,1
+119,sociology,1
+119,mathematics education,1
+119,psychology,1
+119,social science,1
+120,sociology,4
+120,philosophy,4
+120,epistemology,3
+120,organization studies,3
+120,political science,3
+120,politics,3
+120,linguistics,3
+120,law,3
+120,value (mathematics),2
+120,leverage (statistics),2
+121,contingency theory,2
+121,service (business),1
+121,automation,1
+121,contingency,1
+121,computer science,1
+121,service design,1
+121,process management,1
+121,knowledge management,1
+121,service delivery framework,1
+121,engineering,1
+122,neuromorphic engineering,2
+122,memristor,1
+122,computer science,1
+122,von neumann architecture,1
+122,overhead (engineering),1
+122,convolutional neural network,1
+122,bottleneck,1
+122,materials science,1
+122,artificial neural network,1
+122,biological system,1
+123,ferroelectricity,1
+123,topology (electrical circuits),1
+123,reservoir computing,1
+123,computer science,1
+123,materials science,1
+123,electrical engineering,1
+123,engineering,1
+123,optoelectronics,1
+123,artificial intelligence,1
+123,recurrent neural network,1
+124,business,3
+124,government (linguistics),3
+124,economics,3
+124,political science,3
+124,law,3
+124,linguistics,3
+124,philosophy,3
+124,procurement,2
+124,industrial organization,2
+124,marketing,2
+125,circular economy,2
+125,analytic hierarchy process,1
+125,sustainability,1
+125,supply chain,1
+125,process management,1
+125,certification,1
+125,supply chain management,1
+125,rank (graph theory),1
+125,process (computing),1
+125,government (linguistics),1
+126,incentive,1
+126,government (linguistics),1
+126,supply chain,1
+126,likert scale,1
+126,resource (disambiguation),1
+126,circular economy,1
+126,business,1
+126,engineering,1
+126,process management,1
+126,management science,1
+127,procurement,2
+127,government (linguistics),2
+127,business,2
+127,government procurement,2
+127,marketing,2
+127,computer science,2
+127,linguistics,2
+127,philosophy,2
+127,scopus,1
+127,originality,1
+128,public sector,1
+128,context (archaeology),1
+128,business,1
+128,circular economy,1
+128,purchasing,1
+128,portuguese,1
+128,process (computing),1
+128,environmental resource management,1
+128,knowledge management,1
+128,public relations,1
+129,conceptual framework,2
+129,procurement,1
+129,status quo,1
+129,context (archaeology),1
+129,circular economy,1
+129,business,1
+129,government (linguistics),1
+129,process (computing),1
+129,qualitative research,1
+129,process management,1
+130,feature engineering,2
+130,yield (engineering),1
+130,feature (linguistics),1
+130,geography,1
+130,cartography,1
+130,data mining,1
+130,statistics,1
+130,forestry,1
+130,regional science,1
+130,computer science,1
+131,feature (linguistics),2
+131,interpretability,1
+131,machine learning,1
+131,computer science,1
+131,artificial intelligence,1
+131,feature selection,1
+131,process (computing),1
+131,artificial neural network,1
+131,model selection,1
+131,data mining,1
+132,implementation research,2
+132,terminology,1
+132,work (physics),1
+132,computer science,1
+132,public health,1
+132,field (mathematics),1
+132,community health,1
+132,management science,1
+132,knowledge management,1
+132,public relations,1
+133,muscle tension,1
+133,terminology,1
+133,rehabilitation,1
+133,computer science,1
+133,protocol (science),1
+133,conversation,1
+133,population,1
+133,psychology,1
+133,physical medicine and rehabilitation,1
+133,speech recognition,1
+134,government (linguistics),1
+134,population,1
+134,public health,1
+134,intervention (counseling),1
+134,program evaluation,1
+134,medicine,1
+134,business,1
+134,medical education,1
+134,psychology,1
+134,public relations,1
+135,psychosocial,1
+135,adaptation (eye),1
+135,psychological intervention,1
+135,narrative,1
+135,psychology,1
+135,dementia,1
+135,psychotherapist,1
+135,medicine,1
+135,psychiatry,1
+135,neuroscience,1
+136,digital divide,2
+136,context (archaeology),1
+136,china,1
+136,digitization,1
+136,government (linguistics),1
+136,economics,1
+136,digital transformation,1
+136,business,1
+136,financial inclusion,1
+136,economic growth,1
+137,audit,1
+137,sociology,1
+137,identity (music),1
+137,structuring,1
+137,epistemology,1
+137,imperfect,1
+137,function (biology),1
+137,subject (documents),1
+137,pedagogy,1
+137,teacher education,1
+138,lottery,2
+138,disadvantaged,1
+138,government (linguistics),1
+138,revenue,1
+138,context (archaeology),1
+138,economics,1
+138,public administration,1
+138,public relations,1
+138,political science,1
+138,finance,1
+139,subjectification,2
+139,reflexivity,2
+139,social inequality,2
+139,intersectionality,2
+139,gender mainstreaming,2
+139,governmentality,1
+139,sociology,1
+139,higher education,1
+139,inequality,1
+139,vulnerability (computing),1
+140,norwegian,1
+140,duty,1
+140,psychosocial,1
+140,law,1
+140,psychology,1
+140,political science,1
+140,sociology,1
+140,pedagogy,1
+140,philosophy,1
+140,linguistics,1
+141,economic shortage,1
+141,context (archaeology),1
+141,work (physics),1
+141,psychology,1
+141,pedagogy,1
+141,mathematics education,1
+141,sociology,1
+141,engineering,1
+141,geography,1
+141,mechanical engineering,1
+142,scientific literacy,2
+142,critical literacy,2
+142,critical discourse analysis,2
+142,social practice,2
+142,curriculum,1
+142,agency (philosophy),1
+142,vision,1
+142,sociology,1
+142,pedagogy,1
+142,literacy,1
+143,self-efficacy,2
+143,novelty,1
+143,closure (psychology),1
+143,premise,1
+143,entrepreneurship,1
+143,multilevel model,1
+143,knowledge management,1
+143,business,1
+143,marketing,1
+143,creativity,1
+144,liminality,1
+144,refugee,1
+144,meaning (existential),1
+144,sociology,1
+144,boredom,1
+144,narrative,1
+144,feeling,1
+144,gender studies,1
+144,space (punctuation),1
+144,aesthetics,1
+145,liminality,1
+145,conceptualization,1
+145,embodied cognition,1
+145,sociology,1
+145,identity (music),1
+145,narrative,1
+145,epistemology,1
+145,relation (database),1
+145,gender studies,1
+145,aesthetics,1
+146,perspective (graphical),1
+146,space (punctuation),1
+146,exploit,1
+146,container (type theory),1
+146,metaphor,1
+146,epistemology,1
+146,discipline,1
+146,sociology,1
+146,field (mathematics),1
+146,computer science,1
+147,value (mathematics),2
+147,health services research,2
+147,workforce,1
+147,health administration,1
+147,health care,1
+147,affect (linguistics),1
+147,psychology,1
+147,nursing,1
+147,workload,1
+147,applied psychology,1
+148,performative utterance,2
+148,materiality (auditing),1
+148,sociology,1
+148,subject (documents),1
+148,humanism,1
+148,aesthetics,1
+148,refugee,1
+148,identity (music),1
+148,narrative,1
+148,ontology,1
+149,hegemonic masculinity,2
+149,harassment,1
+149,narrative,1
+149,masculinity,1
+149,negotiation,1
+149,gender studies,1
+149,psychology,1
+149,liminality,1
+149,social psychology,1
+149,hegemony,1
+150,world englishes,2
+150,blueprint,1
+150,linguistics,1
+150,computer science,1
+150,engineering,1
+150,philosophy,1
+150,mechanical engineeringblueprint,1
+151,grammar,1
+151,linguistics,1
+151,language acquisition,1
+151,psychology,1
+151,computer science,1
+151,mathematics education,1
+151,philosophy,1
+152,perspective (graphical),1
+152,identity (music),1
+152,linguistics,1
+152,sociology,1
+152,english language,1
+152,mathematics education,1
+152,computer science,1
+152,pedagogy,1
+152,psychology,1
+152,aesthetics,1
+153,social media,2
+153,computer science,2
+153,psychology,2
+153,world wide web,2
+153,apprenticeship,1
+153,service (business),1
+153,sociology,1
+153,multimedia,1
+153,business,1
+153,philosophy,1
+154,teleology,1
+154,interpretation (philosophy),1
+154,artificial intelligence,1
+154,word (group theory),1
+154,computer science,1
+154,linguistics,1
+154,cognitive science,1
+154,natural language processing,1
+154,epistemology,1
+154,philosophy,1
+155,framing (construction),2
+155,critical management studies,2
+155,limiting,2
+155,circular economy,2
+155,metaphor,1
+155,unpacking,1
+155,ideology,1
+155,sociology,1
+155,sustainability,1
+155,positive economics,1
+156,computer science,1
+156,encoder,1
+156,holography,1
+156,wavefront,1
+156,electric field,1
+156,convolutional neural network,1
+156,residual,1
+156,algorithm,1
+156,fresnel diffraction,1
+156,artificial neural network,1
+157,pandemic,2
+157,livelihood,1
+157,government (linguistics),1
+157,business,1
+157,private sector,1
+157,economic growth,1
+157,economic recovery,1
+157,coronavirus disease 2019 (covid-19),1
+157,economics,1
+157,agriculture,1
+158,data redundancy,2
+158,computer science,1
+158,feature selection,1
+158,data mining,1
+158,scale (ratio),1
+158,redundancy (engineering),1
+158,mutual information,1
+158,feature (linguistics),1
+158,selection (genetic algorithm),1
+158,artificial intelligence,1
+159,vietnamese,2
+159,employability,1
+159,internship,1
+159,human capital,1
+159,psychology,1
+159,structural equation modeling,1
+159,higher education,1
+159,social capital,1
+159,pedagogy,1
+159,sociology,1
+160,psychology,1
+160,social psychology,1
+160,stress (linguistics),1
+160,leisure time,1
+160,physical activity,1
+160,medicine,1
+160,linguistics,1
+160,philosophy,1
+160,physical medicine and rehabilitationleisure time,1
+161,attraction,1
+161,ecological succession,1
+161,succession planning,1
+161,public relations,1
+161,shared leadership,1
+161,political science,1
+161,management,1
+161,psychology,1
+161,business,1
+161,transactional leadership,1
+162,context (archaeology),1
+162,pedagogy,1
+162,context effect,1
+162,sociology,1
+162,psychology,1
+162,medical education,1
+162,geography,1
+162,medicine,1
+162,linguistics,1
+162,philosophy,1
+163,kappa,2
+163,cohen's kappa,2
+163,demographics,2
+163,medicine,1
+163,concordance,1
+163,anesthesiology,1
+163,american society of anesthesiologists,1
+163,prospective cohort study,1
+163,emergency medicine,1
+163,internal medicine,1
+164,vocabulary,1
+164,language acquisition,1
+164,context (archaeology),1
+164,computer science,1
+164,perception,1
+164,virtual reality,1
+164,vocabulary learning,1
+164,vocabulary development,1
+164,mathematics education,1
+164,teaching method,1
+165,multiculturalism,1
+165,active listening,1
+165,perception,1
+165,english language,1
+165,psychology,1
+165,identity (music),1
+165,linguistics,1
+165,pedagogy,1
+165,mathematics education,1
+165,philosophy,1
+166,repetition (rhetorical device),1
+166,perception,1
+166,computer science,1
+166,word (group theory),1
+166,multimedia,1
+166,natural language processing,1
+166,psychology,1
+166,linguistics,1
+166,philosophy,1
+166,neurosciencerepetition (rhetorical device),1
+167,cornerstone,1
+167,affect (linguistics),1
+167,mathematics education,1
+167,perception,1
+167,psychology,1
+167,pedagogy,1
+167,medical education,1
+167,medicine,1
+167,geography,1
+167,communication,1
+168,disruptive innovation,2
+168,connotation,2
+168,emerging technologies,2
+168,disruptive technology,1
+168,internet of things,1
+168,data science,1
+168,business,1
+168,knowledge management,1
+168,computer science,1
+168,engineering,1
+169,context (archaeology),1
+169,task (project management),1
+169,affect (linguistics),1
+169,psychology,1
+169,higher education,1
+169,mathematics education,1
+169,structural equation modeling,1
+169,marketing,1
+169,computer science,1
+169,political science,1
+170,course (navigation),1
+170,mathematics education,1
+170,critical thinking,1
+170,english language,1
+170,psychology,1
+170,pedagogy,1
+170,computer science,1
+170,linguistics,1
+170,engineering,1
+170,philosophy,1
+171,injustice,2
+171,heat wave,2
+171,resilience (materials science),2
+171,psychology,2
+171,economics,2
+171,resizing,2
+171,affect (linguistics),1
+171,period (music),1
+171,demographic economics,1
+171,socioeconomics,1
+172,qualitative research,1
+172,transferability,1
+172,narrative,1
+172,computer science,1
+172,variety (cybernetics),1
+172,quality (philosophy),1
+172,data science,1
+172,engineering ethics,1
+172,management science,1
+172,sociology,1
+173,thematic analysis,2
+173,urdu,2
+173,pandemic,2
+173,social stigma,1
+173,stigma (botany),1
+173,medicine,1
+173,socioeconomic status,1
+173,qualitative research,1
+173,family medicine,1
+173,coronavirus disease 2019 (covid-19),1
+174,reflexivity,2
+174,intersubjectivity,2
+174,autoethnography,1
+174,narrative,1
+174,epistemology,1
+174,subjectivity,1
+174,power (physics),1
+174,sociology,1
+174,psychology,1
+174,qualitative research,1
+175,readability,1
+175,usability,1
+175,health informatics,1
+175,nursing research,1
+175,health administration,1
+175,medicine,1
+175,public health,1
+175,perception,1
+175,quality of life research,1
+175,nursing,1
+176,thriving,2
+176,realm,2
+176,vietnamese,2
+176,coffee shop,1
+176,marketing,1
+176,business,1
+176,context (archaeology),1
+176,product (mathematics),1
+176,quality (philosophy),1
+176,variety (cybernetics),1
+177,influencer marketing,1
+177,credibility,1
+177,affect (linguistics),1
+177,psychology,1
+177,purchasing,1
+177,social media,1
+177,marketing,1
+177,social psychology,1
+177,business,1
+177,political science,1
+178,project governance,2
+178,multi-level governance,2
+178,exploratory research,2
+178,sensemaking,1
+178,accountability,1
+178,corporate governance,1
+178,legitimacy,1
+178,perspective (graphical),1
+178,government (linguistics),1
+178,public administration,1
+179,megaproject,2
+179,value (mathematics),2
+179,relational theory,2
+179,relational view,2
+179,reciprocal,1
+179,knowledge management,1
+179,stakeholder,1
+179,relational model,1
+179,business,1
+179,relational database,1
+180,prosperity,2
+180,sustainability,1
+180,business,1
+180,sustainable development,1
+180,environmental planning,1
+180,sustainable city,1
+180,urban planning,1
+180,context (archaeology),1
+180,government (linguistics),1
+180,environmental resource management,1
+181,artificial intelligence,1
+181,primer (cosmetics),1
+181,generative grammar,1
+181,computer science,1
+181,machine learning,1
+181,mathematics education,1
+181,natural language processing,1
+181,psychology,1
+181,chemistry,1
+181,organic chemistryprimer (cosmetics),1
+182,computer science,1
+182,internet privacy,1
+182,comprehension,1
+182,computer security,1
+182,code (set theory),1
+182,source code,1
+182,intervention (counseling),1
+182,information privacy,1
+182,personally identifiable information,1
+182,internet of things,1
+183,internet privacy,1
+183,internet of things,1
+183,computer security,1
+183,perception,1
+183,computer science,1
+183,affect (linguistics),1
+183,scalability,1
+183,psychology,1
+183,neuroscience,1
+183,communication,1
+184,field (mathematics),1
+184,computer science,1
+184,chinese language,1
+184,mathematics education,1
+184,psychology,1
+184,linguistics,1
+184,mathematics,1
+184,philosophy,1
+184,pure mathematicschinese language,1
+185,video game,2
+185,computer science,1
+185,multimedia,1
+185,mathematics education,1
+185,game based learning,1
+185,natural language processing,1
+185,human–computer interaction,1
+185,artificial intelligence,1
+185,psychologygame-based learning,1
+186,watson,2
+186,sustainability science,2
+186,sustainability,1
+186,corporate sustainability,1
+186,strategic management,1
+186,management science,1
+186,business,1
+186,action (physics),1
+186,knowledge management,1
+186,sustainability organizations,1
+187,enterprise system,2
+187,implementation,2
+187,enterprise resource planning,1
+187,process management,1
+187,sustainability,1
+187,knowledge management,1
+187,process (computing),1
+187,business,1
+187,conceptual framework,1
+187,sustainable development,1
+188,mediation,1
+188,business,1
+188,organizational culture,1
+188,corporate governance,1
+188,structural equation modeling,1
+188,job performance,1
+188,affect (linguistics),1
+188,knowledge management,1
+188,marketing,1
+188,public relations,1
+189,sustainability,2
+189,conceptual framework,2
+189,engineering ethics,2
+189,political science,2
+189,thematic analysis,2
+189,empirical research,2
+189,sociology,2
+189,engineering,2
+189,ecology,2
+189,philosophy,2
+190,contingency theory,2
+190,audit,1
+190,big data,1
+190,contingency,1
+190,business,1
+190,accounting,1
+190,external auditor,1
+190,knowledge management,1
+190,public relations,1
+190,internal audit,1
+191,big four,2
+191,big data,1
+191,accounting,1
+191,audit,1
+191,convergence (economics),1
+191,accounting research,1
+191,premise,1
+191,computer science,1
+191,data science,1
+191,business,1
+192,narrative,1
+192,accounting,1
+192,discretion,1
+192,order (exchange),1
+192,state (computer science),1
+192,public relations,1
+192,quality (philosophy),1
+192,relation (database),1
+192,narrative inquiry,1
+192,political science,1
+193,bachelor,2
+193,romanian,1
+193,accounting,1
+193,digital transformation,1
+193,curriculum,1
+193,sustainability,1
+193,transformation (genetics),1
+193,business,1
+193,accounting information system,1
+193,field (mathematics),1
+194,marketing buzz,2
+194,value (mathematics),2
+194,competitor analysis,2
+194,mindset,2
+194,originality,1
+194,identity (music),1
+194,craft,1
+194,public relations,1
+194,construct (python library),1
+194,ambiguity,1
+195,accounting,1
+195,romanian,1
+195,accounting information system,1
+195,business,1
+195,accounting standard,1
+195,financial accounting,1
+195,linguistics,1
+195,philosophyromanian,1
+196,industry 4.0,2
+196,triple bottom line,1
+196,sustainability,1
+196,business,1
+196,respondent,1
+196,government (linguistics),1
+196,supply chain,1
+196,structural equation modeling,1
+196,environmental economics,1
+196,sustainable development,1
+197,conceptual framework,2
+197,dynamic capabilities,1
+197,digital transformation,1
+197,originality,1
+197,knowledge management,1
+197,conceptualization,1
+197,computer science,1
+197,premise,1
+197,context (archaeology),1
+197,transformation (genetics),1
+198,thematic analysis,2
+198,thematic map,2
+198,scopus,1
+198,economic shortage,1
+198,systematic review,1
+198,narrative,1
+198,inclusion (mineral),1
+198,computer science,1
+198,data science,1
+198,knowledge management,1
+199,supply chain,1
+199,business,1
+199,industrial organization,1
+199,contingency,1
+199,supply chain management,1
+199,resource (disambiguation),1
+199,population,1
+199,marketing,1
+199,process management,1
+199,computer science,1
+200,neutrality,2
+200,carbon neutrality,1
+200,business,1
+200,sustainability,1
+200,environmental economics,1
+200,industrial organization,1
+200,government (linguistics),1
+200,context (archaeology),1
+200,marketing,1
+200,economics,1
+201,artificial intelligence,1
+201,computer science,1
+201,convolutional neural network,1
+201,glaucoma,1
+201,pattern recognition (psychology),1
+201,classifier (uml),1
+201,majority rule,1
+201,deep learning,1
+201,machine learning,1
+201,medicine,1
+202,business intelligence,2
+202,big data,1
+202,sustainability,1
+202,business analytics,1
+202,analytics,1
+202,supply chain,1
+202,process management,1
+202,business,1
+202,context (archaeology),1
+202,government (linguistics),1
+203,moderated mediation,2
+203,dynamic capabilities,2
+203,ambidexterity,1
+203,mediation,1
+203,knowledge management,1
+203,flexibility (engineering),1
+203,business,1
+203,organizational performance,1
+203,big data,1
+203,affect (linguistics),1
+204,delphi method,2
+204,enabling,1
+204,context (archaeology),1
+204,coronavirus disease 2019 (covid-19),1
+204,supply chain,1
+204,computer science,1
+204,process (computing),1
+204,artificial intelligence,1
+204,perspective (graphical),1
+204,government (linguistics),1
+205,open innovation,2
+205,coopetition,1
+205,originality,1
+205,business,1
+205,emerging markets,1
+205,industrial organization,1
+205,competition (biology),1
+205,marketing,1
+205,affect (linguistics),1
+205,globalization,1
+206,product innovation,2
+206,incentive,1
+206,business,1
+206,green innovation,1
+206,industrial organization,1
+206,competitive advantage,1
+206,government (linguistics),1
+206,digital transformation,1
+206,constraint (computer-aided design),1
+206,product (mathematics),1
+207,coevolution,1
+207,interdependence,1
+207,ecosystem,1
+207,metaphor,1
+207,knowledge management,1
+207,ecology,1
+207,computer science,1
+207,sociology,1
+207,biology,1
+207,social science,1
+208,sociology of education,2
+208,meritocracy,2
+208,neoliberalism (international relations),2
+208,sociology,1
+208,social mobility,1
+208,gender studies,1
+208,narrative,1
+208,higher education,1
+208,hegemony,1
+208,storytelling,1
+209,optimism,1
+209,hardiness (plants),1
+209,psychology,1
+209,personality,1
+209,relation (database),1
+209,clinical psychology,1
+209,social psychology,1
+209,stress (linguistics),1
+209,applied psychology,1
+209,computer science,1
+210,feature (linguistics),2
+210,convolution (computer science),2
+210,artificial intelligence,1
+210,computer science,1
+210,pattern recognition (psychology),1
+210,feature extraction,1
+210,convolutional neural network,1
+210,motor imagery,1
+210,brain–computer interface,1
+210,deep learning,1
+211,customer service,2
+211,chatbot,1
+211,advertising,1
+211,perception,1
+211,business,1
+211,brand awareness,1
+211,service (business),1
+211,brand management,1
+211,social media,1
+211,marketing,1
+212,feature (linguistics),2
+212,computer science,1
+212,framing (construction),1
+212,artificial intelligence,1
+212,natural language processing,1
+212,machine learning,1
+212,linguistics,1
+212,engineering,1
+212,philosophy,1
+212,structural engineeringframing (construction),1
+213,feature (linguistics),2
+213,computational science and engineering,1
+213,computer science,1
+213,boosting (machine learning),1
+213,reduction (mathematics),1
+213,intrusion detection system,1
+213,artificial intelligence,1
+213,pattern recognition (psychology),1
+213,internet of things,1
+213,machine learning,1
+214,prestige,2
+214,rest (music),2
+214,gender gap,2
+214,affect (linguistics),1
+214,representation (politics),1
+214,bibliometrics,1
+214,medicine,1
+214,psychology,1
+214,political science,1
+214,computer science,1
+215,presentation (obstetrics),2
+215,clarity,1
+215,affect (linguistics),1
+215,computer science,1
+215,data science,1
+215,economic justice,1
+215,artificial intelligence,1
+215,knowledge management,1
+215,psychology,1
+215,management science,1
+216,autism,1
+216,psychology,1
+216,government (linguistics),1
+216,psychological intervention,1
+216,active listening,1
+216,autistic spectrum,1
+216,mental health,1
+216,developmental psychology,1
+216,psychiatry,1
+216,psychotherapist,1
+217,neurotypical,1
+217,mental health,1
+217,psychology,1
+217,autism,1
+217,affect (linguistics),1
+217,developmental psychology,1
+217,clinical psychology,1
+217,psychiatry,1
+217,autism spectrum disorder,1
+217,communicationneurotypical,1
+218,liminality,1
+218,precarity,1
+218,identity negotiation,1
+218,negotiation,1
+218,sociology,1
+218,identity (music),1
+218,existentialism,1
+218,narrative,1
+218,gender studies,1
+218,rhetoric,1
+219,thematic analysis,2
+219,snowball sampling,1
+219,vaccination,1
+219,qualitative research,1
+219,government (linguistics),1
+219,psychology,1
+219,medicine,1
+219,sociology,1
+219,social science,1
+219,immunology,1
+220,clipping (morphology),2
+220,multiplier (economics),1
+220,computer science,1
+220,noise (video),1
+220,triad (sociology),1
+220,statistical physics,1
+220,algorithm,1
+220,physics,1
+220,artificial intelligence,1
+220,psychology,1
+221,portuguese,1
+221,feeling,1
+221,coronavirus disease 2019 (covid-19),1
+221,psychology,1
+221,perception,1
+221,work (physics),1
+221,medical education,1
+221,period (music),1
+221,pedagogy,1
+221,medicine,1
+222,instrumental variable,2
+222,endogeneity,1
+222,the internet,1
+222,china,1
+222,affect (linguistics),1
+222,exploit,1
+222,internet access,1
+222,panel data,1
+222,mental health,1
+222,psychology,1
+223,thematic analysis,2
+223,pandemic,2
+223,online teaching,2
+223,norwegian,1
+223,context (archaeology),1
+223,distance education,1
+223,coronavirus disease 2019 (covid-19),1
+223,pedagogy,1
+223,psychology,1
+223,sociology,1
+224,exploratory research,2
+224,conceptual framework,2
+224,social media,1
+224,conceptualization,1
+224,consumption (sociology),1
+224,salient,1
+224,latent dirichlet allocation,1
+224,sociology,1
+224,perception,1
+224,public relations,1
+225,overexploitation,2
+225,government (linguistics),1
+225,modernization theory,1
+225,business,1
+225,scarcity,1
+225,service (business),1
+225,population,1
+225,political science,1
+225,economic growth,1
+225,economics,1
+226,hydrostatic equilibrium,2
+226,geology,1
+226,stress field,1
+226,fault (geology),1
+226,seismology,1
+226,tectonics,1
+226,stress (linguistics),1
+226,submarine pipeline,1
+226,rift,1
+226,pore water pressure,1
+227,computer science,1
+227,deep learning,1
+227,convolutional neural network,1
+227,artificial intelligence,1
+227,scale (ratio),1
+227,field (mathematics),1
+227,satellite imagery,1
+227,fire detection,1
+227,pixel,1
+227,remote sensing,1
+228,perceptron,2
+228,feature (linguistics),2
+228,support vector machine,1
+228,random forest,1
+228,artificial intelligence,1
+228,machine learning,1
+228,multilayer perceptron,1
+228,computer science,1
+228,decision tree,1
+228,feature selection,1
+229,ensemble learning,2
+229,adaptability,2
+229,transfer of learning,2
+229,computer science,1
+229,intrusion detection system,1
+229,robustness (evolution),1
+229,machine learning,1
+229,artificial intelligence,1
+229,convolutional neural network,1
+229,deep learning,1
+230,hyperparameter optimization,2
+230,bayesian optimization,2
+230,feature engineering,2
+230,feature (linguistics),2
+230,computer science,1
+230,hyperparameter,1
+230,machine learning,1
+230,artificial intelligence,1
+230,boosting (machine learning),1
+230,support vector machine,1
+231,contingency,2
+231,contingency theory,2
+231,archetype,2
+231,stakeholder,1
+231,stakeholder theory,1
+231,corporate governance,1
+231,business,1
+231,sustainability,1
+231,social sustainability,1
+231,supply chain,1
+232,factory (object-oriented programming),2
+232,global value chain,2
+232,appropriation,2
+232,obligation,2
+232,global governance,2
+232,multinational corporation,1
+232,value (mathematics),1
+232,business,1
+232,perspective (graphical),1
+232,corporate governance,1
+233,generative model,2
+233,computer science,1
+233,robustness (evolution),1
+233,wavelet,1
+233,artificial intelligence,1
+233,medical imaging,1
+233,stability (learning theory),1
+233,pattern recognition (psychology),1
+233,artificial neural network,1
+233,regularization (linguistics),1
+234,distortion (music),2
+234,feature (linguistics),2
+234,computer science,1
+234,resolution (logic),1
+234,artificial intelligence,1
+234,similarity (geometry),1
+234,diffusion mri,1
+234,magnetic resonance imaging,1
+234,affine transformation,1
+234,image resolution,1
+235,flipped classroom,1
+235,higher education,1
+235,context (archaeology),1
+235,perspective (graphical),1
+235,narrative,1
+235,systematic review,1
+235,sociology,1
+235,pedagogy,1
+235,mathematics education,1
+235,knowledge management,1
+236,modalities,2
+236,presentation (obstetrics),1
+236,recall,1
+236,animation,1
+236,narrative,1
+236,multimedia,1
+236,computer science,1
+236,psychology,1
+236,set (abstract data type),1
+236,mathematics education,1
+237,instrumental variable,2
+237,financial services,1
+237,fintech,1
+237,business,1
+237,estimation,1
+237,finance,1
+237,affect (linguistics),1
+237,financial market,1
+237,marketing,1
+237,economics,1
+238,agricultural productivity,1
+238,agriculture,1
+238,business,1
+238,productivity,1
+238,agricultural economics,1
+238,government (linguistics),1
+238,production (economics),1
+238,farm income,1
+238,agricultural science,1
+238,economics,1
+239,preparedness,2
+239,financial plan,2
+239,financial literacy,1
+239,financial inclusion,1
+239,empowerment,1
+239,psychological intervention,1
+239,inclusion (mineral),1
+239,government (linguistics),1
+239,literacy,1
+239,public relations,1
+240,feature (linguistics),2
+240,tree (set theory),2
+240,decision tree,1
+240,molding (decorative),1
+240,machine learning,1
+240,computer science,1
+240,artificial intelligence,1
+240,linear discriminant analysis,1
+240,quality (philosophy),1
+240,decision tree learning,1
+241,promotion (chess),2
+241,exploratory research,2
+241,economic shortage,2
+241,cinahl,1
+241,competence (human resources),1
+241,medical education,1
+241,variety (cybernetics),1
+241,digital transformation,1
+241,psychology,1
+241,knowledge management,1
+242,mhealth,2
+242,sentiment analysis,2
+242,thematic analysis,1
+242,latent dirichlet allocation,1
+242,social media,1
+242,psychological intervention,1
+242,computer science,1
+242,psychology,1
+242,world wide web,1
+242,qualitative research,1
+243,anxiety,1
+243,workload,1
+243,pandemic,1
+243,health care,1
+243,protocol (science),1
+243,virtual reality,1
+243,psychology,1
+243,stress (linguistics),1
+243,nursing,1
+243,coronavirus disease 2019 (covid-19),1
+244,pipeline (software),1
+244,computer science,1
+244,precision and recall,1
+244,pipeline transport,1
+244,server,1
+244,software,1
+244,open source,1
+244,code smell,1
+244,recall,1
+244,software engineering,1
+245,business,1
+245,information security,1
+245,compliance (psychology),1
+245,perception,1
+245,government (linguistics),1
+245,structural equation modeling,1
+245,information security management,1
+245,public relations,1
+245,knowledge management,1
+245,psychology,1
+246,meaning-making,2
+246,sensemaking,1
+246,narrative,1
+246,storytelling,1
+246,organizational culture,1
+246,meaning (existential),1
+246,public relations,1
+246,knowledge management,1
+246,sociology,1
+246,narrative inquiry,1
+247,natural hazard,2
+247,preparedness,1
+247,flood myth,1
+247,china,1
+247,government (linguistics),1
+247,emergency management,1
+247,rural area,1
+247,socioeconomics,1
+247,environmental planning,1
+247,business,1
+248,preprocessor,1
+248,computer science,1
+248,artificial intelligence,1
+248,coronavirus disease 2019 (covid-19),1
+248,convolutional neural network,1
+248,segmentation,1
+248,deep learning,1
+248,visualization,1
+248,transfer of learning,1
+248,pattern recognition (psychology),1
+249,intercultural competence,2
+249,compassion,2
+249,mandarin chinese,1
+249,psychology,1
+249,curriculum,1
+249,virtual reality,1
+249,multiculturalism,1
+249,intercultural communication,1
+249,cultural competence,1
+249,pedagogy,1
+250,listening comprehension,1
+250,perception,1
+250,comprehension,1
+250,foreign language,1
+250,psychology,1
+250,active listening,1
+250,english as a foreign language,1
+250,linguistics,1
+250,mathematics education,1
+250,communication,1
+251,sample (material),2
+251,anxiety,1
+251,adjunct,1
+251,perception,1
+251,medical education,1
+251,nursing,1
+251,psychology,1
+251,medicine,1
+251,multimedia,1
+251,computer science,1
+252,materials science,1
+252,stress (linguistics),1
+252,selective laser melting,1
+252,amplitude,1
+252,alloy,1
+252,composite material,1
+252,structural engineering,1
+252,microstructure,1
+252,engineering,1
+252,optics,1
+253,psychology,1
+253,happiness,1
+253,vocabulary,1
+253,context (archaeology),1
+253,compassion,1
+253,language acquisition,1
+253,vocabulary development,1
+253,cognition,1
+253,mathematics education,1
+253,social psychology,1
+254,early childhood,1
+254,narrative,1
+254,information and communications technology,1
+254,science education,1
+254,early childhood education,1
+254,educational technology,1
+254,mathematics education,1
+254,computer science,1
+254,psychology,1
+254,multimedia,1
+255,character development,2
+255,sample (material),2
+255,character (mathematics),1
+255,mathematics education,1
+255,documentation,1
+255,character education,1
+255,psychology,1
+255,class (philosophy),1
+255,pedagogy,1
+255,storytelling,1
+256,arabic,1
+256,game based learning,1
+256,computer science,1
+256,natural language processing,1
+256,linguistics,1
+256,multimedia,1
+256,human–computer interaction,1
+256,artificial intelligence,1
+256,philosophygame-based learning,1
+257,anxiety,1
+257,psychology,1
+257,game based learning,1
+257,foreign language,1
+257,composition (language),1
+257,mathematics education,1
+257,linguistics,1
+257,psychiatry,1
+257,philosophygame-based learning,1
+258,feature (linguistics),2
+258,blocking (statistics),1
+258,perception,1
+258,virtual reality,1
+258,computer science,1
+258,human–computer interaction,1
+258,psychology,1
+258,sociology,1
+258,linguistics,1
+258,computer network,1
+259,audience measurement,2
+259,fandom,1
+259,entertainment,1
+259,context (archaeology),1
+259,immersion (mathematics),1
+259,affect (linguistics),1
+259,advertising,1
+259,virtual reality,1
+259,multimedia,1
+259,psychology,1
+260,deixis,2
+260,videoconferencing,1
+260,gesture,1
+260,computer science,1
+260,negotiation,1
+260,interpersonal communication,1
+260,multimedia,1
+260,embodied cognition,1
+260,human–computer interaction,1
+260,space (punctuation),1
+261,interactivity,2
+261,harassment,2
+261,reality tv,2
+261,virtual representation,2
+261,avatar,1
+261,virtual reality,1
+261,embodied cognition,1
+261,affect (linguistics),1
+261,psychology,1
+261,computer science,1
+262,resource efficiency,2
+262,implementation,2
+262,transition economy,2
+262,circular economy,1
+262,sustainability,1
+262,reuse,1
+262,business,1
+262,government (linguistics),1
+262,resource (disambiguation),1
+262,transition management (governance),1
+263,unpacking,2
+263,value (mathematics),2
+263,smart city,2
+263,value proposition,1
+263,ecosystem services,1
+263,ecosystem,1
+263,exploit,1
+263,business,1
+263,environmental resource management,1
+263,environmental economics,1
+264,feature (linguistics),2
+264,similarity (geometry),2
+264,point cloud,1
+264,iterative closest point,1
+264,curvature,1
+264,algorithm,1
+264,k-nearest neighbors algorithm,1
+264,robustness (evolution),1
+264,euclidean distance,1
+264,computer science,1
+265,longitudinal study,2
+265,affect (linguistics),1
+265,context (archaeology),1
+265,psychological intervention,1
+265,psychology,1
+265,physical activity,1
+265,descriptive statistics,1
+265,gerontology,1
+265,developmental psychology,1
+265,medicine,1
+266,thematic analysis,2
+266,sustainable consumption,2
+266,viewpoints,1
+266,curriculum,1
+266,education for sustainable development,1
+266,government (linguistics),1
+266,higher education,1
+266,context (archaeology),1
+266,public relations,1
+266,sustainable development,1
+267,reading (process),1
+267,mathematics education,1
+267,exploratory research,1
+267,computer science,1
+267,psychology,1
+267,sociology,1
+267,linguistics,1
+267,philosophy,1
+267,anthropologyexploratory research,1
+268,metacognition,1
+268,respondent,1
+268,test (biology),1
+268,psychology,1
+268,reading comprehension,1
+268,population,1
+268,cognitive psychology,1
+268,reading (process),1
+268,mathematics education,1
+268,cognition,1
+269,generative model,2
+269,generative grammar,1
+269,typology,1
+269,computer science,1
+269,calculator,1
+269,metaphor,1
+269,artificial intelligence,1
+269,range (aeronautics),1
+269,cognitive science,1
+269,psychology,1
+270,framing (construction),2
+270,critical race theory,2
+270,gender studies,1
+270,solidarity,1
+270,ideology,1
+270,sociology,1
+270,narrative,1
+270,psychological resilience,1
+270,white (mutation),1
+270,equity (law),1
+271,identity (music),1
+271,sociology,1
+271,ideology,1
+271,gender studies,1
+271,social identity theory,1
+271,linguistics,1
+271,political science,1
+271,social group,1
+271,social science,1
+271,politics,1
+272,praxis,2
+272,discipline,2
+272,framing (construction),2
+272,conceptualization,1
+272,systemic functional linguistics,1
+272,sociology,1
+272,pedagogy,1
+272,applied linguistics,1
+272,curriculum,1
+272,linguistics,1
+273,sociology,1
+273,narrative,1
+273,power (physics),1
+273,ethnic group,1
+273,pedagogy,1
+273,space (punctuation),1
+273,narrative inquiry,1
+273,ontology,1
+273,public relations,1
+273,epistemology,1
+274,suffix,1
+274,perspective (graphical),1
+274,linguistics,1
+274,point (geometry),1
+274,linguistic change,1
+274,computer science,1
+274,sociology,1
+274,psychology,1
+274,artificial intelligence,1
+274,mathematics,1
+275,dignity,2
+275,virtual space,2
+275,grammatical gender,2
+275,outrage,1
+275,noun,1
+275,linguistics,1
+275,sociology,1
+275,gender equality,1
+275,space (punctuation),1
+275,psychology,1
+276,government (linguistics),1
+276,resilience (materials science),1
+276,business,1
+276,food systems,1
+276,food security,1
+276,scale (ratio),1
+276,work (physics),1
+276,psychological resilience,1
+276,marketing,1
+276,public relations,1
+277,terminology,1
+277,scholarship,1
+277,higher education,1
+277,categorization,1
+277,public relations,1
+277,sociology,1
+277,conflation,1
+277,subordination (linguistics),1
+277,political science,1
+277,epistemology,1
+278,thematic analysis,2
+278,mainstream,2
+278,invisibility,1
+278,sociology,1
+278,focus group,1
+278,context (archaeology),1
+278,narrative,1
+278,qualitative research,1
+278,narrative inquiry,1
+278,pedagogy,1
+279,white (mutation),2
+279,institution,1
+279,psychology,1
+279,higher education,1
+279,narrative,1
+279,qualitative research,1
+279,medical education,1
+279,pedagogy,1
+279,sociology,1
+279,medicine,1
+280,sentiment analysis,2
+280,threatened species,1
+280,biodiversity,1
+280,social media,1
+280,rhinoceros,1
+280,wildlife,1
+280,geography,1
+280,big data,1
+280,data science,1
+280,internet privacy,1
+281,value (mathematics),2
+281,empirical research,2
+281,affordance,1
+281,outcome (game theory),1
+281,context (archaeology),1
+281,quality (philosophy),1
+281,structural equation modeling,1
+281,psychology,1
+281,affect (linguistics),1
+281,applied psychology,1
+282,vietnamese,1
+282,theory of planned behavior,1
+282,social media,1
+282,business,1
+282,advertising,1
+282,psychology,1
+282,marketing,1
+282,political science,1
+282,computer science,1
+282,control (management),1
+283,tourism,1
+283,business,1
+283,china,1
+283,quality (philosophy),1
+283,psychology,1
+283,marketing,1
+283,structural equation modeling,1
+283,affect (linguistics),1
+283,coronavirus disease 2019 (covid-19),1
+283,advertising,1
+284,co-creation,2
+284,tourism,1
+284,structural equation modeling,1
+284,affect (linguistics),1
+284,coronavirus disease 2019 (covid-19),1
+284,marketing,1
+284,business,1
+284,service (business),1
+284,psychology,1
+284,cognition,1
+285,framing (construction),2
+285,pandemic,2
+285,air travel,2
+285,shame,1
+285,structural equation modeling,1
+285,travel behavior,1
+285,social psychology,1
+285,tourism,1
+285,psychology,1
+285,affect (linguistics),1
+286,co-creation,2
+286,loyalty,1
+286,value (mathematics),1
+286,tourism,1
+286,perspective (graphical),1
+286,marketing,1
+286,affect (linguistics),1
+286,business,1
+286,dimension (graph theory),1
+286,structural equation modeling,1
+287,mindfulness,1
+287,creativity,1
+287,meditation,1
+287,psychology,1
+287,animation,1
+287,psychological intervention,1
+287,affect (linguistics),1
+287,intervention (counseling),1
+287,cognitive psychology,1
+287,cognition,1
+288,psychological research,2
+288,positive psychology,2
+288,mindfulness,1
+288,psychology,1
+288,resilience (materials science),1
+288,psychological resilience,1
+288,social psychology,1
+288,linguistics,1
+288,psychotherapist,1
+288,philosophy,1
+289,creativity,1
+289,indonesian,1
+289,entrepreneurship,1
+289,psychology,1
+289,product (mathematics),1
+289,entrepreneurship education,1
+289,pedagogy,1
+289,sociology,1
+289,mathematics education,1
+289,political science,1
+290,tourism,1
+290,creativity,1
+290,government (linguistics),1
+290,welfare,1
+290,revenue,1
+290,marketing,1
+290,business,1
+290,literacy,1
+290,economic growth,1
+290,economics,1
+291,benchmark (surveying),2
+291,computer science,1
+291,robustness (evolution),1
+291,convolutional neural network,1
+291,artificial intelligence,1
+291,segmentation,1
+291,adversarial system,1
+291,image segmentation,1
+291,machine learning,1
+291,domain (mathematical analysis),1
+292,virtual learning environment,2
+292,perceived stress scale,2
+292,exploratory factor analysis,2
+292,medical education,1
+292,scale (ratio),1
+292,pandemic,1
+292,psychology,1
+292,the internet,1
+292,distance education,1
+292,perception,1
+293,turnover,2
+293,work engagement,2
+293,perceived stress scale,2
+293,psychology,1
+293,mediation,1
+293,turnover intention,1
+293,scale (ratio),1
+293,coronavirus disease 2019 (covid-19),1
+293,work (physics),1
+293,stress (linguistics),1
+294,virtual reality,2
+294,knowledge management,2
+294,computer science,2
+294,human–computer interaction,2
+294,technology acceptance model,1
+294,usability,1
+294,affect (linguistics),1
+294,psychology,1
+294,training (meteorology),1
+294,applied psychology,1
+295,synthetic biology,2
+295,promoter,1
+295,computational biology,1
+295,sequence (biology),1
+295,regulatory sequence,1
+295,genetics,1
+295,dna,1
+295,biology,1
+295,transcription (linguistics),1
+295,transcription factor,1
+296,transparency (behavior),1
+296,automatic summarization,1
+296,computer science,1
+296,reinforcement learning,1
+296,visualization,1
+296,data science,1
+296,creative visualization,1
+296,artificial intelligence,1
+296,computer securitycreative visualization,1
+297,reinforcement learning,1
+297,computer science,1
+297,artificial intelligence,1
+297,convolutional neural network,1
+297,machine learning,1
+297,mobile robot,1
+297,cloning (programming),1
+297,deep learning,1
+297,robot,1
+297,programming languagecloning (programming),1
+298,sustainability,2
+298,business,2
+298,civil society,2
+298,leverage (statistics),2
+298,public relations,2
+298,capacity building,2
+298,political science,2
+298,ecology,2
+298,linguistics,2
+298,philosophy,2
+299,bycatch,1
+299,livelihood,1
+299,reputation,1
+299,business,1
+299,variety (cybernetics),1
+299,psychological intervention,1
+299,affect (linguistics),1
+299,process (computing),1
+299,fishery,1
+299,marketing,1
+300,interface (matter),2
+300,sustainability,1
+300,sustainability science,1
+300,sustainable development,1
+300,government (linguistics),1
+300,political science,1
+300,landscape ecology,1
+300,public policy,1
+300,environmental planning,1
+300,economic growth,1
+301,hydrogen vehicle,2
+301,energy security,2
+301,green economy,2
+301,business,1
+301,renewable energy,1
+301,greenhouse gas,1
+301,environmental economics,1
+301,incentive,1
+301,corporate governance,1
+301,fuel poverty,1
+302,business,3
+302,government (linguistics),3
+302,natural resource economics,3
+302,industrial organization,3
+302,economics,3
+302,linguistics,3
+302,philosophy,3
+302,subsidy,2
+302,environmental economics,2
+302,finance,2
+303,corporate governance,1
+303,arctic,1
+303,indigenous,1
+303,greenhouse gas,1
+303,sustainability,1
+303,normative,1
+303,government (linguistics),1
+303,business,1
+303,environmental governance,1
+303,economy,1
+304,zero emission,2
+304,zero (linguistics),2
+304,zerovalent iron,1
+304,natural resource economics,1
+304,business,1
+304,environmental science,1
+304,metallurgy,1
+304,materials science,1
+304,economics,1
+304,waste management,1
+305,customer service,2
+305,chatbot,1
+305,perspective (graphical),1
+305,service (business),1
+305,psychology,1
+305,computer science,1
+305,business,1
+305,marketing,1
+305,world wide web,1
+305,artificial intelligencechatbot,1
+306,chatbot,1
+306,consumption (sociology),1
+306,business,1
+306,marketing,1
+306,willingness to pay,1
+306,advertising,1
+306,psychology,1
+306,microeconomics,1
+306,computer science,1
+306,economics,1
+307,moderation,2
+307,microfoundations,2
+307,supply chain,1
+307,robustness (evolution),1
+307,forgetting,1
+307,supply chain management,1
+307,supply chain risk management,1
+307,service management,1
+307,premise,1
+307,computer science,1
+308,narrative,1
+308,sociology,1
+308,early childhood education,1
+308,pedagogy,1
+308,epistemology,1
+308,political science,1
+308,philosophy,1
+308,linguistics,1
+309,adaptation (eye),1
+309,government (linguistics),1
+309,psychology,1
+309,content analysis,1
+309,narrative,1
+309,early childhood education,1
+309,coronavirus disease 2019 (covid-19),1
+309,social media,1
+309,early childhood,1
+309,pedagogy,1
+310,danish,2
+310,child care,2
+310,2019-20 coronavirus outbreak,2
+310,well-being,2
+310,coronavirus disease 2019 (covid-19),1
+310,pandemic,1
+310,early childhood education,1
+310,severe acute respiratory syndrome coronavirus 2 (sars-cov-2),1
+310,early childhood,1
+310,psychology,1
+311,affect (linguistics),1
+311,reading (process),1
+311,mathematics education,1
+311,coronavirus disease 2019 (covid-19),1
+311,psychology,1
+311,professional development,1
+311,pedagogy,1
+311,medicine,1
+311,political science,1
+311,communication,1
+312,minority language,2
+312,multilingual education,2
+312,context (archaeology),1
+312,foreign language,1
+312,multilingualism,1
+312,perception,1
+312,psychology,1
+312,local language,1
+312,first language,1
+312,period (music),1
+313,indonesian,1
+313,pandemic,1
+313,coronavirus disease 2019 (covid-19),1
+313,psychology,1
+313,the internet,1
+313,class (philosophy),1
+313,online learning,1
+313,face (sociological concept),1
+313,medical education,1
+313,developmental psychology,1
+314,facilitator,1
+314,club,1
+314,psychology,1
+314,context (archaeology),1
+314,reading (process),1
+314,pedagogy,1
+314,reading comprehension,1
+314,comprehension,1
+314,african american,1
+314,mathematics education,1
+315,knowledge sharing,1
+315,health care,1
+315,knowledge management,1
+315,business,1
+315,bottom of the pyramid,1
+315,government (linguistics),1
+315,empowerment,1
+315,population,1
+315,public relations,1
+315,marketing,1
+316,hospitality,2
+316,happiness,1
+316,job attitude,1
+316,psychology,1
+316,job satisfaction,1
+316,job design,1
+316,job performance,1
+316,personnel psychology,1
+316,social psychology,1
+316,structural equation modeling,1
+317,knowledge sharing,2
+317,referent,1
+317,power (physics),1
+317,knowledge management,1
+317,psychology,1
+317,computer science,1
+317,philosophy,1
+317,linguistics,1
+317,physics,1
+317,quantum mechanicsreferent,1
+318,moderated mediation,2
+318,vitality,2
+318,thriving,1
+318,psychology,1
+318,social psychology,1
+318,mediation,1
+318,originality,1
+318,government (linguistics),1
+318,sociology,1
+318,social science,1
+319,knowledge sharing,2
+319,reciprocity (cultural anthropology),1
+319,affect (linguistics),1
+319,knowledge management,1
+319,context (archaeology),1
+319,social psychology,1
+319,psychology,1
+319,competitive advantage,1
+319,computer science,1
+319,business,1
+320,burnout,1
+320,psychology,1
+320,work engagement,1
+320,narrative,1
+320,work (physics),1
+320,social psychology,1
+320,narrative inquiry,1
+320,applied psychology,1
+320,clinical psychology,1
+320,mechanical engineering,1
+321,kindness,2
+321,affect (linguistics),1
+321,mindfulness,1
+321,meditation,1
+321,altruism (biology),1
+321,psychology,1
+321,clinical psychology,1
+321,social psychology,1
+321,communication,1
+321,philosophy,1
+322,distance education,2
+322,coronavirus disease 2019 (covid-19),2
+322,higher education,2
+322,political science,2
+322,medicine,2
+322,disease,2
+322,infectious disease (medical specialty),2
+322,linguistics,2
+322,pathology,2
+322,2019-20 coronavirus outbreak,2
+323,economic shortage,2
+323,pandemic,2
+323,graduation (instrument),1
+323,coronavirus disease 2019 (covid-19),1
+323,medical education,1
+323,professional development,1
+323,affect (linguistics),1
+323,psychology,1
+323,medicine,1
+323,pedagogy,1
+324,digital divide,2
+324,information and communications technology,1
+324,internet access,1
+324,appropriation,1
+324,psychology,1
+324,mathematics education,1
+324,sociology,1
+324,pedagogy,1
+324,the internet,1
+324,political science,1
+325,amharic,1
+325,linguistics,1
+325,mathematics education,1
+325,sociology,1
+325,psychology,1
+325,philosophyamharic,1
+326,media literacy,2
+326,curriculum,1
+326,mathematics education,1
+326,context (archaeology),1
+326,skills management,1
+326,qualitative property,1
+326,turkish,1
+326,psychology,1
+326,information literacy,1
+326,pedagogy,1
+327,school teachers,2
+327,indonesian,1
+327,open peer review,1
+327,plant biology,1
+327,professional development,1
+327,medical education,1
+327,medicine,1
+327,psychology,1
+327,mathematics education,1
+327,biology,1
+328,compromise,2
+328,work (physics),1
+328,psychosocial,1
+328,autonomy,1
+328,remuneration,1
+328,workforce,1
+328,business,1
+328,subordination (linguistics),1
+328,control (management),1
+328,occupational safety and health,1
+329,empirical research,2
+329,urbanization,1
+329,nexus (standard),1
+329,china,1
+329,natural resource economics,1
+329,economics,1
+329,government (linguistics),1
+329,environmental governance,1
+329,sustainable development,1
+329,corporate governance,1
+330,strengths and weaknesses,2
+330,tourism,1
+330,sustainable development,1
+330,sustainable tourism,1
+330,sustainability,1
+330,business,1
+330,government (linguistics),1
+330,ecotourism,1
+330,environmental resource management,1
+330,construct (python library),1
+331,extreme heat,2
+331,sentiment analysis,2
+331,metropolitan area,1
+331,metric (unit),1
+331,construct (python library),1
+331,extreme weather,1
+331,china,1
+331,social media,1
+331,computer science,1
+331,econometrics,1
+332,feature (linguistics),2
+332,workflow,1
+332,in silico,1
+332,identification (biology),1
+332,computer science,1
+332,machine learning,1
+332,artificial intelligence,1
+332,key (lock),1
+332,process (computing),1
+332,field (mathematics),1
+333,autoethnography,1
+333,operationalization,1
+333,conceptualization,1
+333,interpretation (philosophy),1
+333,epistemology,1
+333,psychology,1
+333,sensibility,1
+333,sociology,1
+333,subjectivity,1
+333,qualitative research,1
+334,space (punctuation),1
+334,psychiatry,1
+334,psychology,1
+334,medicine,1
+334,psychoanalysis,1
+334,philosophy,1
+334,linguistics,1
+335,autoethnography,1
+335,feeling,1
+335,narrative,1
+335,sociology,1
+335,scholarship,1
+335,subject (documents),1
+335,gender studies,1
+335,social psychology,1
+335,perspective (graphical),1
+335,psychology,1
+336,thematic analysis,2
+336,ambivalence,2
+336,autoethnography,1
+336,narrative,1
+336,alliance,1
+336,narrative inquiry,1
+336,process (computing),1
+336,qualitative research,1
+336,health care,1
+336,psychology,1
+337,feature (linguistics),2
+337,classifier (uml),1
+337,transfer of learning,1
+337,computer science,1
+337,fault (geology),1
+337,feature extraction,1
+337,artificial intelligence,1
+337,pattern recognition (psychology),1
+337,domain (mathematical analysis),1
+337,deep learning,1
+338,divergence (linguistics),2
+338,kullback–leibler divergence,2
+338,ensemble learning,2
+338,generalization,1
+338,transfer of learning,1
+338,computer science,1
+338,metric (unit),1
+338,artificial intelligence,1
+338,machine learning,1
+338,domain (mathematical analysis),1
+339,incentive,1
+339,context (archaeology),1
+339,industrial organization,1
+339,supply chain,1
+339,government (linguistics),1
+339,business,1
+339,production (economics),1
+339,emerging markets,1
+339,risk analysis (engineering),1
+339,economics,1
+340,language assessment,1
+340,english language,1
+340,linguistics,1
+340,language proficiency,1
+340,psychology,1
+340,mathematics education,1
+340,philosophylanguage proficiency,1
+341,money laundering,1
+341,business,1
+341,government (linguistics),1
+341,enforcement,1
+341,documentation,1
+341,incentive,1
+341,finance,1
+341,accounting,1
+341,economics,1
+341,linguistics,1
+342,international business,2
+342,experiential knowledge,2
+342,contingency theory,2
+342,contingency,2
+342,sample (material),2
+342,identification (biology),1
+342,experiential learning,1
+342,agency (philosophy),1
+342,marketing,1
+342,multilevel model,1
+343,fast fashion,2
+343,fashion industry,2
+343,textile industry,2
+343,clothing,1
+343,sustainability,1
+343,business,1
+343,production (economics),1
+343,clothing industry,1
+343,government (linguistics),1
+343,consumption (sociology),1
+344,automation,1
+344,business,1
+344,industrial organization,1
+344,manufacturing,1
+344,per capita,1
+344,product (mathematics),1
+344,production (economics),1
+344,investment (military),1
+344,advanced manufacturing,1
+344,government (linguistics),1
+345,clickstream,2
+345,word of mouth,2
+345,product (mathematics),1
+345,affect (linguistics),1
+345,marketing,1
+345,advertising,1
+345,service (business),1
+345,computer science,1
+345,business,1
+345,psychology,1
+346,value (mathematics),2
+346,advertising,1
+346,business,1
+346,affect (linguistics),1
+346,reading (process),1
+346,marketing,1
+346,process (computing),1
+346,psychology,1
+346,computer science,1
+346,communication,1
+347,deception,1
+347,systematic review,1
+347,perspective (graphical),1
+347,inclusion (mineral),1
+347,narrative,1
+347,computer science,1
+347,narrative review,1
+347,psychology,1
+347,internet privacy,1
+347,data science,1
+348,computer science,1
+348,e-commerce,1
+348,artificial intelligence,1
+348,sentiment analysis,1
+348,machine learning,1
+348,data mining,1
+348,world wide websentiment analysis,1
+349,disadvantage,2
+349,hybridity,2
+349,divergence (linguistics),2
+349,critical race theory,2
+349,framing (construction),2
+349,symbolic convergence theory,2
+349,prestige,1
+349,sociology,1
+349,scholarship,1
+349,institutional theory,1
+350,nominal group technique,2
+350,nominal group,2
+350,delphi,2
+350,intervention (counseling),1
+350,medicine,1
+350,delphi method,1
+350,type 2 diabetes mellitus,1
+350,diabetes mellitus,1
+350,family medicine,1
+350,nursing,1
+352,autoencoder,2
+352,data pre-processing,2
+352,clogging,1
+352,shield,1
+352,artificial intelligence,1
+352,transformer,1
+352,artificial neural network,1
+352,computer science,1
+352,engineering,1
+352,preprocessor,1
+353,thematic analysis,2
+353,neighbourhood (mathematics),2
+353,family resilience,2
+353,adverse childhood experiences,1
+353,sibling,1
+353,developmental psychology,1
+353,psychology,1
+353,psychological resilience,1
+353,narrative,1
+353,qualitative research,1
+354,contrast (vision),1
+354,literacy,1
+354,pedagogy,1
+354,dual (grammatical number),1
+354,mathematics education,1
+354,psychology,1
+354,sociology,1
+354,dual language,1
+354,linguistics,1
+354,computer science,1
+355,scientific misconceptions,2
+355,conceptual change,2
+355,scientific literacy,1
+355,curriculum,1
+355,context (archaeology),1
+355,psychology,1
+355,mathematics education,1
+355,vernacular,1
+355,literacy,1
+355,cognition,1
+356,obstacle avoidance,2
+356,feature (linguistics),2
+356,supervised learning,2
+356,collision avoidance,1
+356,computer science,1
+356,artificial intelligence,1
+356,reinforcement learning,1
+356,machine learning,1
+356,generalization,1
+356,collision,1
+357,computer science,1
+357,classifier (uml),1
+357,artificial intelligence,1
+357,false positive paradox,1
+357,documentation,1
+357,machine learning,1
+357,true positive rate,1
+357,annotation,1
+357,natural language processing,1
+357,programming languagetrue positive rate,1
+358,perplexity,1
+358,natural language processing,1
+358,artificial intelligence,1
+358,computer science,1
+358,medical physics,1
+358,psychology,1
+358,medicine,1
+358,language modelperplexity,1
+359,fake news,1
+359,element (criminal law),1
+359,deception,1
+359,conviction,1
+359,style (visual arts),1
+359,core (optical fiber),1
+359,computer science,1
+359,linguistics,1
+359,psychology,1
+359,media studies,1
+360,poverty,1
+360,government (linguistics),1
+360,context (archaeology),1
+360,gerontology,1
+360,welfare,1
+360,population,1
+360,social welfare,1
+360,psychology,1
+360,medicine,1
+360,economic growth,1
+361,knowledge management,1
+361,context (archaeology),1
+361,thematic analysis,1
+361,citizen journalism,1
+361,tanzania,1
+361,health care,1
+361,narrative,1
+361,business,1
+361,sociology,1
+361,qualitative research,1
+362,chatbot,1
+362,osteoarthritis,1
+362,computer science,1
+362,medicine,1
+362,physical therapy,1
+362,physical medicine and rehabilitation,1
+362,alternative medicine,1
+362,world wide web,1
+362,pathologychatbot,1
+363,metadiscourse,1
+363,systematic review,1
+363,linguistics,1
+363,psychology,1
+363,political science,1
+363,medline,1
+363,philosophy,1
+363,lawmetadiscourse,1
+364,thematic map,1
+364,linguistics,1
+364,systematic review,1
+364,psychology,1
+364,computer science,1
+364,medline,1
+364,geography,1
+364,biology,1
+364,philosophy,1
+364,cartography,1
+365,reading (process),1
+365,computer science,1
+365,foreign language,1
+365,linguistics,1
+365,psychology,1
+365,mathematics education,1
+365,philosophy,1
+366,psychology,1
+366,linguistics,1
+366,pedagogy,1
+366,mathematics education,1
+366,sociology,1
+366,philosophy,1
+367,academic writing,2
+367,computer-assisted instruction,2
+367,writing assessment,2
+367,online assessment,2
+367,formative assessment,1
+367,second language writing,1
+367,english for academic purposes,1
+367,mathematics education,1
+367,psychology,1
+367,computer science,1
+368,feature (linguistics),4
+368,causal structure,4
+368,causal model,4
+368,feature selection,2
+368,computer science,2
+368,artificial intelligence,2
+368,machine learning,2
+368,data mining,2
+368,mathematics,2
+368,statistics,2
+369,computer science,1
+369,profiling (computer programming),1
+369,artificial intelligence,1
+369,convolutional neural network,1
+369,machine learning,1
+369,representation (politics),1
+369,pattern recognition (psychology),1
+369,image (mathematics),1
+369,politics,1
+369,political science,1
+370,leadership development,2
+370,vietnamese,1
+370,educational leadership,1
+370,educational technology,1
+370,technology integration,1
+370,neuroleadership,1
+370,psychology,1
+370,pedagogy,1
+370,mathematics education,1
+370,leadership studies,1
+371,computer science,1
+371,natural language processing,1
+371,scoring system,1
+371,writing system,1
+371,mathematics education,1
+371,artificial intelligence,1
+371,linguistics,1
+371,psychology,1
+371,medicine,1
+371,internal medicine,1
+372,grammar,1
+372,computer science,1
+372,linguistics,1
+372,mathematics education,1
+372,natural language processing,1
+372,psychology,1
+372,philosophy,1
+373,computer science,1
+373,parallel computing,1
+373,matrix multiplication,1
+373,locality,1
+373,memory management,1
+373,multiplication (music),1
+373,sparse matrix,1
+373,product (mathematics),1
+373,key (lock),1
+373,computational science,1
+374,bridge (graph theory),2
+374,formative assessment,1
+374,computer science,1
+374,benchmarking,1
+374,scalability,1
+374,artificial intelligence,1
+374,natural language processing,1
+374,database,1
+374,mathematics education,1
+374,psychology,1
+375,mean squared error,1
+375,extreme learning machine,1
+375,artificial neural network,1
+375,convolutional neural network,1
+375,artificial intelligence,1
+375,deep learning,1
+375,correlation coefficient,1
+375,computer science,1
+375,algorithm,1
+375,machine learning,1
+376,human body,2
+376,context (archaeology),1
+376,data science,1
+376,human proteome project,1
+376,computer science,1
+376,government (linguistics),1
+376,systems biology,1
+376,human health,1
+376,multidisciplinary approach,1
+376,computational biology,1
+377,algorithm,1
+377,computer science,1
+377,image (mathematics),1
+377,representation (politics),1
+377,rhetorical question,1
+377,set (abstract data type),1
+377,artificial intelligence,1
+377,agency (philosophy),1
+377,machine learning,1
+377,linguistics,1
+378,feature (linguistics),2
+378,code (set theory),2
+378,popularity,2
+378,obfuscation,1
+378,malware,1
+378,computer science,1
+378,detector,1
+378,process (computing),1
+378,computer security,1
+378,static analysis,1
+379,computer science,1
+379,graph,1
+379,stage (stratigraphy),1
+379,convolutional neural network,1
+379,artificial intelligence,1
+379,theoretical computer science,1
+379,paleontology,1
+379,biology,1
+380,receiver operating characteristic,1
+380,radiography,1
+380,mean squared error,1
+380,pixel,1
+380,precision and recall,1
+380,artificial intelligence,1
+380,ground truth,1
+380,periodontitis,1
+380,mathematics,1
+380,medicine,1
+381,standardization,1
+381,field (mathematics),1
+381,data science,1
+381,computer science,1
+381,engineering,1
+381,natural language processing,1
+381,mathematics,1
+381,pure mathematics,1
+381,operating system,1
+382,convolutional code,2
+382,autoencoder,1
+382,artificial intelligence,1
+382,computer science,1
+382,noise reduction,1
+382,pattern recognition (psychology),1
+382,convolutional neural network,1
+382,deep learning,1
+382,speech recognition,1
+382,algorithm,1
+383,feature (linguistics),2
+383,computer science,1
+383,anomaly detection,1
+383,smoothing,1
+383,energy consumption,1
+383,process (computing),1
+383,energy (signal processing),1
+383,decomposition,1
+383,artificial intelligence,1
+383,data mining,1
+384,autoencoder,2
+384,geolocation,2
+384,computer science,1
+384,data mining,1
+384,leverage (statistics),1
+384,artificial intelligence,1
+384,convolutional neural network,1
+384,machine learning,1
+384,artificial neural network,1
+384,world wide webleverage (statistics),1
+385,computer science,1
+385,artificial intelligence,1
+385,deep learning,1
+385,machine learning,1
+385,convolutional neural network,1
+385,information privacy,1
+385,recurrent neural network,1
+385,artificial neural network,1
+385,layer (electronics),1
+385,process (computing),1
+386,computer science,1
+386,beamforming,1
+386,mimo,1
+386,artificial neural network,1
+386,convolutional neural network,1
+386,channel state information,1
+386,reduction (mathematics),1
+386,scalability,1
+386,deep learning,1
+386,artificial intelligence,1
+387,meta-analysis,1
+387,posttraumatic stress,1
+387,systematic review,1
+387,psychology,1
+387,stress (linguistics),1
+387,clinical psychology,1
+387,computer science,1
+387,medline,1
+387,medicine,1
+387,chemistry,1
+388,coercion (linguistics),1
+388,eating disorders,1
+388,psychology,1
+388,psychiatry,1
+388,criminology,1
+388,political science,1
+388,environmental ethics,1
+388,psychotherapist,1
+388,environmental health,1
+388,clinical psychology,1
+389,psychology,1
+389,cognitive psychology,1
+389,nonverbal communication,1
+389,california verbal learning test,1
+389,depression (economics),1
+389,verbal learning,1
+389,artificial intelligence,1
+389,computer science,1
+389,natural language processing,1
+389,developmental psychology,1
+390,stress (linguistics),1
+390,computer science,1
+390,philosophy,1
+390,linguistics,1
+391,natural resource management,2
+391,natural (archaeology),1
+391,business,1
+391,government (linguistics),1
+391,corporate governance,1
+391,natural experiment,1
+391,natural resource,1
+391,environmental economics,1
+391,environmental resource management,1
+391,finance,1
+392,spectrogram,2
+392,chirp spread spectrum,2
+392,chirp,1
+392,computer science,1
+392,demodulation,1
+392,transmission (telecommunications),1
+392,network packet,1
+392,electronic engineering,1
+392,channel (broadcasting),1
+392,speech recognition,1
+393,computer science,2
+393,decoding methods,2
+393,recurrent neural network,2
+393,artificial neural network,2
+393,deep learning,2
+393,algorithm,2
+393,convolution (computer science),2
+393,multilayer perceptron,2
+393,neural decoding,2
+393,codebook,1
+394,component (thermodynamics),2
+394,recommender system,1
+394,collaborative filtering,1
+394,computer science,1
+394,seekers,1
+394,precision and recall,1
+394,field (mathematics),1
+394,recall,1
+394,volume (thermodynamics),1
+394,information retrieval,1
+395,machine learning,1
+395,computer science,1
+395,artificial intelligence,1
+395,natural language processing,1
+395,data science,1
+396,computer science,1
+396,generative grammar,1
+396,transformation (genetics),1
+396,digital transformation,1
+396,government (linguistics),1
+396,artificial intelligence,1
+396,multimedia,1
+396,world wide web,1
+396,chemistry,1
+396,biochemistry,1
+397,zero (linguistics),2
+397,race (biology),1
+397,net (polyhedron),1
+397,environmental science,1
+397,mathematics,1
+397,biology,1
+397,linguistics,1
+397,philosophy,1
+397,botany,1
+397,geometrynet (polyhedron),1
+398,fire detection,2
+398,softmax function,1
+398,computer science,1
+398,artificial intelligence,1
+398,deep learning,1
+398,convolutional neural network,1
+398,artificial neural network,1
+398,fire control,1
+398,real-time computing,1
+398,robot,1
+399,psychology,1
+399,linguistics,1
+399,second-language acquisition,1
+399,language acquisition,1
+399,cognitive psychology,1
+399,cognitive science,1
+399,mathematics education,1
+399,philosophy,1
+400,corporate sustainability,2
+400,environmental governance,2
+400,corporate governance,1
+400,sustainability,1
+400,affect (linguistics),1
+400,business,1
+400,corporate social responsibility,1
+400,social sustainability,1
+400,sustainable development,1
+400,environmental economics,1
+401,holography,1
+401,computer science,1
+401,artificial intelligence,1
+401,holographic display,1
+401,pipeline (software),1
+401,computer vision,1
+401,convolutional neural network,1
+401,speckle pattern,1
+401,computation,1
+401,optics,1
+402,language barrier,2
+402,snowball sampling,1
+402,theory of planned behavior,1
+402,nursing,1
+402,qualitative research,1
+402,nurse education,1
+402,psychology,1
+402,incentive,1
+402,perception,1
+402,nonprobability sampling,1
+403,transfer of learning,2
+403,graphics processing unit,2
+403,code (set theory),2
+403,data set,2
+403,feature (linguistics),2
+403,contextual image classification,2
+403,computer science,1
+403,overfitting,1
+403,convolutional neural network,1
+403,artificial intelligence,1
+404,computer science,1
+404,artificial intelligence,1
+404,convolutional neural network,1
+404,deep learning,1
+404,support vector machine,1
+404,classifier (uml),1
+404,coronavirus disease 2019 (covid-19),1
+404,machine learning,1
+404,pattern recognition (psychology),1
+404,disease,1
+405,autonomous agent,2
+405,feature (linguistics),2
+405,overtaking,1
+405,reinforcement learning,1
+405,computer science,1
+405,graph,1
+405,artificial intelligence,1
+405,multi-agent system,1
+405,distributed computing,1
+405,engineering,1
+406,context (archaeology),1
+406,computer science,1
+406,locality,1
+406,reinforcement learning,1
+406,range (aeronautics),1
+406,downstream (manufacturing),1
+406,fuse (electrical),1
+406,real-time computing,1
+406,artificial intelligence,1
+406,engineering,1
+407,government (linguistics),1
+407,categorization,1
+407,corporation,1
+407,liability,1
+407,work (physics),1
+407,business,1
+407,marketing,1
+407,public relations,1
+407,computer security,1
+407,engineering,1
+408,acute care,2
+408,sociotechnical system,1
+408,medicine,1
+408,emergency department,1
+408,context (archaeology),1
+408,comprehension,1
+408,medical emergency,1
+408,descriptive statistics,1
+408,health care,1
+408,qualitative research,1
+409,streaming data,2
+409,concept drift,1
+409,computer science,1
+409,asynchronous communication,1
+409,regularization (linguistics),1
+409,process (computing),1
+409,data stream mining,1
+409,adaptation (eye),1
+409,distributed computing,1
+409,artificial intelligence,1
+410,arrow of time,2
+410,information flow,2
+410,connectomics,2
+410,human brain,2
+410,default mode network,1
+410,human connectome project,1
+410,cognition,1
+410,computer science,1
+410,hierarchy,1
+410,transfer entropy,1
+411,working memory,1
+411,recurrent neural network,1
+411,task (project management),1
+411,artificial neural network,1
+411,excitatory postsynaptic potential,1
+411,neuroscience,1
+411,computer science,1
+411,multiplexing,1
+411,cognition,1
+411,artificial intelligence,1
+412,adaboost,2
+412,ensemble forecasting,2
+412,artificial intelligence,1
+412,ensemble learning,1
+412,machine learning,1
+412,random forest,1
+412,deep learning,1
+412,computer science,1
+412,convolutional neural network,1
+412,breast cancer,1
+413,computer science,1
+413,natural language processing,1
+413,artificial intelligence,1
+413,information retrieval,1
+413,data science,1
+414,transferability,2
+414,upload,2
+414,feature (linguistics),2
+414,computer science,1
+414,adversarial system,1
+414,feature vector,1
+414,artificial intelligence,1
+414,facial recognition system,1
+414,image (mathematics),1
+414,identification (biology),1
+415,predictive modelling,2
+415,autoregressive integrated moving average,1
+415,computer science,1
+415,time series,1
+415,autoregressive model,1
+415,pandemic,1
+415,recurrent neural network,1
+415,artificial intelligence,1
+415,coronavirus disease 2019 (covid-19),1
+415,econometrics,1
+416,apprenticeship,2
+416,disadvantaged,2
+416,market integration,2
+416,refugee,1
+416,agency (philosophy),1
+416,gainful employment,1
+416,political science,1
+416,economic growth,1
+416,business,1
+416,public relations,1
+417,interpretative phenomenological analysis,2
+417,refugee,1
+417,context (archaeology),1
+417,originality,1
+417,entrepreneurship,1
+417,value (mathematics),1
+417,psychological intervention,1
+417,perception,1
+417,social psychology,1
+417,government (linguistics),1
+418,prestige,2
+418,social capital,1
+418,interpersonal ties,1
+418,social network (sociolinguistics),1
+418,demographic economics,1
+418,labour economics,1
+418,unemployment,1
+418,sociology,1
+418,business,1
+418,economics,1
+419,ukrainian,2
+419,intersectionality,2
+419,structure and agency,2
+419,refugee,1
+419,habitus,1
+419,inclusion (mineral),1
+419,gender studies,1
+419,negotiation,1
+419,agency (philosophy),1
+419,sociology,1
+420,grading (engineering),2
+420,scope (computer science),2
+420,teaching english,2
+420,rubric,1
+420,pragmatics,1
+420,computer science,1
+420,test (biology),1
+420,english language,1
+420,mathematics education,1
+420,variety (cybernetics),1
+421,social activism,2
+421,political science,2
+421,sociology,2
+421,media studies,2
+421,framing (construction),2
+421,social media,1
+421,affect (linguistics),1
+421,social movement,1
+421,news media,1
+421,digital media,1
+422,narrative,1
+422,journalism,1
+422,battle,1
+422,meaning (existential),1
+422,public relations,1
+422,sociology,1
+422,political science,1
+422,citizen journalism,1
+422,social media,1
+422,news media,1
+423,happiness,1
+423,psychology,1
+423,narrative,1
+423,tourism,1
+423,eudaimonia,1
+423,social media,1
+423,social psychology,1
+423,context (archaeology),1
+423,identification (biology),1
+423,political science,1
+424,technical journalism,2
+424,newspaper,1
+424,journalism,1
+424,autonomy,1
+424,public relations,1
+424,government (linguistics),1
+424,social media,1
+424,political science,1
+424,participant observation,1
+424,news media,1
+425,harassment,2
+425,hostility,2
+425,thriving,1
+425,government (linguistics),1
+425,context (archaeology),1
+425,public relations,1
+425,psychological resilience,1
+425,resistance (ecology),1
+425,politics,1
+425,political science,1
+426,silence,2
+426,harassment,1
+426,journalism,1
+426,public relations,1
+426,political science,1
+426,social media,1
+426,scholarship,1
+426,digital media,1
+426,government (linguistics),1
+426,sociology,1
+427,storytelling,1
+427,journalism,1
+427,product (mathematics),1
+427,social media,1
+427,sociology,1
+427,new product development,1
+427,public relations,1
+427,knowledge management,1
+427,computer science,1
+427,engineering ethics,1
+428,computer science,1
+428,variety (cybernetics),1
+428,stochastic programming,1
+428,stochastic optimization,1
+428,machine learning,1
+428,field (mathematics),1
+428,artificial intelligence,1
+428,terminology,1
+428,optimization problem,1
+428,reinforcement learning,1
+429,sustainability,1
+429,context (archaeology),1
+429,business,1
+429,delphi method,1
+429,stakeholder,1
+429,relevance (law),1
+429,government (linguistics),1
+429,public relations,1
+429,knowledge management,1
+429,environmental resource management,1
+430,sustainability,1
+430,social sustainability,1
+430,business,1
+430,stakeholder,1
+430,supply chain,1
+430,sustainability organizations,1
+430,health care,1
+430,dimension (graph theory),1
+430,supply chain management,1
+430,government (linguistics),1
+431,computer science,1
+431,reinforcement learning,1
+431,network topology,1
+431,generalization,1
+431,artificial intelligence,1
+431,routing (electronic design automation),1
+431,graph,1
+431,artificial neural network,1
+431,convolutional neural network,1
+431,machine learning,1
+432,job satisfaction,3
+432,psychology,3
+432,social psychology,3
+432,work (physics),2
+432,affect (linguistics),2
+432,political science,2
+432,mechanical engineering,2
+432,psychotherapist,2
+432,affect,2
+432,happiness,2
+433,cognitive reframing,1
+433,refugee,1
+433,framing (construction),1
+433,german,1
+433,sociology,1
+433,metaphor,1
+433,ethnography,1
+433,context (archaeology),1
+433,social psychology,1
+433,political science,1
+434,modalities,2
+434,metaphor,1
+434,dimension (graph theory),1
+434,icts,1
+434,work (physics),1
+434,information and communications technology,1
+434,sociology,1
+434,psychology,1
+434,computer science,1
+434,linguistics,1
+435,framing (construction),2
+435,disconnection,2
+435,covert,2
+435,distancing,1
+435,social psychology,1
+435,sociology,1
+435,devaluation,1
+435,psychology,1
+435,coronavirus disease 2019 (covid-19),1
+435,political science,1
+436,temporality,2
+436,simultaneity,2
+436,repetition (rhetorical device),2
+436,soundscape,2
+436,temporalities,1
+436,stress (linguistics),1
+436,futures contract,1
+436,sociology,1
+436,aesthetics,1
+436,gender studies,1
+437,sustainability reporting,2
+437,corporate sustainability,2
+437,divergence (linguistics),1
+437,sustainability,1
+437,business,1
+437,accounting,1
+437,ecology,1
+437,philosophy,1
+437,linguistics,1
+437,biologydivergence (linguistics),1
+438,international education,2
+438,port (circuit theory),2
+438,china,1
+438,globe,1
+438,government (linguistics),1
+438,service (business),1
+438,higher education,1
+438,economic growth,1
+438,political science,1
+438,economy,1
+439,international education,2
+439,china,1
+439,life satisfaction,1
+439,mainland china,1
+439,acculturation,1
+439,industrial and organizational psychology,1
+439,psychology,1
+439,affect (linguistics),1
+439,political science,1
+439,higher education,1
+440,social integration,2
+440,attractiveness,1
+440,higher education,1
+440,public relations,1
+440,international education,1
+440,portuguese,1
+440,political science,1
+440,economic growth,1
+440,sociology,1
+440,psychology,1
+441,study abroad,2
+441,attractiveness,1
+441,china,1
+441,psychology,1
+441,affect (linguistics),1
+441,higher education,1
+441,social psychology,1
+441,economic growth,1
+441,pedagogy,1
+441,political science,1
+442,pandemic,1
+442,government (linguistics),1
+442,china,1
+442,psychology,1
+442,anxiety,1
+442,environmental health,1
+442,business,1
+442,mental health,1
+442,economic growth,1
+442,coronavirus disease 2019 (covid-19),1
+443,attunement,1
+443,affect (linguistics),1
+443,psychology,1
+443,language acquisition,1
+443,pedagogy,1
+443,china,1
+443,vocational education,1
+443,sociology,1
+443,mathematics education,1
+443,political science,1
+444,elite,2
+444,internationalization,1
+444,china,1
+444,feeling,1
+444,international education,1
+444,equity (law),1
+444,political science,1
+444,higher education,1
+444,government (linguistics),1
+444,politics,1
+445,ontology,1
+445,arabic,1
+445,computer science,1
+445,computer security,1
+445,engineering,1
+445,linguistics,1
+445,epistemology,1
+445,philosophy,1
+446,computer science,1
+446,architectural design,1
+446,feature (linguistics),1
+446,key (lock),1
+446,feature selection,1
+446,selection (genetic algorithm),1
+446,quality (philosophy),1
+446,artificial intelligence,1
+446,machine learning,1
+446,engineering,1
+447,term (time),1
+447,artificial intelligence,1
+447,computer science,1
+447,natural language processing,1
+447,physics,1
+447,quantum mechanics,1
+448,computer science,1
+448,artificial intelligence,1
+448,convolutional neural network,1
+448,pattern recognition (psychology),1
+448,classifier (uml),1
+448,deep learning,1
+448,test set,1
+448,machine learning,1
+449,opioid use disorder,1
+449,buprenorphine,1
+449,intervention (counseling),1
+449,medicine,1
+449,mindfulness,1
+449,population,1
+449,adjunct,1
+449,psychology,1
+449,clinical psychology,1
+449,physical therapy,1
+450,sentiment analysis,2
+450,methadone,1
+450,buprenorphine,1
+450,(+)-naloxone,1
+450,thematic analysis,1
+450,medicine,1
+450,psychology,1
+450,psychiatry,1
+450,opioid,1
+450,computer science,1
+451,knowledge graph,2
+451,spurious relationship,1
+451,computer science,1
+451,scalability,1
+451,data mining,1
+451,set (abstract data type),1
+451,constraint (computer-aided design),1
+451,reduction (mathematics),1
+451,filter (signal processing),1
+451,artificial intelligence,1
+452,electroencephalography,1
+452,computer science,1
+452,artificial intelligence,1
+452,pattern recognition (psychology),1
+452,convolutional neural network,1
+452,sensitivity (control systems),1
+452,signal (programming language),1
+452,speech recognition,1
+452,machine learning,1
+452,psychology,1
+453,team-based learning,1
+453,teamwork,1
+453,psychology,1
+453,medical education,1
+453,perception,1
+453,lifelong learning,1
+453,narrative,1
+453,pedagogy,1
+453,mathematics education,1
+453,medicine,1
+454,flipped classroom,2
+454,prosthodontics,2
+454,attendance,1
+454,confounding,1
+454,multilevel model,1
+454,affect (linguistics),1
+454,randomized controlled trial,1
+454,learning styles,1
+454,medicine,1
+454,psychology,1
+455,likert scale,1
+455,indonesian,1
+455,structural equation modeling,1
+455,psychology,1
+455,coronavirus disease 2019 (covid-19),1
+455,mathematics education,1
+455,data collection,1
+455,perception,1
+455,scale (ratio),1
+455,quality (philosophy),1
+456,school district,2
+456,dual purpose,2
+456,dual language,1
+456,the internet,1
+456,dual (grammatical number),1
+456,computer science,1
+456,educational technology,1
+456,multimedia,1
+456,mathematics education,1
+456,world wide web,1
+457,formal learning,2
+457,digital divide,2
+457,latin americans,1
+457,educational technology,1
+457,social media,1
+457,the internet,1
+457,networked learning,1
+457,public relations,1
+457,government (linguistics),1
+457,sociology,1
+458,professional learning community,2
+458,conceptual framework,2
+458,social learning,2
+458,foregrounding,1
+458,social media,1
+458,context (archaeology),1
+458,psychology,1
+458,pedagogy,1
+458,professional development,1
+458,sociology,1
+459,online community,2
+459,corporate governance,1
+459,computer science,1
+459,deliberation,1
+459,government (linguistics),1
+459,process (computing),1
+459,public relations,1
+459,knowledge management,1
+459,reputation,1
+459,set (abstract data type),1
+460,punishment (psychology),2
+460,harassment,2
+460,embarrassment,2
+460,punitive damages,1
+460,league,1
+460,anonymity,1
+460,rhetoric,1
+460,face (sociological concept),1
+460,internet privacy,1
+460,criminology,1
+461,artificial intelligence,1
+461,computer science,1
+461,convolutional neural network,1
+461,pixel,1
+461,image quality,1
+461,image (mathematics),1
+461,pattern recognition (psychology),1
+461,test set,1
+461,set (abstract data type),1
+461,deep learning,1
+462,convolutional neural network,1
+462,artificial intelligence,1
+462,pattern recognition (psychology),1
+462,computer science,1
+462,wavelet,1
+462,wavelet transform,1
+463,problem-based learning,2
+463,mathematics education,1
+463,computational thinking,1
+463,premise,1
+463,perception,1
+463,computer science,1
+463,psychology,1
+463,linguistics,1
+463,philosophy,1
+463,neurosciencecomputational thinking,1
+464,computational thinking,3
+464,educational robotics,2
+464,computer science,2
+464,mathematics education,2
+464,psychology,2
+464,paleontology,2
+464,linguistics,2
+464,philosophy,2
+464,robotics,1
+464,storytelling,1
+465,programming language implementation,2
+465,natural language programming,2
+465,computer science,1
+465,first-generation programming language,1
+465,programming language,1
+465,programming domain,1
+465,programming paradigm,1
+465,fifth-generation programming language,1
+465,very high-level programming language,1
+465,python (programming language),1
+466,storytelling,1
+466,computational thinking,1
+466,robotics,1
+466,narrative,1
+466,reading (process),1
+466,robot,1
+466,mathematics education,1
+466,test (biology),1
+466,computer science,1
+466,psychology,1
+467,feature (linguistics),2
+467,feature learning,2
+467,computer science,1
+467,artificial intelligence,1
+467,deep learning,1
+467,context (archaeology),1
+467,machine learning,1
+467,focus (optics),1
+467,extractor,1
+467,function (biology),1
+468,big data,1
+468,cloud computing,1
+468,transparency (behavior),1
+468,data science,1
+468,accountability,1
+468,exploit,1
+468,computer science,1
+468,context (archaeology),1
+468,government (linguistics),1
+468,open government,1
+469,big data,1
+469,knowledge management,1
+469,context (archaeology),1
+469,computer science,1
+469,data science,1
+469,decision support system,1
+469,data quality,1
+469,government (linguistics),1
+469,business,1
+469,data mining,1
+470,signal (programming language),2
+470,preprint,1
+470,intensive care unit,1
+470,computer science,1
+470,unit (ring theory),1
+470,artificial intelligence,1
+470,speech recognition,1
+470,medicine,1
+470,psychology,1
+470,intensive care medicine,1
+471,competence (human resources),1
+471,curriculum,1
+471,terminology,1
+471,higher education,1
+471,originality,1
+471,pedagogy,1
+471,thematic analysis,1
+471,psychology,1
+471,engineering ethics,1
+471,sociology,1
+472,theme (computing),2
+472,vietnamese,1
+472,creativity,1
+472,pedagogy,1
+472,psychology,1
+472,mathematics education,1
+472,computer science,1
+472,social psychology,1
+472,philosophy,1
+472,linguistics,1
+473,creativity,2
+473,novelty,2
+473,psychology,2
+473,qualitative property,2
+473,computer science,2
+473,social psychology,2
+473,analogical reasoning,2
+473,structuring,2
+473,ideation,1
+473,usability,1
+474,preparedness,2
+474,norwegian,2
+474,pandemic,2
+474,recreation,1
+474,outbreak,1
+474,geography,1
+474,coronavirus disease 2019 (covid-19),1
+474,baseline (sea),1
+474,socioeconomics,1
+474,status quo,1
+475,urban green space,2
+475,economic shortage,2
+475,green infrastructure,2
+475,green roof,2
+475,gini coefficient,1
+475,equity (law),1
+475,sustainable development,1
+475,offset (computer science),1
+475,business,1
+475,distribution (mathematics),1
+476,spatial planning,2
+476,environmental planning,1
+476,urbanization,1
+476,urban planning,1
+476,land use,1
+476,drainage,1
+476,sustainable development,1
+476,flood mitigation,1
+476,land-use planning,1
+476,business,1
+477,feature (linguistics),2
+477,handwriting recognition,2
+477,handwriting,1
+477,computer science,1
+477,artificial intelligence,1
+477,feature extraction,1
+477,feature selection,1
+477,pattern recognition (psychology),1
+477,machine learning,1
+477,speech recognition,1
+478,affect (linguistics),1
+478,context (archaeology),1
+478,diversity (politics),1
+478,architecture,1
+478,cultural diversity,1
+478,sociology,1
+478,geography,1
+478,data science,1
+478,computer science,1
+478,anthropology,1
+479,overfitting,2
+479,computer science,1
+479,generative adversarial network,1
+479,artificial intelligence,1
+479,speech recognition,1
+479,artificial neural network,1
+479,deep learninggenerative adversarial network,1
+480,leverage (statistics),2
+480,emerging technologies,2
+480,business,1
+480,supply chain,1
+480,sustainability,1
+480,emerging markets,1
+480,vietnamese,1
+480,industrial organization,1
+480,environmental economics,1
+480,marketing,1
+481,digital economy,2
+481,barriers to entry,2
+481,circular economy,1
+481,corporate governance,1
+481,business,1
+481,process (computing),1
+481,industrial organization,1
+481,dimension (graph theory),1
+481,government (linguistics),1
+481,resource (disambiguation),1
+482,delphi,2
+482,pandemic,2
+482,circular economy,2
+482,digital economy,2
+482,industry 4.0,2
+482,delphi method,1
+482,sustainability,1
+482,government (linguistics),1
+482,coronavirus disease 2019 (covid-19),1
+482,business,1
+483,unit (ring theory),1
+483,process (computing),1
+483,professional development,1
+483,active learning (machine learning),1
+483,quality (philosophy),1
+483,psychology,1
+483,instructional design,1
+483,faculty development,1
+483,medical education,1
+483,computer science,1
+484,apprenticeship,2
+484,graduate education,2
+484,graduate students,2
+484,cognitive apprenticeship,1
+484,cognition,1
+484,medical education,1
+484,pedagogy,1
+484,psychology,1
+484,engineering ethics,1
+484,sociology,1
+485,coronal plane,1
+485,cone beam computed tomography,1
+485,sagittal plane,1
+485,convolutional neural network,1
+485,artificial intelligence,1
+485,medicine,1
+485,computer science,1
+485,medical imaging,1
+485,radiation treatment planning,1
+485,computed tomography,1
+486,feature (linguistics),2
+486,computer science,1
+486,heuristic,1
+486,dimensionality reduction,1
+486,deep learning,1
+486,key (lock),1
+486,curse of dimensionality,1
+486,transfer of learning,1
+486,reduction (mathematics),1
+486,computer engineering,1
+487,polarimetry,1
+487,interferometry,1
+487,polarization (electrochemistry),1
+487,computer science,1
+487,image resolution,1
+487,optics,1
+487,convolutional neural network,1
+487,physics,1
+487,artificial intelligence,1
+487,scattering,1
+488,hyperspectral imaging,1
+488,phenology,1
+488,reflectivity,1
+488,remote sensing,1
+488,nitrogen,1
+488,environmental science,1
+488,fusion,1
+488,artificial intelligence,1
+488,content (measure theory),1
+488,computer science,1
+489,blessing,2
+489,energy consumption,1
+489,china,1
+489,business,1
+489,economic shortage,1
+489,industrial organization,1
+489,consumption (sociology),1
+489,energy (signal processing),1
+489,energy intensity,1
+489,digital transformation,1
+490,baseline (sea),2
+490,chatbot,1
+490,personalization,1
+490,computer science,1
+490,wearable computer,1
+490,sleep (system call),1
+490,software deployment,1
+490,actigraphy,1
+490,human–computer interaction,1
+490,applied psychology,1
+491,mobile social network,2
+491,computer science,1
+491,semantics (computer science),1
+491,anonymity,1
+491,computer security,1
+491,the internet,1
+491,privacy software,1
+491,cluster analysis,1
+491,information privacy,1
+491,internet privacy,1
+492,interactive kiosk,2
+492,information overload,2
+492,cognitive load,2
+492,tracking (education),2
+492,stress test,2
+492,technostress,1
+492,test (biology),1
+492,stress (linguistics),1
+492,computer science,1
+492,cognition,1
+493,context (archaeology),1
+493,government (linguistics),1
+493,coronavirus disease 2019 (covid-19),1
+493,higher education,1
+493,medical education,1
+493,work (physics),1
+493,distance education,1
+493,pandemic,1
+493,psychology,1
+493,political science,1
+494,documentation,1
+494,equity (law),1
+494,indonesian,1
+494,computer science,1
+494,data collection,1
+494,knowledge management,1
+494,quality (philosophy),1
+494,mathematics education,1
+494,psychology,1
+494,political science,1
+495,videoconferencing,2
+495,social distance,1
+495,coronavirus disease 2019 (covid-19),1
+495,focus group,1
+495,psychology,1
+495,narrative,1
+495,space (punctuation),1
+495,medical education,1
+495,multimedia,1
+495,social psychology,1
+496,unified theory of acceptance and use of technology,1
+496,structural equation modeling,1
+496,government (linguistics),1
+496,information and communications technology,1
+496,public relations,1
+496,expectancy theory,1
+496,task (project management),1
+496,knowledge management,1
+496,business,1
+496,e-government,1
+497,readability,1
+497,reliability (semiconductor),1
+497,rotator cuff,1
+497,comprehension,1
+497,quality (philosophy),1
+497,reading (process),1
+497,benchmark (surveying),1
+497,medicine,1
+497,class (philosophy),1
+497,medical physics,1
+498,work environment,2
+498,institution,2
+498,job satisfaction,1
+498,work (physics),1
+498,christian ministry,1
+498,pleasure,1
+498,psychology,1
+498,affect (linguistics),1
+498,islam,1
+498,social psychology,1
+499,empirical research,2
+499,reciprocal,2
+499,design thinking,1
+499,normative,1
+499,embodied cognition,1
+499,perspective (graphical),1
+499,sociology,1
+499,cognition,1
+499,action (physics),1
+499,epistemology,1
+500,contingency theory,2
+500,internationalization,1
+500,contingency,1
+500,business,1
+500,liability,1
+500,industrial organization,1
+500,relation (database),1
+500,china,1
+500,institutional theory,1
+500,emerging markets,1
+501,causation,1
+501,narrative,1
+501,ecosystem,1
+501,entrepreneurship,1
+501,perspective (graphical),1
+501,ecology,1
+501,sociology,1
+501,epistemology,1
+501,political science,1
+501,computer science,1
+502,unpacking,1
+502,typology,1
+502,investment (military),1
+502,business,1
+502,economics,1
+502,sociology,1
+502,political science,1
+502,anthropology,1
+502,philosophy,1
+502,linguistics,1
+503,value (mathematics),2
+503,alliance,1
+503,business,1
+503,contingency,1
+503,flexibility (engineering),1
+503,industrial organization,1
+503,business administration,1
+503,marketing,1
+503,economics,1
+503,management,1
+504,forgetting,1
+504,computer science,1
+504,bottleneck,1
+504,von neumann architecture,1
+504,artificial intelligence,1
+504,artificial neural network,1
+504,process (computing),1
+504,embedded system,1
+504,philosophy,1
+504,linguistics,1
+505,hyperparameter,2
+505,feature (linguistics),2
+505,interpretability,1
+505,random forest,1
+505,decision tree,1
+505,machine learning,1
+505,mean squared error,1
+505,computer science,1
+505,artificial intelligence,1
+505,mathematics,1
+506,categorical variable,2
+506,data processing,2
+506,feature (linguistics),2
+506,computer science,1
+506,data pre-processing,1
+506,machine learning,1
+506,feature selection,1
+506,missing data,1
+506,outlier,1
+506,artificial intelligence,1
+507,convolutional neural network,1
+507,computer science,1
+507,probabilistic logic,1
+507,encoding (memory),1
+507,quantization (signal processing),1
+507,artificial intelligence,1
+507,pattern recognition (psychology),1
+507,algorithm,1
+508,convolutional neural network,1
+508,computer science,1
+508,artificial intelligence,1
+508,graph,1
+508,pattern recognition (psychology),1
+508,theoretical computer science,1
+509,computer science,2
+509,personalized learning,2
+509,artificial intelligence,2
+509,psychology,2
+509,mathematics education,2
+509,excellence,2
+509,learning analytics,2
+509,zone of proximal development,1
+509,cognitive load,1
+509,cognition,1
+510,behavioral pattern,2
+510,psychology,1
+510,academic achievement,1
+510,cognition,1
+510,affect (linguistics),1
+510,educational technology,1
+510,mathematics education,1
+510,computer science,1
+510,software engineering,1
+510,communication,1
+511,video game,2
+511,informal learning,2
+511,digital video,2
+511,empathy,1
+511,game based learning,1
+511,semiotics,1
+511,psychology,1
+511,dual (grammatical number),1
+511,literacy,1
+511,multimedia,1
+512,vocabulary,1
+512,computer science,1
+512,vocabulary learning,1
+512,psychology,1
+512,working memory,1
+512,game based learning,1
+512,cognitive psychology,1
+512,natural language processing,1
+512,linguistics,1
+512,mathematics education,1
+513,nonprobability sampling,1
+513,computer science,1
+513,mathematics education,1
+513,indonesian,1
+513,documentation,1
+513,test (biology),1
+513,normality,1
+513,data collection,1
+513,psychology,1
+513,population,1
+514,vocabulary,1
+514,mathematics education,1
+514,test (biology),1
+514,psychology,1
+514,computer science,1
+514,boosting (machine learning),1
+514,artificial intelligence,1
+514,linguistics,1
+514,paleontology,1
+514,philosophy,1
+515,mnist database,1
+515,computer science,1
+515,overhead (engineering),1
+515,reduction (mathematics),1
+515,machine learning,1
+515,artificial intelligence,1
+515,distributed computing,1
+515,set (abstract data type),1
+515,convolutional neural network,1
+515,task (project management),1
+516,models of communication,2
+516,federated learning,2
+516,mnist database,1
+516,computer science,1
+516,overhead (engineering),1
+516,convolutional neural network,1
+516,distributed computing,1
+516,artificial intelligence,1
+516,relation (database),1
+516,computation,1
+517,computer science,1
+517,human–computer interaction,1
+517,voice activity detection,1
+517,user interface,1
+517,speech recognition,1
+517,user experience design,1
+517,interface (matter),1
+517,user interface design,1
+517,speech processing,1
+517,multimedia,1
+518,metadata,1
+518,poverty,1
+518,mobile phone,1
+518,computer science,1
+518,phone,1
+518,world wide web,1
+518,telecommunications,1
+518,economics,1
+518,economic growth,1
+518,linguistics,1
+519,leverage (statistics),2
+519,discontinuity (linguistics),2
+519,regression discontinuity design,1
+519,exploit,1
+519,extrapolation,1
+519,agriculture,1
+519,econometrics,1
+519,economics,1
+519,panel data,1
+519,causal inference,1
+520,random forest,1
+520,feature (linguistics),1
+520,computer science,1
+520,decision tree,1
+520,pattern recognition (psychology),1
+520,artificial intelligence,1
+520,machine learning,1
+520,data mining,1
+520,philosophy,1
+520,linguisticsfeature (linguistics),1
+521,preparedness,2
+521,bachelor,2
+521,accounting,1
+521,curriculum,1
+521,romanian,1
+521,process (computing),1
+521,psychology,1
+521,political science,1
+521,computer science,1
+521,pedagogy,1
+522,feature (linguistics),2
+522,interpretability,1
+522,feature selection,1
+522,artificial intelligence,1
+522,machine learning,1
+522,computer science,1
+522,data mining,1
+522,algorithm,1
+522,philosophy,1
+522,linguisticsinterpretability,1
+523,moderate-resolution imaging spectroradiometer,2
+523,normalized difference vegetation index,1
+523,mean squared error,1
+523,vegetation (pathology),1
+523,metric (unit),1
+523,artificial neural network,1
+523,time series,1
+523,enhanced vegetation index,1
+523,scale (ratio),1
+523,environmental science,1
+524,statistical classification,2
+524,computer science,1
+524,anomaly detection,1
+524,machine learning,1
+524,unsupervised learning,1
+524,artificial intelligence,1
+524,intrusion detection system,1
+524,zero (linguistics),1
+524,algorithm,1
+524,data mining,1
+525,stochastic gradient descent,2
+525,deep neural networks,2
+525,early stopping,2
+525,initialization,1
+525,generalization,1
+525,regularization (linguistics),1
+525,computer science,1
+525,artificial intelligence,1
+525,artificial neural network,1
+525,gradient descent,1
+526,value (mathematics),2
+526,business value,2
+526,repurposing,2
+526,value proposition,2
+526,unpacking,1
+526,process (computing),1
+526,computer science,1
+526,knowledge management,1
+526,resource (disambiguation),1
+526,data science,1
+527,health literacy,3
+527,psychology,2
+527,linguistics,2
+527,medicine,2
+527,health care,2
+527,philosophy,2
+527,urdu,2
+527,equivalence (formal languages),1
+527,construct (python library),1
+527,natural language processing,1
+528,health literacy,2
+528,danish,1
+528,vocational education,1
+528,training (meteorology),1
+528,medical education,1
+528,literacy,1
+528,psychology,1
+528,population,1
+528,environmental health,1
+528,applied psychology,1
+529,breast cancer screening,2
+529,language barrier,2
+529,health literacy,1
+529,arabic,1
+529,breast cancer,1
+529,medicine,1
+529,feeling,1
+529,literacy,1
+529,psychological intervention,1
+529,family medicine,1
+530,agreement,2
+530,health professionals,2
+530,health literacy,1
+530,health care,1
+530,literacy,1
+530,medicine,1
+530,psychology,1
+530,family medicine,1
+530,political science,1
+530,pedagogy,1
+531,cross-sectional study,2
+531,vietnamese,2
+531,health literacy,1
+531,medicine,1
+531,residence,1
+531,health care,1
+531,literacy,1
+531,family medicine,1
+531,gerontology,1
+531,psychology,1
+532,surgical oncology,2
+532,worry,2
+532,breast cancer screening,2
+532,risk perception,2
+532,medicine,1
+532,breast cancer,1
+532,danish,1
+532,logistic regression,1
+532,family medicine,1
+532,gynecology,1
+533,cognitive science,2
+533,cognition,2
+533,computer science,2
+533,cognitive psychology,2
+533,psychology,2
+533,artificial intelligence,2
+533,neuroscience,2
+533,linguistics,2
+533,amodal perception,2
+533,event structure,2
+534,syntactic structure,2
+534,syntax,1
+534,computer science,1
+534,literal (mathematical logic),1
+534,sort,1
+534,rule-based machine translation,1
+534,natural language processing,1
+534,artificial intelligence,1
+534,linguistics,1
+534,inference,1
+535,articulation (sociology),2
+535,argument (complex analysis),2
+535,meaning (existential),1
+535,negation,1
+535,psychology,1
+535,syntax,1
+535,linguistics,1
+535,comprehension,1
+535,focus (optics),1
+535,cognitive psychology,1
+536,trace (psycholinguistics),2
+536,phone,1
+536,independence (probability theory),1
+536,computer science,1
+536,representation (politics),1
+536,matching (statistics),1
+536,container (type theory),1
+536,task (project management),1
+536,garbage,1
+536,artificial intelligence,1
+537,engram,2
+537,mental model,2
+537,philosophy of science,1
+537,philosophy of language,1
+537,metaphysics,1
+537,computer science,1
+537,psychology,1
+537,programming language,1
+537,linguistics,1
+537,cognitive science,1
+538,perspective (graphical),1
+538,psychology,1
+538,cognitive psychology,1
+538,theory of mind,1
+538,cognitive science,1
+538,linguistics,1
+538,artificial intelligence,1
+538,cognition,1
+538,computer science,1
+538,philosophy,1
+539,grammar,1
+539,computer science,1
+539,chronesthesia,1
+539,psychology,1
+539,linguistics,1
+539,psychiatry,1
+539,cognition,1
+539,philosophy,1
+539,episodic memorychronesthesia,1
+540,embodied cognition,1
+540,meaning (existential),1
+540,cognitive science,1
+540,cognition,1
+540,linguistics,1
+540,formalism (music),1
+540,cognitive linguistics,1
+540,natural language,1
+540,natural (archaeology),1
+540,epistemology,1
+541,feature (linguistics),2
+541,phone,1
+541,independence (probability theory),1
+541,representation (politics),1
+541,perception,1
+541,computer science,1
+541,task (project management),1
+541,matching (statistics),1
+541,artificial intelligence,1
+541,cognitive psychology,1
+542,pandemic,2
+542,argument (complex analysis),2
+542,social protection,2
+542,safety net,1
+542,government (linguistics),1
+542,food safety,1
+542,business,1
+542,coronavirus disease 2019 (covid-19),1
+542,political science,1
+542,welfare,1
+543,immigration,1
+543,mental health,1
+543,psychology,1
+543,association (psychology),1
+543,state (computer science),1
+543,affect (linguistics),1
+543,political science,1
+543,gerontology,1
+543,environmental health,1
+543,medicine,1
+544,immigration,1
+544,legal consciousness,1
+544,variety (cybernetics),1
+544,space (punctuation),1
+544,consciousness,1
+544,state (computer science),1
+544,sociology,1
+544,destinations,1
+544,law,1
+544,political science,1
+545,migration studies,2
+545,materialism,2
+545,assimilation (phonology),2
+545,cultural assimilation,2
+545,racialization,1
+545,sociology,1
+545,autonomy,1
+545,subordination (linguistics),1
+545,gender studies,1
+545,politics,1
+546,criminalization,2
+546,institutional racism,2
+546,racism,1
+546,politics,1
+546,gender studies,1
+546,political science,1
+546,geopolitics,1
+546,corporate governance,1
+546,sociology,1
+546,neglect,1
+547,swot analysis,2
+547,vocational education,1
+547,virtual reality,1
+547,apprenticeship,1
+547,context (archaeology),1
+547,usability,1
+547,computer science,1
+547,entertainment,1
+547,mixed reality,1
+547,engineering,1
+548,thematic analysis,1
+548,context (archaeology),1
+548,focus group,1
+548,pedagogy,1
+548,sociology,1
+548,discourse analysis,1
+548,teacher education,1
+548,conversation,1
+548,social media,1
+548,grounded theory,1
+549,feature (linguistics),2
+549,discriminative model,2
+549,bilinear interpolation,1
+549,welding,1
+549,materials science,1
+549,keyhole,1
+549,artificial intelligence,1
+549,feature extraction,1
+549,computer science,1
+549,computer vision,1
+550,pragmatism,2
+550,mainstream,2
+550,positivism,2
+550,warrant,2
+550,epistemology,1
+550,causality (physics),1
+550,critical realism (philosophy of perception),1
+550,relevance (law),1
+550,narrative,1
+550,heuristic,1
+551,sociotechnical system,2
+551,civil society,2
+551,normative,1
+551,transformative learning,1
+551,government (linguistics),1
+551,transition (genetics),1
+551,sociology,1
+551,normative model of decision-making,1
+551,public administration,1
+551,action (physics),1
+552,energy poverty,2
+552,rural electrification,1
+552,electrification,1
+552,renewable energy,1
+552,operationalization,1
+552,government (linguistics),1
+552,narrative,1
+552,poverty,1
+552,economic system,1
+552,sustainable development,1
+553,narrative,1
+553,aviation,1
+553,agency (philosophy),1
+553,sustainability,1
+553,transition (genetics),1
+553,perspective (graphical),1
+553,function (biology),1
+553,political science,1
+553,mechanism (biology),1
+553,business,1
+554,transition (genetics),1
+554,energy transition,1
+554,government (linguistics),1
+554,energy (signal processing),1
+554,political science,1
+554,process (computing),1
+554,diversity (politics),1
+554,economic system,1
+554,coal,1
+554,political economy,1
+555,artificial intelligence,1
+555,deep learning,1
+555,computer science,1
+555,machine learning,1
+555,workflow,1
+555,software deployment,1
+555,health care,1
+555,convolutional neural network,1
+555,bridging (networking),1
+555,data science,1
+556,rubric,2
+556,reflective practice,2
+556,grading (engineering),2
+556,reflective writing,1
+556,mathematics education,1
+556,critical thinking,1
+556,narrative,1
+556,reflection (computer programming),1
+556,pedagogy,1
+556,psychology,1
+557,metacognition,1
+557,islam,1
+557,critical thinking,1
+557,mathematics education,1
+557,psychology,1
+557,process (computing),1
+557,acronym,1
+557,relation (database),1
+557,computer science,1
+557,linguistics,1
+558,generative grammar,1
+558,computer science,1
+558,artificial intelligence,1
+558,management science,1
+558,natural language processing,1
+558,engineering,1
+559,vocabulary,1
+559,entertainment,1
+559,language acquisition,1
+559,computer science,1
+559,vocabulary development,1
+559,multimedia,1
+559,mathematics education,1
+559,game based learning,1
+559,psychology,1
+559,teaching method,1
+560,protocol analysis,2
+560,cognitive strategy,2
+560,tutor,2
+560,psychology,1
+560,vocabulary,1
+560,think aloud protocol,1
+560,comprehension,1
+560,cognition,1
+560,mathematics education,1
+560,cognitive psychology,1
+561,class (philosophy),1
+561,computer science,1
+561,english language,1
+561,linguistics,1
+561,mathematics education,1
+561,psychology,1
+561,artificial intelligence,1
+561,philosophy,1
+562,computer science,1
+562,language acquisition,1
+562,educational technology,1
+562,mathematics education,1
+562,experiential learning,1
+562,comprehension approach,1
+562,linguistics,1
+562,natural language processing,1
+562,psychology,1
+562,natural language,1
+563,indonesian,1
+563,psychology,1
+563,language proficiency,1
+563,english as a foreign language,1
+563,english language,1
+563,foreign language,1
+563,language acquisition,1
+563,mathematics education,1
+563,medical education,1
+563,computer science,1
+564,computer science,1
+564,c4.5 algorithm,1
+564,artificial intelligence,1
+564,intrusion detection system,1
+564,random forest,1
+564,naive bayes classifier,1
+564,support vector machine,1
+564,machine learning,1
+564,residual,1
+564,convolutional neural network,1
+565,knowledge graph,2
+565,graph embedding,2
+565,embedding,1
+565,correctness,1
+565,computer science,1
+565,leverage (statistics),1
+565,graph,1
+565,theoretical computer science,1
+565,artificial intelligence,1
+565,data mining,1
+566,dynamics (music),1
+566,curriculum,1
+566,government (linguistics),1
+566,multiculturalism,1
+566,political science,1
+566,key (lock),1
+566,engineering ethics,1
+566,sociology,1
+566,pedagogy,1
+566,public relations,1
+567,transformative learning,1
+567,indonesian,1
+567,psychology,1
+567,mathematics education,1
+567,computer science,1
+567,pedagogy,1
+567,linguistics,1
+567,philosophytransformative learning,1
+568,repetition (rhetorical device),2
+568,exposition (narrative),2
+568,invocation,2
+568,appropriation,1
+568,conversation,1
+568,meaning (existential),1
+568,psychology,1
+568,mathematics education,1
+568,linguistics,1
+568,sociology,1
+569,medicine,1
+569,critically ill,1
+569,affect (linguistics),1
+569,intensive care,1
+569,quality (philosophy),1
+569,process (computing),1
+569,medline,1
+569,family medicine,1
+569,nursing,1
+569,medical emergency,1
+570,receipt,1
+570,poverty,1
+570,health care,1
+570,nursing,1
+570,medicine,1
+570,affect (linguistics),1
+570,health equity,1
+570,palliative care,1
+570,psychology,1
+570,family medicine,1
+571,palliative care,2
+571,medicine,2
+571,grounded theory,2
+571,nursing,2
+571,limiting,2
+571,mindset,2
+571,narrative,2
+571,end-of-life care,2
+571,qualitative research,2
+571,psychology,2
+572,reinforcement learning,1
+572,computer science,1
+572,artificial intelligence,1
+572,context (archaeology),1
+572,artificial neural network,1
+572,deep learning,1
+572,interference (communication),1
+572,deep neural networks,1
+572,machine learning,1
+572,regularization (linguistics),1
+573,computer science,1
+573,information retrieval,1
+573,search engine indexing,1
+573,precision and recall,1
+573,natural language processing,1
+573,ranking (information retrieval),1
+573,artificial intelligence,1
+573,controlled vocabulary,1
+573,recall,1
+573,psychology,1
+574,structural holes,2
+574,gender gap,2
+574,star (game theory),2
+574,opportunity structures,2
+574,disadvantage,1
+574,affect (linguistics),1
+574,extant taxon,1
+574,interpersonal ties,1
+574,sociology,1
+574,social capital,1
+575,intersectionality,2
+575,transformative learning,2
+575,invisibility,1
+575,harm,1
+575,sociology,1
+575,gender studies,1
+575,diversity (politics),1
+575,power (physics),1
+575,narrative,1
+575,psychology,1
+576,collective action,2
+576,inclusion (mineral),1
+576,diversity (politics),1
+576,context (archaeology),1
+576,political science,1
+576,dissent,1
+576,government (linguistics),1
+576,public relations,1
+576,equity (law),1
+576,higher education,1
+577,complicity,2
+577,intersectionality,1
+577,narrative,1
+577,gender studies,1
+577,narrative inquiry,1
+577,racism,1
+577,population,1
+577,black women,1
+577,medical education,1
+577,sociology,1
+578,presupposition,2
+578,hybridity,2
+578,intersectionality,1
+578,semiotics,1
+578,sociology,1
+578,gender studies,1
+578,identity (music),1
+578,ideology,1
+578,linguistics,1
+578,creole language,1
+579,ethnic group,1
+579,race (biology),1
+579,diversity (politics),1
+579,prestige,1
+579,inclusion (mineral),1
+579,representation (politics),1
+579,human capital,1
+579,psychology,1
+579,sociology,1
+579,social psychology,1
+580,german,1
+580,race (biology),1
+580,sociology,1
+580,gender studies,1
+580,management,1
+580,philosophy,1
+580,linguistics,1
+580,economics,1
+581,creative destruction,2
+581,2019-20 coronavirus outbreak,2
+581,economic recovery,2
+581,pandemic,1
+581,coronavirus disease 2019 (covid-19),1
+581,czech,1
+581,business,1
+581,political science,1
+581,economic growth,1
+581,economics,1
+582,convolutional neural network,1
+582,radiography,1
+582,artificial intelligence,1
+582,implant,1
+582,recall,1
+582,task (project management),1
+582,dentistry,1
+582,classifier (uml),1
+582,computer science,1
+582,deep learning,1
+583,line (geometry),2
+583,gaze,1
+583,reading (process),1
+583,computer science,1
+583,eye tracking,1
+583,reading aloud,1
+583,comprehension,1
+583,task (project management),1
+583,low vision,1
+583,reading comprehension,1
+584,computer science,1
+584,web page,1
+584,context (archaeology),1
+584,personalization,1
+584,gesture,1
+584,interface (matter),1
+584,user interface,1
+584,world wide web,1
+584,magnification,1
+584,human–computer interaction,1
+585,reading (process),1
+585,low vision,1
+585,magnification,1
+585,chart,1
+585,visual acuity,1
+585,computer science,1
+585,optometry,1
+585,psychology,1
+585,artificial intelligence,1
+585,medicine,1
+586,obstacle avoidance,2
+586,reinforcement learning,1
+586,reciprocal,1
+586,collision avoidance,1
+586,computer science,1
+586,obstacle,1
+586,collision,1
+586,novelty,1
+586,robot,1
+586,artificial intelligence,1
+587,generative grammar,1
+587,computer science,1
+587,work (physics),1
+587,artificial intelligence,1
+587,natural language processing,1
+587,engineering,1
+587,mechanical engineering,1
+588,government (linguistics),1
+588,data collection,1
+588,public relations,1
+588,perception,1
+588,business,1
+588,data sharing,1
+588,political science,1
+588,environmental planning,1
+588,psychology,1
+588,medicine,1
+589,indigenous rights,2
+589,indigenous,1
+589,corporate governance,1
+589,legislation,1
+589,environmental governance,1
+589,sovereignty,1
+589,political science,1
+589,government (linguistics),1
+589,scholarship,1
+589,context (archaeology),1
+590,logbook,2
+590,leverage (statistics),2
+590,citizen science,2
+590,indigenous,1
+590,traditional knowledge,1
+590,government (linguistics),1
+590,public relations,1
+590,work (physics),1
+590,sociology,1
+590,environmental resource management,1
+591,acronym,2
+591,best practice,2
+591,indigenous,1
+591,traditional knowledge,1
+591,context (archaeology),1
+591,knowledge management,1
+591,usability,1
+591,sociology,1
+591,computer science,1
+591,data science,1
+592,american community survey,2
+592,capital (architecture),2
+592,quarter (canadian coin),1
+592,renting,1
+592,census,1
+592,government (linguistics),1
+592,business,1
+592,social security,1
+592,service (business),1
+592,geography,1
+593,heat pump,1
+593,recurrent neural network,1
+593,physics,1
+593,computer science,1
+593,thermodynamics,1
+593,artificial intelligence,1
+593,heat exchanger,1
+593,artificial neural network,1
+594,transformer,1
+594,computer science,1
+594,artificial intelligence,1
+594,internal medicine,1
+594,computational biology,1
+594,medicine,1
+594,biology,1
+594,engineering,1
+594,voltage,1
+594,electrical engineering,1
+595,standardization,1
+595,transparency (behavior),1
+595,context (archaeology),1
+595,business,1
+595,government (linguistics),1
+595,internet of things,1
+595,smart city,1
+595,the internet,1
+595,computer science,1
+595,environmental economics,1
+596,popularity,1
+596,narrative,1
+596,social media,1
+596,sociology,1
+596,feeling,1
+596,social capital,1
+596,media studies,1
+596,social psychology,1
+596,psychology,1
+596,social science,1
+597,sustainability,1
+597,action plan,1
+597,government (linguistics),1
+597,work (physics),1
+597,citizen journalism,1
+597,business,1
+597,plan (archaeology),1
+597,process management,1
+597,action (physics),1
+597,public relations,1
+598,slovak,1
+598,context (archaeology),1
+598,sustainability,1
+598,entrepreneurship,1
+598,business,1
+598,sustainable development,1
+598,geography,1
+598,political science,1
+598,czech,1
+598,philosophy,1
+599,mobile phone,2
+599,visual impairment,2
+599,phone,1
+599,facial recognition system,1
+599,face (sociological concept),1
+599,computer science,1
+599,identity (music),1
+599,everyday life,1
+599,human–computer interaction,1
+599,internet privacy,1
+600,mobile phone,2
+600,touchscreen,1
+600,computer science,1
+600,gesture,1
+600,loudspeaker,1
+600,phone,1
+600,speech recognition,1
+600,noise (video),1
+600,human–computer interaction,1
+600,multimedia,1
+601,internet privacy,1
+601,phone,1
+601,situated,1
+601,perception,1
+601,mobile phone,1
+601,qualitative research,1
+601,identity (music),1
+601,mobile device,1
+601,world wide web,1
+601,computer science,1
+602,psychology,1
+602,loneliness,1
+602,cheating,1
+602,cognition,1
+602,affect (linguistics),1
+602,the internet,1
+602,big five personality traits,1
+602,personality,1
+602,clinical psychology,1
+602,internet privacy,1
+603,deception,1
+603,socioemotional selectivity theory,1
+603,psychology,1
+603,psychological intervention,1
+603,affect (linguistics),1
+603,cognition,1
+603,finance,1
+603,social psychology,1
+603,developmental psychology,1
+603,business,1
+604,deception,1
+604,socioemotional selectivity theory,1
+604,psychology,1
+604,psychological intervention,1
+604,affect (linguistics),1
+604,cognition,1
+604,finance,1
+604,social psychology,1
+604,developmental psychology,1
+604,business,1
+606,distance education,1
+606,pandemic,1
+606,coronavirus disease 2019 (covid-19),1
+606,observational study,1
+606,government (linguistics),1
+606,anxiety,1
+606,psychology,1
+606,perception,1
+606,medical education,1
+606,medicine,1
+607,psychology,1
+607,anxiety,1
+607,self-efficacy,1
+607,stress (linguistics),1
+607,social psychology,1
+607,academic achievement,1
+607,applied psychology,1
+607,clinical psychology,1
+607,mathematics education,1
+607,developmental psychology,1
+608,formative assessment,2
+608,test anxiety,2
+608,anxiety,2
+608,test (biology),2
+608,stress (linguistics),2
+608,stress test,2
+608,medicine,2
+608,psychology,2
+608,mathematics education,2
+608,paleontology,2
+609,active learning (machine learning),1
+609,thematic analysis,1
+609,psychology,1
+609,medical education,1
+609,perception,1
+609,affect (linguistics),1
+609,focus group,1
+609,experiential learning,1
+609,recall,1
+609,qualitative research,1
+610,prosocial behavior,2
+610,psychology,1
+610,shyness,1
+610,developmental psychology,1
+610,social psychology,1
+610,nonverbal communication,1
+610,temperament,1
+610,affect (linguistics),1
+610,multilevel model,1
+610,personality,1
+611,psychology,1
+611,flexibility (engineering),1
+611,cognitive flexibility,1
+611,cognition,1
+611,fear of negative evaluation,1
+611,critical thinking,1
+611,scale (ratio),1
+611,affect (linguistics),1
+611,developmental psychology,1
+611,social psychology,1
+612,computer science,1
+612,computer vision,1
+612,artificial intelligence,1
+612,pose,1
+612,triangulation,1
+612,tracking (education),1
+612,kinematics,1
+612,pipeline (software),1
+612,segmentation,1
+612,regularization (linguistics),1
+613,computer science,1
+613,parsing,1
+613,artificial intelligence,1
+613,cluster analysis,1
+613,dynamics (music),1
+613,pattern recognition (psychology),1
+613,speech recognition,1
+613,machine learning,1
+613,acoustics,1
+613,physicsdynamics,1
+614,tracking (education),2
+614,computer science,1
+614,artificial intelligence,1
+614,parsing,1
+614,cluster analysis,1
+614,modular design,1
+614,dynamics (music),1
+614,pattern recognition (psychology),1
+614,psychology,1
+614,pedagogy,1
+615,swot analysis,2
+615,motion analysis,2
+615,strengths and weaknesses,2
+615,sports biomechanics,2
+615,motion capture,1
+615,multidisciplinary approach,1
+615,kinematics,1
+615,computer science,1
+615,motion (physics),1
+615,physical medicine and rehabilitation,1
+616,toolbox,2
+616,computer science,1
+616,artificial intelligence,1
+616,python (programming language),1
+616,segmentation,1
+616,deep learning,1
+616,convolutional neural network,1
+616,atlas (anatomy),1
+616,pattern recognition (psychology),1
+616,computer vision,1
+617,chatbot,1
+617,computer science,1
+617,psychology,1
+617,medicine,1
+617,artificial intelligencechatbot,1
+618,emotional labor,2
+618,psychology,1
+618,affect (linguistics),1
+618,demographic economics,1
+618,sociology,1
+618,social psychology,1
+618,economics,1
+618,communicationaffect,1
+619,patient experience,2
+619,medicine,1
+619,psychological intervention,1
+619,relevance (law),1
+619,qualitative research,1
+619,readability,1
+619,medical education,1
+619,health care,1
+619,nursing,1
+619,social science,1
+620,work engagement,2
+620,public engagement,2
+620,coercion (linguistics),2
+620,empirical research,2
+620,work (physics),1
+620,perception,1
+620,economic shortage,1
+620,psychology,1
+620,public relations,1
+620,nursing,1
+621,coding (social sciences),1
+621,computer science,1
+621,documentation,1
+621,metaphor,1
+621,qualitative research,1
+621,categorization,1
+621,software,1
+621,data science,1
+621,artificial intelligence,1
+621,linguistics,1
+622,economic shortage,2
+622,computer science,1
+622,upload,1
+622,database,1
+622,resource (disambiguation),1
+622,scale (ratio),1
+622,world wide web,1
+622,computer network,1
+622,linguistics,1
+622,philosophy,1
+623,contextual design,2
+623,context analysis,1
+623,context (archaeology),1
+623,relevance (law),1
+623,computer science,1
+623,knowledge management,1
+623,process management,1
+623,psychology,1
+623,management science,1
+623,engineering,1
+624,language barrier,2
+624,videoconferencing,2
+624,thematic analysis,1
+624,medicine,1
+624,preference,1
+624,family medicine,1
+624,perception,1
+624,population,1
+624,health care,1
+624,qualitative research,1
+625,best practice,2
+625,terminology,1
+625,stakeholder,1
+625,dissemination,1
+625,field (mathematics),1
+625,computer science,1
+625,information dissemination,1
+625,order (exchange),1
+625,public relations,1
+625,data science,1
+626,thematic analysis,1
+626,health care,1
+626,government (linguistics),1
+626,context (archaeology),1
+626,family medicine,1
+626,nursing,1
+626,vaccination,1
+626,qualitative research,1
+626,medicine,1
+626,political science,1
+627,general partnership,1
+627,work (physics),1
+627,accreditation,1
+627,context (archaeology),1
+627,pedagogy,1
+627,government (linguistics),1
+627,sociology,1
+627,politics,1
+627,teacher education,1
+627,public relations,1
+628,general partnership,2
+628,professional development,2
+628,pedagogy,2
+628,sociology,2
+628,service (business),2
+628,public relations,2
+628,political science,2
+628,business,2
+628,marketing,2
+628,linguistics,2
+629,practicum,1
+629,psychology,1
+629,competence (human resources),1
+629,narrative,1
+629,originality,1
+629,student teacher,1
+629,pedagogy,1
+629,professional development,1
+629,medical education,1
+629,teacher education,1
+630,legislation,1
+630,professional development,1
+630,legislature,1
+630,higher education,1
+630,public relations,1
+630,government (linguistics),1
+630,sociology,1
+630,pedagogy,1
+630,political science,1
+630,linguistics,1
+631,economic potential,2
+631,subordination (linguistics),1
+631,hierarchy,1
+631,economic geography,1
+631,economic system,1
+631,computer science,1
+631,geography,1
+631,economics,1
+631,economic growth,1
+631,philosophy,1
+632,feature (linguistics),1
+632,wind power,1
+632,reliability engineering,1
+632,computer science,1
+632,engineering,1
+632,electrical engineering,1
+632,philosophy,1
+632,linguisticsfeature (linguistics),1
+633,forgetting,1
+633,computer science,1
+633,process (computing),1
+633,industrial engineering,1
+633,memorization,1
+633,data mining,1
+633,artificial intelligence,1
+633,engineering,1
+633,philosophy,1
+633,linguistics,1
+634,action recognition,2
+634,computer science,1
+634,convolutional neural network,1
+634,activity recognition,1
+634,artificial intelligence,1
+634,transformer,1
+634,machine learning,1
+634,deep learning,1
+634,domain (mathematical analysis),1
+634,variety (cybernetics),1
+635,interpretability,1
+635,dielectric spectroscopy,1
+635,artificial intelligence,1
+635,machine learning,1
+635,deep learning,1
+635,battery (electricity),1
+635,computer science,1
+635,regularization (linguistics),1
+635,reliability (semiconductor),1
+635,physics,1
+636,social connectedness,2
+636,inclusion (mineral),1
+636,narrative review,1
+636,psychological intervention,1
+636,narrative,1
+636,work (physics),1
+636,space (punctuation),1
+636,environmental planning,1
+636,environmental resource management,1
+636,computer science,1
+637,window of opportunity,2
+637,window (computing),1
+637,space (punctuation),1
+637,sky,1
+637,affect (linguistics),1
+637,human health,1
+637,psychology,1
+637,element (criminal law),1
+637,architectural engineering,1
+637,social psychology,1
+638,vitality,2
+638,computer science,1
+638,artificial intelligence,1
+638,convolutional neural network,1
+638,urban morphology,1
+638,deep learning,1
+638,hierarchy,1
+638,cluster analysis,1
+638,usability,1
+638,machine learning,1
+639,sea ice,1
+639,computer science,1
+639,remote sensing,1
+639,synthetic aperture radar,1
+639,convolutional neural network,1
+639,context (archaeology),1
+639,deep learning,1
+639,artificial intelligence,1
+639,meteorology,1
+639,geology,1
+640,microservices,2
+640,devops,1
+640,software deployment,1
+640,computer science,1
+640,service (business),1
+640,software engineering,1
+640,software,1
+640,phone,1
+640,process management,1
+640,computer security,1
+641,agricultural diversification,2
+641,provisioning,2
+641,diversification (marketing strategy),1
+641,agriculture,1
+641,food security,1
+641,connotation,1
+641,business,1
+641,regional science,1
+641,distribution (mathematics),1
+641,environmental resource management,1
+642,food plant,2
+642,provisioning,1
+642,food security,1
+642,affect (linguistics),1
+642,service (business),1
+642,business,1
+642,geography,1
+642,socioeconomics,1
+642,environmental health,1
+642,agricultural economics,1
+643,food policy,2
+643,corporate governance,1
+643,food systems,1
+643,business,1
+643,pact,1
+643,government (linguistics),1
+643,regional science,1
+643,food security,1
+643,political science,1
+643,geography,1
+644,tapping,2
+644,omnichannel,1
+644,portuguese,1
+644,advertising,1
+644,business,1
+644,engineering,1
+644,mechanical engineering,1
+644,linguistics,1
+644,philosophyomnichannel,1
+645,feature (linguistics),2
+645,synthetic data,2
+645,rgb color model,2
+645,computer science,1
+645,artificial intelligence,1
+645,initialization,1
+645,computer vision,1
+645,pose,1
+645,video tracking,1
+645,context (archaeology),1
+646,narrative,1
+646,narrative review,1
+646,public relations,1
+646,engineering ethics,1
+646,sociology,1
+646,political science,1
+646,knowledge management,1
+646,management science,1
+646,computer science,1
+646,engineering,1
+647,agile unified process,2
+647,lean software development,2
+647,agile software development,1
+647,coaching,1
+647,agile usability engineering,1
+647,knowledge management,1
+647,affect (linguistics),1
+647,process management,1
+647,engineering,1
+647,computer science,1
+648,license,1
+648,convolutional neural network,1
+648,artificial intelligence,1
+648,computer science,1
+648,pattern recognition (psychology),1
+648,machine learning,1
+648,operating system,1
+649,critical thinking,1
+649,argumentation theory,1
+649,storytelling,1
+649,humanity,1
+649,domain (mathematical analysis),1
+649,engineering ethics,1
+649,construct (python library),1
+649,action (physics),1
+649,sociology,1
+649,epistemology,1
+650,mathematics education,1
+650,scientific literacy,1
+650,cronbach's alpha,1
+650,psychology,1
+650,literacy,1
+650,test (biology),1
+650,medical education,1
+650,indonesian,1
+650,pedagogy,1
+650,science education,1
+651,automatic summarization,1
+651,question answering,1
+651,computer science,1
+651,natural language processing,1
+651,artificial intelligence,1
+651,chain (unit),1
+651,language model,1
+651,information retrieval,1
+651,physics,1
+651,astronomychain (unit),1
+652,robotics,1
+652,artificial intelligence,1
+652,bipartite graph,1
+652,factor (programming language),1
+652,locality,1
+652,variety (cybernetics),1
+652,computer science,1
+652,machine learning,1
+652,core (optical fiber),1
+652,robot,1
+653,implementation,2
+653,feature (linguistics),2
+653,simultaneous localization and mapping,1
+653,orb (optics),1
+653,computer science,1
+653,artificial intelligence,1
+653,robot,1
+653,robotics,1
+653,mobile robot,1
+653,service (business),1
+654,obstacle avoidance,2
+654,feature (linguistics),2
+654,simultaneous localization and mapping,1
+654,odometer,1
+654,computer vision,1
+654,artificial intelligence,1
+654,computer science,1
+654,context (archaeology),1
+654,obstacle,1
+654,matching (statistics),1
+655,generative grammar,1
+655,computer science,1
+655,generative model,1
+655,artificial intelligence,1
+655,language model,1
+655,natural language processing,1
+655,machine learninggenerative model,1
+656,mainstream,2
+656,pandemic,2
+656,social media,1
+656,government (linguistics),1
+656,context (archaeology),1
+656,affordance,1
+656,public relations,1
+656,china,1
+656,political science,1
+656,health communication,1
+657,information dissemination,2
+657,social media,1
+657,vaccination,1
+657,coronavirus disease 2019 (covid-19),1
+657,public opinion,1
+657,china,1
+657,computer science,1
+657,consistency (knowledge bases),1
+657,sentiment analysis,1
+657,public health,1
+658,divergence (linguistics),2
+658,publics,2
+658,pandemic,2
+658,salient,1
+658,theme (computing),1
+658,public sphere,1
+658,coronavirus disease 2019 (covid-19),1
+658,media studies,1
+658,social media,1
+658,sociology,1
+659,government (linguistics),2
+659,china,2
+659,business,2
+659,corporate governance,2
+659,car sharing,2
+659,transport engineering,2
+659,political science,2
+659,engineering,2
+659,finance,2
+659,philosophy,2
+660,sustainable business,2
+660,value proposition,2
+660,product-service system,2
+660,sustainable value,2
+660,sharing economy,1
+660,business model,1
+660,sustainability,1
+660,business,1
+660,sustainable development,1
+660,government (linguistics),1
+661,triple bottom line,2
+661,thematic analysis,2
+661,supply chain,1
+661,sustainability,1
+661,circular economy,1
+661,business,1
+661,marketing,1
+661,context (archaeology),1
+661,sustainable development,1
+661,government (linguistics),1
+662,value (mathematics),2
+662,co-creation,2
+662,smart city,2
+662,stakeholder,1
+662,sustainable value,1
+662,knowledge management,1
+662,government (linguistics),1
+662,key (lock),1
+662,process (computing),1
+662,work (physics),1
+663,sample (material),1
+663,government (linguistics),1
+663,business,1
+663,service (business),1
+663,scale (ratio),1
+663,preference,1
+663,beijing,1
+663,marketing,1
+663,psychology,1
+663,china,1
+664,contingency theory,2
+664,contingency,2
+664,product-service system,2
+664,information sharing,2
+664,empirical research,2
+664,sharing economy,1
+664,sustainability,1
+664,business,1
+664,context (archaeology),1
+664,process management,1
+665,sharing economy,2
+665,technology acceptance model,2
+665,value (mathematics),2
+665,structural equation modeling,1
+665,willingness to pay,1
+665,affect (linguistics),1
+665,likert scale,1
+665,payment,1
+665,marketing,1
+665,business,1
+666,critical race theory,2
+666,exceptionalism,2
+666,critical discourse analysis,2
+666,american exceptionalism,2
+666,racism,1
+666,meritocracy,1
+666,gender studies,1
+666,narrative,1
+666,ideology,1
+666,sociology,1
+667,discipline,2
+667,covert,2
+667,intersectionality,1
+667,agency (philosophy),1
+667,sociology,1
+667,curriculum,1
+667,field (mathematics),1
+667,pedagogy,1
+667,gender studies,1
+667,social science,1
+668,white (mutation),2
+668,value (mathematics),2
+668,teacher education,1
+668,critical race theory,1
+668,narrative,1
+668,originality,1
+668,economic justice,1
+668,pedagogy,1
+668,racism,1
+668,sociology,1
+669,narrative,1
+669,mathematics education,1
+669,cognition,1
+669,quality (philosophy),1
+669,power (physics),1
+669,psychology,1
+669,pedagogy,1
+669,cognitive development,1
+669,sociology,1
+669,epistemology,1
+670,natural language programming,2
+670,programming language specification,2
+670,computer science,1
+670,leverage (statistics),1
+670,grammar,1
+670,programming language,1
+670,first-generation programming language,1
+670,set (abstract data type),1
+670,domain (mathematical analysis),1
+670,programming domain,1
+671,unintended consequences,2
+671,unpacking,1
+671,business,1
+671,psychology,1
+671,marketing,1
+671,sociology,1
+671,knowledge management,1
+671,social psychology,1
+671,computer science,1
+671,political science,1
+672,zero (linguistics),2
+672,hero,1
+672,business process management,1
+672,process (computing),1
+672,process management,1
+672,computer science,1
+672,business,1
+672,business process,1
+672,engineering,1
+672,operations management,1
+673,supplier relationship management,2
+673,contingency theory,2
+673,transaction cost,1
+673,contingency,1
+673,industrial organization,1
+673,business,1
+673,database transaction,1
+673,sustainable development,1
+673,microeconomics,1
+673,economics,1
+674,trustworthiness,2
+674,computer science,1
+674,transformative learning,1
+674,artificial intelligence,1
+674,bayesian network,1
+674,credit risk,1
+674,machine learning,1
+674,natural language processing,1
+674,process (computing),1
+674,finance,1
+675,reinforcement learning,1
+675,computer science,1
+675,context (archaeology),1
+675,markov decision process,1
+675,convergence (economics),1
+675,heading (navigation),1
+675,kinematics,1
+675,software portability,1
+675,process (computing),1
+675,controller (irrigation),1
+676,computer science,1
+676,modular design,1
+676,artificial intelligence,1
+676,robot,1
+676,artificial neural network,1
+676,generalization,1
+676,recurrent neural network,1
+676,controller (irrigation),1
+676,biology,1
+676,mathematical analysis,1
+677,sovereignty,1
+677,autonomy,1
+677,assimilation (phonology),1
+677,sociology,1
+677,epistemology,1
+677,computer science,1
+677,linguistics,1
+677,political science,1
+677,law,1
+677,philosophy,1
+678,polygon mesh,1
+678,computer science,1
+678,feature extraction,1
+678,feature (linguistics),1
+678,pattern recognition (psychology),1
+678,artificial intelligence,1
+678,computer graphics (images),1
+678,philosophy,1
+678,linguisticsfeature (linguistics),1
+679,tropical atlantic,1
+679,context (archaeology),1
+679,climatology,1
+679,oceanography,1
+679,deep learning,1
+679,convolutional neural network,1
+679,atlantic multidecadal oscillation,1
+679,exploit,1
+679,north atlantic oscillation,1
+679,sea surface temperature,1
+680,metropolitan area,1
+680,terrain,1
+680,air quality index,1
+680,government (linguistics),1
+680,population,1
+680,environmental planning,1
+680,land use,1
+680,geography,1
+680,environmental resource management,1
+680,environmental science,1
+681,data assimilation,1
+681,inference,1
+681,bayesian inference,1
+681,computer science,1
+681,bayesian probability,1
+681,machine learning,1
+681,artificial intelligence,1
+681,state (computer science),1
+681,assimilation (phonology),1
+681,estimation,1
+682,computer science,1
+682,scale (ratio),1
+682,context (archaeology),1
+682,language model,1
+682,human–computer interaction,1
+682,artificial intelligence,1
+682,natural language processing,1
+682,paleontology,1
+682,physics,1
+682,quantum mechanics,1
+683,convolutional neural network,1
+683,transformation (genetics),1
+683,artificial intelligence,1
+683,convolution (computer science),1
+683,chebyshev filter,1
+683,computer science,1
+683,deep learning,1
+683,wavelet,1
+683,discrete wavelet transform,1
+683,wavelet transform,1
+684,feature (linguistics),2
+684,signal (programming language),2
+684,computer science,1
+684,artificial intelligence,1
+684,convolution (computer science),1
+684,feature selection,1
+684,convolutional neural network,1
+684,process (computing),1
+684,mechanism (biology),1
+684,pattern recognition (psychology),1
+685,computer science,2
+685,implementation,2
+685,artificial intelligence,2
+685,differential privacy,2
+685,popularity,2
+685,feature (linguistics),2
+685,python (programming language),1
+685,workflow,1
+685,deep learning,1
+685,convolutional neural network,1
+686,exploit,1
+686,computer science,1
+686,nist,1
+686,vulnerability (computing),1
+686,data mining,1
+686,python (programming language),1
+686,context (archaeology),1
+686,vulnerability assessment,1
+686,scripting language,1
+686,database,1
+687,pagerank,2
+687,knowledge graph,2
+687,strengths and weaknesses,2
+687,interpretability,1
+687,computer science,1
+687,graph,1
+687,vulnerability assessment,1
+687,vulnerability (computing),1
+687,theoretical computer science,1
+687,data mining,1
+688,source credibility,2
+688,word of mouth,2
+688,negativity bias,2
+688,negativity effect,2
+688,elaboration likelihood model,2
+688,helpfulness,1
+688,credibility,1
+688,reputation,1
+688,psychology,1
+688,affect (linguistics),1
+689,sentiment analysis,3
+689,social media,2
+689,advertising,2
+689,computer science,2
+689,business,2
+689,world wide web,2
+689,artificial intelligence,2
+689,value (mathematics),2
+689,harm,1
+689,active listening,1
+690,ethos,2
+690,pathos,2
+690,kairos,2
+690,source credibility,2
+690,subversion,1
+690,rhetorical question,1
+690,credibility,1
+690,rhetoric,1
+690,advertising,1
+690,argumentation theory,1
+691,centrality,1
+691,transmission (telecommunications),1
+691,layer (electronics),1
+691,computer science,1
+691,node (physics),1
+691,epidemic model,1
+691,markov chain,1
+691,markov process,1
+691,network layer,1
+691,affect (linguistics),1
+692,feature (linguistics),2
+692,link (geometry),1
+692,topology (electrical circuits),1
+692,computer science,1
+692,mathematics,1
+692,computer network,1
+692,combinatorics,1
+692,philosophy,1
+692,linguisticslink (geometry),1
+693,social network (sociolinguistics),2
+693,network structure,2
+693,network formation,2
+693,reciprocity (cultural anthropology),1
+693,affect (linguistics),1
+693,interpersonal ties,1
+693,microeconomics,1
+693,computer science,1
+693,social psychology,1
+693,psychology,1
+694,connotation,2
+694,urban computing,2
+694,computer science,1
+694,smart city,1
+694,public transport,1
+694,context (archaeology),1
+694,process (computing),1
+694,computer security,1
+694,internet of things,1
+694,architecture,1
+695,epidemic model,1
+695,affect (linguistics),1
+695,population,1
+695,perspective (graphical),1
+695,computer science,1
+695,risk analysis (engineering),1
+695,econometrics,1
+695,psychology,1
+695,demography,1
+695,economics,1
+696,acknowledgement,2
+696,discipline,2
+696,positivism,2
+696,naturalism,2
+696,reflexivity,2
+696,conventionalism,2
+696,corpus linguistics,1
+696,applied linguistics,1
+696,epistemology,1
+696,quantitative linguistics,1
+697,promotion (chess),2
+697,market orientation,2
+697,business,1
+697,agriculture,1
+697,entrepreneurial orientation,1
+697,sustainability,1
+697,government (linguistics),1
+697,natural resource,1
+697,marketing,1
+697,entrepreneurship,1
+698,value (mathematics),2
+698,new business development,2
+698,entrepreneurship,1
+698,business model,1
+698,business,1
+698,revenue,1
+698,government (linguistics),1
+698,small business,1
+698,marketing,1
+698,industrial organization,1
+699,framing (construction),2
+699,cognitive load,2
+699,limiting,2
+699,helpfulness,1
+699,cognition,1
+699,computer science,1
+699,cognitive psychology,1
+699,affect (linguistics),1
+699,cognitive science,1
+699,psychology,1
+700,ransac,2
+700,feature (linguistics),2
+700,homography,2
+700,scale-invariant feature transform,2
+700,aerial image,2
+700,similarity (geometry),2
+700,image stitching,1
+700,computer science,1
+700,affine transformation,1
+700,artificial intelligence,1
+701,narrative review,2
+701,medicine,1
+701,pre-exposure prophylaxis,1
+701,narrative,1
+701,rheumatology,1
+701,family medicine,1
+701,alternative medicine,1
+701,internal medicine,1
+701,intensive care medicine,1
+701,human immunodeficiency virus (hiv),1
+702,transgender,1
+702,lesbian,1
+702,mental health,1
+702,medicine,1
+702,queer,1
+702,observational study,1
+702,government (linguistics),1
+702,coronavirus disease 2019 (covid-19),1
+702,health care,1
+702,pandemic,1
+703,transformer,1
+703,fusion,1
+703,computer science,1
+703,engineering,1
+703,electrical engineering,1
+703,voltage,1
+703,philosophy,1
+703,linguistics,1
+704,logistic regression,1
+704,computer science,1
+704,warning system,1
+704,intervention (counseling),1
+704,support vector machine,1
+704,preprocessor,1
+704,naive bayes classifier,1
+704,artificial intelligence,1
+704,feature (linguistics),1
+704,machine learning,1
+705,bounding overwatch,2
+705,feature (linguistics),2
+705,minimum bounding box,1
+705,computer science,1
+705,segmentation,1
+705,artificial intelligence,1
+705,pattern recognition (psychology),1
+705,pixel,1
+705,masking (illustration),1
+705,deep learning,1
+706,psychology,1
+706,reading (process),1
+706,perspective (graphical),1
+706,context (archaeology),1
+706,reading comprehension,1
+706,perception,1
+706,mathematics education,1
+706,critical thinking,1
+706,ideal (ethics),1
+706,intervention (counseling),1
+707,argumentative,1
+707,vocational education,1
+707,psychology,1
+707,mathematics education,1
+707,pedagogy,1
+707,linguistics,1
+707,philosophyargumentative,1
+708,indonesian,1
+708,mathematics education,1
+708,critical thinking,1
+708,psychology,1
+708,computer science,1
+708,pedagogy,1
+708,linguistics,1
+708,philosophy,1
+709,feature (linguistics),2
+709,solar cell,1
+709,softmax function,1
+709,photovoltaic system,1
+709,artificial intelligence,1
+709,classifier (uml),1
+709,computer science,1
+709,deep learning,1
+709,fault detection and isolation,1
+709,pattern recognition (psychology),1
+710,fingerprint (computing),1
+710,computer science,1
+710,radio frequency,1
+710,fingerprint recognition,1
+710,speech recognition,1
+710,artificial intelligence,1
+710,telecommunications,1
+711,happiness,1
+711,residence,1
+711,socioeconomic status,1
+711,quality of life (healthcare),1
+711,psychology,1
+711,social psychology,1
+711,quality (philosophy),1
+711,population,1
+711,affect (linguistics),1
+711,sociology,1
+712,exploratory factor analysis,2
+712,discriminant validity,2
+712,facilitator,2
+712,sample (material),2
+712,affect (linguistics),1
+712,confirmatory factor analysis,1
+712,tertiary sector of the economy,1
+712,service (business),1
+712,psychology,1
+712,work (physics),1
+713,positive psychology,2
+713,happiness,1
+713,flourishing,1
+713,scholarship,1
+713,psychology,1
+713,narrative,1
+713,social psychology,1
+713,sociology,1
+713,political science,1
+713,linguistics,1
+714,happiness,1
+714,portuguese,1
+714,psychology,1
+714,scale (ratio),1
+714,sample (material),1
+714,workload,1
+714,structural equation modeling,1
+714,social psychology,1
+714,burnout,1
+714,clinical psychology,1
+715,slovak,2
+715,happiness,1
+715,feeling,1
+715,psychology,1
+715,affect (linguistics),1
+715,social psychology,1
+715,cognition,1
+715,perception,1
+715,identity (music),1
+715,aesthetics,1
+716,computer science,1
+716,artificial intelligence,1
+716,natural language processing,1
+716,mathematics education,1
+716,cognitive science,1
+716,psychology,1
+717,new ventures,4
+717,entrepreneurship,2
+717,business,2
+717,marketing,2
+717,political science,2
+717,finance,2
+717,terminology,1
+717,sociocultural evolution,1
+717,knowledge management,1
+717,process (computing),1
+718,environmental consciousness,2
+718,affect (linguistics),1
+718,business,1
+718,psychology,1
+718,environmental resource management,1
+718,environmental science,1
+718,consciousness,1
+718,communication,1
+718,neuroscienceaffect,1
+719,signal (programming language),1
+719,affect (linguistics),1
+719,human capital,1
+719,set (abstract data type),1
+719,observable,1
+719,equity (law),1
+719,perspective (graphical),1
+719,computer science,1
+719,cognition,1
+719,psychology,1
+720,unpacking,2
+720,internationalization,1
+720,entrepreneurship,1
+720,perspective (graphical),1
+720,new ventures,1
+720,liability,1
+720,positive economics,1
+720,sociology,1
+720,economics,1
+720,marketing,1
+721,educational robotics,2
+721,creativity,1
+721,robotics,1
+721,artificial intelligence,1
+721,developmental robotics,1
+721,terminology,1
+721,psychology,1
+721,critical thinking,1
+721,computer science,1
+721,robot,1
+722,algorithm,1
+722,everyday life,1
+722,computer science,1
+722,construct (python library),1
+722,narrative,1
+722,psychosocial,1
+722,psychology,1
+722,epistemology,1
+722,philosophy,1
+722,linguistics,1
+723,government procurement,2
+723,indonesian government,2
+723,indonesian,1
+723,procurement,1
+723,language change,1
+723,perspective (graphical),1
+723,entrepreneurship,1
+723,business,1
+723,government (linguistics),1
+723,marketing,1
+724,attunement,1
+724,negotiation,1
+724,tourism,1
+724,psychology,1
+724,power (physics),1
+724,affect (linguistics),1
+724,social psychology,1
+724,sociology,1
+724,communication,1
+724,political science,1
+725,horizontal and vertical,2
+725,reciprocal,2
+725,knowledge sharing,2
+725,temporalities,1
+725,knowledge management,1
+725,perspective (graphical),1
+725,body of knowledge,1
+725,originality,1
+725,knowledge value chain,1
+725,computer science,1
+726,computer science,1
+726,code-switching,1
+726,salient,1
+726,data collection,1
+726,code (set theory),1
+726,data science,1
+726,qualitative research,1
+726,management science,1
+726,programming language,1
+726,artificial intelligence,1
+727,volunteer,2
+727,automated external defibrillator,2
+727,cardiopulmonary resuscitation,1
+727,medicine,1
+727,population,1
+727,danish,1
+727,demography,1
+727,emergency medicine,1
+727,resuscitation,1
+727,environmental health,1
+728,economic shortage,1
+728,mathematics education,1
+728,pedagogy,1
+728,sociology,1
+728,political science,1
+728,medical education,1
+728,psychology,1
+728,medicine,1
+728,philosophy,1
+728,linguistics,1
+729,well-being,2
+729,psychosocial,1
+729,psychology,1
+729,affect (linguistics),1
+729,multilevel model,1
+729,life satisfaction,1
+729,cultural diversity,1
+729,social psychology,1
+729,immigration,1
+729,developmental psychology,1
+730,underpinning,2
+730,pedagogy,1
+730,inclusion (mineral),1
+730,mainstream,1
+730,perspective (graphical),1
+730,psychology,1
+730,narrative,1
+730,equity (law),1
+730,sociology,1
+730,social psychology,1
+731,popularity,2
+731,cultural diversity,1
+731,terminology,1
+731,diversity (politics),1
+731,cultural competence,1
+731,psychology,1
+731,pedagogy,1
+731,population,1
+731,cultural pluralism,1
+731,workforce,1
+732,economic shortage,2
+732,perspective (graphical),1
+732,social justice,1
+732,pedagogy,1
+732,teacher education,1
+732,sociology,1
+732,economic justice,1
+732,education policy,1
+732,political science,1
+732,higher education,1
+733,global governance,2
+733,global education,1
+733,context (archaeology),1
+733,general partnership,1
+733,political science,1
+733,narrative,1
+733,democracy,1
+733,quality (philosophy),1
+733,work (physics),1
+733,public administration,1
+734,pandemic,2
+734,sign language,1
+734,sign (mathematics),1
+734,bachelor,1
+734,psychology,1
+734,educational technology,1
+734,mathematics education,1
+734,coronavirus disease 2019 (covid-19),1
+734,language acquisition,1
+734,qualitative research,1
+735,tribe,2
+735,ethnomathematics,1
+735,mathematics education,1
+735,linguistics,1
+735,anthropology,1
+735,mathematics,1
+735,sociology,1
+735,philosophyethnomathematics,1
+736,teacher education,1
+736,pedagogy,1
+736,racism,1
+736,curriculum,1
+736,sociology,1
+736,narrative,1
+736,gender studies,1
+736,linguistics,1
+736,philosophy,1
+737,social cognitive theory,2
+737,social learning theory,2
+737,persuasion,1
+737,self-efficacy,1
+737,psychology,1
+737,social media,1
+737,perception,1
+737,affect (linguistics),1
+737,action (physics),1
+737,social psychology,1
+738,informal learning,2
+738,professional learning community,2
+738,formal learning,2
+738,informal education,2
+738,value (mathematics),2
+738,faculty development,2
+738,expatriate,1
+738,social media,1
+738,professional development,1
+738,pedagogy,1
+739,faculty development,2
+739,sociology,1
+739,empowerment,1
+739,social media,1
+739,narrative,1
+739,mediation,1
+739,reading (process),1
+739,pedagogy,1
+739,professional development,1
+739,public relations,1
+740,cyber-physical system,2
+740,industry 4.0,2
+740,deep learning,1
+740,computer science,1
+740,artificial intelligence,1
+740,machine learning,1
+740,computer security,1
+740,downtime,1
+740,convolutional neural network,1
+740,intrusion detection system,1
+741,unintended consequences,2
+741,humility,1
+741,affect (linguistics),1
+741,psychology,1
+741,big data,1
+741,applications of artificial intelligence,1
+741,data science,1
+741,computer science,1
+741,engineering ethics,1
+741,artificial intelligence,1
+742,think aloud protocol,2
+742,apprenticeship,2
+742,virtual learning environment,2
+742,cognitive apprenticeship,1
+742,instructional design,1
+742,computer science,1
+742,educational technology,1
+742,mathematics education,1
+742,process (computing),1
+742,psychology,1
+743,perspective (graphical),1
+743,information and communications technology,1
+743,educational technology,1
+743,rhetoric,1
+743,engineering ethics,1
+743,educational research,1
+743,technology integration,1
+743,sociology,1
+743,emerging technologies,1
+743,public relations,1
+744,government (linguistics),1
+744,educational technology,1
+744,technology integration,1
+744,medical education,1
+744,mathematics education,1
+744,pedagogy,1
+744,psychology,1
+744,public relations,1
+744,political science,1
+744,medicine,1
+745,perspective (graphical),1
+745,field (mathematics),1
+745,affect (linguistics),1
+745,government (linguistics),1
+745,sociology,1
+745,engineering ethics,1
+745,knowledge management,1
+745,public relations,1
+745,computer science,1
+745,political science,1
+746,electromagnetic spectrum,2
+746,vnir,1
+746,hyperspectral imaging,1
+746,artificial intelligence,1
+746,convolutional neural network,1
+746,pattern recognition (psychology),1
+746,support vector machine,1
+746,pesticide residue,1
+746,computer science,1
+746,remote sensing,1
+747,empirical research,2
+747,reciprocal,2
+747,reflection (computer programming),1
+747,perspective (graphical),1
+747,literacy,1
+747,sociocultural evolution,1
+747,pedagogy,1
+747,multilevel model,1
+747,higher education,1
+747,sociology,1
+748,rubric,2
+748,psychology,2
+748,pedagogy,2
+748,reflective practice,2
+748,reflection (computer programming),2
+748,narrative,2
+748,mathematics education,2
+748,computer science,2
+748,linguistics,2
+748,philosophy,2
+749,indonesian government,2
+749,indonesian,1
+749,learning management,1
+749,the internet,1
+749,government (linguistics),1
+749,medical education,1
+749,psychology,1
+749,qualitative research,1
+749,higher education,1
+749,internet access,1
+750,study abroad,2
+750,international education,2
+750,vietnamese,1
+750,psychology,1
+750,internationalization,1
+750,originality,1
+750,higher education,1
+750,pedagogy,1
+750,internationalization of higher education,1
+750,medical education,1
+751,value (mathematics),2
+751,sample (material),2
+751,reflective practice,2
+751,psychology,1
+751,reflective thinking,1
+751,mathematics education,1
+751,reliability (semiconductor),1
+751,reflection (computer programming),1
+751,process (computing),1
+751,narrative,1
+752,operator (biology),2
+752,divergence (linguistics),2
+752,similarity (geometry),2
+752,isochoric process,1
+752,computation,1
+752,fuzzy logic,1
+752,uniqueness,1
+752,stress (linguistics),1
+752,deformation (meteorology),1
+752,computer science,1
+753,structural health monitoring,2
+753,preprocessor,1
+753,reliability (semiconductor),1
+753,noise (video),1
+753,calibration,1
+753,computer science,1
+753,feature (linguistics),1
+753,computer vision,1
+753,enhanced data rates for gsm evolution,1
+753,image (mathematics),1
+754,foregrounding,2
+754,misinformation,1
+754,psychology,1
+754,metacognition,1
+754,intervention (counseling),1
+754,cognitive psychology,1
+754,social psychology,1
+754,cognition,1
+754,computer science,1
+754,linguistics,1
+755,risk perception,2
+755,pandemic,1
+755,recall,1
+755,politics,1
+755,perception,1
+755,government (linguistics),1
+755,coronavirus disease 2019 (covid-19),1
+755,interpretation (philosophy),1
+755,psychology,1
+755,social psychology,1
+756,metaphor,1
+756,mediation,1
+756,representation (politics),1
+756,sociology,1
+756,cognitive science,1
+756,linguistics,1
+756,psychology,1
+756,epistemology,1
+756,philosophy,1
+756,political science,1
+757,thematic analysis,2
+757,multimorbidity,1
+757,context (archaeology),1
+757,medicine,1
+757,health care,1
+757,narrative,1
+757,nursing,1
+757,primary care,1
+757,qualitative research,1
+757,family medicine,1
+758,irish,1
+758,qualitative research,1
+758,medical education,1
+758,psychology,1
+758,mathematics education,1
+758,sociology,1
+758,medicine,1
+758,social science,1
+758,philosophy,1
+758,linguistics,1
+759,realm,2
+759,coopetition,1
+759,computer science,1
+759,analogy,1
+759,language model,1
+759,sociocultural evolution,1
+759,perspective (graphical),1
+759,artificial intelligence,1
+759,game theory,1
+759,microeconomics,1
+760,mozart,2
+760,feature (linguistics),2
+760,computer science,1
+760,music information retrieval,1
+760,artificial intelligence,1
+760,task (project management),1
+760,pattern recognition (psychology),1
+760,feature extraction,1
+760,domain (mathematical analysis),1
+760,compression (physics),1
+761,feature (linguistics),2
+761,hyperparameter,2
+761,computer science,1
+761,artificial intelligence,1
+761,feature extraction,1
+761,data mining,1
+761,transient (computer programming),1
+761,pattern recognition (psychology),1
+761,reliability (semiconductor),1
+761,scale (ratio),1
+762,competence (human resources),1
+762,structural equation modeling,1
+762,psychology,1
+762,affect (linguistics),1
+762,medical education,1
+762,professional development,1
+762,pedagogy,1
+762,mathematics education,1
+762,social psychology,1
+762,medicine,1
+763,documentation,1
+763,arabic,1
+763,mathematics education,1
+763,data collection,1
+763,semitic languages,1
+763,computer science,1
+763,linguistics,1
+763,sociology,1
+763,psychology,1
+763,social science,1
+764,self-efficacy,2
+764,organisation climate,2
+764,creativity,1
+764,structural equation modeling,1
+764,mathematics education,1
+764,affect (linguistics),1
+764,construct (python library),1
+764,psychology,1
+764,nonprobability sampling,1
+764,population,1
+765,image synthesis,2
+765,3d rendering,2
+765,rendering (computer graphics),1
+765,computer science,1
+765,artificial intelligence,1
+765,computer vision,1
+765,convolutional neural network,1
+765,object detection,1
+765,ground truth,1
+765,computer graphics (images),1
+766,similarity (geometry),2
+766,feature (linguistics),2
+766,discriminative model,1
+766,representation (politics),1
+766,artificial intelligence,1
+766,computer science,1
+766,pattern recognition (psychology),1
+766,machine learning,1
+766,image (mathematics),1
+766,linguistics,1
+767,biology,1
+767,cancer research,1
+767,feature (linguistics),1
+767,computational biology,1
+767,oncology,1
+767,internal medicine,1
+767,medicine,1
+767,philosophy,1
+767,linguisticsfeature (linguistics),1
+768,hacker,2
+768,computer science,1
+768,long short term memory,1
+768,artificial intelligence,1
+768,component (thermodynamics),1
+768,machine learning,1
+768,identification (biology),1
+768,time series,1
+768,directed acyclic graph,1
+768,data mining,1
+769,structured-light 3d scanner,2
+769,absolute phase,1
+769,computer science,1
+769,profilometer,1
+769,phase (matter),1
+769,convolutional neural network,1
+769,mobile device,1
+769,artificial intelligence,1
+769,projection (relational algebra),1
+769,optics,1
+770,ground zero,2
+770,zero (linguistics),1
+770,cloud computing,1
+770,shot (pellet),1
+770,computer science,1
+770,artificial intelligence,1
+770,physics,1
+770,materials science,1
+770,nuclear physics,1
+770,operating system,1
+771,disinformation,1
+771,narrative,1
+771,context (archaeology),1
+771,typology,1
+771,sociology,1
+771,political science,1
+771,computer science,1
+771,social media,1
+771,data science,1
+771,world wide web,1
+772,appropriation,2
+772,collective action,2
+772,affordance,1
+772,action (physics),1
+772,dynamics (music),1
+772,computer science,1
+772,process (computing),1
+772,world wide web,1
+772,sociology,1
+772,political science,1
+773,politics,1
+773,ukrainian,1
+773,political science,1
+773,representation (politics),1
+773,preference,1
+773,political economy,1
+773,mass media,1
+773,sociology,1
+773,law,1
+773,economics,1
+774,convolutional neural network,1
+774,transfer of learning,1
+774,identification (biology),1
+774,artificial intelligence,1
+774,field (mathematics),1
+774,computer science,1
+774,pattern recognition (psychology),1
+774,artificial neural network,1
+774,machine learning,1
+774,mathematics,1
+775,data set,2
+775,parametric statistics,1
+775,hypergraph,1
+775,detector,1
+775,set (abstract data type),1
+775,artificial neural network,1
+775,collision,1
+775,physics,1
+775,jet (fluid),1
+775,large hadron collider,1
+776,optical coherence tomography,1
+776,artificial intelligence,1
+776,medicine,1
+776,macular telangiectasia,1
+776,receiver operating characteristic,1
+776,computer science,1
+776,convolutional neural network,1
+776,pattern recognition (psychology),1
+776,machine learning,1
+776,ophthalmology,1
+777,feature (linguistics),2
+777,reinforcement learning,1
+777,computer science,1
+777,inference,1
+777,signal (programming language),1
+777,representation (politics),1
+777,artificial intelligence,1
+777,machine learning,1
+777,programming language,1
+777,philosophy,1
+778,generative model,2
+778,computer science,1
+778,time series,1
+778,artificial neural network,1
+778,environmental data,1
+778,machine learning,1
+778,recurrent neural network,1
+778,artificial intelligence,1
+778,data mining,1
+778,missing data,1
+779,convolutional neural network,1
+779,computer science,1
+779,handwriting,1
+779,artificial intelligence,1
+779,pattern recognition (psychology)handwriting,1
+780,data set,2
+780,divergence (linguistics),2
+780,computer science,1
+780,usable,1
+780,set (abstract data type),1
+780,machine learning,1
+780,generative grammar,1
+780,data mining,1
+780,grid,1
+780,artificial intelligence,1
+781,ecotourism,1
+781,tourism,1
+781,robot,1
+781,psychology,1
+781,linguistics,1
+781,geography,1
+781,computer science,1
+781,environmental resource management,1
+781,cognitive psychology,1
+781,artificial intelligence,1
+782,ecotourism,1
+782,tourism,1
+782,robot,1
+782,computer science,1
+782,linguistics,1
+782,psychology,1
+782,geography,1
+782,artificial intelligence,1
+782,archaeology,1
+782,philosophy,1
+783,sentiment analysis,2
+783,punctuation,2
+783,tone (literature),1
+783,context (archaeology),1
+783,correctness,1
+783,perception,1
+783,computer science,1
+783,class (philosophy),1
+783,mathematics education,1
+783,psychology,1
+784,rdf query language,2
+784,computer science,1
+784,natural language,1
+784,machine vision,1
+784,artificial intelligence,1
+784,natural language processing,1
+784,query language,1
+784,query expansion,1
+784,web search query,1
+784,information retrieval,1
+785,computer science,1
+785,task (project management),1
+785,open source,1
+785,natural language processing,1
+785,programming language,1
+785,software,1
+785,engineering,1
+785,systems engineering,1
+786,fusion,1
+786,artificial intelligence,1
+786,computer science,1
+786,philosophy,1
+786,linguistics,1
+787,generality,2
+787,public information,2
+787,information flow,2
+787,rumor,1
+787,chaotic,1
+787,public opinion,1
+787,nonlinear system,1
+787,computer science,1
+787,statistical physics,1
+787,physics,1
+788,nationalism,1
+788,china,1
+788,space (punctuation),1
+788,decoding methods,1
+788,gender studies,1
+788,critical discourse analysis,1
+788,sociology,1
+788,political science,1
+788,linguistics,1
+788,computer science,1
+789,artificial intelligence,1
+789,deep learning,1
+789,face (sociological concept),1
+789,computer science,1
+789,unsupervised learning,1
+789,computer vision,1
+789,pattern recognition (psychology),1
+789,philosophy,1
+789,linguistics,1
+790,kernel (algebra),1
+790,support vector machine,1
+790,artificial intelligence,1
+790,convolutional neural network,1
+790,tangent,1
+790,gradient descent,1
+790,algorithm,1
+790,computer science,1
+790,artificial neural network,1
+790,pattern recognition (psychology),1
+791,sign (mathematics),1
+791,sign language,1
+791,american sign language,1
+791,computer science,1
+791,artificial intelligence,1
+791,natural language processing,1
+791,linguistics,1
+791,mathematics,1
+791,mathematical analysis,1
+791,philosophyamerican sign language,1
+792,computer science,1
+792,artificial intelligence,1
+792,convolutional neural network,1
+792,random forest,1
+792,deep learning,1
+792,feature (linguistics),1
+792,class (philosophy),1
+792,machine learning,1
+792,process (computing),1
+792,data modeling,1
+793,everyday life,2
+793,reminiscence,1
+793,computer science,1
+793,psychology,1
+793,natural (archaeology),1
+793,artificial intelligence,1
+793,natural language processing,1
+793,cognitive psychology,1
+793,archaeology,1
+793,political science,1
+794,equivariant map,2
+794,contextual image classification,2
+794,overfitting,1
+794,computer science,1
+794,homogeneous space,1
+794,artificial intelligence,1
+794,exploit,1
+794,qubit,1
+794,quantum,1
+794,convolutional neural network,1
+795,health literacy,2
+795,digital health,2
+795,digital literacy,2
+795,transformative learning,1
+795,literacy,1
+795,latent dirichlet allocation,1
+795,topic model,1
+795,health care,1
+795,political science,1
+795,public relations,1
+796,latent dirichlet allocation,1
+796,topic model,1
+796,bigram,1
+796,computer science,1
+796,artificial intelligence,1
+796,natural language processing,1
+796,trigrambigram,1
+797,computer science,1
+797,process (computing),1
+797,natural (archaeology),1
+797,mathematics education,1
+797,closed-ended question,1
+797,artificial intelligence,1
+797,natural language processing,1
+797,psychology,1
+797,linguistics,1
+797,history,1
+798,chatbot,2
+798,interface (matter),2
+798,computer science,1
+798,cohesion (chemistry),1
+798,narrative,1
+798,scripting language,1
+798,quality (philosophy),1
+798,world wide web,1
+798,multimedia,1
+798,linguistics,1
+799,convolutional neural network,1
+799,inversion (geology),1
+799,workflow,1
+799,geology,1
+799,computer science,1
+799,artificial neural network,1
+799,geophysics,1
+799,algorithm,1
+799,computational science,1
+799,artificial intelligence,1
+800,zero waste,2
+800,net (polyhedron),2
+800,stakeholder,1
+800,zero (linguistics),1
+800,business,1
+800,systematic review,1
+800,economics,1
+800,political science,1
+800,engineering,1
+800,management,1
+801,benchmarking,2
+801,speedup,2
+801,computer science,1
+801,benchmark (surveying),1
+801,artificial intelligence,1
+801,inference,1
+801,convolutional neural network,1
+801,task (project management),1
+801,artificial neural network,1
+801,object (grammar),1
+802,government (linguistics),1
+802,coronavirus disease 2019 (covid-19),1
+802,computer science,1
+802,business,1
+802,mobile telephony,1
+802,e-government,1
+802,telecommunications,1
+802,internet privacy,1
+802,knowledge management,1
+802,world wide web,1
+803,knowledge translation,2
+803,social media,1
+803,microblogging,1
+803,public relations,1
+803,the internet,1
+803,government (linguistics),1
+803,internet privacy,1
+803,digital media,1
+803,computer science,1
+803,knowledge management,1
+804,law enforcement,1
+804,business,1
+804,computer security,1
+804,service (business),1
+804,government (linguistics),1
+804,criminology,1
+804,enforcement,1
+804,law,1
+804,internet privacy,1
+804,political science,1
+805,spelling,1
+805,computer science,1
+805,artificial intelligence,1
+805,data science,1
+805,linguistics,1
+805,philosophyspelling,1
+806,pterygium,1
+806,convolutional neural network,1
+806,computer science,1
+806,artificial intelligence,1
+806,optometry,1
+806,medicine,1
+806,computer vision,1
+806,ophthalmologypterygium,1
+807,latvian,1
+807,agency (philosophy),1
+807,order (exchange),1
+807,service (business),1
+807,business,1
+807,labour economics,1
+807,state (computer science),1
+807,economics,1
+807,economy,1
+807,finance,1
+808,computer science,1
+808,natural language processing,1
+808,linguistics,1
+808,philosophy,1
+809,charisma,1
+809,selection (genetic algorithm),1
+809,signal (programming language),1
+809,communication,1
+809,speech recognition,1
+809,psychology,1
+809,acoustics,1
+809,computer science,1
+809,artificial intelligence,1
+809,political science,1
+810,baseline (sea),2
+810,feature (linguistics),2
+810,sequence (biology),2
+810,attention network,2
+810,computer science,1
+810,cascade,1
+810,snapshot (computer storage),1
+810,representation (politics),1
+810,graph,1
+810,artificial intelligence,1
+811,preprint,1
+811,computer science,1
+811,natural (archaeology),1
+811,natural language,1
+811,world wide web,1
+811,internet privacy,1
+811,data science,1
+811,psychology,1
+811,natural language processing,1
+811,archaeology,1
+812,health care,1
+812,business,1
+812,economic shortage,1
+812,sustainable development,1
+812,resource (disambiguation),1
+812,public relations,1
+812,medicine,1
+812,economic growth,1
+812,political science,1
+812,computer science,1
+813,scope (computer science),1
+813,terminology,1
+813,computer science,1
+813,categorization,1
+813,taxonomy (biology),1
+813,human–computer interaction,1
+813,artificial intelligence,1
+813,robot,1
+813,task (project management),1
+813,scalability,1
+814,odometry,2
+814,sensor fusion,2
+814,ranging,1
+814,transformation (genetics),1
+814,artificial intelligence,1
+814,computer science,1
+814,computer vision,1
+814,fusion,1
+814,mobile robot,1
+814,robot,1
+815,artificial intelligence,1
+815,convolutional neural network,1
+815,robot,1
+815,robotics,1
+815,computer science,1
+815,rgb color model,1
+815,computer vision,1
+815,identification (biology),1
+815,field (mathematics),1
+815,image processing,1
+816,rna-seq,1
+816,computer science,1
+816,cluster analysis,1
+816,artificial intelligence,1
+816,fusion,1
+816,pattern recognition (psychology),1
+816,data mining,1
+816,computational biology,1
+816,biology,1
+816,transcriptome,1
+817,orthopedic surgery,1
+817,medicine,1
+817,convolutional neural network,1
+817,radiography,1
+817,artificial intelligence,1
+817,radiology,1
+817,surgery,1
+817,computer science,1
+818,quality (philosophy),1
+818,computer science,1
+818,fusion,1
+818,psychology,1
+818,mathematics education,1
+818,artificial intelligence,1
+818,physics,1
+818,linguistics,1
+818,philosophy,1
+818,quantum mechanics,1
+819,computer science,1
+819,convolutional neural network,1
+819,malware,1
+819,android malware,1
+819,residual,1
+819,artificial intelligence,1
+819,android (operating system),1
+819,machine learning,1
+819,data mining,1
+819,computer security,1
+820,divergence (linguistics),2
+820,kullback–leibler divergence,2
+820,mnist database,1
+820,embedding,1
+820,nonlinear dimensionality reduction,1
+820,computer science,1
+820,k-nearest neighbors algorithm,1
+820,dimensionality reduction,1
+820,preprocessor,1
+820,curse of dimensionality,1
+821,mainstream,2
+821,promotion (chess),2
+821,smart city,1
+821,business,1
+821,big data,1
+821,government (linguistics),1
+821,the internet,1
+821,service (business),1
+821,telecommunications,1
+821,computer science,1
+822,computer science,1
+822,apprenticeship,1
+822,machine learning,1
+822,artificial intelligence,1
+822,field (mathematics),1
+822,artificial neural network,1
+822,systematic review,1
+822,data science,1
+822,process (computing),1
+822,kinematics,1
+823,mel-frequency cepstrum,2
+823,feature (linguistics),2
+823,feature vector,2
+823,cepstrum,1
+823,pipeline (software),1
+823,speech recognition,1
+823,energy (signal processing),1
+823,pattern recognition (psychology),1
+823,support vector machine,1
+823,computer science,1
+824,depression (economics),1
+824,cancer,1
+824,computer science,1
+824,natural language processing,1
+824,psychology,1
+824,medicine,1
+824,internal medicine,1
+824,economics,1
+824,macroeconomicsdepression,1
+825,aphasiology,1
+825,aphasia,1
+825,computer science,1
+825,psychology,1
+825,linguistics,1
+825,cognitive psychology,1
+825,philosophyaphasiology,1
+826,segmentation,1
+826,computer science,1
+826,artificial intelligence,1
+826,pattern recognition (psychology),1
+826,frame (networking),1
+826,convolutional neural network,1
+826,cardiac cycle,1
+826,computer vision,1
+826,cardiology,1
+826,medicine,1
+827,computer science,1
+827,trajectory,1
+827,real-time computing,1
+827,data collection,1
+827,transformer,1
+827,internet of things,1
+827,computer network,1
+827,embedded system,1
+827,electrical engineering,1
+827,voltage,1
+828,travelling salesman problem,1
+828,reinforcement learning,1
+828,convolutional neural network,1
+828,computer science,1
+828,deep learning,1
+828,artificial intelligence,1
+828,2-opt,1
+828,set (abstract data type),1
+828,decomposition,1
+828,mathematical optimization,1
+829,capital intensity,2
+829,carbon fibers,2
+829,industrial revolution,2
+829,intensity (physics),1
+829,population,1
+829,government (linguistics),1
+829,artificial intelligence,1
+829,industrial organization,1
+829,economics,1
+829,engineering,1
+28,state of health,2
+28,data pre-processing,2
+28,battery (electricity),1
+28,convolutional neural network,1
+28,feature (linguistics),1
+28,preprocessor,1
+28,computer science,1
+28,voltage,1
+28,artificial neural network,1
+28,pattern recognition (psychology),1
+29,health indicator,2
+29,economic shortage,2
+29,state of health,1
+29,estimation,1
+29,health management system,1
+29,battery (electricity),1
+29,risk analysis (engineering),1
+29,computer science,1
+29,reliability engineering,1
+29,engineering,1
+4,feature (linguistics),2
+4,anomaly (physics),2
+4,black box,2
+4,interpretability,1
+4,computer science,1
+4,anomaly detection,1
+4,feature selection,1
+4,artificial intelligence,1
+4,selection (genetic algorithm),1
+4,machine learning,1
+5,dialectic,2
+5,argumentation framework,2
+5,probabilistic argumentation,2
+5,argumentation theory,1
+5,argument (complex analysis),1
+5,semantics (computer science),1
+5,rotation formalisms in three dimensions,1
+5,computer science,1
+5,epistemology,1
+5,context (archaeology),1
+605,philosophy,1
+605,humanities,1
+605,chatbot,1
+605,computer science,1
+605,artificial intelligencechatbot,1
+8,overfitting,2
+8,profiling (computer programming),2
+8,deep neural networks,2
+8,hyperparameter,1
+8,computer science,1
+8,artificial intelligence,1
+8,machine learning,1
+8,artificial neural network,1
+8,regularization (linguistics),1
+8,operating systemhyperparameter,1
+12,cephalometric analysis,2
+12,landmark,1
+12,convolutional neural network,1
+12,orthodontics,1
+12,annotation,1
+12,computer science,1
+12,medicine,1
+12,pattern recognition (psychology),1
+12,artificial intelligencelandmark,1
+13,dirac delta function,2
+13,energy functional,2
+13,ritz method,2
+13,singularity,1
+13,regularization (linguistics),1
+13,artificial neural network,1
+13,mathematics,1
+13,function (biology),1
+13,boundary (topology),1
+13,applied mathematics,1
+16,pyramid (geometry),2
+16,contextual image classification,2
+16,similarity (geometry),2
+16,rgb color model,2
+16,feature (linguistics),2
+16,computer science,1
+16,pooling,1
+16,artificial intelligence,1
+16,convolutional neural network,1
+16,pattern recognition (psychology),1
+17,population ageing,2
+17,restructuring,2
+17,economic shortage,2
+17,healthcare system,2
+17,spark (programming language),1
+17,health care,1
+17,workforce,1
+17,work (physics),1
+17,action (physics),1
+17,fragmentation (computing),1
+115,medical record,2
+115,missing data,1
+115,computer science,1
+115,terminology,1
+115,data science,1
+115,health records,1
+115,data collection,1
+115,data mining,1
+115,health care,1
+115,information retrieval,1
+22,sequence space,2
+22,divergence (linguistics),2
+22,hallucinating,1
+22,computational biology,1
+22,amino acid,1
+22,artificial neural network,1
+22,protein secondary structure,1
+22,artificial intelligence,1
+22,protein structure,1
+22,computer science,1
+24,scopus,1
+24,bibliometrics,1
+24,higher education,1
+24,ranking (information retrieval),1
+24,economic shortage,1
+24,content analysis,1
+24,library science,1
+24,medical education,1
+24,political science,1
+24,computer science,1
+26,business,2
+26,economics,2
+26,monetary economics,2
+26,philosophy,2
+26,china,1
+26,divergence (linguistics),1
+26,financial economics,1
+26,econometrics,1
+26,geography,1
+26,linguistics,1
+27,affect (linguistics),1
+27,business,1
+27,internet privacy,1
+27,computer science,1
+27,psychology,1
+27,communicationaffect,1

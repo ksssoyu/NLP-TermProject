@@ -1,0 +1,735 @@
+paper_id,title,year,eigenvector,cluster_id
+W2516621648,Summarizing Source Code using a Neural Attention Model,2016,0.26016832357911035,8
+W2884276923,Deep code comment generation,2018,0.22614945175739987,8
+W3034689979,A Transformer-based Approach for Source Code Summarization,2020,0.18488092184830351,8
+W2888557792,Improving automatic source code summarization via deep reinforcement learning,2018,0.17883389868136876,8
+W3091730360,Retrieval-based neural source code summarization,2020,0.17249418805207553,8
+W2964194820,A Neural Model for Generating Natural Language Summaries of Program Subroutines,2019,0.1701662181234959,8
+W3098605233,CodeBERT: A Pre-Trained Model for Programming and Natural Languages,2020,0.1636117738840842,8
+W2807964941,Summarizing Source Code with Transferred API Knowledge,2018,0.15000754491244664,8
+W3086449553,Improved Code Summarization via a Graph Neural Network,2020,0.14137059095254345,8
+W2949297108,Deep code comment generation with hybrid lexical and syntactical information,2019,0.13618360146984138,8
+W2962995178,A Convolutional Attention Network for Extreme Summarization of Source Code,2016,0.10898487236371099,8
+W4400276325,ESALE: <u>E</u>nhancing Code-<u>S</u>ummary <u>A</u>lignment <u>L</u>earning for Source Code Summarization,2024,0.10648069631188928,8
+W3176913510,Improving Code Summarization with Block-wise Abstract Syntax Tree Splitting,2021,0.1053060947797014,8
+W3198685994,CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation,2021,0.10255412146313655,8
+W4388631682,An Extractive-and-Abstractive Framework for Source Code Summarization,2023,0.10124121372343493,8
+W3177492177,Code Summarization with Structure-induced Transformer,2021,0.09995453771760976,8
+W3195727321,Reassessing automatic evaluation metrics for code summarization tasks,2021,0.09986585998824221,8
+W2794601162,Deep code search,2018,0.09589856628080834,8
+W4221162678,Source Code Summarization with Structural Relative Position Guided Transformer,2022,0.09582763953700643,8
+W2963617989,A Syntactic Neural Model for General-Purpose Code Generation,2017,0.09508652517197776,8
+W4392806399,Do Code Summarization Models Process Too Much Information? Function Signature May Be All What Is Needed,2024,0.09373118399544245,8
+W4388412504,Deep Is Better? An Empirical Comparison of Information Retrieval and Deep Learning Approaches to Code Summarization,2023,0.09156531231083305,8
+W3159616622,Code Structure–Guided Transformer for Source Code Summarization,2022,0.09116853564253379,8
+W4408126762,Bash command comment generation via multi-scale heterogeneous feature fusion,2025,0.09099490465689992,8
+W2964150020,code2vec: learning distributed representations of code,2019,0.08863522759254196,8
+W2979486033,Code Generation as a Dual Task of Code Summarization,2019,0.08502547959408399,8
+W2979271470,Automatic Source Code Summarization with Extended Tree-LSTM,2019,0.08471590045441978,8
+W3176248591,API2Com: On the Improvement of Automatically Generated Code Comments Using API Documentations,2021,0.08436665455037083,8
+W3182190622,ComFormer: Code Comment Generation via Transformer and Fusion Method-based Hybrid Code Representation,2021,0.08315344507303828,8
+W3123545166,"Code to comment ""translation""",2020,0.08280688738096474,8
+W3196992070,CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees,2021,0.08267015407132229,8
+W4225081837,GypSum,2022,0.08001211682505527,8
+W4285210829,Impact of Evaluation Methodologies on Code Summarization,2022,0.07873394463438076,8
+W3175000455,A Multi-Modal Transformer-based Code Summarization Approach for Smart Contracts,2021,0.07849731212767878,8
+W4221146651,DualSC: Automatic Generation and Summarization of Shellcode via Transformer and Dual Learning,2022,0.07834994910386284,8
+W4249122235,Retrieve and refine,2020,0.07693790755880048,8
+W4214548153,A Survey of Automatic Source Code Summarization,2022,0.07626420566178047,8
+W2964270303,Recommendations for Datasets for Source Code Summarization,2019,0.07609214400676612,8
+W4384159055,Interpretation-based Code Summarization,2023,0.07565652666190807,8
+W4393190262,Bash comment generation via data augmentation and semantic-aware CodeBERT,2024,0.07551271346850436,8
+W3174885139,Project-Level Encoding for Neural Source Code Summarization of Subroutines,2021,0.07430793559032947,8
+W3011632945,Reinforcement-Learning-Guided Source Code Summarization Using Hierarchical Attention,2020,0.07297555773762365,8
+W2955426500,A Novel Neural Source Code Representation Based on Abstract Syntax Tree,2019,0.0722176494989652,8
+W3119507053,GraphCodeBERT: Pre-training Code Representations with Data Flow,2021,0.07215411296601024,8
+W4367666333,READSUM: Retrieval-Augmented Adaptive Transformer for Source Code Summarization,2023,0.07195940743396707,8
+W4285282363,Modeling Hierarchical Syntax Structure with Triplet Position for Source Code Summarization,2022,0.07187323198223641,8
+W3179515446,SeCNN: A semantic CNN parser for code comment generation,2021,0.07008047845706003,8
+W4284697810,SPT-code,2022,0.06999798557798993,8
+W4308641647,Are we building on the rock? on the importance of data preprocessing for code summarization,2022,0.06946113997784464,8
+W4220921499,A Review on Source Code Documentation,2022,0.06945198201451909,8
+W3212549866,Novel Natural Language Summarization of Program Code via Leveraging Multiple Input Representations,2021,0.06917338384065326,8
+W4286530329,Assemble Foundation Models for Automatic Code Summarization,2022,0.06827855252543713,8
+W2888312537,Neural-machine-translation-based commit message generation: how far are we?,2018,0.06816849592258359,8
+W4312794920,BashExplainer: Retrieval-Augmented Bash Code Comment Generation based on Fine-tuned CodeBERT,2022,0.06815855735911606,8
+W4284688961,Multilingual training for software engineering,2022,0.0677931164484838,8
+W4406167766,Automatic Code Summarization Using Abbreviation Expansion and Subword Segmentation,2025,0.06777440323769325,8
+W3099636232,Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning,2020,0.06767796912425769,8
+W4282927279,Code comment generation based on graph neural network enhanced transformer model for code understanding in open-source software ecosystems,2022,0.06727627389157563,8
+W4384345739,Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models,2023,0.06705535940106662,8
+W3186152447,Fine-grained Pseudo-code Generation Method via Code Feature Extraction and Transformer,2021,0.06702706420904098,8
+W4284667247,On the evaluation of neural code summarization,2022,0.06698775608192178,8
+W4206251287,Retrieval Augmented Code Generation and Summarization,2021,0.06648702853495261,8
+W4402897306,On the Effectiveness of Large Language Models in Statement-level Code Summarization,2024,0.0646172904901002,8
+W4392365769,Distilled GPT for source code summarization,2024,0.0637263245448596,8
+W2888651608,A neural framework for retrieval and summarization of source code,2018,0.06371339105187028,8
+W4391558635,Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning,2024,0.06338967227957723,8
+W4387769581,Survey of Code Search Based on Deep Learning,2023,0.06313035911299184,8
+W4384302770,Developer-Intent Driven Code Comment Generation,2023,0.062054913925391995,8
+W4384345795,CoCoSoDa: Effective Contrastive Learning for Code Search,2023,0.061644296077495074,8
+W4293509738,SeTransformer: A Transformer-Based Code Semantic Parser for Code Comment Generation,2022,0.06090176152486896,8
+W4284696121,AST-trans,2022,0.059562424341690706,8
+W3185835445,Code to Comment Translation: A Comparative Study on Model Effectiveness &amp; Errors,2021,0.0583510654798958,8
+W2963794306,Language to Logical Form with Neural Attention,2016,0.0568261907436758,8
+W3161997752,Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks,2021,0.05662815110327379,8
+W2964268484,Automatic Generation of Text Descriptive Comments for Code Blocks,2018,0.05657444857624289,8
+W3123811550,Retrieval-Augmented Generation for Code Summarization via Hybrid GNN,2020,0.0562036934660276,8
+W4379231174,Natural Language Generation and Understanding of Big Code for AI-Assisted Programming: A Review,2023,0.05597017556812978,8
+W3199042156,CodeQA: A Question Answering Dataset for Source Code Comprehension,2021,0.05586500433536737,8
+W3044696186,Fret: Functional Reinforced Transformer With BERT for Code Summarization,2020,0.055836552582481165,8
+W4407167185,Context-aware code summarization with multi-relational graph neural network,2025,0.05560936520581591,8
+W2979792666,The adverse effects of code duplication in machine learning models of code,2019,0.055435242063828785,8
+W4289792856,Code Generation Using Machine Learning: A Systematic Review,2022,0.054479484406285195,8
+W4366447853,ALSI-Transformer: Transformer-Based Code Comment Generation with Aligned Lexical and Syntactic Information,2023,0.054333768502539945,8
+W3173436362,Learning Sequential and Structural Information for Source Code Summarization,2021,0.05423126417500096,8
+W3034372013,Automatic Code Summarization via Multi-dimensional Semantic Fusing in GNN.,2020,0.053117087294496226,8
+W4394745253,Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization),2024,0.05298782516845136,8
+W3016234956,Improved Automatic Summarization of Subroutines via Attention to File Context,2020,0.052636287878241254,8
+W2751448157,Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning,2017,0.052456995313670575,8
+W4210499321,Adversarial Robustness of Deep Code Comment Generation,2022,0.05156260998472608,8
+W4312994886,M2TS,2022,0.05107155922156666,8
+W2964325845,Latent Predictor Networks for Code Generation,2016,0.050999578783742734,8
+W3215817321,Summarizing source code with hierarchical code representation,2021,0.05048495661269388,8
+W2962728167,Abstract Syntax Networks for Code Generation and Semantic Parsing,2017,0.05044370865737657,8
+W2999118008,Automatic Generation of Pull Request Descriptions,2019,0.05015849709880599,8
+W3085939759,A Human Study of Comprehension and Code Summarization,2020,0.05010064721435546,8
+W4384304811,Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension,2023,0.04982757475598263,8
+W3022580834,A Transformer-based Approach for Source Code Summarization,2020,0.0497982281234387,8
+W2963958373,A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes,2017,0.04958071792667081,8
+W4297348681,Re_Trans: Combined Retrieval and Transformer Model for Source Code Summarization,2022,0.0494520177624936,8
+W4206238733,EditSum: A Retrieve-and-Edit Framework for Source Code Summarization,2021,0.04943696863509046,8
+W4303986675,ClassSum: a deep learning model for class-level code summarization,2022,0.04908554540707062,8
+W2963392741,A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation,2017,0.04846128434764468,8
+W2890431379,Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task,2018,0.04809848688240599,8
+W4307205456,Low-Resources Project-Specific Code Summarization,2022,0.04791457287344321,8
+W3034716028,TAG : Type Auxiliary Guiding for Code Comment Generation,2020,0.04778508458657413,8
+W4312838748,HELoC,2022,0.04696917594977882,8
+W4205371973,Contrastive Code Representation Learning,2021,0.046949062653003845,8
+W2898734514,Structured Neural Summarization,2018,0.04683241020959882,8
+W4388483492,What Makes Good In-Context Demonstrations for Code Intelligence Tasks with LLMs?,2023,0.046544835528505246,8
+W4210831819,Automatic source code summarization with graph attention networks,2022,0.04625452690112322,8
+W4281400706,Correlating Automated and Human Evaluation of Code Documentation Generation Quality,2022,0.04603711074094664,8
+W4390813110,Automatic smart contract comment generation via large language models and in-context learning,2024,0.04578672757441806,8
+W2911550516,CoaCor: Code Annotation for Code Retrieval with Reinforcement Learning,2019,0.04469192644668673,8
+W4387250125,Prompt Tuning in Code Intelligence: An Experimental Evaluation,2023,0.044169249273835504,8
+W2968179027,When deep learning met code search,2019,0.04386003626258046,8
+W2964271186,Learning a Neural Semantic Parser from User Feedback,2017,0.043717153487054176,8
+W2963357517,Coarse-to-Fine Decoding for Neural Semantic Parsing,2018,0.04314489425952261,8
+W3121707215,Multi-task learning based pre-trained language model for code completion,2020,0.04303635082353151,8
+W2964315653,Learning to mine aligned code and natural language pairs from stack overflow,2018,0.04268328501078726,8
+W4406188747,SDGNN: Structure-aware Dual Graph Neural Network for Code Summarization,2025,0.04260807425333047,8
+W3090867931,Generating Question Titles for Stack Overflow from Mined Code Snippets,2020,0.04226157911026958,8
+W4384345664,Learning Deep Semantics for Test Completion,2023,0.041579895408391535,8
+W3108032709,IntelliCode compose: code generation using transformer,2020,0.04137578345503147,8
+W3099130275,ATOM: Commit Message Generation Based on Abstract Syntax Tree and Hybrid Ranking,2020,0.040442526326667436,8
+W2945102109,Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation,2019,0.04010906223521185,8
+W4229003128,CODE-MVP: Learning to Represent Source Code from Multiple Views with Contrastive Pre-Training,2022,0.03965535957865143,8
+W4366342672,What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?,2023,0.03928168817078114,8
+W4200440497,PRHAN: Automated Pull Request Description Generation Based on Hybrid Attention Network,2021,0.0392144213055861,8
+W3162962341,InferCode: Self-Supervised Learning of Code Representations by Predicting Subtrees,2021,0.03913947367757767,8
+W4391872514,AI-Assisted Programming Tasks Using Code Embeddings and Transformers,2024,0.03906109940805054,8
+W3126095862,Deep Learning for Source Code Modeling and Generation,2020,0.03895396193675851,8
+W3162689995,Code Prediction by Feeding Trees to Transformers,2021,0.03885819081687876,8
+W2999343753,Multi-modal Attention Network Learning for Semantic Source Code Retrieval,2019,0.03847113019826865,8
+W4308731473,NatGen: generative pre-training by “naturalizing” source code,2022,0.03833895484691147,8
+W4285149002,ReACC: A Retrieval-Augmented Code Completion Framework,2022,0.03753856476657496,8
+W4384302803,ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning,2023,0.03677563798274027,8
+W3187787173,On the Effectiveness of Transfer Learning for Code Search,2022,0.03642602425355635,8
+W4285204876,Using Transfer Learning for Code-Related Tasks,2022,0.036079662224105497,8
+W3011564318,Big code != big vocabulary,2020,0.035424311549227115,8
+W3217448992,Multimodal Representation for Neural Code Search,2021,0.03530875183074107,8
+W4401508141,Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models,2024,0.035233126866053,8
+W4387642109,A syntax-guided multi-task learning approach for Turducken-style code generation,2023,0.03515057656849686,8
+W3090668753,Suggesting natural method names to check name consistencies,2020,0.0351000158338401,8
+W3081159607,CODIT: Code Editing With Tree-Based Neural Models,2020,0.03503356677332529,8
+W2963655793,Data Recombination for Neural Semantic Parsing,2016,0.0348613194381091,8
+W3034835156,RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers,2020,0.03484812925283428,8
+W2972082064,An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation,2019,0.03459180836628635,8
+W4384302785,Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation,2023,0.03437329507472555,8
+W2994865335,Assessing the Generalizability of Code2vec Token Embeddings,2019,0.033968360279084946,8
+W3035657086,Learning to Update Natural Language Comments Based on Code Changes,2020,0.03373293835431267,8
+W4221153183,Learning Program Semantics with Code Representations: An Empirical Study,2022,0.03371021687206754,8
+W4226463316,<scp>XCode</scp> : Towards Cross-Language Code Representation with Large-Scale Pre-Training,2022,0.03355797250018131,8
+W4286530555,Fine-grained Co-Attentive Representation Learning for Semantic Code Search,2022,0.03310739415879299,8
+W4384345649,SkCoder: A Sketch-based Approach for Automatic Code Generation,2023,0.033079652263087345,8
+W4396610514,Automatic bi-modal question title generation for Stack Overflow with prompt learning,2024,0.03298623825677431,8
+W2970172141,Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions,2019,0.032752249405932146,8
+W2964772344,Commit Message Generation for Source Code Changes,2019,0.03257681183919595,8
+W3085514074,Improving Code Search with Co-Attentive Representation Learning,2020,0.03226269555268008,8
+W2757361303,Neural Semantic Parsing with Type Constraints for Semi-Structured Tables,2017,0.03208069510546525,8
+W3105398568,Big code != big vocabulary: open-vocabulary models for source code,2020,0.03196106797459486,8
+W3165081941,TreeBERT: A Tree-Based Pre-Trained Model for Programming Language,2021,0.03194146218766479,8
+W4226425467,Learning to recommend method names with global context,2022,0.03188679361802848,8
+W2891691255,SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task,2018,0.03144476038673009,8
+W3198188208,SynCoBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation,2021,0.031285276797119746,8
+W2952032096,Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing,2019,0.030918806221411965,8
+W4313137049,An exploratory study on code attention in BERT,2022,0.030883462447413853,8
+W4225791314,Code search based on context-aware code translation,2022,0.030736341282997043,8
+W2890867094,TRANX: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation,2018,0.03070490609290135,8
+W4395470967,TransformCode: A Contrastive Learning Framework for Code Embedding via Subtree Transformation,2024,0.030677760804202436,8
+W3185176031,Context-aware Retrieval-based Deep Commit Message Generation,2021,0.030373836760490793,8
+W4384302749,Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning,2023,0.03020863514140374,8
+W3035371218,A Multi-Perspective Architecture for Semantic Code Search,2020,0.030160629777847166,8
+W2962713807,TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation,2018,0.029834389631697253,8
+W3138429261,Code Completion by Modeling Flattened Abstract Syntax Trees as Graphs,2021,0.029828829240552433,8
+W3138081324,<scp>deGraphCS</scp> : Embedding Variable-based Flow Graph for Neural Code Search,2022,0.02981303941510467,8
+W4281384435,On the Significance of Category Prediction for Code-Comment Synchronization,2022,0.029812113287432263,8
+W3157291566,CRaDLe: Deep code retrieval based on semantic Dependency Learning,2021,0.029770028233093108,8
+W3034976548,Incorporating External Knowledge through Pre-training for Natural Language to Code Generation,2020,0.02963167776483963,8
+W3126104791,OCoR,2020,0.02946740852052034,8
+W3207533378,Enriching query semantics for code search with reinforcement learning,2021,0.029101143412832212,8
+W4410383968,Exploring continual learning in code intelligence with domain-wise distilled prompts,2025,0.029045879068712605,8
+W2964645190,Tree-Transformer: A Transformer-Based Method for Correction of Tree-Structured Data,2019,0.029020380578371738,8
+W4385572142,Large Language Models Meet NL2Code: A Survey,2023,0.02899055970579878,8
+W3216651985,AST-Transformer: Encoding Abstract Syntax Trees Efficiently for Code Summarization,2021,0.02897561024270982,8
+W2997847174,TreeGen: A Tree-Based Transformer Architecture for Code Generation,2020,0.028940263925037724,8
+W3107793421,Flow2Vec: value-flow-based precise code embedding,2020,0.028856025632385877,8
+W3093604544,Deep Graph Matching and Searching for Semantic Code Retrieval,2021,0.028777261316912085,8
+W3008088841,CodeBERT: A Pre-Trained Model for Programming and Natural Languages,2020,0.028754272905255833,8
+W4384302891,Syntax and Domain Aware Model for Unsupervised Program Translation,2023,0.028408014733052295,8
+W3035172316,Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing,2020,0.02817041815062412,8
+W4313590979,GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search,2023,0.02815800376047303,8
+W3217001695,Assessing Generalizability of CodeBERT,2021,0.02762440092913951,8
+W2951861246,code2seq: Generating Sequences from Structured Representations of Code,2018,0.027617244931157584,8
+W2971377618,Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions,2019,0.027583528264658465,8
+W2805788202,Retrieval on source code: a neural code search,2018,0.0272581215396277,8
+W4394745967,Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization,2024,0.027183900135544763,8
+W2970442801,CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases,2019,0.027133246502343934,8
+W3161027892,CURE: Code-Aware Neural Machine Translation for Automatic Program Repair,2021,0.02709754657741372,8
+W4376606806,MulCS: Towards a Unified Deep Representation for Multilingual Code Search,2023,0.02700390329413123,8
+W3176015924,"CoSQA: 20,000+ Web Queries for Code Search and Question Answering",2021,0.02699974633348911,8
+W2954823997,On Learning Meaningful Code Changes Via Neural Machine Translation,2019,0.02634641031286362,8
+W4400112643,Project-specific code summarization with in-context learning,2024,0.026249835173430346,8
+W2963545046,NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System,2018,0.02623720984394603,8
+W3105247453,PyMT5: multi-mode translation of natural language and Python code with transformers,2020,0.02594480063566486,8
+W4409328411,RaxCS: Towards cross-language code summarization with contrastive pre-training and retrieval augmentation,2025,0.02591676320652031,8
+W3014394502,CORE: Automating Review Recommendation for Code Changes,2020,0.025836183354590973,8
+W3183962691,CoTexT: Multi-task Learning with Code-Text Transformer,2021,0.025601314088634888,8
+W4384158961,Improving Code Search with Multi-Modal Momentum Contrastive Learning,2023,0.025571137648499102,8
+W3175488485,LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations,2021,0.025489571410816633,8
+W3014339000,Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree,2020,0.02524794929520371,8
+W3103801878,Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing,2020,0.02523262979389435,8
+W4212788259,Retrieval-Based Transformer Pseudocode Generation,2022,0.02523254746341958,8
+W2963868406,A Grammar-Based Structural CNN Decoder for Code Generation,2019,0.025052826643779145,8
+W4384304951,Automating Code-Related Tasks Through Transformers: The Impact of Pre-training,2023,0.02500822552174306,8
+W3035231859,TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,2020,0.024914943937146605,8
+W4313185449,Semantic similarity metrics for evaluating source code summarization,2022,0.024810456689941692,8
+W4292972218,Dynamically Relative Position Encoding-Based Transformer for Automatic Code Edit,2022,0.02450863119472474,8
+W4384158954,Naturalness in Source Code Summarization. How Significant is it?,2023,0.02423994509132025,8
+W4226490385,HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing,2022,0.024226246956421456,8
+W4313563421,CrystalBLEU: Precisely and Efficiently Measuring the Similarity of Code,2022,0.02419407532915792,8
+W4226277721,Compilable Neural Code Generation with Compiler Feedback,2022,0.024065279574573082,8
+W2903190877,A Survey on Semantic Parsing,2019,0.023532728091524735,8
+W3170721718,Structure-Grounded Pretraining for Text-to-SQL,2021,0.023407819362059802,8
+W4205596491,What do pre-trained code models know about code?,2021,0.02335219307473381,8
+W4384345635,Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models,2023,0.023233493682024757,8
+W2954552517,Neural Detection of Semantic Code Clones Via Tree-Based Convolution,2019,0.023185426073306106,8
+W2963868320,Learning to Map Context-Dependent Sentences to Executable Formal Queries,2018,0.02309871127932404,8
+W2971323043,Global Reasoning over Database Structures for Text-to-SQL Parsing,2019,0.023086150096140047,8
+W4385564894,Backdooring Neural Code Search,2023,0.02298223890479609,8
+W4399667964,Code Summarization without Direct Access to Code - Towards Exploring Federated LLMs for Software Engineering,2024,0.022940896163159828,8
+W4229046772,Hierarchical semantic-aware neural code representation,2022,0.022881639949056592,8
+W2883359218,Deep learning similarities from different representations of source code,2018,0.02287636018248243,8
+W4390572224,Query-oriented two-stage attention-based model for code search,2024,0.02287112142469718,8
+W2972571786,CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases,2019,0.02279920862574288,8
+W3099302725,Code Completion with Neural Attention and Pointer Networks,2018,0.022703927026241865,8
+W3203942433,Improving Ponzi Scheme Contract Detection Using Multi-Channel TextCNN and Transformer,2021,0.022596080499017124,8
+W3125781052,Learning to handle exceptions,2020,0.022594035375068107,8
+W4313547549,Few-shot training LLMs for project-specific code-summarization,2022,0.022390747763721547,8
+W4385573373,Soft-Labeled Contrastive Pre-Training for Function-Level Code Representation,2022,0.022361142408562056,8
+W3161535705,Two-Stage Attention-Based Model for Code Search with Textual and Structural Features,2021,0.022331411655027986,8
+W2970004377,JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation,2019,0.022273605882410938,8
+W4407706634,Boosting source code learning with text-oriented data augmentation: an empirical study,2025,0.022107775970152347,8
+W4384345669,One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization,2023,0.022058802983368368,8
+W2955654168,Generating Commit Messages from Diffs using Pointer-Generator Network,2019,0.022038798819759942,8
+W2970393840,Model-based Interactive Semantic Parsing: A Unified Framework and A Text-to-SQL Case Study,2019,0.02200654525371345,8
+W3043761819,CoCoNuT: combining context-aware neural translation models using ensemble for program repair,2020,0.021871178437987283,8
+W4391582462,DP-CCL: A Supervised Contrastive Learning Approach Using CodeBERT Model in Software Defect Prediction,2024,0.02186303224344948,8
+W4392293733,Leveraging pre-trained language models for code generation,2024,0.0218356170543736,8
+W2972135640,Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks,2019,0.021776276114916143,8
+W4284710241,What do they capture?,2022,0.021670091075004706,8
+W2947354947,Grammar-based Neural Text-to-SQL Generation,2019,0.021665318014150704,8
+W4313547604,CoditT5: Pretraining for Source Code and Natural Language Editing,2022,0.021611419275375944,8
+W4385270122,Gar: A Generate-and-Rank Approach for Natural Language to SQL Translation,2023,0.021526955659276596,8
+W2889467844,Retrieval-Based Neural Code Generation,2018,0.021523887008647383,8
+W2605202003,DeepFix: Fixing Common C Language Errors by Deep Learning,2017,0.02135916502740088,8
+W2949215742,Reranking for Neural Semantic Parsing,2019,0.0210194113999248,8
+W2963477458,SParC: Cross-Domain Semantic Parsing in Context,2019,0.020951933567558666,8
+W3214600982,PICARD: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models,2021,0.020819054652814292,8
+W3170698273,ShadowGNN: Graph Projection Neural Network for Text-to-SQL Parser,2021,0.020743445596801923,8
+W4388483497,Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases,2023,0.02070105217886236,8
+W4384345778,KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair,2023,0.020594223329247825,8
+W4376606797,Extending Source Code Pre-Trained Language Models to Summarise Decompiled Binaries,2023,0.020531483717492964,8
+W3097451607,Learning Code-Query Interaction for Enhancing Code Searches,2020,0.020518907082475033,8
+W4384026634,"Large Language Models and Simple, Stupid Bugs",2023,0.020514024054580682,8
+W2963207291,Semantic Parsing with Syntax- and Table-Aware SQL Generation,2018,0.020315362246296455,8
+W4389937024,Multi-grained contextual code representation learning for commit message generation,2023,0.020233447693506084,8
+W4385573657,CodeRetriever: A Large Scale Contrastive Pre-Training Method for Code Search,2022,0.020194023102745057,8
+W4312282218,On the transferability of pre-trained language models for low-resource programming languages,2022,0.019623001782115797,8
+W4385573058,RASAT: Integrating Relational Structures into Pretrained Seq2Seq Model for Text-to-SQL,2022,0.01954958633891736,8
+W3094344961,SmBoP: Semi-autoregressive Bottom-up Semantic Parsing,2021,0.019511736385927937,8
+W4313009415,Cross-Modal Contrastive Learning for Code Search,2022,0.01948295930113136,8
+W4406866724,RFMC-CS: a representation fusion based multi-view momentum contrastive learning framework for code search,2025,0.0193588117415102,8
+W3086007799,GraphCodeBERT: Pre-training Code Representations with Data Flow,2020,0.019355063594185543,8
+W4376613101,A comprehensive review of State-of-The-Art methods for Java code generation from Natural Language Text,2023,0.01923415164677671,8
+W4313563756,Prompt-tuned Code Language Model as a Neural Knowledge Base for Type Inference in Statically-Typed Partial Code,2022,0.01920264303451736,8
+W3199225770,Is a Single Model Enough? MuCoS: A Multi-Model Ensemble Learning Approach for Semantic Code Search,2021,0.01901168912773488,8
+W2912624765,A Comprehensive Exploration on WikiSQL with Table-Aware Word Contextualization.,2019,0.018731814113746942,8
+W3014451403,Are the Code Snippets What We Are Searching for? A Benchmark and an Empirical Study on Code Search with Natural-Language Queries,2020,0.018721913659429594,8
+W2970212756,Learning Semantic Parsers from Denotations with Latent Structured Alignments and Abstract Programs,2019,0.018521072083015653,8
+W3170656151,SmBoP: Semi-autoregressive Bottom-up Semantic Parsing,2021,0.018391639323982103,8
+W4403793718,Establishing Traceability Between Natural Language Requirements and Software Artifacts by Combining RAG and LLMs,2024,0.018383369716642502,8
+W3116083993,Learning Contextual Representations for Semantic Parsing with Generation-Augmented Pre-Training,2021,0.01831253796458813,8
+W3131641316,On the generalizability of Neural Program Models with respect to semantic-preserving program transformations,2021,0.018297911104870626,8
+W4285177871,Towards Learning (Dis)-Similarity of Source Code from Program Contrasts,2022,0.01802601481211368,8
+W4389438938,StructCoder: Structure-Aware Transformer for Code Generation,2023,0.01801199005266816,8
+W4384026730,Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study,2023,0.01790440875131522,8
+W4315815628,An Empirical Study of Code Smells in Transformer-based Code Generation Techniques,2022,0.017701708856305766,8
+W4221157342,On the importance of building high-quality training datasets for neural code search,2022,0.01751710503910475,8
+W2970490744,Learning Programmatic Idioms for Scalable Semantic Parsing,2019,0.017392527369643845,8
+W4288077069,Patching as translation,2020,0.01732488944303525,8
+W2897767292,StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing,2018,0.017299986565526625,8
+W3101642036,Bootstrapping a Crosslingual Semantic Parser,2020,0.017285627002148918,8
+W4408981170,SCodeSearcher: soft contrastive learning for code search,2025,0.017211660154607063,8
+W4285600327,CERT: Continual Pre-training on Sketches for Library-oriented Code Generation,2022,0.017167387613165812,8
+W3173274550,Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?,2021,0.01707444589180538,8
+W4285244831,S2SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers,2022,0.017072703252368843,8
+W4382202531,RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL,2023,0.017053140201458747,8
+W4307550446,Pseudocode Generation from Source Code Using the BART Model,2022,0.01695520458929092,8
+W4375859932,Out of the BLEU: How should we assess quality of the Code Generation models?,2023,0.016944633437666945,8
+W3025624935,TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,2020,0.016913951364197825,8
+W4388483263,CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation,2023,0.016899096275270763,8
+W4408933576,White-box structure analysis of pre-trained language models of code for effective attacking,2025,0.016892679438157025,8
+W3091229675,GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing,2020,0.016782163791163807,8
+W4400909496,Metasql: A Generate-Then-Rank Framework for Natural Language to SQL Translation,2024,0.016782155861062145,8
+W4406324690,You Don’t Have to Say Where to Edit! jLED – Joint Learning to Localize and Edit Source Code,2025,0.01677943118076828,8
+W4367315688,Light RAT-SQL: A RAT-SQL with More Abstraction and Less Embedding of Pre-existing Relations,2023,0.01670353179576638,8
+W4389523875,Enhancing Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies,2023,0.016586930677890438,8
+W3086457636,Adaptive Deep Code Search,2020,0.016541525350210237,8
+W2955270045,Program Synthesis and Semantic Parsing with Learned Code Idioms,2019,0.01647460011886975,8
+W2944898795,Generating Logical Forms from Graph Representations of Text and Entities,2019,0.016426021964645775,8
+W3102532528,Improving Compositional Generalization in Semantic Parsing,2020,0.016313632846667224,8
+W4402351691,Enhancing Code Representation Learning for Code Search with Abstract Code Semantics,2024,0.01624835611219981,8
+W3211801722,An Empirical Study on the Usage of Transformer Models for Code Completion,2021,0.016159925341033738,8
+W4283751459,Diet code is healthy: simplifying programs for pre-trained models of code,2022,0.01613431800775915,8
+W2806718802,DeepBugs: a learning approach to name-based bug detection,2018,0.016117127037276538,8
+W4396773582,Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities,2024,0.016043594158206435,8
+W3106221893,DuSQL: A Large-Scale and Pragmatic Chinese Text-to-SQL Dataset,2020,0.016017457034715004,8
+W4281763794,A systematic evaluation of large language models of code,2022,0.0159730220283724,8
+W3104196282,On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries,2020,0.015920110876955666,8
+W3106356412,Benchmarking Meaning Representations in Neural Semantic Parsing,2020,0.01577312747941618,8
+W3169423864,Meta-Learning for Domain Generalization in Semantic Parsing,2021,0.015698608076334532,8
+W4385572925,Probing Pretrained Models of Source Codes,2022,0.015380528785615216,8
+W4394744510,Language Models for Code Completion: A Practical Evaluation,2024,0.015374586528705898,8
+W2943748428,Learning to Spot and Refactor Inconsistent Method Names,2019,0.01531270841964989,8
+W2804660315,Generative Code Modeling with Graphs,2018,0.015196964479176591,8
+W4388483238,CAT-LM Training Language Models on Aligned Code And Tests,2023,0.015156265129631002,8
+W4309700390,MarianCG: a code generation transformer model inspired by machine translation,2022,0.015137747629801709,8
+W3170014162,Learning to Synthesize Data for Semantic Parsing,2021,0.015101055472277315,8
+W3156012351,Constrained Language Models Yield Few-Shot Semantic Parsers,2021,0.015068241470411272,8
+W3173964589,Dynamic Hybrid Relation Exploration Network for Cross-Domain Context-Dependent Semantic Parsing,2021,0.015049226754189559,8
+W3169611685,NL-EDIT: Correcting Semantic Parse Errors through Natural Language Interaction,2021,0.015012243940514272,8
+W4376606669,Documentation-Guided API Sequence Search without Worrying about the Text-API Semantic Gap,2023,0.0149877805039766,8
+W3199077625,Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization,2021,0.014915056658797369,8
+W3154669786,Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations,2021,0.014850635884644468,8
+W3119822474,SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing,2021,0.014848286253867561,8
+W4394769313,GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code,2024,0.014745562479306605,8
+W2963675284,Confidence Modeling for Neural Semantic Parsing,2018,0.014642837155943502,8
+W4399175046,CodeS: Towards Building Open-source Language Models for Text-to-SQL,2024,0.014592468556024384,8
+W2890561662,IncSQL: Training Incremental Text-to-SQL Parsers with Non-Deterministic Oracles,2018,0.01458888725414757,8
+W4393160230,AdaCCD: Adaptive Semantic Contrasts Discovery Based Cross Lingual Adaptation for Code Clone Detection,2024,0.014565774571603797,8
+W2964161178,Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing,2018,0.014563399988985473,8
+W2945290078,Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing,2019,0.014519715742517703,8
+W4400877211,OHiFormer: Object-Wise Hierarchical Dependency-Based Transformer for Screen Summarization,2024,0.014474050091022345,8
+W4385574207,When Language Model Meets Private Library,2022,0.014383123109461873,8
+W3175818566,Towards Robustness of Text-to-SQL Models against Synonym Substitution,2021,0.014314760071518374,8
+W3037140688,Photon: A Robust Cross-Domain Text-to-SQL System,2020,0.014258899769362895,8
+W4380763529,Vulnerability Detection by Learning From Syntax-Based Execution Paths of Code,2023,0.014236325421744491,8
+W4385573379,CAT-probing: A Metric-based Approach to Interpret How Pre-trained Models for Programming Language Attend Code Structure,2022,0.014212953823388642,8
+W4285490489,Path-sensitive code embedding via contrastive learning for software vulnerability detection,2022,0.01415590880133563,8
+W2888128175,Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model,2018,0.01412326965827601,8
+W2963106169,Semantic Parsing with Dual Learning,2019,0.014118351976848735,8
+W4200633062,Bridging pre-trained models and downstream tasks for source code understanding,2022,0.014001099820086816,8
+W3193682477,A syntax-guided edit decoder for neural program repair,2021,0.013975892558233257,8
+W4410552311,Variational Prefix Tuning for diverse and accurate code summarization using pre-trained language models,2025,0.013764236782946923,8
+W3045279034,FCCA: Hybrid Code Representation for Functional Clone Detection Using Attention Networks,2020,0.013642524597388173,8
+W2922006620,Learning-Based Recursive Aggregation of Abstract Syntax Trees for Code Clone Detection,2019,0.013600141135813284,8
+W2985377636,RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers.,2019,0.013535545230973178,8
+W2950706223,Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation,2019,0.013532860251230907,8
+W4383199468,UniSAr: a unified structure-aware autoregressive language model for text-to-SQL semantic parsing,2023,0.013514102980769315,8
+W4283799640,Multilingual Code Snippets Training for Program Translation,2022,0.013409147841959183,8
+W3170978252,KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers,2021,0.013407365489770975,8
+W3162044134,Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models,2021,0.01336073398183707,8
+W3102961474,Genie: a generator of natural language semantic parsers for virtual assistant commands,2019,0.013324716592695289,8
+W2963960541,Learning an Executable Neural Semantic Parser,2018,0.013313936335142782,8
+W3126918322,GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing,2020,0.013310361274770753,8
+W3203911409,CodeMatcher: Searching Code Based on Sequential Semantics of Important Query Words,2021,0.013307765841202366,8
+W2954950681,NL2Type: Inferring JavaScript Function Types from Natural Language Information,2019,0.013242101890458536,8
+W3128554366,Self-Attention Networks for Code Search,2021,0.013169426997109292,8
+W4389438812,Representation Learning for Stack Overflow Posts: How Far Are We?,2023,0.013150665918049595,8
+W3160369295,AUTOTRAINER: An Automatic DNN Training Problem Detection and Repair System,2021,0.013085343037224135,8
+W4319862210,N-Best Hypotheses Reranking for Text-to-SQL Systems,2023,0.012971548246075132,8
+W3004658838,Semantic Robustness of Models of Source Code,2022,0.0129377647101554,8
+W3174220201,Applying CodeBERT for Automated Program Repair of Java Simple Bugs,2021,0.012929095175024035,8
+W4406771118,Enhancing Interaction Graph of Data Schema and Syntactic Structure with Pre-trained Language Model for Text-to-SQL,2025,0.01291031156798824,8
+W2798753108,DialSQL: Dialogue Based Structured Query Generation,2018,0.012898585774442601,8
+W3103962261,Grounded Adaptation for Zero-shot Executable Semantic Parsing,2020,0.012872979508041735,8
+W4385573280,STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing,2022,0.012766779670247133,8
+W2944982877,Iterative Search for Weakly Supervised Semantic Parsing,2019,0.012643679787963756,8
+W4377238789,<scp>CodeEditor</scp> : Learning to Edit Source Code with Pre-trained Models,2023,0.012525313741088773,8
+W3168664364,Compositional Generalization for Neural Semantic Parsing via Span-level Supervised Attention,2021,0.012390816106791677,8
+W4384009718,CodeS: Towards Code Model Generalization Under Distribution Shift,2023,0.012349474432687082,8
+W4385572707,Natural Language to Code Translation with Execution,2022,0.012348166189468055,8
+W2970002529,Clause-Wise and Recursive Decoding for Complex and Cross-Domain Text-to-SQL Generation,2019,0.012283252306495289,8
+W4205123042,Compositional Generalization via Semantic Tagging,2021,0.012170415084726865,8
+W4385570661,Improving Generalization in Language Model-based Text-to-SQL Semantic Parsing: Two Simple Semantic Boundary-based Techniques,2023,0.012168779962221576,8
+W4312600202,A Survey on Table Question Answering: Recent Advances,2022,0.012106870663461616,8
+W4321162272,Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming,2023,0.011935405009962723,8
+W4385571380,Importance of Synthesizing High-quality Data for Text-to-SQL Parsing,2023,0.01182114982916635,8
+W3173888607,Span-based Semantic Parsing for Compositional Generalization,2021,0.011745148423581488,8
+W4389519829,ACT-SQL: In-Context Learning for Text-to-SQL with Automatically-Generated Chain-of-Thought,2023,0.011683227273265089,8
+W4391558490,TRACED: Execution-aware Pre-training for Source Code,2024,0.011648538643637397,8
+W4221166475,Turn tree into graph: Automatic code review via simplified AST driven graph convolutional network,2022,0.011617008403420538,8
+W2964224049,From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood,2017,0.011547821285406669,8
+W2886983157,Question Generation from SQL Queries Improves Neural Semantic Parsing,2018,0.011536476316790363,8
+W2970544186,"Don’t paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing",2019,0.01147665068418541,8
+W2970605129,A Pilot Study for Chinese SQL Semantic Parsing,2019,0.011471874858664853,8
+W3093481417,Compositional Generalization via Semantic Tagging,2020,0.011457863613958877,8
+W4408168264,JIT-CF: Integrating contrastive learning with feature fusion for enhanced just-in-time defect prediction,2025,0.011378052394623908,8
+W4385571376,Exploring Continual Learning for Code Generation Models,2023,0.011359020582343754,8
+W4386566574,Contrastive Learning with Keyword-based Data Augmentation for Code Search and Code Question Answering,2023,0.011333971891355439,8
+W3035715371,Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback,2020,0.011298764470930273,8
+W3175658129,PSIMiner: A Tool for Mining Rich Abstract Syntax Trees from Code,2021,0.011129361663251737,8
+W3175013773,Awakening Latent Grounding from Pretrained Language Models for Semantic Parsing,2021,0.01099403276486159,8
+W2963866663,Natural Language to Structured Query Generation via Meta-Learning,2018,0.010959580655292886,8
+W3043172396,Compositional Generalization in Semantic Parsing: Pre-training vs. Specialized Architectures,2020,0.01091963461706641,8
+W4400582609,Exploring and Unleashing the Power of Large Language Models in Automated Code Translation,2024,0.010908042410316959,8
+W3032766766,DBPal: A Fully Pluggable NL2SQL Training Pipeline,2020,0.010818736335953566,8
+W4388639106,Retrieval-Augmented GPT-3.5-Based Text-to-SQL Framework with Sample-Aware Prompting and Dynamic Revision Chain,2023,0.010744774070642338,8
+W2963677252,Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning,2019,0.010729662590221697,8
+W3206178435,Cascaded Fast and Slow Models for Efficient Semantic Code Search,2021,0.010728530346346236,8
+W4285045211,Knowledge Graph and Deep Learning-based Text-to-GraphQL Model for Intelligent Medical Consultation Chatbot,2022,0.010670427639591343,8
+W4406549922,LGS-KT: Integrating logical and grammatical skills for effective programming knowledge tracing,2025,0.010622524535078375,8
+W4384345709,Tare: Type-Aware Neural Program Repair,2023,0.010621658026160968,8
+W3102095584,AutoQA: From Databases To QA Semantic Parsers With Only Synthetic Training Data,2020,0.010619362336913546,8
+W4308643319,"Less training, more repairing please: revisiting automated program repair via zero-shot learning",2022,0.010557431302453285,8
+W2997970380,Zero-Shot Text-to-SQL Learning with Auxiliary Task,2020,0.010546843678862055,8
+W3170962973,Generating bug-fixes using pretrained transformers,2021,0.010289743229251209,8
+W2969670656,X-SQL: reinforce schema representation with context.,2019,0.010262775364853758,8
+W3176740355,An Empirical Study on the Usage of BERT Models for Code Completion,2021,0.010232383665368572,8
+W4389544179,Benchmarking Causal Study to Interpret Large Language Models for Source Code,2023,0.010167367124829728,8
+W4406320569,An Enhanced Transformer-Based Framework for Interpretable Code Clone Detection,2025,0.010120574131361753,8
+W3102841213,An Imitation Game for Learning Semantic Parsers from User Interaction,2020,0.010088792616567602,8
+W2967096374,DeepDelta: learning to repair compilation errors,2019,0.010073348303462916,8
+W4388502417,Generative Type Inference for Python,2023,0.009957248226874896,8
+W4389520783,Generating Data for Symbolic Language with Large Language Models,2023,0.009945981569399808,8
+W2888328667,An empirical investigation into learning bug-fixing patches in the wild via neural machine translation,2018,0.009910100604823521,8
+W4281479826,CIRCLE: continual repair across programming languages,2022,0.009897611424486854,8
+W2888115557,Characterizing the natural language descriptions in software logging statements,2018,0.009889552819358797,8
+W2963796939,Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs,2019,0.00960877490069534,8
+W4385572812,GraphQ IR: Unifying the Semantic Parsing of Graph Query Languages with One Intermediate Representation,2022,0.00957065809664458,8
+W4388581056,Laminar: A New Serverless Stream-based Framework with Semantic Code Search and Code Completion,2023,0.009565662789719548,8
+W4389158487,Efficient Text-to-Code Retrieval with Cascaded Fast and Slow Transformer Models,2023,0.009517099890433142,8
+W4312490312,SynShine: Improved Fixing of Syntax Errors,2022,0.009432482140840276,8
+W4313655750,A mutual embedded self-attention network model for code search,2023,0.009357981357523604,8
+W3035331128,Good-Enough Compositional Data Augmentation,2020,0.009275528224433813,8
+W4312690534,VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection,2022,0.009251173714126874,8
+W4390897855,PyTy: Repairing Static Type Errors in Python,2024,0.009186603427178959,8
+W3212273189,Finding needles in a haystack: Sampling Structurally-diverse Training Sets from Synthetic Data for Compositional Generalization,2021,0.009169156550050888,8
+W4386436496,Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair,2023,0.009046582340054132,8
+W3093630174,Compositional Generalization and Natural Language Variation: Can a Semantic Parsing Approach Handle Both?,2020,0.009022568436887693,8
+W3193282971,Lightweight global and local contexts guided method name recommendation with prior knowledge,2021,0.008971252900730578,8
+W3184222203,TAPEX: Table Pre-training via Learning a Neural SQL Executor,2021,0.008907537086095473,8
+W4384155577,Detecting Condition-Related Bugs with Control Flow Graph Neural Network,2023,0.008895237744453038,8
+W3174906424,Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks,2021,0.008830863800158286,8
+W3043078865,Functional code clone detection with syntax and semantics fusion learning,2020,0.00863947733503134,8
+W3166979522,TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer,2021,0.008607388740900524,8
+W2963993485,An Encoder-Decoder Framework Translating Natural Language to Database Queries,2018,0.008605087136519087,8
+W3174726724,Optimizing Deeper Transformers on Small Datasets,2021,0.00859680505840264,8
+W4382202695,Graphix-T5: Mixing Pre-trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing,2023,0.00858108318870663,8
+W2922266198,NADAQ: Natural Language Database Querying Based on Deep Learning,2019,0.008493988751674618,8
+W4407302344,Vulnerability detection with feature fusion and learnable edge-type embedding graph neural network,2025,0.00841849024002014,8
+W4394859329,GPTSniffer: A CodeBERT-based classifier to detect source code written by ChatGPT,2024,0.008407563214938506,8
+W4285131076,Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion,2022,0.008292952311075533,8
+W2962960733,Automated Vulnerability Detection in Source Code Using Deep Representation Learning,2018,0.008225748045999383,8
+W4393157398,Detecting AI-Generated Code Assignments Using Perplexity of Large Language Models,2024,0.008193594481631691,8
+W4376606636,A Multi-Step Learning Approach to Assist Code Review,2023,0.008035821172908044,8
+W4221015471,Better Together? An Evaluation of AI-Supported Code Translation,2022,0.007993894499779972,8
+W4385573314,Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing,2022,0.007992785728800932,8
+W4284676027,Jigsaw,2022,0.007874196074648048,8
+W4388212670,LLaMA-Reviewer: Advancing Code Review Automation with Large Language Models through Parameter-Efficient Fine-Tuning,2023,0.007857693057699228,8
+W3194752080,Learning type annotation: is big data enough?,2021,0.007838287641862753,8
+W3160492491,Fault Localization with Code Coverage Representation Learning,2021,0.007836356343314749,8
+W4386214355,VulDetect: A novel technique for detecting software vulnerabilities using Language Models,2023,0.007789902573269933,8
+W4381326864,Few-shot Text-to-SQL Translation using Structure and Content Prompt Learning,2023,0.007758654815267281,8
+W4385884967,VulExplainer: A Transformer-Based Hierarchical Distillation for Explaining Vulnerability Types,2023,0.007718164191279241,8
+W4382239980,Repair Is Nearly Generation: Multilingual Program Repair with LLMs,2023,0.007672894356625541,8
+W4280633590,SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models,2022,0.007596393167607243,8
+W4284709233,Using pre-trained models to boost code review automation,2022,0.007581137981929799,8
+W3105251181,Bridging the Semantic Gap with SQL Query Logs in Natural Language Interfaces to Databases,2019,0.007569079801166104,8
+W3205950290,The Power of Prompt Tuning for Low-Resource Semantic Parsing,2022,0.007560835645294792,8
+W3161903544,Towards Automating Code Review Activities,2021,0.007522929886335252,8
+W4285227295,Natural Language Interfaces to Data,2022,0.007431781499380615,8
+W3110943671,Defect Prediction With Semantics and Context Features of Codes Based on Graph Representation Learning,2020,0.007402968101082605,8
+W4313549837,AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models,2022,0.0073689786609325465,8
+W2796544889,Natural Language Interfaces with Fine-Grained User Interaction,2018,0.007272970290434256,8
+W4226389314,Paraphrasing Techniques for Maritime QA system,2022,0.007148346371552822,8
+W4400056759,MedT5SQL: a transformers-based large language model for text-to-SQL conversion in the healthcare domain,2024,0.0071056147323065475,8
+W4389519225,RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation,2023,0.0070344060030618554,8
+W4385567171,Uni-Parser: Unified Semantic Parser for Question Answering on Knowledge Base and Database,2022,0.006978734079707447,8
+W4388538208,Hierarchical features extraction and data reorganization for code search,2023,0.0069755046862999435,8
+W4409749544,GenieWizard: Multimodal App Feature Discovery with Large Language Models,2025,0.006789646764759163,8
+W4400582255,Evolutionary Multi-objective Optimization for Contextual Adversarial Example Generation,2024,0.006780267414025754,8
+W4402457546,Automated Program Repair via Conversation: Fixing 162 out of 337 Bugs for $0.42 Each using ChatGPT,2024,0.006648893317319438,8
+W3104040280,Neural Semantic Parsing over Multiple Knowledge-bases,2017,0.0065966195399151835,8
+W3206547074,Controllable Semantic Parsing via Retrieval Augmentation,2021,0.006585167781601839,8
+W3175473034,Meta-Learning to Compositionally Generalize,2021,0.006536198228446522,8
+W4284674325,VarCLR,2022,0.00652373641012915,8
+W4327673315,"Mirror: A Natural Language Interface for Data Querying, Summarization, and Visualization",2023,0.006512527882932645,8
+W3198767185,Towards Natural Language Interfaces for Data Visualization: A Survey,2022,0.006419112493104127,8
+W4407857977,VEGA: Automatically Generating Compiler Backends using a Pre-trained Transformer Model,2025,0.006379049609637968,8
+W4384159062,FVA: Assessing Function-Level Vulnerability by Integrating Flow-Sensitive Structure and Code Statement Semantic,2023,0.006362831356512275,8
+W4389495228,LI-EMRSQL: Linking Information Enhanced Text2SQL Parsing on Complex Electronic Medical Records,2023,0.0063540972112044085,8
+W4376137025,Deep learning approaches for bad smell detection: a systematic literature review,2023,0.00634688015299949,8
+W4386932799,Towards Robustness of Large Language Models on Text-to-SQL Task: An Adversarial and Cross-Domain Investigation,2023,0.006345329452107796,8
+W4210716649,MT-teql,2021,0.006332662080490782,8
+W4389520463,Is GPT-4 a Good Data Analyst?,2023,0.006331396388139198,8
+W4312669928,Towards JavaScript program repair with generative pre-trained transformer (GPT-2),2022,0.006319144623078529,8
+W4382202606,MultiSpider: Towards Benchmarking Multilingual Text-to-SQL Semantic Parsing,2023,0.006295910882849522,8
+W3001458527,Checking Smart Contracts With Structural Code Embedding,2020,0.006291947827838373,8
+W4406068088,Detecting question relatedness in programming Q&amp;A communities via bimodal feature fusion,2025,0.0062646186329987355,8
+W2952466824,SyntaxSQLNet: Syntax Tree Networks for Complex and Cross-DomainText-to-SQL Task,2018,0.006217459083389589,8
+W4394015350,Effective test generation using pre-trained Large Language Models and mutation testing,2024,0.0060802592523198015,8
+W4389524197,Exploring Chain of Thought Style Prompting for Text-to-SQL,2023,0.006027820217826545,8
+W4384163464,Large Language Models for Fuzzing Parsers (Registered Report),2023,0.00595769917616031,8
+W4364355697,BERT- and TF-IDF-based feature extraction for long-lived bug prediction in FLOSS: A comparative study,2023,0.0059345948789724925,8
+W3162546773,DeepLV: Suggesting Log Levels Using Ordinal Based Neural Networks,2021,0.005934590311104608,8
+W4408248601,A Survey of Source Code Representations for Machine Learning-Based Cybersecurity Tasks,2025,0.005931715973901223,8
+W4328028966,Exploring Transformers for Multi-Label Classification of Java Vulnerabilities,2022,0.0058784707204587155,8
+W4410234067,Refining Zero-Shot Text-to-SQL Benchmarks via Prompt Strategies with Large Language Models,2025,0.005876413475856905,8
+W3206453961,Disentangled Sequence to Sequence Learning for Compositional Generalization,2022,0.005860366612063758,8
+W4378591002,Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models,2023,0.005857763689348583,8
+W3164117196,Self-Supervised Bug Detection and Repair,2021,0.005842947917036044,8
+W2996132992,Measuring Compositional Generalization: A Comprehensive Method on Realistic Data,2019,0.005818796081318123,8
+W4392884679,Improving the Capabilities of Large Language Model based Marketing Analytics Copilots with Semantic Search and Fine-Tuning,2024,0.0058130837276379795,8
+W4406246727,Staged Multi‐Strategy Framework With Open‐Source Large Language Models for Natural Language to <scp>SQL</scp> Generation,2025,0.005756664872982967,8
+W4389519258,Skill-Based Few-Shot Selection for In-Context Learning,2023,0.005749501804359336,8
+W4401863329,Reasoning and Planning with Large Language Models in Code Development,2024,0.005706714736550402,8
+W3034475786,Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing,2020,0.005637748901642157,8
+W4401017784,GraphBinMatch: Graph-Based Similarity Learning for Cross-Language Binary and Source Code Matching,2024,0.005589456125652393,8
+W4384345745,Automated Repair of Programs from Large Language Models,2023,0.005586091392325922,8
+W4386576858,Translate First Reorder Later: Leveraging Monotonicity in Semantic Parsing,2023,0.005571236408291316,8
+W4408961528,A Question‐Aware Few‐Shot Text‐to‐SQL Neural Model for Industrial Databases,2025,0.005509299680122538,8
+W2963393617,Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback,2018,0.00544084628435096,8
+W4283705032,Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models,2022,0.005386319583122344,8
+W4285045050,OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering,2022,0.005234950345715454,8
+W4384302762,Template-based Neural Program Repair,2023,0.005144365605597111,8
+W4391579642,Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries,2024,0.005140903540783758,8
+W4393256640,"Vulnerability detection in Java source code using a quantum convolutional neural network with self-attentive pooling, deep sequence, and graph-based hybrid feature extraction",2024,0.0050756857825493135,8
+W4283733706,Proton: Probing Schema Linking Information from Pre-trained Language Models for Text-to-SQL Parsing,2022,0.0050722983956469885,8
+W4383220339,On Graph-based Reentrancy-free Semantic Parsing,2023,0.005043191377034368,8
+W3111903291,STAN: Towards Describing Bytecodes of Smart Contract,2020,0.005009402603808546,8
+W4407504940,QueryAssist: Multimodal Verbal Specifications to Structured Query Conversion Model Using Word Vector-Based Semantic Analysis,2025,0.005007740420927631,8
+W4312966653,Enhancing Traceability Link Recovery with Unlabeled Data,2022,0.004983964964847241,8
+W4388483645,Contrastive Learning for API Aspect Analysis,2023,0.004977121313089068,8
+W3172831760,Software defect prediction based on enhanced metaheuristic feature selection optimization and a hybrid deep neural network,2021,0.004963044920321962,8
+W4384009618,On Codex Prompt Engineering for OCL Generation: An Empirical Study,2023,0.004957665805743861,8
+W2972155226,DeepLink: Recovering issue-commit links based on deep learning,2019,0.004940279182357079,8
+W4385573500,TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data,2022,0.004914956792883046,8
+W4409505163,XGV-BERT: Leveraging contextualized language model and graph neural network for efficient software vulnerability detection,2025,0.004807811965039518,8
+W4400849765,NLP-based smart decision making for business and academics,2024,0.004774289993189918,8
+W4406457242,GPT-Based Wasm Instruction Analysis for Program Language Processing,2025,0.004751448471186955,8
+W4408088142,Small sample smart contract vulnerability detection method based on multi-layer feature fusion,2025,0.004751448471186955,8
+W3096426254,DeepIaC: deep learning-based linguistic anti-pattern detection in IaC,2020,0.004726428420215801,8
+W3104739822,COGS: A Compositional Generalization Challenge Based on Semantic Interpretation,2020,0.004706594935545878,8
+W2898435572,Deep Semantic Feature Learning for Software Defect Prediction,2018,0.004705139709755351,8
+W4385571445,Diverse Demonstrations Improve In-context Compositional Generalization,2023,0.004641999459149557,8
+W4399397087,Leveraging Large Language Models to Boost Dafny’s Developers Productivity,2024,0.004575772114392921,8
+W3086938529,Generating accurate assert statements for unit test cases using pretrained transformers,2022,0.004564702396192412,8
+W4396571402,Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation,2024,0.004482810589953354,8
+W4389523899,Selective Demonstrations for Cross-domain Text-to-SQL,2023,0.00445274605460331,8
+W4393353079,Optimizing OCR Performance for Programming Videos: The Role of Image Super-Resolution and Large Language Models,2024,0.004319434788946452,8
+W2611818442,Learning a Neural Semantic Parser from User Feedback,2017,0.004304552391173878,8
+W4391505367,Towards AI-Assisted Synthesis of Verified Dafny Methods,2024,0.004251559765772242,8
+W2798803565,Active learning for deep semantic parsing,2018,0.004225274526543416,8
+W4360991127,An Empirical Study of Model Errors and User Error Discovery and Repair Strategies in Natural Language Database Queries,2023,0.004170061746292827,8
+W2939413764,Compositional generalization in a deep seq2seq model by separating syntax and semantics,2019,0.004140117365087351,8
+W4385187421,Examining Zero-Shot Vulnerability Repair with Large Language Models,2023,0.00407636243610354,8
+W3159506990,Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing,2021,0.004058728675972177,8
+W4399208468,ReAcTable: Enhancing ReAct for Table Question Answering,2024,0.00405154408857126,8
+W3008329436,Jointly Improving Parsing and Perception for Natural Language Commands through Human-Robot Dialog,2020,0.004013065978941274,8
+W2955230520,Lessons Learned from Using a Deep Tree-Based Model for Software Defect Prediction in Practice,2019,0.003969715349949764,8
+W4394745858,Evaluating Large Language Models in Class-Level Code Generation,2024,0.003905300116628953,8
+W2996346899,Permutation Equivariant Models for Compositional Generalization in Language,2020,0.0038379734381699935,8
+W3133782093,Software Defect Prediction Based on Gated Hierarchical LSTMs,2021,0.003825745334503445,8
+W4409306920,ASKSQL: Enabling cost-effective natural language to SQL conversion for enhanced analytics and search,2025,0.0038074315632531516,8
+W4385187279,Examining Zero-Shot Vulnerability Repair with Large Language Models,2023,0.0037462477043804466,8
+W3118969025,Learning to Recombine and Resample Data For Compositional Generalization,2021,0.003652939451080282,8
+W4297254899,FindICI: Using machine learning to detect linguistic inconsistencies between code and natural language descriptions in infrastructure-as-code,2022,0.00362406889971657,8
+W4385570730,How Do In-Context Examples Affect Compositional Generalization?,2023,0.0036078759053276236,8
+W2583649498,Learn&amp;Fuzz: Machine learning for input fuzzing,2017,0.003603562278803612,8
+W4385562549,CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Benchmarking on HumanEval-X,2023,0.003529125319017737,8
+W3120503433,Neural machine translating from natural language to SPARQL,2021,0.003494848284088482,8
+W2887255581,Improving bug localization with word embedding and enhanced convolutional neural networks,2018,0.003466967602189272,8
+W4308643012,Fuzzing deep-learning libraries via automated relational API inference,2022,0.0034261069441968617,8
+W4385565204,"Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms",2023,0.003420331380976969,8
+W4206433680,Graph Neural Network for Source Code Defect Prediction,2022,0.00337293885719149,8
+W3197009789,The Devil is in the Detail: Simple Tricks Improve Systematic Generalization of Transformers,2021,0.0033694623887007263,8
+W4384304865,CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models,2023,0.0033101496336056207,8
+W4400484851,Leveraging Large Language Models for the Auto-remediation of Microservice Applications: An Experimental Study,2024,0.0032798631073452703,8
+W4407364527,DocSpider: a dataset of cross-domain natural language querying for MongoDB,2025,0.0032729890504624645,8
+W4284709654,CLEAR,2022,0.003256136231446069,8
+W4367727899,Ask Your Data—Supporting Data Science Processes by Combining AutoML and Conversational Interfaces,2023,0.0031494161543403113,8
+W4312221812,A comparative study of adversarial training methods for neural models of source code,2022,0.003105444591921683,8
+W4410176449,Knowledge-guided large language models are trustworthy API recommenders,2025,0.003072835011953437,8
+W4394745107,Out of Context: How important is Local Context in Neural Program Repair?,2024,0.0030560123125349466,8
+W3177130063,A Deep Dive into Deep Learning Approaches for Text-to-SQL Systems,2021,0.002980217829553586,8
+W4393160744,SayCanPay: Heuristic Planning with Large Language Models Using Learnable Domain Knowledge,2024,0.0029782735806358923,8
+W3100698844,FixMiner: Mining relevant fix patterns for automated program repair,2020,0.002959250133520989,8
+W4386833013,Analysis of Program Representations Based on Abstract Syntax Trees and Higher-Order Markov Chains for Source Code Classification Task,2023,0.0028129389694258023,8
+W3100232116,Improving Grounded Natural Language Understanding through Human-Robot Dialog,2019,0.0027815857475267094,8
+W3183985440,Combining Graph Neural Networks with Expert Knowledge for Smart Contract Vulnerability Detection,2021,0.002729676988132585,8
+W4385302687,Explaining machine learning models with interactive natural language conversations using TalkToModel,2023,0.0026793287202018924,8
+W4386576852,Compositional Generalisation with Structured Reordering and Fertility Layers,2023,0.00265594075893592,8
+W3174896143,Lexicon Learning for Few Shot Sequence Modeling,2021,0.0025976709560434808,8
+W4400582230,ClarifyGPT: A Framework for Enhancing LLM-Based Code Generation via Requirements Clarification,2024,0.002578070495560705,8
+W3081277912,NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries,2020,0.002563668547811579,8
+W4385572024,Consistency Regularization Training for Compositional Generalization,2023,0.00252360510258053,8
+W4391558516,Prompting Is All You Need: Automated Android Bug Replay with Large Language Models,2024,0.002505974354040662,8
+W4226169266,GPT2SP: A Transformer-Based Agile Story Point Estimation Approach,2022,0.0024767241285556896,8
+W4399577583,Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models,2024,0.002475560634892539,8
+W4229017979,SUBS: Subtree Substitution for Compositional Semantic Parsing,2022,0.0024542916425714834,8
+W4394946189,Automatic Root Cause Analysis via Large Language Models for Cloud Incidents,2024,0.002422525885524692,8
+W3011798063,Learning Compositional Rules via Neural Program Synthesis,2020,0.0023756107747017795,8
+W4396844328,PKG API: A Tool for Personal Knowledge Graph Management,2024,0.0023521309277699342,8
+W3166703466,Lexicon Learning for Few-Shot Neural Sequence Modeling,2021,0.002230763349717197,8
+W4385565416,Natural Language to Code Generation in Interactive Data Science Notebooks,2023,0.002197186721937215,8
+W4362552930,bjXnet: an improved bug localization model based on code property graph and attention mechanism,2023,0.0021969022189888086,8
+W4393160717,Compositional Generalization for Multi-Label Text Classification: A Data-Augmentation Approach,2024,0.002191505195002635,8
+W2955224058,Seml: A Semantic LSTM Model for Software Defect Prediction,2019,0.002158424962570747,8
+W4394745212,LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing,2024,0.002150129718070584,8
+W4409638751,CEGT: Smart contract vulnerability detection via Connectivity-Enhanced GCN-Transformer,2025,0.0020954271297436906,8
+W4385570948,LexSym: Compositionality as Lexical Symmetry,2023,0.0020842203235907257,8
+W4302275696,Towards Natural Language-Based Visualization Authoring,2022,0.0020574881103004898,8
+W3191727383,Making Transformers Solve Compositional Tasks,2022,0.0020507218206675245,8
+W4379618990,Semantic feature learning for software defect prediction from source code and external knowledge,2023,0.0020164316887311567,8
+W3177023643,Learning Algebraic Recombination for Compositional Generalization,2021,0.002012354937971452,8
+W4399152810,ZeroEA: A Zero-Training Entity Alignment Framework via Pre-Trained Language Model,2024,0.00196530866392606,8
+W3111602563,Combining Graph-Based Learning With Automated Data Collection for Code Vulnerability Detection,2020,0.001940825259380096,8
+W3104713013,Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing,2020,0.001911019880295268,8
+W4401671212,Large Language Models for Code Completion: A Systematic Literature Review,2024,0.0018736599957552104,8
+W4407565066,A code completion approach combining pointer network and Transformer-XL network,2025,0.0017878250676260216,8
+W4226226396,Few-Shot Semantic Parsing with Language Models Trained on Code,2022,0.0017286539864020717,8
+W4410541436,Applying Large Language Models to Issue Classification: Revisiting with Extended Data and New Models,2025,0.0016378273764559167,8
+W4389523774,DiNeR: A Large Realistic Dataset for Evaluating Compositional Generalization,2023,0.0016330713127103093,8
+W4393969035,Unblind Text Inputs: Predicting Hint-text of Text Input in Mobile Apps via LLM,2024,0.0016313505338221427,8
+W2963640412,A Deep Learning Model for Estimating Story Points,2018,0.0015580280193370935,8
+W2888158939,ClDiff: generating concise linked code differences,2018,0.001525812873911355,8
+W4206839645,Inducing Transformer’s Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks,2021,0.0014980653729351693,8
+W4280558670,Addressing Resource and Privacy Constraints in Semantic Parsing Through Data Augmentation,2022,0.0014835820138646679,8
+W4311165836,Transformer-Based Language Models for Software Vulnerability Detection,2022,0.001472004062158533,8
+W2799042489,DBPal,2018,0.0014560069772925962,8
+W4406459077,Automated Synthesis of Distributed Code from Sequential Snippets Using Deep Learning,2024,0.0014316416089533311,8
+W3010805364,A Benchmark for Systematic Generalization in Grounded Language Understanding,2020,0.0014044387880049925,8
+W2786676889,A deep tree-based model for software defect prediction,2018,0.0013510566503474601,8
+W4383108852,Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification,2023,0.001337099522826278,8
+W3110744880,*-CFQ: Analyzing the Scalability of Machine Learning on a Compositional Task,2021,0.0012775922371537564,8
+W4400582518,Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?,2024,0.001276482765240596,8
+W4389524160,Harnessing Dataset Cartography for Improved Compositional Generalization in Transformers,2023,0.0011956028446591135,8
+W4229005331,Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems,2022,0.0011487084902963842,8
+W4385192597,VulDefend: A Novel Technique based on Pattern-exploiting Training for Detecting Software Vulnerabilities Using Language Models,2023,0.0011399518665735366,8
+W4388948466,Vulnerability detection based on federated learning,2023,0.0010998698444877554,8
+W3127404656,A Bidirectional LSTM Language Model for Code Evaluation and Repair,2021,0.0010892674219868954,8
+W4213103335,Software defect prediction employing BiLSTM and BERT-based semantic feature,2022,0.001020934839868629,8
+W3187025053,Security Vulnerability Detection Using Deep Learning Natural Language Processing,2021,0.0009982413807303131,8
+W4323033692,Using Large Language Models to Enhance Programming Error Messages,2023,0.0009745404500031386,8
+W4400484665,Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4,2024,0.0009737507764237102,8
+W3000240292,Compiler Error Messages Considered Unhelpful,2019,0.0009534368571793605,8
+W3175970729,Improving Compositional Generalization in Classification Tasks via Structure Annotations,2021,0.0009352593343696413,8
+W2981875947,Automated Classification of Overfitting Patches With Statically Extracted Code Features,2021,0.0009340283282248143,8
+W4401635890,History-Driven Fuzzing For Deep Learning Libraries,2024,0.0009047735793486715,8
+W4402410897,Unit Test Generation using Generative AI : A Comparative Performance Analysis of Autogeneration Tools,2024,0.0007463795957201753,8
+W4304688778,On the use of deep learning in software defect prediction,2022,0.000731685579840381,8
+W4392026410,ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language,2024,0.0007017878601256062,8
+W4406460916,Supply Chain Network Extraction and Entity Classification Leveraging Large Language Models,2024,0.0006502495615385333,8
+W4404874258,"“Ok Pal, we have to code that now”: interaction patterns of programming beginners with a conversational chatbot",2024,0.000638353838361196,8
+W4406886887,CodeSAGE: A multi-feature fusion vulnerability detection approach using code attribute graphs and attention mechanisms,2025,0.0006324046943447329,8
+W4382652859,GPT-3 vs Object Oriented Programming Assignments: An Experience Report,2023,0.0006202965021172527,8
+W4381193452,Evaluating a Large Language Model on Searching for GUI Layouts,2023,0.0005894152255759252,8
+W4382515993,Transformed by Transformers: Navigating the AI Coding Revolution for Computing Education: An ITiCSE Working Group Conducted by Humans,2023,0.0005781891873498459,8
+W4396832230,Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models,2024,0.0005770774440075044,8
+W4394991831,Let's Ask AI About Their Programs: Exploring ChatGPT's Answers To Program Comprehension Questions,2024,0.0005555786412154607,8
+W4308648329,Semi-supervised pre-processing for learning-based traceability framework on real-world software projects,2022,0.0005314796053845704,8
+W4319068639,A Systematic Literature Review of Issue-Based Requirement Traceability,2023,0.0005314796053845703,8
+W4406887040,How to Train Your Llama – Efficient Grammar-Based Application Fuzzing Using Large Language Models,2025,0.0005230955130943962,8
+W4392564650,CS1 with a Side of AI: Teaching Software Verification for Secure Code in the Era of Generative AI,2024,0.0005215209503614999,8
+W4406493303,ChatHTTPFuzz: large language model-assisted IoT HTTP fuzzing,2025,0.0005043139171257377,8
+W4399209349,Improving LLM Classification of Logical Errors by Integrating Error Relationship into Prompts,2024,0.0005034984763419471,8
+W4400207882,Semantic and traditional feature fusion for software defect prediction using hybrid deep learning model,2024,0.00044221167305188823,8
+W4409965697,Exploring Large Language Models’ Ability to Describe Entity-Relationship Schema-Based Conceptual Data Models,2025,0.00043442957625745816,8
+W4390490882,Decoding Logic Errors: A Comparative Study on Bug Detection by Students and Large Language Models,2024,0.00041921729190316705,8
+W4366587430,On the Design of AI-powered Code Assistants for Notebooks,2023,0.0004061925045372877,8
+W4399914070,Non-Expert Programmers in the Generative AI Future,2024,0.00040260639654788883,8
+W4409833122,RAG-Driven multiple assertions generation with large language models,2025,0.0003949544010036171,8
+W4388850815,Generating Programs Trivially: Student Use of Large Language Models,2023,0.0003941596143497011,8
+W4407891206,Recovery of Trace Links Between a SOFL Formal Specification and Its Corresponding Incomplete Java Code,2025,0.00038800898948086255,8
+W4399501235,Using reactive links to propagate changes across engineering models,2024,0.00038800898948086255,8
+W4399310703,Improving Issue-PR Link Prediction via Knowledge-aware Heterogeneous Graph Learning,2024,0.00038800898948086255,8
+W4297632239,Using Consensual Biterms from Text Structures of Requirements and Code to Improve IR-Based Traceability Recovery,2022,0.00038800898948086255,8
+W4406476568,The Role of Large Language Models in Evolving Digital Landscapes: A Subject-Oriented Analysis,2025,0.0003850985497773693,8
+W4407681796,Evaluating Language Models for Generating and Judging Programming Feedback,2025,0.0003842048067141847,8
+W4408699823,Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management,2024,0.0003707599661449401,8
+W4399554371,Insights from Social Shaping Theory: The Appropriation of Large Language Models in an Undergraduate Programming Course,2024,0.0003640377462898723,8
+W4393967925,Exploring How Multiple Levels of GPT-Generated Programming Hints Support or Disappoint Novices,2024,0.00035718803783675433,8
+W4407771390,Analysis of Generative AI Policies in Computing Course Syllabi,2025,0.00035406175751320713,8
+W4393144426,Generative AI and CS Education,2024,0.00035406175751320713,8
+W3093528669,Sample Efficient Reinforcement Learning with REINFORCE,2021,0.00034539069241785103,8
+W4392546030,Can Language Models Employ the Socratic Method? Experiments with Code Debugging,2024,0.0003078052660114461,8
+W4285490371,Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper),2022,0.00029902703610170414,8
+W4323037544,Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language,2023,0.00025638714826763895,8
+W4410344404,Large Language Models for Automated Web-Form-Test Generation: An Empirical Study,2025,0.00024581073082648224,8
+W4382654251,Chat Overflow: Artificially Intelligent Models for Computing Education - renAIssance or apocAIypse?,2023,0.00024271314197219586,8
+W4381611512,HotGPT: How to Make Software Documentation More Useful with a Large Language Model?,2023,0.0002286744774689617,8
+W4388629193,What do LLMs need to Synthesize Correct Router Configurations?,2023,0.0002286744774689617,8
+W4400939450,Guiding Enumerative Program Synthesis with Large Language Models,2024,0.0002286744774689617,8
+W4406459906,Unleashing AI in Education: A Pre-Trained LLMs for Accurate and Efficient Question-Answering Systems,2024,0.00022838783103068823,8
+W4409211663,Breaking the Programming Language Barrier: Multilingual Prompting to Empower Non-Native English Learners,2025,0.00019773732588426968,8
+W4386707723,Using Large Language Models to Automatically Identify Programming Concepts in Code Snippets,2023,0.00019690018191087142,8
+W4403182022,An LLM-Driven Chatbot in Higher Education for Databases and Information Systems,2024,0.00019366466598479885,8
+W4382652775,Evaluating the Performance of Code Generation Models for Solving Parsons Problems With Small Prompt Variations,2023,0.00019165642920170606,8
+W4386719008,"Generative AI for Programming Education: Benchmarking ChatGPT, GPT-4, and Human Tutors",2023,0.0001848816205707963,8
+W4408363640,Exploring the Effectiveness of a Multilingual Generative AI Programming Chatbot for Vernacular Medium CS Students,2025,0.00018472569523780665,8
+W4387224226,Investigating the Role of ChatGPT in Supporting Text-Based Programming Education for Students and Teachers,2023,0.00018472569523780662,8
+W4401110087,Large Language Model-assisted Clustering and Concept Identification of Engineering Design Data,2024,0.00018387004171359684,8
+W4410478867,Advancing News Text Classification: A Comparative Analysis of Deep Neural Network Models,2025,0.00017234653164255122,8
+W4392231735,Exploring the Relationship between the Coverage of AI in WIRED Magazine and Public Opinion Using Sentiment Analysis,2024,0.00016222564413232292,8
+W4366547592,ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to Design High-Quality Reading Quiz Questions,2023,0.00015642407230840772,8
+W4403940281,LaiDA: Linguistics-Aware In-Context Learning with Data Augmentation for Metaphor Components Identification,2024,0.000134808276383906,8
+W4221079409,UniParser: A Unified Log Parser for Heterogeneous Log Data,2022,0.0001329065525577094,8
+W3014740133,The Influence of Deep Learning Algorithms Factors in Software Fault Prediction,2020,0.0001231677091182795,8
+W2733769132,Automatic Generation of Natural Language Explanations,2018,0.00012110273630561927,8
+W4392405447,(Security) Assertions by Large Language Models,2024,0.00011838161524213196,8
+W4391068712,Explicable knowledge graph (X-KG): generating knowledge graphs for explainable artificial intelligence and querying them by translating natural language queries to SPARQL,2024,0.00010149386650026339,8
+W4398765535,AQUA: Analytics-driven quantum neural network (QNN) user assistance for software validation,2024,9.949754969138739e-05,8
+W3104994718,Learning Representations of Inorganic Materials from Generative Adversarial Networks,2020,8.07800137716536e-05,8
+W4400878353,QoEXplainer: Mediating Explainable Quality of Experience Models with Large Language Models,2024,7.78103680999759e-05,8
+W4409973896,FaultExplainer: Leveraging large language models for interpretable fault detection and diagnosis,2025,7.78103680999759e-05,8
+W4407009461,Tell me a story! Narrative-driven XAI with Large Language Models,2025,7.78103680999759e-05,8
+W4400085278,Fragment-Fusion Transformer: Deep Learning-Based Discretization Method for Continuous Single-Cell Raman Spectral Analysis,2024,7.78103680999759e-05,8
+W4399391298,Why Do You Think This Person Is Introverted? – Towards Conversational Argumentative Explainability,2024,7.78103680999759e-05,8
+W3161099169,Smartphone Usage by Expert Blind Users,2021,4.741603004017911e-05,8
+W4220708136,Learning User Interface Semantics from Heterogeneous Networks with Multimodal and Positional Attributes,2022,4.737604034163618e-05,8
+W4387015969,No More Pencils No More Books: Capabilities of Generative AI on Irish and UK Computer Science School Leaving Examinations,2023,4.0916146847139625e-05,8
+W4387645481,Semantic Role Assisted Natural Language Rule Formalization for Intelligent Vehicle,2023,3.883069862722093e-05,8
+W4408916446,An LSTM‐Oriented Approach for Next Word Prediction Using Deep Learning,2025,3.16334081835725e-05,8
+W4399052686,Malware Reverse Engineering with Large Language Model for Superior Code Comprehensibility and IoC Recommendations,2024,2.8649815974877787e-05,8
+W4407771503,SENSAI: Large Language Models as Applied Cybersecurity Tutors,2025,2.8301622929398506e-05,8
+W4298326708,MetaGlyph: Automatic Generation of Metaphoric Glyph-based Visualization,2022,2.0380616724160762e-05,8
+W4396700714,A Literature Survey on Open Source Large Language Models,2024,1.1989708437417704e-05,8
+W4393057931,A Case Study on the Generative AI Project Life Cycle Using Large Language Models,2024,1.179623390709522e-05,8
+W4385507608,Getting pwn’d by AI: Penetration Testing with Large Language Models,2023,7.445737520892993e-06,8
+W4387735336,Automating Information Retrieval from Faculty Guidelines: Designing a PDF-Driven Chatbot powered by OpenAI ChatGPT,2023,6.6326095294189704e-06,8
+W4409903072,Exploring the Role of Large Language Models in Evaluating Argumentative Writing in Military School Education,2025,5.369145951772346e-06,8
+W4406864368,LogGzip: Towards log Parsing with lossless compression,2025,3.859738336487623e-06,8
+W3032842827,Reframing Disability as Competency: Unpacking Everyday Technology Practices of People with Visual Impairments,2020,1.3770086228865852e-06,8

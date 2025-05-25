@@ -1,0 +1,141 @@
+id,title,year,pagerank,cluster
+W2983735660,"FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm",2019,0.10564597471581759,16
+W3034797320,Spelling Error Correction with Soft-Masked BERT,2020,0.060171595033203164,16
+W2734408173,An Introduction to Deep Learning for the Physical Layer,2017,0.05692989416534396,16
+W3036851434,Deep Learning Enabled Semantic Communication Systems,2021,0.04865409106177058,16
+W2963174256,Deep Learning for Joint Source-Channel Coding of Text,2018,0.04850897174343268,16
+W2946889564,Deep Joint Source-Channel Coding for Wireless Image Transmission,2019,0.047777959962011736,16
+W2963190722,Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems,2017,0.029312717276089518,16
+W3173859131,PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction,2021,0.02209851016744973,16
+W3166791908,Semantic Communication Systems for Speech Transmission,2021,0.018384886652967555,16
+W3189491540,Semantic Communications for Speech Signals,2021,0.015906781718652313,16
+W3198139956,"From Semantic Communication to Semantic-Aware Networking: Model, Architecture, and Open Problems",2021,0.014050280656676942,16
+W3103412725,Deep Joint Source-channel Coding for Wireless Image Transmission,2019,0.014041761810816683,16
+W3100315910,Chunk-based Chinese Spelling Check with Global Optimization,2020,0.013267845856744552,16
+W3176140329,"Read, Listen, and See: Leveraging Multimodal Information Helps Chinese Spell Checking",2021,0.01315773270188335,16
+W2948427854,Deep Learning-Constructed Joint Transmission-Recognition for Internet of Things,2019,0.013098909509941054,16
+W2736402963,An Iterative BP-CNN Architecture for Channel Decoding,2018,0.01300048389338436,16
+W3173712076,Correcting Chinese Spelling Errors with Phonetic Pre-training,2021,0.01245694637281714,16
+W3134818623,6G networks: Beyond Shannon towards semantic and goal-oriented communications,2021,0.012266083528050689,16
+W3173175058,PHMOSpell: Phonological and Morphological Knowledge Guided Chinese Spelling Check,2021,0.012230300755455645,16
+W4226115138,Task-Oriented Multi-User Semantic Communications,2022,0.010642432305061705,16
+W4313455370,"Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications",2022,0.010557547671225439,16
+W3176484937,Dynamic Connected Networks for Chinese Spelling Check,2021,0.010426379608925286,16
+W3174595604,Global Attention Decoder for Chinese Spelling Error Correction,2021,0.009843111922263973,16
+W3173375787,Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models,2021,0.008235180358348639,16
+W3212050905,SpellBERT: A Lightweight Pretrained Model for Chinese Spelling Check,2021,0.0068708996778901665,16
+W3168068147,Deep Source-Channel Coding for Sentence Semantic Transmission With HARQ,2022,0.0065711158428884316,16
+W4365420366,Robust Semantic Communications With Masked VQ-VAE Enabled Codebook,2023,0.005943585281918246,16
+W4285233025,CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction,2022,0.005901470866308944,16
+W4221165114,The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checking,2022,0.005820165117511798,16
+W4385570747,"UMRSpell: Unifying the Detection and Correction Parts of Pre-trained Models towards Chinese Missing, Redundant, and Spelling Correction",2023,0.005617279579577182,16
+W4285293661,MDCSpell: A Multi-task Detector-Corrector Framework for Chinese Spelling Correction,2022,0.005515404622129149,16
+W4317350116,Robust Semantic Communications Against Semantic Noise,2022,0.00535766016362606,16
+W4313350220,Toward Semantic Communications: Deep Learning-Based Image Semantic Coding,2022,0.005305660105277973,16
+W3189960040,Semantics-Native Communication with Contextual Reasoning,2021,0.005132516190608211,16
+W4226283960,Cognitive Semantic Communication Systems Driven by Knowledge Graph,2022,0.0050962939662368804,16
+W4319302797,Deep Learning Enabled Semantic Communications With Speech Recognition and Synthesis,2023,0.005030753750683381,16
+W4385573133,Improving Chinese Spelling Check by Character Pronunciation Prediction: The Effects of Adaptivity and Granularity,2022,0.004928630262608707,16
+W3177012523,Tail-to-Tail Non-Autoregressive Sequence Prediction for Chinese Grammatical Error Correction,2021,0.004808271022980769,16
+W3198674676,Reinforcement Learning-powered Semantic Communication via Semantic Similarity,2021,0.004793330668071526,16
+W4313350185,Semantic-Preserved Communication System for Highly Efficient Speech Transmission,2022,0.004741286155569615,16
+W4210624746,Federated Learning based Audio Semantic Communication over Wireless Networks,2021,0.004633874480277488,16
+W3194089470,Semantic Communication With Adaptive Universal Transformer,2021,0.004461283786957768,16
+W4385567042,Learning from the Dictionary: Heterogeneous Knowledge Guided Fine-tuning for Chinese Spell Checking,2022,0.003948951475457174,16
+W4366091624,Improving Chinese spell checking with bidirectional LSTMs and confusionset-based decision network,2023,0.003944799733660898,16
+W4387425098,Towards Robust Chinese Spelling Check Systems: Multi-round Error Correction with Ensemble Enhancement,2023,0.003783596856946076,16
+W4296712373,General and Domain-adaptive Chinese Spelling Check with Error-consistent Pretraining,2022,0.0037785891239577865,16
+W4385572215,Rethinking Masked Language Modeling for Chinese Spelling Correction,2023,0.003768263704973189,16
+W2970958841,MIND: Model Independent Neural Decoder,2019,0.003704926959350943,16
+W4315629832,A Robust Deep Learning Enabled Semantic Communication System for Text,2022,0.003658086718716985,16
+W4385571339,Disentangled Phonetic Representation for Chinese Spelling Correction,2023,0.0034840281777176975,16
+W4385574130,An Error-Guided Correction Model for Chinese Spelling Error Correction,2022,0.0033748829610118552,16
+W3103161287,NeuSpell: A Neural Spelling Correction Toolkit,2020,0.003353722519039882,16
+W3003689553,"Convolutional Neural Network-Based Multiple-Rate Compressive Sensing for Massive MIMO CSI Feedback: Design, Simulation, and Analysis",2020,0.0033507916697064592,16
+W4391744861,A Mathematical Theory of Semantic Communication,2024,0.003294370662856272,16
+W4383753013,Semantic Importance-Aware Communications Using Pre-Trained Language Models,2023,0.003263025659050612,16
+W4312051582,Heterogeneous Semantic and Bit Communications: A Semi-NOMA Scheme,2022,0.003257000793010989,16
+W4290713755,Communication Beyond Transmitting Bits: Semantics-Guided Source and Channel Coding,2022,0.0032193867884441974,16
+W4312557000,Transformer-Empowered 6G Intelligent Networks: From Massive MIMO Processing to Semantic Communication,2022,0.0032193867884441974,16
+W4375869212,Wireless Deep Speech Semantic Transmission,2023,0.0032193867884441974,16
+W3006643426,ViterbiNet: A Deep Learning Based Viterbi Algorithm for Symbol Detection,2020,0.0032193867884441974,16
+W4306317008,MCSCSet: A Specialist-annotated Dataset for Medical-domain Chinese Spelling Correction,2022,0.0032161004778894385,16
+W4309263370,Semi-NOMA enabled Coexisting Semantic and Bit Communications,2022,0.003208881828600023,16
+W3206899736,Rethinking Modern Communication from Semantic Coding to Semantic Communication,2022,0.0031984619332157075,16
+W4387848542,Improving Query Correction Using Pre-train Language Model In Search Engines,2023,0.0031723692827357076,16
+W4281702799,Adaptive Bit Rate Control in Semantic Communication With Incremental Knowledge-Based HARQ,2022,0.0031365520837262784,16
+W4372342188,Contextual Similarity is More Valuable Than Character Similarity: An Empirical Study for Chinese Spell Checking,2023,0.003095831011547182,16
+W4224240992,Contrastive Learning with Hard Negative Entities for Entity Set Expansion,2022,0.00307330954021946,16
+W4394627253,Joint Coding-Modulation for Digital Semantic Communications via Variational Autoencoder,2024,0.00306868663545552,16
+W4315473433,Semantic Communication for the Internet of Vehicles: A Multiuser Cooperative Approach,2023,0.0030313167656102376,16
+W4313387436,Semantic Communication System Based on Semantic Slice Models Propagation,2022,0.0030313167656102376,16
+W4320912725,Semantic segmentation-based semantic communication system for image transmission,2023,0.0030313167656102376,16
+W4210803956,Performance Optimization for Semantic Communications: An Attention-based Learning Approach,2021,0.002956088756476654,16
+W4385571200,PTCSpell: Pre-trained Corrector Based on Character Shape and Pinyin for Chinese Spelling Correction,2023,0.002946685255334956,16
+W4401871087,AI Empowered Wireless Communications: From Bits to Semantics,2024,0.002937281754193258,16
+W4323896648,Vector Quantized Semantic Communication System,2023,0.00288086074734307,16
+W4313229659,Imitation Learning-Based Implicit Semantic-Aware Communication Networks: Multi-Layer Representation and Collaborative Reasoning,2022,0.00288086074734307,16
+W4385572658,Investigating Glyph-Phonetic Information for Chinese Spell Checking: What Works and What’s Next?,2023,0.002860344017579365,16
+W4381802353,Semantic Communication With Memory,2023,0.002843246742776278,16
+W4377042358,EDMSpell: Incorporating the error discriminator mechanism into chinese spelling correction for the overcorrection problem,2023,0.0028056327382094863,16
+W4393160768,Chinese Spelling Correction as Rephrasing Language Model,2024,0.002796229237067788,16
+W4392384314,Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline,2024,0.002796229237067788,16
+W4390357418,Adaptable Semantic Compression and Resource Allocation for Task-Oriented Communications,2023,0.002768018733642694,16
+W4386629786,MCRSpell: A metric learning of correct representation for Chinese spelling correction,2023,0.002768018733642694,16
+W4389523726,A Frustratingly Easy Plug-and-Play Detection-and-Reasoning Module for Chinese Spelling Check,2023,0.002768018733642694,16
+W2938113616,Deep Learning-Based Channel Estimation for Doubly Selective Fading Channels,2019,0.0026551767199423184,16
+W4388937205,Is Semantic Communication Secure? A Tale of Multi-Domain Adversarial Attacks,2023,0.0026551767199423184,16
+W4317743666,Robust Chinese Named Entity Recognition Based on Fusion Graph Embedding,2023,0.0026551767199423184,16
+W4378697425,Dual-Detector: An Unsupervised Learning Framework for Chinese Spelling Check,2023,0.0026551767199423184,16
+W2963852693,Joint Neural Network Equalizer and Decoder,2018,0.0026551767199423184,16
+W4391616956,Self-Distillation and Pinyin Character Prediction for Chinese Spelling Correction Based on Multimodality,2024,0.0026551767199423184,16
+W4409000560,Feature-Driven Semantic Communication for Efficient Image Transmission,2025,0.0026551767199423184,16
+W4312647197,A Unified Approach to Semantic Information and Communication Based on Probabilistic Logic,2022,0.0026551767199423184,16
+W4392931518,Bridging the Gap: A Self-Learning Model Using Implicit Knowledge for Chinese Spelling Correction,2024,0.0026551767199423184,16
+W4393371816,A Robust Semantic Text Communication System,2024,0.0026551767199423184,16
+W4396751812,IME-MTCSC: A Multi-Typo Chinese Spelling Correction Model by Input Method Editor,2024,0.0026551767199423184,16
+W4392913752,MLSL-Spell: Chinese Spelling Check Based on Multi-Label Annotation,2024,0.0026551767199423184,16
+W4409204162,DRMSpell: dynamically reweighting multimodality for Chinese spelling correction,2025,0.0026551767199423184,16
+W4386590729,Intelligent Index Classification Method Based on Machine Learning for Detection of Reference Signal in 5G Networks,2023,0.0026551767199423184,16
+W4393864550,Generative AI for Physical Layer Communications: A Survey,2024,0.0026551767199423184,16
+W4401268752,PSC-BERT: A spam identification and classification algorithm via prompt learning and spell check,2024,0.0026551767199423184,16
+W4400834995,Automatic real-word error correction in persian text,2024,0.0026551767199423184,16
+W4400811084,Goal-Oriented and Semantic Communication in 6G AI-Native Networks: The 6G-GOALS Approach,2024,0.0026551767199423184,16
+W4401915981,An Unsupervised Domain-Adaptive Framework for Chinese Spelling Checking,2024,0.0026551767199423184,16
+W4395046190,EC-BERT: A BERT Language Model with Error Correction for Mandarin Chinese Speech Recognition,2024,0.0026551767199423184,16
+W4384202283,Semantic Information Recovery in Wireless Networks,2023,0.0026551767199423184,16
+W4393106580,Generative Multi-Modal Mutual Enhancement Video Semantic Communications,2024,0.0026551767199423184,16
+W4295046676,"One-to-Many Semantic Communication Systems: Design, Implementation, Performance Evaluation",2022,0.0026551767199423184,16
+W4392709926,Automatic Spell-Checking System for Spanish Based on the Ar2p Neural Network Model,2024,0.0026551767199423184,16
+W4409216332,Adaptive multimodal fusion with semantic priority scheduling for cooperative 3D detection and communication methods,2025,0.0026551767199423184,16
+W4392902679,Language-Oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation,2024,0.0026551767199423184,16
+W4401386312,A transformer-based spelling error correction framework for Bangla and resource scarce Indic languages,2024,0.0026551767199423184,16
+W4402352059,UCSC-CGEC: A Unified Approach For Chinese Spelling Check And Grammatical Error Correction,2024,0.0026551767199423184,16
+W4382999114,On the Role of ViT and CNN in Semantic Communications: Analysis and Prototype Validation,2023,0.0026551767199423184,16
+W4403577850,Span Confusion is All You Need for Chinese Spelling Correction,2024,0.0026551767199423184,16
+W4408410098,A Hybrid Approach to Semantic Digital Speech: Enabling Gradual Transition in Practical Communication Systems,2025,0.0026551767199423184,16
+W4390738761,A Relay System for Semantic Image Transmission Based on Shared Feature Extraction and Hyperprior Entropy Compression,2024,0.0026551767199423184,16
+W4400134936,Local Attention Augmentation for Chinese Spelling Correction,2024,0.0026551767199423184,16
+W2970898848,ViterbiNet: Symbol Detection Using a Deep Learning Based Viterbi Algorithm,2019,0.0026551767199423184,16
+W4408329554,Text Proofreading,2025,0.0026551767199423184,16
+W4399665795,Large AI Model-Based Semantic Communications,2024,0.0026551767199423184,16
+W4409213326,Chinese spelling correction based on Long Short-Term Memory Network-enhanced Transformer and dynamic adaptive weighted multi-task learning,2025,0.0026551767199423184,16
+W4321510644,A Supervised Deep Learning-based Approach for Bilingual Arabic and Persian Spell Correction,2022,0.0026551767199423184,16
+W2996570101,Overfitting and Underfitting Analysis for Deep Learning Based End-to-end Communication Systems,2019,0.0026551767199423184,16
+W2784187484,Trainable ISTA for Sparse Signal Recovery,2019,0.0026551767199423184,16
+W4396909799,Contrastive Learning based Semantic Communications,2024,0.0026551767199423184,16
+W4392940625,Correct Like Humans: Progressive Learning Framework for Chinese Text Error Correction,2024,0.0026551767199423184,16
+W4401634165,Semantic Communication Meets Edge Intelligence: Semantic-Relay-Aided Text Transmissions,2024,0.0026551767199423184,16
+W4393352233,PSDSpell: Pre-Training with Self-Distillation Learning for Chinese Spelling Correction,2024,0.0026551767199423184,16
+W4406456706,Semantic Importance-Aware Communications with Semantic Correction Using Large Language Models,2025,0.0026551767199423184,16
+W4388739236,Semantics-Empowered Communications: A Tutorial-Cum-Survey,2023,0.0026551767199423184,16
+W4409253457,Joint Source-Channel Coding with Large Language Model: A Vibrotactile Example,2025,0.0026551767199423184,16
+W4392903433,Diffusion Models for Audio Semantic Communication,2024,0.0026551767199423184,16
+W2947900296,A Deep Learning Approach for MIMO-NOMA Downlink Signal Detection,2019,0.0026551767199423184,16
+W4388660523,PYGC: A PinYin Language Model Guided Correction Model for Chinese Spell Checking,2023,0.0026551767199423184,16
+W4391026635,A Mathematical Structure Underlying Sentences and Its Connection with Short–Term Memory,2024,0.0026551767199423184,16
+W4410544859,Character-Level Generative Network for Vietnamese Spelling Error Correction,2025,0.0026551767199423184,16
+W4390722043,Semantic Communications for Image Recovery and Classification via Deep Joint Source and Channel Coding,2024,0.0026551767199423184,16
+W4384158405,Rethinking Wireless Communication Security in Semantic Internet of Things,2023,0.0026551767199423184,16
+W4387119282,ChineseCTRE: A Model for Geographical Named Entity Recognition and Correction Based on Deep Neural Networks and the BERT Model,2023,0.0026551767199423184,16
+W4283269916,Reliable Semantic Communication System Enabled by Knowledge Graph,2022,0.0026551767199423184,16

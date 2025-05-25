@@ -1,0 +1,157 @@
+paper_id,title,year,eigenvector,cluster_id
+W2604096629,DeepSleepNet: A Model for Automatic Sleep Stage Scoring Based on Raw Single-Channel EEG,2017,0.39417486770865595,15
+W2893892260,SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging,2019,0.3337603754814651,15
+W3158818505,An Attention-Based Deep Learning Approach for Sleep Stage Classification With Single-Channel EEG,2021,0.3099412091969206,15
+W2920016582,SleepEEGNet: Automated sleep stage scoring with sequence to sequence deep learning approach,2019,0.257162372944644,15
+W3165396901,SleepTransformer: Automatic Sleep Staging With Interpretability and Uncertainty Quantification,2022,0.20986835669993717,15
+W4379805270,MultiChannelSleepNet: A Transformer-Based Model for Automatic Sleep Stage Classification With PSG,2023,0.1608767201907626,15
+W4385656632,L-SeqSleepNet: Whole-cycle Long Sequence Modeling for Automatic Sleep Staging,2023,0.1564701044819851,15
+W4286542909,SleepFCN: A Fully Convolutional Deep Learning Framework for Sleep Stage Classification Using Single-Channel Electroencephalograms,2022,0.15006128530898769,15
+W4390724185,CTCNet: A CNN Transformer capsule network for sleep stage classification,2024,0.14189038417423724,15
+W3188349400,SalientSleepNet: Multimodal Salient Wave Detection Network for Sleep Staging,2021,0.13849408446515205,15
+W4401326911,Toward Interpretable Sleep Stage Classification Using Cross-Modal Transformers,2024,0.13206503998988023,15
+W3156463266,U-Sleep: resilient high-frequency sleep staging,2021,0.13167690716560262,15
+W4281387680,A Deep Learning Method Approach for Sleep Stage Classification with EEG Spectrogram,2022,0.13091893244718636,15
+W4223627919,SleepContextNet: A temporal context network for automatic sleep staging based single-channel EEG,2022,0.129969282019285,15
+W4400785551,A novel deep learning model based on transformer and cross modality attention for classification of sleep stages,2024,0.12766535729012324,15
+W4205949815,Multi-Modal Physiological Signals Based Squeeze-and-Excitation Network With Domain Adversarial Learning for Sleep Staging,2022,0.12690782773353157,15
+W4294690904,TransSleep: Transitioning-Aware Attention-Based Deep Neural Network for Sleep Staging,2022,0.12387645708020967,15
+W3159541278,SleepPrintNet: A Multivariate Multimodal Neural Network Based on Physiological Time-Series for Automatic Sleep Staging,2020,0.123403613818419,15
+W4323519330,MaskSleepNet: A Cross-Modality Adaptation Neural Network for Heterogeneous Signals Processing in Sleep Staging,2023,0.11922852671134096,15
+W3087740611,End-to-end sleep staging using convolutional neural network in raw single-channel EEG,2020,0.11839998572177275,15
+W3210714637,ADAST: Attentive Cross-Domain EEG-Based Sleep Staging Framework With Iterative Self-Training,2022,0.11716792851968265,15
+W3111722905,Automated Detection of Sleep Stages Using Deep Learning Techniques: A Systematic Review of the Last Decade (2010–2020),2020,0.1160426702084616,15
+W2995516697,Accurate Deep Learning-Based Sleep Staging in a Clinical Population with Suspected Obstructive Sleep Apnea,2019,0.11438356912226953,15
+W3034369844,GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification,2020,0.11195773167790174,15
+W4317795265,EEG-Based Sleep Stage Classification via Neural Architecture Search,2023,0.11007995110343126,15
+W4365443956,MS-HNN: Multi-Scale Hierarchical Neural Network With Squeeze and Excitation Block for Neonatal Sleep Staging Using a Single-Channel EEG,2023,0.10948628509734483,15
+W3198543070,Multi-View Spatial-Temporal Graph Convolutional Networks With Domain Generalization for Sleep Stage Classification,2021,0.10935457468479297,15
+W3101149558,MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-Signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning,2020,0.10847552131047612,15
+W4390969286,Toward Domain-Free Transformer for Generalized EEG Pre-Training,2024,0.10720109591901998,15
+W4221054514,An Improved Neural Network Based on SENet for Sleep Stage Classification,2022,0.10463447207747388,15
+W2977136224,Orthogonal convolutional neural networks for automatic sleep stage classification based on single-channel EEG,2019,0.10458762038020364,15
+W4361009944,Sleep Stage Classification in Children Using Self-Attention and Gaussian Noise Data Augmentation,2023,0.09671759982446472,15
+W4396623881,SleepBoost: a multi-level tree-based ensemble model for automatic sleep stage classification,2024,0.09589007073880844,15
+W4390481217,MSleepNet: A Semi-Supervision-Based Multiview Hybrid Neural Network for Simultaneous Sleep Arousal and Sleep Stage Detection,2024,0.09322278582730893,15
+W4308364587,A Lightweight Segmented Attention Network for Sleep Staging by Fusing Local Characteristics and Adjacent Information,2022,0.09290600764973046,15
+W4205325663,A novel sleep staging network based on multi-scale dual attention,2022,0.09036054851258506,15
+W4220891962,SingleChannelNet: A model for automatic sleep stage classification with raw single-channel EEG,2022,0.0845581205066989,15
+W4391716593,An automatic method using MFCC features for sleep stage classification,2024,0.0792186214353933,15
+W4225851481,A Review of Recurrent Neural Network-Based Methods in Computational Physiology,2022,0.07522553910590585,15
+W4407975471,Dynamic Multi-Scale Feature Fusion for Robust Sleep Stage Classification Using Single-Channel EEG,2025,0.07340662329953264,15
+W4407767392,"Transformers in EEG Analysis: A Review of Architectures and Applications in Motor Imagery, Seizure, and Emotion Classification",2025,0.06496008179082255,15
+W4391791406,Single-Channel EEG Data Analysis Using a Multi-Branch CNN for Neonatal Sleep Staging,2024,0.062129554774128334,15
+W3177342940,BENDR: Using Transformers and a Contrastive Self-Supervised Learning Task to Learn From Massive Amounts of EEG Data,2021,0.06181949407129768,15
+W3165814049,Robust learning from corrupted EEG with dynamic spatial filtering,2022,0.056073250051956125,15
+W4306180768,Multimodal detection of epilepsy with deep neural networks,2022,0.053768794696901705,15
+W4364302686,Bi-Branch Vision Transformer Network for EEG Emotion Recognition,2023,0.049715967527789874,15
+W4388240351,"Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications",2023,0.047193743968922446,15
+W2904418346,Expert-level sleep scoring with deep neural networks,2018,0.04589166662880678,15
+W4304481237,MtCLSS: Multi-Task Contrastive Learning for Semi-Supervised Pediatric Sleep Staging,2022,0.044405614165301914,15
+W4321484024,A Spiking Neural Network With Adaptive Graph Convolution and LSTM for EEG-Based Brain-Computer Interfaces,2023,0.03772537791588307,15
+W4205558134,Transformers for EEG-Based Emotion Recognition: A Hierarchical Spatial Information Learning Model,2022,0.03674085561505852,15
+W4396214358,Data Constraints and Performance Optimization for Transformer-Based Models in EEG-Based Brain-Computer Interfaces: A Survey,2024,0.03592665340200529,15
+W4312597583,EEG Conformer: Convolutional Transformer for EEG Decoding and Visualization,2022,0.034997685294825664,15
+W4200634062,Toward Open-World Electroencephalogram Decoding Via Deep Learning: A comprehensive survey,2022,0.034307089652078904,15
+W4289538860,A Transformer-Based Approach Combining Deep Learning Network and Spatial-Temporal Information for Raw EEG Classification,2022,0.034157987790525396,15
+W4319303360,An attention-based deep learning approach for the classification of subjective cognitive decline and mild cognitive impairment using resting-state EEG,2023,0.03323924132552737,15
+W4380683769,MSATNet: multi-scale adaptive transformer network for motor imagery classification,2023,0.03168205642595773,15
+W4327521769,IFNet: An Interactive Frequency Convolutional Neural Network for Enhancing Motor Imagery Decoding From EEG,2023,0.02910369517740838,15
+W3032709845,Expert-level automated sleep staging of long-term scalp electroencephalography recordings using deep learning,2020,0.028991573091469356,15
+W3173912422,Transformer-based Spatial-Temporal Feature Learning for EEG Decoding,2021,0.028491461477992933,15
+W4365448982,STGATE: Spatial-temporal graph attention network with a transformer encoder for EEG-based emotion recognition,2023,0.02825734673415335,15
+W4312892255,Multiscale Convolutional Transformer for EEG Classification of Mental Imagery in Different Modalities,2022,0.02740588308775891,15
+W4408054450,A dynamic saliency enhanced fusion network for multimodal sleep recognition,2025,0.02632246239255171,15
+W3021364482,Work modes recognition and boundary identification of MFR pulse sequences with a hierarchical seq2seq LSTM,2020,0.025637502261206216,15
+W3088256290,EEG-Based Emotion Recognition via Channel-Wise Attention and Self Attention,2020,0.025536604270073645,15
+W2971518519,HS-CNN: a CNN with hybrid convolution scale for EEG motor imagery classification,2019,0.025260326438579672,15
+W4386570719,Emotion recognition in EEG signals using deep learning methods: A review,2023,0.023938431295630225,15
+W4406111197,Deep Learning for Obstructive Sleep Apnea Detection and Severity Assessment: A Multimodal Signals Fusion Multiscale Transformer Model,2025,0.023668207263010024,15
+W4395451426,Lung Cancer Classification using Optimized Attention-based Convolutional Neural Network with DenseNet-201 Transfer Learning Model on CT image,2024,0.023668207263010024,15
+W3092342532,Deep learning for motor imagery EEG-based classification: A review,2020,0.022557415661213866,15
+W4292731283,EEG temporal–spatial transformer for person identification,2022,0.019839457365003307,15
+W4398242714,"A comprehensive review of deep learning in EEG-based emotion recognition: classifications, trends, and practical implications",2024,0.01969232557357222,15
+W3044186523,Multi-channel EEG-based emotion recognition via a multi-level features guided capsule network,2020,0.019129998849953762,15
+W4388140384,Deep temporal networks for EEG-based motor imagery recognition,2023,0.018757543753776515,15
+W4292263626,A Self-Supervised Learning Based Channel Attention MLP-Mixer Network for Motor Imagery Decoding,2022,0.01875534853206956,15
+W4312211295,TC-Net: A Transformer Capsule Network for EEG-based emotion recognition,2022,0.018600853082273803,15
+W4384080511,DICE-Net: A Novel Convolution-Transformer Architecture for Alzheimer Detection in EEG Signals,2023,0.01843190905290925,15
+W4386175841,Temporal–spatial transformer based motor imagery classification for BCI using independent component analysis,2023,0.017336315783073077,15
+W4291652904,EEG-Based Emotion Recognition Using Spatial-Temporal Graph Convolutional LSTM With Attention Mechanism,2022,0.016878703046948947,15
+W3047405387,An Efficient LSTM Network for Emotion Recognition From Multichannel EEG Signals,2020,0.0157939239106361,15
+W4394928596,EMPT: a sparsity Transformer for EEG-based motor imagery recognition,2024,0.014722989987648262,15
+W4397030809,EEG-based emotion recognition systems; comprehensive study,2024,0.014355541233268203,15
+W4205466227,Gated Transformer for Decoding Human Brain EEG Signals,2021,0.013808920230748336,15
+W4385299413,A Temporal Dependency Learning CNN With Attention Mechanism for MI-EEG Decoding,2023,0.013294496551109007,15
+W4385819691,Hierarchical Transformer for Motor Imagery-Based Brain Computer Interface,2023,0.013261034753937456,15
+W4308948096,Bi-hemisphere asymmetric attention network: recognizing emotion from EEG signals based on the transformer,2022,0.013135178037774664,15
+W3000231660,Motor Imagery Classification via Temporal Attention Cues of Graph Embedded EEG Signals,2020,0.013097652933440446,15
+W3129064953,EEGFuseNet: Hybrid Unsupervised Deep Feature Characterization and Fusion for High-Dimensional EEG With an Application to Emotion Recognition,2021,0.013054770272053234,15
+W4316655758,Temporal relative transformer encoding cooperating with channel attention for EEG emotion analysis,2023,0.012505264054800534,15
+W4380767724,Classification of EEG signals using Transformer based deep learning and ensemble models,2023,0.01185829230465868,15
+W4386441900,Self-supervised group meiosis contrastive learning for EEG-based emotion recognition,2023,0.010832516844343398,15
+W4319069149,A Domain Generative Graph Network for EEG-Based Emotion Recognition,2023,0.010002621700541527,15
+W4406776025,MI‐Mamba: A hybrid motor imagery electroencephalograph classification model with Mamba's global scanning,2025,0.009992120377824869,15
+W4220866631,EEG Based Emotion Recognition: A Tutorial and Review,2022,0.00955197814811452,15
+W3013850939,On Minimum Discrepancy Estimation for Deep Domain Adaptation,2020,0.00894735754553849,15
+W2918598256,Comprehensive evaluation of deep learning architectures for prediction of DNA/RNA sequence binding specificities,2019,0.008861428839886823,15
+W4387967962,ASTDF-Net: Attention-Based Spatial-Temporal Dual-Stream Fusion Network for EEG-Based Emotion Recognition,2023,0.008760622349146313,15
+W4319786843,EEG emotion recognition based on the attention mechanism and pre-trained convolution capsule network,2023,0.007782824855109973,15
+W2967476362,AT-LSTM: An Attention-based LSTM Model for Financial Time Series Prediction,2019,0.007385698095963394,15
+W4297939181,PARSE: Pairwise Alignment of Representations in Semi-Supervised EEG Learning for Emotion Recognition,2022,0.00706362308199097,15
+W4379141350,A multi-head residual connection GCN for EEG emotion recognition,2023,0.006773399391585558,15
+W4388574325,Hierarchical multimodal-fusion of physiological signals for emotion recognition with scenario adaption and contrastive alignment,2023,0.006420097898940951,15
+W4389897635,A Graph Neural Network for EEG-Based Emotion Recognition With Contrastive Learning and Generative Adversarial Neural Network Data Augmentation,2023,0.006405308747581718,15
+W4409605207,LGDAAN-Nets: A Local and Global Domain Adversarial Attention Neural Networks for EEG Emotion Recognition,2025,0.006405016062913374,15
+W2962951526,Deep learning with convolutional neural networks for decoding and visualization of EEG pathology,2017,0.006358264196307988,15
+W4406239299,Cross-subject emotion recognition with contrastive learning based on EEG signal correlations,2025,0.006099111588485744,15
+W3000232078,EEG-based emotion recognition using simple recurrent units network and ensemble learning,2020,0.005910987881253554,15
+W3118441062,FLDNet: Frame-Level Distilling Neural Network for EEG Emotion Recognition,2021,0.005810249115602363,15
+W3199638068,Contrastive Learning of Subject-Invariant EEG Representations for Cross-Subject Emotion Recognition,2022,0.0058077675249898235,15
+W4319999789,EEG-Based Emotion Recognition for Hearing Impaired and Normal Individuals With Residual Feature Pyramids Network Based on Time–Frequency–Spatial Features,2023,0.005631006877829582,15
+W3086573485,An Attention-based Bi-LSTM Method for Visual Object Classification via EEG,2020,0.005619516014052885,15
+W3217034758,A novel ensemble learning method using multiple objective particle swarm optimization for subject-independent EEG-based emotion recognition,2021,0.005532205976293514,15
+W4318815957,EEG emotion recognition using improved graph neural network with channel selection,2023,0.005367450383302923,15
+W4320882934,A mutli-scale spatial-temporal convolutional neural network with contrastive learning for motor imagery EEG classification,2023,0.005351751273101628,15
+W3165055457,EEG based emotion detection using fourth order spectral moment and deep learning,2021,0.005151388131794469,15
+W3159301005,Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition,2022,0.005143847050146697,15
+W4390884206,A study on the combination of functional connection features and Riemannian manifold in EEG emotion recognition,2024,0.005015943166341987,15
+W4392662567,Emotion Classification Based on Transformer and CNN for EEG Spatial–Temporal Feature Learning,2024,0.004960581665248752,15
+W2969288811,A Hierarchical Bidirectional GRU Model With Attention for EEG-Based Emotion Classification,2019,0.004936694988959961,15
+W3047208690,Deep Representation-Based Domain Adaptation for Nonstationary EEG Classification,2020,0.00492848966599793,15
+W4387068017,Unsupervised Time-Aware Sampling Network with Deep Reinforcement Learning for EEG-Based Emotion Recognition,2023,0.004882476642402587,15
+W4385304038,A systematic literature review of emotion recognition using EEG signals,2023,0.004761346090529688,15
+W4407573422,CCSUMSP: A cross-subject Chinese speech decoding framework with unified topology and multi-modal semantic pre-training,2025,0.004720755276024872,15
+W4200545967,Unsupervised seizure identification on EEG,2021,0.004720755276024872,15
+W4408253414,Improving cross-session motor imagery decoding performance with data augmentation and domain adaptation,2025,0.004632425212904368,15
+W4312222531,An attention-based hybrid deep learning model for EEG emotion recognition,2022,0.004332815271817327,15
+W4391918082,Spatio-Temporal Image-Based Encoded Atlases for EEG Emotion Recognition,2024,0.0036046093947674335,15
+W4285247923,A Feature-Fused Convolutional Neural Network for Emotion Recognition From Multichannel EEG Signals,2022,0.003477794389394659,15
+W4322495262,Deep learning-based EEG emotion recognition: Current trends and future perspectives,2023,0.0034738583333551254,15
+W3133817364,A novel transferability attention neural network model for EEG emotion recognition,2021,0.0034022182677730566,15
+W3183340146,MS-MDA: Multisource Marginal Distribution Adaptation for Cross-Subject and Cross-Session EEG Emotion Recognition,2021,0.0033737729281681406,15
+W4292730600,EEG-based affective state recognition from human brain signals by using Hjorth-activity,2022,0.0031561453535183734,15
+W4321021683,Emotion Recognition System Based on Two-Level Ensemble of Deep-Convolutional Neural Network Models,2023,0.0030341032110769457,15
+W3175707965,Leveraging spatial-temporal convolutional features for EEG-based emotion recognition,2021,0.0030341032110769457,15
+W4388915394,Multi-view domain-adaptive representation learning for EEG-based emotion recognition,2023,0.0028069522938483217,15
+W4392125748,EEG-Based Multimodal Emotion Recognition: A Machine Learning Perspective,2024,0.00277287141287347,15
+W4386608629,EEG-based emotion recognition using a temporal-difference minimizing neural network,2023,0.0027526306224071686,15
+W4406154107,Multimodal emotion recognition by fusing complementary patterns from central to peripheral neurophysiological signals across feature domains,2025,0.0024988337802572254,15
+W3211972444,Neural Decoding of EEG Signals with Machine Learning: A Systematic Review,2021,0.0020989209720821632,15
+W4392563776,Online multi-hypergraph fusion learning for cross-subject emotion recognition,2024,0.00199122373498397,15
+W3217476834,Securing Critical Infrastructures: Deep-Learning-Based Threat Detection in IIoT,2021,0.0019692538616781327,15
+W4381785707,PR-PL: A Novel Prototypical Representation Based Pairwise Learning Framework for Emotion Recognition Using EEG Signals,2023,0.0019528228298637154,15
+W4406332783,An adaptive matrix-based evolutionary computation framework for EEG feature selection,2025,0.0019355027514696436,15
+W4379383032,MBGA-Net: A multi-branch graph adaptive network for individualized motor imagery EEG classification,2023,0.0019289678943587589,15
+W4393138713,Exploring non-Euclidean relationships in EEG emotion recognition: A dynamic graph attention network,2024,0.0016718296452164915,15
+W4317795306,Automatic Eyeblink and Muscular Artifact Detection and Removal From EEG Signals Using k-Nearest Neighbor Classifier and Long Short-Term Memory Networks,2023,0.001206079906514293,15
+W3156795013,An integrated deep learning model for motor intention recognition of multi-class EEG Signals in upper limb amputees,2021,0.001206079906514293,15
+W4392814656,Emotion recognition based on microstate analysis from temporal and spatial patterns of electroencephalogram,2024,0.001206079906514293,15
+W4220758785,EEG-based emotion charting for Parkinson's disease patients using Convolutional Recurrent Neural Networks and cross dataset learning,2022,0.001014028828145288,15
+W4318833227,Improved Domain Adaptation Network Based on Wasserstein Distance for Motor Imagery EEG Classification,2023,0.0007301052853352079,15
+W4304086659,A Multi-view Spectral-Spatial-Temporal Masked Autoencoder for Decoding Emotions with Self-supervised Learning,2022,0.0006689921164397754,15
+W4361240576,On the effects of data normalization for domain adaptation on EEG data,2023,0.0006377088730272555,15
+W3152585042,"A new hybrid model based on secondary decomposition, reinforcement learning and SRU network for wind turbine gearbox oil temperature forecasting",2021,0.00045138394686252195,15
+W3137322316,Data Augmentation: Using Channel-Level Recombination to Improve Classification Performance for Motor Imagery EEG,2021,0.0003537483781311438,15
+W4327750468,IDS-INT: Intrusion detection system using transformer-based transfer learning for imbalanced network traffic,2023,0.00015037919182301536,15
+W4308485707,Spatial graph convolutional neural network via structured subdomain adaptation and domain adversarial learning for bearing fault diagnosis,2022,4.8697705669334495e-05,15

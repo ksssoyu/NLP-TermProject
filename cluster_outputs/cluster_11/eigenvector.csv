@@ -1,0 +1,481 @@
+paper_id,title,year,eigenvector,cluster_id
+W3177500196,ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning,2021,0.2675492256899377,11
+W3103092523,Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction,2019,0.2507933714378085,11
+W4399165032,Application of Transformers in Cheminformatics,2024,0.22228528032660488,11
+W4205773061,ProteinBERT: a universal deep-learning model of protein sequence and function,2022,0.1934363125888814,11
+W2995514860,Modeling aspects of the language of life through transfer-learning protein sequences,2019,0.1814362664776039,11
+W2973114758,SMILES-BERT,2019,0.16065031344453454,11
+W4226159083,Chemformer: a pre-trained transformer for computational chemistry,2021,0.15140028249793094,11
+W3094771832,State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis,2020,0.14093388933862275,11
+W4382501959,Leveraging transformers‐based language models in proteome bioinformatics,2023,0.13681308973637143,11
+W4315641887,Applications of transformer-based language models in bioinformatics: a survey,2023,0.13383527770231174,11
+W3088999551,Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates,2020,0.1330200018129454,11
+W3144701084,"The language of proteins: NLP, machine learning &amp; protein sequences",2021,0.12602252109246215,11
+W3093934881,ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction,2020,0.122247704520121,11
+W3010145447,Predicting retrosynthetic pathways using transformer-based models and a hyper-graph exploration strategy,2020,0.12044636308253324,11
+W4399954566,Advancing drug discovery with deep attention neural networks,2024,0.11919713123151597,11
+W3209056694,MolGPT: Molecular Generation Using a Transformer-Decoder Model,2021,0.10813837455134688,11
+W4403547237,Transformers and Large Language Models for Chemistry and Drug Discovery,2024,0.0985426908333875,11
+W3111174583,Transformer protein language models are unsupervised structure learners,2020,0.09829733179479136,11
+W4317212783,Transformer-based deep learning for predicting protein properties in the life sciences,2023,0.09686470956455331,11
+W4282984452,Contrastive learning on protein embeddings enlightens midnight zone,2022,0.09574026757569683,11
+W3127238141,DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome,2021,0.09449750615025403,11
+W3146384714,Extraction of organic chemistry grammar from unsupervised learning of chemical reactions,2021,0.09393780226364806,11
+W4401558372,Transformers for Molecular Property Prediction: Lessons Learned from the Past Five Years,2024,0.09102641011955291,11
+W3109892317,Molecular representation learning with language models and domain-relevant auxiliary tasks,2020,0.08985853661776308,11
+W4403754891,Natural Language Processing Methods for the Study of Protein–Ligand Interactions,2025,0.08858616572647036,11
+W3030978062,Transformer-CNN: Swiss knife for QSAR modeling and interpretation,2020,0.08678493493926076,11
+W4386385748,Multistep retrosynthesis combining a disconnection aware triple transformer loop with a route penalty score guided tree search,2023,0.08569670664136678,11
+W4408568272,pNPs-CapsNet: Predicting Neuropeptides Using Protein Language Models and FastText Encoding-Based Weighted Multi-View Feature Integration with Deep Capsule Neural Network,2025,0.08473085854824026,11
+W4387127183,Recent Applications of Machine Learning in Molecular Property and Chemical Reaction Outcome Predictions,2023,0.0823770565312865,11
+W4388033280,AIPs-SnTCN: Predicting Anti-Inflammatory Peptides Using fastText and Transformer Encoder-Based Hybrid Word Embedding with Self-Normalized Temporal Convolutional Networks,2023,0.0819302776667019,11
+W4362664122,Linguistically inspired roadmap for building biologically reliable protein language models,2023,0.08064997207500102,11
+W4392861329,Exploring Chemical Reaction Space with Machine Learning Models: Representation and Feature Perspective,2024,0.07993434114917597,11
+W3176905117,Dual-view Molecule Pre-training,2021,0.0787582903159599,11
+W2994678679,Predicting Retrosynthetic Reactions Using Self-Corrected Transformer Neural Networks,2019,0.07691923391805092,11
+W4393187479,iAFPs-Mv-BiTCN: Predicting antifungal peptides using self-attention transformer embedding and transform evolutionary based multi-view features with bidirectional temporal convolutional networks,2024,0.07658995159838,11
+W3018980093,MolTrans: Molecular Interaction Transformer for drug–target interaction prediction,2020,0.07652070673693118,11
+W3166142427,"Learning the protein language: Evolution, structure, and function",2021,0.0755711729407135,11
+W4388945356,The promises of large language models for protein design and modeling,2023,0.07527234055885335,11
+W4322746608,Reagent prediction with a molecular transformer improves reaction data quality,2023,0.07488659982836937,11
+W4306976400,A fingerprints based molecular property prediction method using the BERT model,2022,0.07457595670519221,11
+W4394716772,Do Chemformers Dream of Organic Matter? Evaluating a Transformer Model for Multistep Retrosynthesis,2024,0.07288170094454287,11
+W4383217278,Unbiasing Retrosynthesis Language Models with Disconnection Prompts,2023,0.07261350258984033,11
+W4391483046,DeepPTM: Protein Post-translational Modification Prediction from Protein Sequences by Combining Deep Protein Language Model with Vision Transformers,2024,0.07246212764104165,11
+W4281291878,"Protein language-model embeddings for fast, accurate, and alignment-free protein structure prediction",2022,0.07164162074425952,11
+W3119872582,Transformer neural network for protein-specific de novo drug generation as a machine translation problem,2021,0.07153328355836923,11
+W4318071656,Large language models generate functional protein sequences across diverse families,2023,0.07142392391389049,11
+W3160706794,Predicting enzymatic reactions with a molecular transformer,2021,0.0711064308081322,11
+W3157265962,MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction,2021,0.07085636004801983,11
+W3005353977,Exploring chemical space using natural language processing methodologies for drug discovery,2020,0.06976888078950601,11
+W2986232138,SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery,2019,0.06952555948839446,11
+W4223644783,Learning meaningful representations of protein sequences,2022,0.06947739991146938,11
+W3191896067,"Protein language model embeddings for fast, accurate, alignment-free protein structure prediction",2021,0.06899581327304564,11
+W3207161423,Relative molecule self-attention transformer,2024,0.06888992965141331,11
+W4290546426,TMbed: transmembrane proteins predicted through language model embeddings,2022,0.06866838424376857,11
+W4313485929,Large-scale chemical language representations capture molecular structure and properties,2022,0.0672195613864133,11
+W4390783938,Large language models in bioinformatics: applications and perspectives,2024,0.06570747199438895,11
+W4320011602,SolvBERT for solvation free energy and solubility prediction: a demonstration of an NLP model for predicting the properties of molecular complexes,2023,0.06517804897940566,11
+W4391075279,Insights into the inner workings of transformer models for protein function prediction,2024,0.06486233155872301,11
+W4321123672,Enhancing diversity in language based models for single-step retrosynthesis,2023,0.0643991314597541,11
+W3007488165,Molecule Attention Transformer,2020,0.0632675213541818,11
+W4408177377,Language models for protein design,2025,0.06310241519486544,11
+W4385255463,Bilingual Language Model for Protein Sequence and Structure,2023,0.06291754455057436,11
+W4401345106,Transformer technology in molecular science,2024,0.06237234500676669,11
+W4284973298,cACP-DeepGram: Classification of anticancer peptides via deep neural network and skip-gram-based word embedding model,2022,0.06119255082447199,11
+W3151478830,Unassisted noise reduction of chemical reaction datasets,2021,0.06070419357279026,11
+W3133458480,MSA Transformer,2021,0.05912485930724333,11
+W4391652655,Feature Reuse and Scaling: Understanding Transfer Learning with Protein Language Models,2024,0.05848335752545871,11
+W4309148342,Ultra-fast protein structure prediction to capture effects of sequence variation in mutation movies,2022,0.05815560430101518,11
+W4253877692,Chemformer: A Pre-Trained Transformer for Computational Chemistry,2021,0.057351451001248006,11
+W4392373804,Evaluating the representational power of pre-trained DNA language models for regulatory genomics,2024,0.05607961168311554,11
+W4388024559,ProGen2: Exploring the boundaries of protein language models,2023,0.05484637175763241,11
+W3164264961,Representation learning applications in biological sequence analysis,2021,0.054769263559910714,11
+W4388035751,Breaking the barriers of data scarcity in drug–target affinity prediction,2023,0.05446681168198416,11
+W2571050567,Linking the Neural Machine Translation and the Prediction of Organic Chemistry Reactions,2016,0.05436782368876679,11
+W4225891318,An analysis of protein language model embeddings for fold prediction,2022,0.05379473836670763,11
+W4312632987,Pushing the Boundaries of Molecular Property Prediction for Drug Discovery with Multitask Learning BERT Enhanced by SMILES Enumeration,2022,0.05359638797815117,11
+W3043647281,Automated extraction of chemical synthesis actions from experimental procedures,2020,0.05344816416860109,11
+W4401339550,Crystal Composition Transformer: Self‐Learning Neural Language Model for Generative and Tinkering Design of Materials,2024,0.0529906721775209,11
+W3158236124,ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Learning,2020,0.05259336310888725,11
+W4404447386,Bilingual language model for protein sequence and structure,2024,0.052583817301597856,11
+W4220670676,Retrosynthetic reaction pathway prediction through neural machine translation of atomic environments,2022,0.05195115413186728,11
+W4401108625,Retrosynthesis prediction with an iterative string editing model,2024,0.051795155864690946,11
+W4380552032,Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective,2023,0.05078202529454286,11
+W4210842338,Sequence-based prediction of protein binding regions and drug–target interactions,2022,0.05070415043899821,11
+W4379184641,SELFormer: molecular representation learning via SELFIES language models,2023,0.04968602781044822,11
+W4296780589,DistilProtBert: a distilled protein language model used to distinguish between real proteins and their randomly shuffled counterparts,2022,0.04951866700025336,11
+W4206029367,Image2SMILES: Transformer‐Based Molecular Optical Recognition Engine**,2022,0.04937036410049158,11
+W4297243351,Transformer-based protein generation with regularized latent space optimization,2022,0.049134259568929424,11
+W4404577932,Rapid in silico directed evolution by a protein language model with EVOLVEpro,2024,0.048979896610616816,11
+W4406015449,pACP-HybDeep: predicting anticancer peptides using binary tree growth based transformer and structural feature encoding with deep-hybrid learning,2025,0.04893806875370959,11
+W3101509328,Transforming the Language of Life,2020,0.04893632181261931,11
+W4385373960,Artificial intelligence-aided protein engineering: from topological data analysis to deep protein language models,2023,0.04880310044511931,11
+W3095883070,Self-Supervised Graph Transformer on Large-Scale Molecular Data,2020,0.04876741910782372,11
+W4206334877,TransDTI: Transformer-Based Language Models for Estimating DTIs and Building a Drug Recommendation Workflow,2022,0.04837407407280446,11
+W4366769286,TransPolymer: a Transformer-based language model for polymer property predictions,2023,0.04800533779456106,11
+W4400876473,Chemical language modeling with structured state space sequence models,2024,0.04689111860047834,11
+W4323304388,Uni-Mol: A Universal 3D Molecular Representation Learning Framework,2023,0.04648896022855913,11
+W4404961170,DeepAIPs-Pred: Predicting Anti-Inflammatory Peptides Using Local Evolutionary Transformation Images and Structural Embedding-Based Optimal Descriptors with Self-Normalized BiTCNs,2024,0.04613665473520891,11
+W4313430582,Single-sequence protein structure prediction using supervised transformer protein language models,2022,0.04586898506143895,11
+W4362657509,UniDL4BioPep: a universal deep learning architecture for binary classification in peptide bioactivity,2023,0.04579632660734135,11
+W2968734407,Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism,2019,0.045787790837351044,11
+W3129125493,A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information,2021,0.04548999264086333,11
+W4382239609,Molformer: Motif-Based Transformer on 3D Heterogeneous Molecular Graphs,2023,0.04516356557129721,11
+W4210592951,Automating Genetic Algorithm Mutations for Molecules Using a Masked Language Model,2022,0.04428103408672324,11
+W4392352687,PTM-Mamba: A PTM-Aware Protein Language Model with Bidirectional Gated Mamba Blocks,2024,0.04417657464822781,11
+W4292265045,Fine-tuning of BERT Model to Accurately Predict Drug–Target Interactions,2022,0.043809629844987256,11
+W4320713584,Deep language models for interpretative and predictive materials science,2023,0.04373967503419741,11
+W4407156497,Positional embeddings and zero-shot learning using BERT for molecular-property prediction,2025,0.04358105269294937,11
+W4388020856,IgLM: Infilling language modeling for antibody sequence design,2023,0.043337228341599046,11
+W4406928246,pLM4CPPs: Protein Language Model-Based Predictor for Cell Penetrating Peptides,2025,0.0433201841101563,11
+W3197123494,Pre-Training of Deep Bidirectional Protein Sequence Representations With Structural Information,2021,0.042911463406813975,11
+W4212837331,A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals,2022,0.04234630147069316,11
+W4392791736,Self-Supervised Contrastive Molecular Representation Learning with a Chemical Synthesis Knowledge Graph,2024,0.04209598595487779,11
+W4391879605,Difficulty in chirality recognition for Transformer architectures learning chemical structures from string representations,2024,0.042033189951475654,11
+W4409485028,Developing ChemDFM as a large language foundation model for chemistry,2025,0.04198657961631398,11
+W4316339774,The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics,2023,0.04196929449951024,11
+W3191761521,Single-sequence protein structure prediction using language models from deep learning,2021,0.04188838425251531,11
+W4399849668,Democratizing protein language models with parameter-efficient fine-tuning,2024,0.04133385566632294,11
+W4400046055,Can large language models understand molecules?,2024,0.04069744037022776,11
+W3211951295,Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries,2021,0.04043756194532821,11
+W4407750118,"Human Genome Book: Words, Sentences and Paragraphs",2025,0.04023703590941,11
+W2964864162,Named Entity Recognition and Normalization Applied to Large-Scale Information Extraction from the Materials Science Literature,2019,0.04022725165830904,11
+W3157437194,Learned Embeddings from Deep Learning to Visualize and Predict Protein Sets,2021,0.04014168412942009,11
+W4396597709,Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective,2024,0.040050739362412706,11
+W3131121088,BERT4Bitter: a bidirectional encoder representations from transformers (BERT)-based model for improving the prediction of bitter peptides,2021,0.03975810028805081,11
+W3201869313,MatSciBERT: A materials domain language model for text mining and information extraction,2022,0.03876485650563187,11
+W4394763992,Self-supervised learning on millions of primary RNA sequences from 72 vertebrates improves sequence-based RNA splicing prediction,2024,0.03827303657391354,11
+W4392058082,Predicting the formation of NADES using a transformer-based model,2024,0.037971824923072175,11
+W4387666747,Explainable protein function annotation using local structure embeddings,2023,0.0379640917609161,11
+W4407406911,Ai-enabled language models (LMs) to large language models (LLMs) and multimodal large language models (MLLMs) in drug discovery and development,2025,0.037642018051878924,11
+W4401435582,Protein-peptide binding residue prediction based on protein language models and cross-attention mechanism,2024,0.037539622580431246,11
+W4322494707,"ProteInfer, deep neural networks for protein functional inference",2023,0.03737612841674624,11
+W3164046276,Structure-based protein function prediction using graph convolutional networks,2021,0.037002557355524726,11
+W4404821554,Nucleotide Transformer: building and evaluating robust foundation models for human genomics,2024,0.03679905999027583,11
+W4282931170,RBP-TSTL is a two-stage transfer learning framework for genome-scale prediction of RNA-binding proteins,2022,0.03635815542612019,11
+W4320728073,UnCorrupt SMILES: a novel approach to de novo design,2023,0.036230263772880925,11
+W4403782504,TPpred-SC: multi-functional therapeutic peptide prediction based on multi-label supervised contrastive learning,2024,0.03614950174039944,11
+W3165163830,ProteinBERT: A universal deep-learning model of protein sequence and function,2021,0.03597948301667817,11
+W4386811611,cdsBERT - Extending Protein Language Models with Codon Awareness,2023,0.035872516845907546,11
+W4383550741,xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein,2023,0.03575844033128196,11
+W2963676163,Grammar variational autoencoder,2017,0.03568250622416223,11
+W4303478269,Language models for the prediction of SARS-CoV-2 inhibitors,2022,0.035646912486149034,11
+W3179485843,Language models enable zero-shot prediction of the effects of mutations on protein function,2021,0.03557360265427413,11
+W4403557810,VotePLMs-AFP: Identification of antifreeze proteins using transformer-embedding features and ensemble learning,2024,0.035032626664937346,11
+W4286500588,Evolutionary-scale prediction of atomic level protein structure with a language model,2022,0.03501151826536677,11
+W4392885247,Using protein language models for protein interaction hot spot prediction with limited data,2024,0.03472462845405128,11
+W4282017563,KPGT,2022,0.03471481797091879,11
+W4386046779,TransFoxMol: predicting molecular property with focused attention,2023,0.03465944985017528,11
+W3110901318,A compact review of molecular property prediction with graph neural networks,2020,0.03401957936394639,11
+W3207373390,"Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning",2021,0.03367958001380183,11
+W4387272159,pAtbP-EnC: Identifying Anti-Tubercular Peptides Using Multi-Feature Representation and Genetic Algorithm-Based Deep Ensemble Model,2023,0.03356684003152957,11
+W4225917625,Prediction of RNA–protein interactions using a nucleotide language model,2022,0.03344474370687637,11
+W3115677442,Data-driven materials research enabled by natural language processing and information extraction,2020,0.03319286588172977,11
+W4281287617,Convolutions are competitive with transformers for protein sequence pretraining,2022,0.03308751768236015,11
+W4283259285,DTITR: End-to-end drug–target binding affinity prediction with transformers,2022,0.03296135898955337,11
+W4381432349,BioSeq-Diabolo: Biological sequence similarity analysis using Diabolo,2023,0.03280272517321966,11
+W4392302569,Convolutions are competitive with transformers for protein sequence pretraining,2024,0.03277616192118306,11
+W4390649554,Enhancing Antibody Language Models with Structural Information,2024,0.03277273817504029,11
+W3114339437,Regio-selectivity prediction with a machine-learned reaction representation and on-the-fly quantum mechanical descriptors,2020,0.03231266559292914,11
+W4382195656,Identifying Neuropeptides via Evolutionary and Sequential Based Multi-Perspective Descriptors by Incorporation With Ensemble Classification Strategy,2023,0.03202345976030857,11
+W4317033517,BERT2OME: Prediction of 2′-O-Methylation Modifications From RNA Sequence by Transformer Architecture Based on BERT,2023,0.031855408777524956,11
+W4408212432,DeepMVD: A Novel Multiview Dynamic Feature Fusion Model for Accurate Protein Function Prediction,2025,0.0317808468606343,11
+W4391345293,"GIT-Mol: A multi-modal large language model for molecular science with graph, image, and text",2024,0.031637718964767005,11
+W4389991792,Autonomous chemical research with large language models,2023,0.031325485893838524,11
+W4383709533,PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer,2023,0.031217739661308423,11
+W4319061788,Generative power of a protein language model trained on multiple sequence alignments,2023,0.03113129402060307,11
+W4392235646,Protein embedding based alignment,2024,0.03095285257434082,11
+W4224442790,Quantifying the advantage of domain-specific pre-training on named entity recognition tasks in materials science,2022,0.03085608823171426,11
+W4401732620,ACP-ESM: A novel framework for classification of anticancer peptides using protein-oriented transformer approach,2024,0.030696610227678636,11
+W4298148229,Multimodal model with text and drug embeddings for adverse drug reaction classification,2022,0.030655528592437208,11
+W4388583690,Democratizing Protein Language Models with Parameter-Efficient Fine-Tuning,2023,0.030377346864500474,11
+W4225983992,ACP-MHCNN: an accurate multi-headed deep-convolutional neural network to predict anticancer peptides,2021,0.030075116123824137,11
+W4407740651,ACP-CLB: An Anticancer Peptide Prediction Model Based on Multichannel Discriminative Processing and Integration of Large Pretrained Protein Language Models,2025,0.029918235880727412,11
+W4408802928,Applications of natural language processing and large language models in materials discovery,2025,0.029617928801620848,11
+W4396566976,Carbon-based molecular properties efficiently predicted by deep learning-based quantum chemical simulation with large language models,2024,0.029570811151057797,11
+W4395660271,Data-balanced transformer for accelerated ionizable lipid nanoparticles screening in mRNA delivery,2024,0.029507903948922675,11
+W4388776999,Chemical structure-aware molecular image representation learning,2023,0.029388874330364165,11
+W4387303685,SaProt: Protein Language Modeling with Structure-aware Vocabulary,2023,0.02938542488342684,11
+W4386860638,pLM-BLAST: distant homology detection based on direct comparison of sequence representations from protein language models,2023,0.029212899165989882,11
+W4220871953,Improving machine learning performance on small chemical reaction data with unsupervised contrastive pretraining,2022,0.029117661435688308,11
+W4200399482,miRe2e: a full end-to-end deep model based on transformers for prediction of pre-miRNAs,2021,0.029105621153830256,11
+W4400227417,Enhancing efficiency of protein language models with minimal wet-lab data through few-shot learning,2024,0.029057050904657704,11
+W4323644140,Molecular Joint Representation Learning via Multi-Modal Information of SMILES and Graphs,2023,0.028991656171745418,11
+W4312129726,A smile is all you need: predicting limiting activity coefficients from SMILES with natural language processing,2022,0.028665447151651355,11
+W4408387458,Transformers and genome language models,2025,0.02861722390096084,11
+W4376601927,A general model to predict small molecule substrates of enzymes based on machine and deep learning,2023,0.02850251087807988,11
+W3206585172,HyperAttentionDTI: improving drug–protein interaction prediction by sequence-based deep learning with attention mechanism,2021,0.02822006428599014,11
+W4388423838,FG-BERT: a generalized and self-supervised functional group-based molecular representation learning framework for properties prediction,2023,0.028026909291770586,11
+W3121000782,Learning the language of viral evolution and escape,2021,0.027951909763650536,11
+W4407633510,Predictive modeling of biodegradation pathways using transformer architectures,2025,0.027876910835127746,11
+W4385431175,FSM-DDTR: End-to-end feedback strategy for multi-objective De Novo drug design using transformers,2023,0.027858894646902523,11
+W4378715362,Improving the quality of chemical language model outcomes with atom-in-SMILES tokenization,2023,0.027411527457451127,11
+W4409152738,xTrimoPGLM: unified 100-billion-parameter pretrained transformer for deciphering the language of proteins,2025,0.027296481619474344,11
+W4327564965,Do Large Language Models Understand Chemistry? A Conversation with ChatGPT,2023,0.02725042366613448,11
+W4389888290,Multi-modal molecule structure–text model for text-based retrieval and editing,2023,0.02720178747106435,11
+W4317891156,ProT-VAE: Protein Transformer Variational AutoEncoder for Functional Protein Design,2023,0.02718801757384355,11
+W4403001755,AIPs-DeepEnC-GA: Predicting Anti-inflammatory Peptides using Embedded Evolutionary and Sequential Feature Integration with Genetic Algorithm based Deep Ensemble Model,2024,0.027045507068483347,11
+W4394930608,ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention,2024,0.02692150206025726,11
+W4205989901,AlphaFold2-aware protein–DNA binding site prediction using graph transformer,2021,0.02682198560969247,11
+W4410409674,<scp>GRU4ACE</scp>: Enhancing <scp>ACE</scp> inhibitory peptide prediction by integrating gated recurrent unit with multi‐source feature embeddings,2025,0.02676194146418391,11
+W4392824269,PTransIPs: Identification of Phosphorylation Sites Enhanced by Protein PLM Embeddings,2024,0.026684292480809828,11
+W4408421527,Local large language model‐assisted literature mining for on‐surface reactions,2025,0.026570714540068794,11
+W4407252795,FusOn-pLM: a fusion oncoprotein-specific language model via adjusted rate masking,2025,0.026556934936583867,11
+W4385848978,"GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text",2023,0.026550227755255007,11
+W4229443452,BatteryBERT: A Pretrained Language Model for Battery Database Enhancement,2022,0.02648473271610038,11
+W4391836235,Structured information extraction from scientific text with large language models,2024,0.02645147698282774,11
+W4401662181,The OMG dataset: An Open MetaGenomic corpus for mixed-modality genomic language modeling,2024,0.026403943582066446,11
+W4397004462,ProtAgents: protein discovery <i>via</i> large language model multi-agent collaborations combining physics and machine learning,2024,0.026182741894936405,11
+W4366451146,Prediction of Amyloid Proteins using Embedded Evolutionary &amp; Ensemble Feature Selection based Descriptors with eXtreme Gradient Boosting Model,2023,0.026181969681733027,11
+W2899788782,DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences,2019,0.025932887009105184,11
+W4380488316,GENA-LM: A Family of Open-Source Foundational DNA Language Models for Long Sequences,2023,0.025036102461364028,11
+W3087291937,DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome,2020,0.024558391951548332,11
+W4409739189,Sequence-Based TCR-Peptide Representations Using Cross-Epitope Contrastive Fine-Tuning of Protein Language Models,2025,0.024413150410715154,11
+W3214740101,Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attention,2021,0.023090591566768633,11
+W3114990254,Single Layers of Attention Suffice to Predict Protein Contacts,2020,0.02302588595007865,11
+W4292676375,NeuroPred-CLQ: incorporating deep temporal convolutional networks and multi-head attention mechanism to predict neuropeptides,2022,0.02267742158657959,11
+W4387521449,"MeLM, a generative pretrained language modeling framework that solves forward and inverse mechanics problems",2023,0.02256843794864314,11
+W2999645992,Inorganic Materials Synthesis Planning with Literature-Trained Neural Networks,2020,0.02227783041834899,11
+W4394779505,UniproLcad: Accurate Identification of Antimicrobial Peptide by Fusing Multiple Pre-Trained Protein Language Models,2024,0.022142381747901993,11
+W4285307137,Multilingual Molecular Representation Learning via Contrastive Pre-training,2022,0.02213130148876539,11
+W4406024479,DNA promoter task-oriented dictionary mining and prediction model based on natural language technology,2025,0.022059816814247405,11
+W4404021931,Learning on Compressed Molecular Representations,2024,0.022042163236555556,11
+W4392002118,Extracting accurate materials data from research papers with conversational language models and prompt engineering,2024,0.021816393638815917,11
+W4386634093,A Transformer-Based Ensemble Framework for the Prediction of Protein–Protein Interaction Sites,2023,0.02166135382769768,11
+W2991091214,Identifying SNAREs by Incorporating Deep Learning Architecture and Amino Acid Embedding Representation,2019,0.02164199463215939,11
+W4391821988,Protein function prediction as approximate semantic entailment,2024,0.02152478512078617,11
+W4408521513,Classification of pulmonary diseases from chest radiographs using deep transfer learning,2025,0.021244668895696445,11
+W4296087385,HelixFold-Single: MSA-free Protein Structure Prediction by Using Protein Language Model as an Alternative,2022,0.021244136954453638,11
+W4391846075,Accelerating materials language processing with large language models,2024,0.021075994929000426,11
+W4308930019,Deep learning for protein secondary structure prediction: Pre and post-AlphaFold,2022,0.020444749360901487,11
+W2565684601,Low Data Drug Discovery with One-Shot Learning,2017,0.02030407295140636,11
+W4200599415,Deep transformers and convolutional neural network in identifying DNA N6-methyladenine sites in cross-species genomes,2021,0.02020150759976313,11
+W4402048197,"Sequence, Structure, and Functional Space of <i>Drosophila</i> De Novo Proteins",2024,0.020091013108475966,11
+W4313525610,CoAtGIN: Marrying Convolution and Attention for Graph-based Molecule Property Prediction,2022,0.020010058209778806,11
+W4394769874,Effect of tokenization on transformers for biological sequences,2024,0.019957314872728414,11
+W4287027946,Global Self-Attention as a Replacement for Graph Convolution,2022,0.01991255028382584,11
+W4405616956,From text to insight: large language models for chemical data extraction,2024,0.019842331235290996,11
+W4380225176,cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation,2023,0.01962880600440035,11
+W3190020173,Learning Attributed Graph Representation with Communicative Message Passing Transformer,2021,0.019626565135696893,11
+W3134227030,iEnhancer-DHF: Identification of Enhancers and Their Strengths Using Optimize Deep Neural Network With Multiple Features Extraction Methods,2021,0.01960288094203861,11
+W4362640271,A general-purpose material property data extraction pipeline from large polymer corpora using natural language processing,2023,0.019406494525631084,11
+W4318159339,Graph neural networks for temperature-dependent activity coefficient prediction of solutes in ionic liquids,2023,0.01936989430756467,11
+W3043096321,Guidelines for Recurrent Neural Network Transfer Learning-Based Molecular Generation of Focused Libraries,2020,0.019354904510642847,11
+W4393946553,"Using test-time augmentation to investigate explainable AI: inconsistencies between method, model and human intuition",2024,0.019262067242227645,11
+W4200547951,FusionDTA: attention-based feature polymerizer and knowledge distillation for drug-target binding affinity prediction,2021,0.019125407279119454,11
+W4407319601,AdaMGT: Molecular representation learning via adaptive mixture of GCN-Transformer,2025,0.018937076460587173,11
+W4409011676,Supervised fine-tuning of pre-trained antibody language models improves antigen specificity prediction,2025,0.018933813731349027,11
+W4399529637,Semantic aware-based instruction embedding for binary code similarity detection,2024,0.018914075535907734,11
+W4398765347,"Flexible, model-agnostic method for materials data extraction from text using general purpose language models",2024,0.018826600956484623,11
+W4393068706,Creation of a structured solar cell material dataset and performance prediction using large language models,2024,0.0186962912921768,11
+W4407062004,Generative latent diffusion language modeling yields anti-infective synthetic peptides,2025,0.018633935396656285,11
+W2936166854,A Machine Learning Approach to Zeolite Synthesis Enabled by Automatic Literature Data Extraction,2019,0.018597104924095963,11
+W4404511387,The STRING database in 2025: protein networks with directionality of regulation,2024,0.01854441470067935,11
+W4394578942,DeepLoc 2.1: multi-label membrane protein type prediction using protein language models,2024,0.01854441470067935,11
+W4248414713,The Impact of Domain-Specific Pre-Training on Named Entity Recognition Tasks in Materials Science,2021,0.018421653828374747,11
+W4307068738,Protein language models trained on multiple sequence alignments learn phylogenetic relationships,2022,0.018385383955204913,11
+W4391028159,CONSMI: Contrastive Learning in the Simplified Molecular Input Line Entry System Helps Generate Better Molecules,2024,0.018044898152675133,11
+W3166272013,Algebraic graph-assisted bidirectional transformers for molecular property prediction,2021,0.01800882312054416,11
+W4200200013,Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors,2021,0.01764314279001618,11
+W3195980265,BERT-m7G: A Transformer Architecture Based on BERT and Stacking Ensemble to Identify RNA N7-Methylguanosine Sites from Sequence Information,2021,0.01760690453027429,11
+W4392913700,GraphormerDTI: A graph transformer-based approach for drug-target interaction prediction,2024,0.017580731153410144,11
+W4400721746,Joint Dual Feature Distillation and Gradient Progressive Pruning for BERT compression,2024,0.017555357518392368,11
+W4403989384,Liver disease classification using histogram-based gradient boosting classification tree with feature selection algorithm,2024,0.017555357518392368,11
+W4406419344,GENA-LM: a family of open-source foundational DNA language models for long sequences,2025,0.017434726734774808,11
+W4385567824,Dual-view Molecular Pre-training,2023,0.01742860653681514,11
+W4283716699,RAPPPID: towards generalizable protein interaction prediction with AWD-LSTM twin networks,2022,0.017373682465195512,11
+W3176435454,piEnPred: a bi-layered discriminative model for enhancers and their subtypes via novel cascade multi-level subset feature selection algorithm,2021,0.017234296911562752,11
+W2311607323,Deep learning in bioinformatics,2016,0.017147866576614365,11
+W3201230437,Generative Models for De Novo Drug Design,2021,0.017091649773413216,11
+W4200079908,Generative language modeling for antibody design,2021,0.01708732747790965,11
+W3019745511,MONN: A Multi-objective Neural Network for Predicting Compound-Protein Interactions and Affinities,2020,0.016924607234550023,11
+W3134146005,Out-of-the-box deep learning prediction of pharmaceutical properties by broadly learned knowledge-based molecular representations,2021,0.016614021995803665,11
+W4390193806,Can Pretrained Models Really Learn Better Molecular Representations for AI-Aided Drug Discovery?,2023,0.016508330432990735,11
+W4291302261,iEnhancer-BERT: A Novel Transfer Learning Architecture Based on DNA-Language Model for Identifying Enhancers and Their Strength,2022,0.016429456100957935,11
+W4392921865,Reconstructing the materials tetrahedron: challenges in materials information extraction,2024,0.01625513162823076,11
+W4323076266,TIS Transformer: remapping the human proteome using deep learning,2023,0.016032636998747865,11
+W4392564168,iNGNN-DTI: prediction of drug–target interaction with interpretable nested graph neural network and pretrained molecule models,2024,0.015797696040647964,11
+W4320558475,"Flexible, Model-Agnostic Method for Materials Data Extraction from Text Using General Purpose Language Models",2023,0.015783046899280364,11
+W4407273337,"From Mechanistic Interpretability to Mechanistic Biology: Training, Evaluating, and Interpreting Sparse Autoencoders on Protein Language Models",2025,0.015682436849803673,11
+W4396809860,TransPTM: a transformer-based model for non-histone acetylation site prediction,2024,0.015287962291870842,11
+W3175823016,Looking through glass: Knowledge discovery from materials science literature using natural language processing,2021,0.015258596459980086,11
+W4400770986,ENCAP: Computational prediction of tumor T cell antigens with ensemble classifiers and diverse sequence features,2024,0.0152287673362274,11
+W4402748047,Cancer Detection with Various Classification Models: A Comprehensive Feature Analysis Using HMM to Extract a Nucleotide Pattern,2024,0.0152287673362274,11
+W4406865199,Enhanced ResNet-50 for garbage classification: Feature fusion and depth-separable convolutions,2025,0.01518855216292797,11
+W4407925542,Large language model applications in nucleic acid research,2025,0.015132697000662077,11
+W4400040865,Automation and machine learning augmented by large language models in a catalysis study,2024,0.014564222878045404,11
+W4392157450,Empowering Glioma Prognosis With Transparent Machine Learning and Interpretative Insights Using Explainable AI,2024,0.014466357711839302,11
+W4390943477,Optimizing classification of diseases through language model analysis of symptoms,2024,0.014466357711839302,11
+W4393363427,Open‐source large language models in action: A bioinformatics chatbot for PRIDE database,2024,0.014433357178303791,11
+W4285405240,BERT-Promoter: An improved sequence-based predictor of DNA promoter using BERT pre-trained model and SHAP feature selection,2022,0.014378049924045,11
+W4210444533,HCRNet: high-throughput circRNA-binding event identification from CLIP-seq data using deep temporal convolutional network,2022,0.014347844263366515,11
+W4385027818,ChatGPT Chemistry Assistant for Text Mining and the Prediction of MOF Synthesis,2023,0.014311599215139153,11
+W4404399374,Syntactic analysis of SMOSS model combined with improved LSTM model: Taking English writing teaching as an example,2024,0.014305515855387078,11
+W4386168831,ChemNLP: A Natural Language-Processing-Based Library for Materials Chemistry Text Data,2023,0.014237350028033646,11
+W4403256806,Transformer-based models for chemical SMILES representation: A comprehensive literature review,2024,0.013978083999505956,11
+W4390011017,MaScQA: investigating materials science knowledge of large language models,2023,0.013936028945427838,11
+W2900694973,Gene2vec: gene subsequence embedding for prediction of mammalian <i>N</i><sup>6</sup>-methyladenosine sites from mRNA,2018,0.013887966148554962,11
+W4327913228,OpticalBERT and OpticalTable-SQA: Text- and Table-Based Language Models for the Optical-Materials Domain,2023,0.013808667357060298,11
+W4294052020,DeepConsensus improves the accuracy of sequences with a gap-aware sequence transformer,2022,0.013774358616497097,11
+W4322745247,Associative learning mechanism for drug‐target interaction prediction,2023,0.013681377531208324,11
+W4405590246,Data extraction from polymer literature using large language models,2024,0.013535480086514028,11
+W4323653718,MCANet: shared-weight-based MultiheadCrossAttention network for drug–target interaction prediction,2023,0.013223281618833295,11
+W3217516687,TCR-BERT: learning the grammar of T-cell receptors for flexible antigen-xbinding analyses,2021,0.013210147826274414,11
+W4309728351,Perceiver CPI: a nested cross-attention network for compound–protein interaction prediction,2022,0.01318834971349644,11
+W2943935116,ACP-DL: A Deep Learning Long Short-Term Memory Model to Predict Anticancer Peptides Using High-Efficiency Feature Representation,2019,0.013143650697908044,11
+W4205167309,MGraphDTA: deep multiscale graph neural network for explainable drug–target binding affinity prediction,2022,0.01313893877844503,11
+W4387874094,Neural scaling of deep chemical models,2023,0.013093650208596467,11
+W4317717793,Toward generalizable prediction of antibody thermostability using machine learning on sequence and structure features,2023,0.012971452644196526,11
+W4406714250,FL-W3S: Cross-domain federated learning for weakly supervised semantic segmentation of white blood cells,2025,0.012861961980762998,11
+W4392168151,scGPT: toward building a foundation model for single-cell multi-omics using generative AI,2024,0.012832849939095406,11
+W4391429371,Learning the shape of protein microenvironments with a holographic convolutional neural network,2024,0.012664214946328373,11
+W4212994316,BERT-Kgly: A Bidirectional Encoder Representations From Transformers (BERT)-Based Model for Predicting Lysine Glycation Site for Homo sapiens,2022,0.012635820388183236,11
+W4403230932,How Does a Generative Large Language Model Perform on Domain-Specific Information Extraction?─A Comparison between GPT-4 and a Rule-Based Method on Band Gap Extraction,2024,0.012568235981716198,11
+W4361247736,Few-shot Molecular Property Prediction via Hierarchically Structured Learning on Relation Graphs,2023,0.012542339356729089,11
+W4236358448,DeepGOPlus: improved protein function prediction from sequence,2019,0.012362060040407505,11
+W4392714934,Predicting lncRNA–protein interactions through deep learning framework employing multiple features and random forest algorithm,2024,0.012246742549753591,11
+W4402378009,Anti‐ageing mechanism of topical bioactive ingredient composition on skin based on network pharmacology,2024,0.012246742549753591,11
+W4382632004,ArkDTA: attention regularization guided by non-covalent interactions for explainable drug–target binding affinity prediction,2023,0.012042479267112704,11
+W4409118940,Enhancing Enzyme Commission Number Prediction With Contrastive Learning and Agent Attention,2025,0.011791312089186453,11
+W4403219221,A deep drug prediction framework for viral infectious diseases using an optimizer-based ensemble of convolutional neural network: COVID-19 as a case study,2024,0.011453110227419997,11
+W4391897357,MatKG: An autonomously generated knowledge graph in Material Science,2024,0.011074944922526492,11
+W4409987565,Rapid Adaptation of Chemical Named Entity Recognition Using Few-Shot Learning and LLM Distillation,2025,0.01097868888383892,11
+W4380265755,SENet: A deep learning framework for discriminating super- and typical enhancers by sequence information,2023,0.010841596981849137,11
+W3169622372,Do Transformers Really Perform Bad for Graph Representation?,2021,0.010825363979498476,11
+W4387966974,Masked inverse folding with sequence transfer for protein representation learning,2022,0.010821299052924583,11
+W3034949140,The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain,2020,0.010731655226741342,11
+W4400921533,DNA language model GROVER learns sequence context in the human genome,2024,0.010436825262096371,11
+W4396680945,Natural Language Processing,2024,0.010377513674881681,11
+W4393277170,How Beneficial Is Pretraining on a Narrow Domain-Specific Corpus for Information Extraction about Photocatalytic Water Splitting?,2024,0.010316465087350136,11
+W4389686182,A rule-free workflow for the automated generation of databases from scientific literature,2023,0.01019230713345034,11
+W4367602258,scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI,2023,0.010095349159757995,11
+W4390511840,Harnessing GPT-3.5 for text parsing in solid-state synthesis – case study of ternary chalcogenides,2024,0.010016188605785441,11
+W2987092090,Classifying Promoters by Interpreting the Hidden Information of DNA Sequences via Deep Learning and Combination of Continuous FastText N-Grams,2019,0.00986529549697696,11
+W4392895925,ERNIE-RNA: An RNA Language Model with Structure-enhanced Representations,2024,0.00977207649534388,11
+W4385484300,"Accurate, interpretable predictions of materials properties within transformer language models",2023,0.009697239901316497,11
+W4399469332,Exploiting protein language model sequence representations for repeat detection,2024,0.009679819838206899,11
+W4327944355,Tokenization in the Theory of Knowledge,2023,0.009446145584023919,11
+W2896262061,Recurrent Neural Network for Predicting Transcription Factor Binding Sites,2018,0.009440577110536919,11
+W3164906363,Convolutional neural networks (CNNs): concepts and applications in pharmacogenomics,2021,0.009401146117035141,11
+W4284974145,IIFDTI: predicting drug–target interactions through interactive and independent features based on attention mechanism,2022,0.00940086075649337,11
+W4399249866,Large‐Language‐Model‐Based AI Agent for Organic Semiconductor Device Research,2024,0.009078524193693158,11
+W4400687657,Large Language Model-Based Natural Language Encoding Could Be All You Need for Drug Biomedical Association Prediction,2024,0.009060991223730549,11
+W4206419503,DeepMGT-DTI: Transformer network incorporating multilayer graph information for Drug–Target interaction prediction,2022,0.008969093554132286,11
+W4408848145,Dynamic in-context learning with conversational models for data extraction and materials property prediction,2025,0.008768468787564881,11
+W4405988325,PaleAle 6.0: Prediction of Protein Relative Solvent Accessibility by Leveraging Pre-Trained Language Models (PLMs),2025,0.00873489312756259,11
+W4391953419,Advanced NLP Models for Technical University Information Chatbots: Development and Comparative Analysis,2024,0.00873489312756259,11
+W4399851524,Generative AI and large language models: A new frontier in reverse vaccinology,2024,0.00873489312756259,11
+W4366163632,NetGO 3.0: Protein Language Model Improves Large-Scale Functional Annotations,2023,0.008465617864529871,11
+W4402643908,"A prompt-engineered large language model, deep learning workflow for materials classification",2024,0.00836191675619173,11
+W4206948363,Learning protein fitness models from evolutionary and assay-labeled data,2022,0.008314222951497696,11
+W2617750324,DeepSite: protein-binding site predictor using 3D-convolutional neural networks,2017,0.008212889283572397,11
+W4283729620,Unleashing the Power of Knowledge Extraction from Scientific Literature in Catalysis,2022,0.007969012599731934,11
+W4393204129,Flexible drug-target interaction prediction with interactive information extraction and trade-off,2024,0.007911403028251478,11
+W4281568930,A text mining framework for screening catalysts and critical process parameters from scientific literature - A study on Hydrogen production from alcohol,2022,0.007910393840357018,11
+W4400921915,Stability Oracle: a structure-based graph-transformer framework for identifying stabilizing mutations,2024,0.007899592186685556,11
+W2931503046,iMotor-CNN: Identifying molecular functions of cytoskeleton motor proteins using 2D convolutional neural network via Chou's 5-step rule,2019,0.007795868495742311,11
+W4409598733,EBMGP: a deep learning model for genomic prediction based on Elastic Net feature selection and bidirectional encoder representations from transformer's embedding and multi-head attention pooling,2025,0.007770198833781077,11
+W4382987430,Steering and controlling evolution — from bioengineering to fighting pathogens,2023,0.007765737760621195,11
+W4323927170,Extracting Accurate Materials Data from Research Papers with Conversational Language Models and Prompt Engineering,2023,0.007739897711834262,11
+W4295902325,Effects of data quality and quantity on deep learning for protein-ligand binding affinity prediction,2022,0.007548381578720818,11
+W4378783433,CircSSNN: circRNA-binding site prediction via sequence self-attention neural networks with pre-normalization,2023,0.007544306327577059,11
+W4381848602,AB-Gen: Antibody Library Design with Generative Pre-Trained Transformer and Deep Reinforcement Learning,2023,0.007326958846353716,11
+W4213448676,DeepFusion: A deep learning based multi-scale feature fusion method for predicting drug-target interactions,2022,0.007101279867665426,11
+W4213235856,Pre-training graph neural networks for link prediction in biomedical networks,2022,0.007101279867665426,11
+W4379879032,3D graph contrastive learning for molecular property prediction,2023,0.006841477833288325,11
+W4379054654,Identification of a covert evolutionary pathway between two protein folds,2023,0.006813200374892506,11
+W4395024879,"For antibody sequence generative modeling, mixture models may be all you need",2024,0.006805317385429037,11
+W4317951595,DeepMPF: deep learning framework for predicting drug–target interactions based on multi-modal representation with meta-path semantic analysis,2023,0.006719322510875128,11
+W4391969068,An efficient consolidation of word embedding and deep learning techniques for classifying anticancer peptides: FastText+BiLSTM,2024,0.00671534497556192,11
+W4403840763,SiT: Exploring Flow and Diffusion-Based Generative Models with Scalable Interpolant Transformers,2024,0.006713902233855337,11
+W4406090237,Decoding the Molecular Language of Proteins with Evola,2025,0.006134838966826059,11
+W4381679608,Knowledge graph-enhanced molecular contrastive learning with functional prompt,2023,0.005997383717099925,11
+W4220952154,Accurate protein function prediction via graph attention networks with predicted structure information,2021,0.005996685868881788,11
+W4323653169,MHTAN-DTI: Metapath-based hierarchical transformer and attention network for drug–target interaction prediction,2023,0.005925482703930561,11
+W4376109639,EpiTEAmDNA: Sequence feature representation via transfer learning and ensemble learning for identifying multiple DNA epigenetic modification types across species,2023,0.005908729444606615,11
+W3191962800,Edge-augmented Graph Transformers: Global Self-attention is Enough for Graphs.,2021,0.005796754367025595,11
+W2889664156,A universal SNP and small-indel variant caller using deep neural networks,2018,0.005769186169585946,11
+W3127347132,Advances in De Novo Drug Design: From Conventional to Machine Learning Methods,2021,0.005711292333818219,11
+W4361298520,A corpus of CO2 electrocatalytic reduction process extracted from the scientific literature,2023,0.005705785676943353,11
+W4401409329,A deep learning model for anti-inflammatory peptides identification based on deep variational autoencoder and contrastive learning,2024,0.005678764502775649,11
+W3191089618,DNN-DTIs: Improved drug-target interactions prediction using XGBoost feature selection and deep neural network,2021,0.005634258990281613,11
+W4399672473,Advancing Peptide-Based Cancer Therapy with AI: In-Depth Analysis of State-of-the-Art AI Models,2024,0.005617857747535092,11
+W4285731845,Enhancer-LSTMAtt: A Bi-LSTM and Attention-Based Deep Learning Method for Enhancer Recognition,2022,0.005396435897964116,11
+W4392089572,ADH-Enhancer: an attention-based deep hybrid framework for enhancer identification and strength prediction,2024,0.005366431923832613,11
+W4406243114,Extracting Fruit Disease Knowledge from Research Papers Based on Large Language Models and Prompt Engineering,2025,0.005356913560901605,11
+W4409496385,Optimizing lipocalin sequence classification with ensemble deep learning models,2025,0.005334241601473345,11
+W4409903695,An intelligent fault diagnosis for rotating machine under strong noise based on cross-attention-driven spatial-temporal feature fusion and duplexing time sequence convolution optimization,2025,0.005334241601473342,11
+W4408851351,Optimizing skin cancer screening with convolutional neural networks in smart healthcare systems,2025,0.005334241601473336,11
+W4220931862,A deep unsupervised language model for protein design,2022,0.005326732732053298,11
+W4313423934,Metapath-aggregated heterogeneous graph neural network for drug–target interaction prediction,2023,0.005303815457732754,11
+W4308436127,A novel method for drug-target interaction prediction based on graph transformers model,2022,0.005303815457732754,11
+W4391738021,Addressing the antibody germline bias and its effect on language models for improved antibody design,2024,0.005138550509386511,11
+W4393192501,Optimising Human-Machine Collaboration for Efficient High-Precision Information Extraction from Text Documents,2024,0.0050889069236663845,11
+W4388421114,REINVENT4: Modern AI–Driven Generative Molecule Design,2023,0.005054994991575562,11
+W4366526178,Generative pretraining from large-scale transcriptomes for single-cell deciphering,2023,0.005046895365773842,11
+W4382918229,"ChatGPT, GPT-4, and Other Large Language Models: The Next Revolution for Clinical Microbiology?",2023,0.0049744445365336835,11
+W4395118066,LMCrot: an enhanced protein crotonylation site predictor by leveraging an interpretable window-level embedding from a transformer-based protein language model,2024,0.0049656354694518805,11
+W4220934922,PFmulDL: a novel strategy enabling multi-class and multi-label protein function annotation by integrating diverse deep learning methods,2022,0.004946728422976941,11
+W4408968357,"Fine-tuning large language models for domain adaptation: exploration of training strategies, scaling, model merging and synergistic capabilities",2025,0.004889963858264327,11
+W3109221674,"The application potential of machine learning and genomics for understanding natural product diversity, chemistry, and therapeutic translatability",2020,0.004835831818337111,11
+W4393038846,Leveraging language representation for materials exploration and discovery,2024,0.004825578051041183,11
+W4406677312,Deep Generative Models for Therapeutic Peptide Discovery: A Comprehensive Review,2025,0.004815628649123348,11
+W3165831121,Predicting Polymers’ Glass Transition Temperature by a Chemical Language Processing Model,2021,0.004668883882675073,11
+W4387159219,Can language models be used for real-world urban-delivery route optimization?,2023,0.004659132984343005,11
+W3205320077,Knowledge-Embedded Message-Passing Neural Networks: Improving Molecular Property Prediction with Human Knowledge,2021,0.004580969828183751,11
+W4318679072,On Pre-trained Language Models for Antibody,2023,0.00455432680268471,11
+W4404575410,Knowledge extraction for additive manufacturing process via named entity recognition with LLMs,2024,0.004249060427222274,11
+W4387773384,"MechGPT, a Language-Based Strategy for Mechanics and Materials Modeling That Connects Knowledge Across Scales, Disciplines, and Modalities",2023,0.00424175688619727,11
+W4367366455,Recent Advances in Machine Learning-Based Models for Prediction of Antiviral Peptides,2023,0.004241387864812966,11
+W4407747392,HGCPep: A Hypergraph-based Deep Learning Model for Enhancing Representation of Peptide Features in Cancer-associated ncPEPs Identification,2025,0.004241387864812966,11
+W4391053118,EAN: enhanced AlexNet deep learning model to detect brain tumor using magnetic resonance images,2024,0.004241387864812966,11
+W4408780141,Automated Identification and Representation of System Requirements Based on Large Language Models and Knowledge Graphs,2025,0.004237037417349318,11
+W3195415198,MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph,2021,0.004150094396628458,11
+W3113177135,A Generalization of Transformer Networks to Graphs,2020,0.004029733116566044,11
+W4396706898,JARVIS-Leaderboard: a large scale benchmark of materials design methods,2024,0.004022769303568259,11
+W4221131784,Automating Materials Exploration with a Semantic Knowledge Graph for Li‐Ion Battery Cathodes,2022,0.004002825326836809,11
+W4392975479,DeepPLM_mCNN: An approach for enhancing ion channel and ion transporter recognition by multi-window CNN based on features from pre-trained language models,2024,0.003801520486850036,11
+W4401443086,Language models for biological research: a primer,2024,0.003754411357858272,11
+W3163965514,Improved protein structure prediction by deep learning irrespective of co-evolution information,2021,0.003594921674621046,11
+W4400074175,AtomGPT: Atomistic Generative Pretrained Transformer for Forward and Inverse Materials Design,2024,0.003573833587621878,11
+W4382198799,Hierarchical graph transformer with contrastive learning for protein function prediction,2023,0.0035671406788227032,11
+W4387696832,Assessing the limits of zero-shot foundation models in single-cell biology,2023,0.0035546947592334757,11
+W4401455022,Transformers in single-cell omics: a review and new perspectives,2024,0.00355182975398688,11
+W2781821160,Development and evaluation of a deep learning model for protein–ligand binding affinity prediction,2018,0.003393373068725168,11
+W4408034454,Geological-knowledge-guided graph self-supervised pretraining framework for identifying mineralization-related geochemical anomalies,2025,0.0033801751490224086,11
+W4221054065,Perplexity-Based Molecule Ranking and Bias Estimation of Chemical Language Models,2022,0.0032501247083172222,11
+W4406017182,Drug discovery and mechanism prediction with explainable graph neural networks,2025,0.003188971054648418,11
+W4367627676,Data quantity governance for machine learning in materials science,2023,0.0030804813394806198,11
+W3167812602,GraphiT: Encoding Graph Structure in Transformers,2021,0.0027178852614921445,11
+W3040246664,Multi-Objective Molecule Generation using Interpretable Substructures,2020,0.002473231575513106,11
+W4320709689,Scientific novelty beyond the experiment,2023,0.002472009547001819,11
+W4407142467,MFP-MFL: Leveraging Graph Attention and Multi-Feature Integration for Superior Multifunctional Bioactive Peptide Prediction,2025,0.002127648355173679,11
+W4391338603,Parameter-Efficient Fine-Tuning Enhances Adaptation of Single Cell Large Language Model for Cell Type Identification,2024,0.0018355865725718182,11
+W4318391592,MFR-DTA: a multi-functional and robust model for predicting drug–target binding affinity and region,2023,0.0017974644099326715,11
+W4407760863,DiffractGPT: Atomic Structure Determination from X-ray Diffraction Patterns Using a Generative Pretrained Transformer,2025,0.0017876700443470175,11
+W4407355635,Cost-Efficient Domain-Adaptive Pretraining of Language Models for Optoelectronics Applications,2025,0.0016721650365620472,11
+W4392529738,Transformers enable accurate prediction of acute and chronic chemical toxicity in aquatic organisms,2024,0.001600458773872173,11
+W4251095682,Automated Extraction of Chemical Synthesis Actions from Experimental Procedures,2020,0.0015441245432272284,11
+W4367669480,Fatigue database of additively manufactured alloys,2023,0.0013850030630908564,11
+W4396814057,Masked Graph Transformer for Large-Scale Recommendation,2024,0.001380181868436197,11
+W4387357646,Deep learning tools to accelerate antibiotic discovery,2023,0.0012915583089809623,11
+W4210311437,Persistent spectral based ensemble learning (PerSpect-EL) for protein–protein binding affinity prediction,2022,0.0012482304269704108,11
+W3138964863,Identifying DNA N4-methylcytosine sites in the rosaceae genome with a deep learning model relying on distributed feature representation,2021,0.0012203725813920603,11
+W4396966060,scMulan: A Multitask Generative Pre-Trained Language Model for Single-Cell Analysis,2024,0.0011922990178640854,11
+W4409883617,A Hybrid Deep Learning and Feature Descriptor Approach for Partial Fingerprint Recognition,2025,0.001188555669367482,11
+W4393182935,BioDeepfuse: a hybrid deep learning approach with integrated feature extraction techniques for enhanced non-coding RNA classification,2024,0.001188555669367482,11
+W2810819381,A Survey of Data Mining and Deep Learning in Bioinformatics,2018,0.001188555669367482,11
+W2884089434,Modulation Classification Based on Signal Constellation Diagrams and Deep Learning,2018,0.001188555669367482,11
+W2786426577,Deep learning improves prediction of CRISPR–Cpf1 guide RNA activity,2018,0.001188555669367482,11
+W3116452748,Identification of sub-Golgi protein localization by use of deep representation learning features,2020,0.001188555669367482,11
+W3003753408,Deep learning-based clustering approaches for bioinformatics,2019,0.001188555669367482,11
+W4391305595,scMulan: a multitask generative pre-trained language model for single-cell analysis,2024,0.0009461140261703431,11
+W4409720227,How to Better Translate Participant Quotes Using LLMs: Exploring Practices and Challenges of Non-Native English Researchers,2025,0.0009381733594998204,11
+W4406155921,A foundation model of transcription across human cell types,2025,0.0008894725464014743,11
+W2950697450,Exploiting Edge Features for Graph Neural Networks,2019,0.000753969043957657,11
+W4393241226,When Transformer Meets Large Graphs: An Expressive and Efficient Two-View Architecture,2024,0.0007503293586588973,11
+W4403052529,Deep learning-based approaches for multi-omics data integration and analysis,2024,0.0007031083104969462,11
+W4391347933,CCL-DTI: contributing the contrastive loss in drug–target interaction prediction,2024,0.0006216672461978069,11
+W4401113423,Neural network extrapolation to distant regions of the protein fitness landscape,2024,0.0006191944553759277,11
+W2784213390,<i>K</i><sub>DEEP</sub>: Protein–Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks,2018,0.0005692530949120957,11
+W4407596714,Graph Transformer-based Heterogeneous Graph Neural Networks enhanced by multiple meta-path adjacency matrices decomposition,2025,0.0004676920036750518,11
+W4362591596,A Systematic Review of Deep Learning Methodologies Used in the Drug Discovery Process with Emphasis on In Vivo Validation,2023,0.0004253434826996301,11
+W4392761846,Crystal Structure Assignment for Unknown Compounds from X-ray Diffraction Patterns with Deep Learning,2024,0.0004013517408196177,11
+W4213068753,iEnhancer-Deep: A Computational Predictor for Enhancer Sites and Their Strength Using Deep Learning,2022,0.0003719589873672349,11
+W3185152376,Tacho-less sparse CNN to detect defects in rotor-bearing systems at varying speed,2021,0.0003697278065980179,11
+W3081999257,ACEP: improving antimicrobial peptides recognition through automatic feature fusion and amino acid embedding,2020,0.00036972780659801454,11
+W4211198594,Smish: A Novel Activation Function for Deep Learning Methods,2022,0.0003697278065980124,11
+W4401983458,"The Observed T Cell Receptor Space database enables paired-chain repertoire mining, coherence analysis, and language modeling",2024,0.0003561640343406692,11
+W4309517641,Usability and Credibility of a COVID-19 Vaccine Chatbot for Young Adults and Health Workers in the United States: Formative Mixed Methods Study,2022,0.0003447894949167826,11
+W2940487144,Deep Learning Predicts Lung Cancer Treatment Response from Serial Medical Imaging,2019,0.00034286843122331614,11
+W3128859113,A structure-function knowledge extraction method for bio-inspired design,2021,0.00029367821479206935,11
+W4406940694,DSAM: A deep learning framework for analyzing temporal and spatial dynamics in brain networks,2025,0.0002793095059570978,11
+W4390893413,Unlocking the therapeutic potential of drug combinations through synergy prediction using graph transformer networks,2024,0.0002793095059570978,11
+W4399887466,A spatiotemporal graph transformer approach for Alzheimer’s disease diagnosis with rs-fMRI,2024,0.0002793095059570978,11
+W3217042593,Enhancing preclinical drug discovery with artificial intelligence,2021,0.00023520201659444693,11
+W4392393090,Dual-channel hypergraph convolutional network for predicting herb–disease associations,2024,0.00022103447151963326,11
+W4399552239,A review on the applications of graph neural networks in materials science at the atomic scale,2024,0.00021351481503906547,11
+W4360831816,FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference,2023,5.251149735139944e-05,11
+W2995215286,Integrate multi-omics data with biological interaction networks using Multi-view Factorization AutoEncoder (MAE),2019,4.873395561405907e-05,11
+W3206743063,I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization,2021,3.6396852987598524e-06,11

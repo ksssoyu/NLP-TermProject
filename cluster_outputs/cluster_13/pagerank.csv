@@ -1,0 +1,490 @@
+id,title,year,pagerank,cluster
+W2755802490,Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs,2017,0.04772905133039496,13
+W2950568498,An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data,2017,0.04430358056428402,13
+W846669277,Differential Recurrent Neural Networks for Action Recognition,2015,0.04177656379964479,13
+W2964076328,Text2Action: Generative Adversarial Synthesis from Language to Action,2018,0.03266207245396592,13
+W2799020610,Neural Sign Language Translation,2018,0.025999681923650084,13
+W2759302818,SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition,2017,0.025580275933599007,13
+W2963165299,Structural-RNN: Deep Learning on Spatio-Temporal Graphs,2016,0.020942864748042793,13
+W2963076818,Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition,2018,0.018001390094844374,13
+W2526041356,Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks,2016,0.016984157702127876,13
+W3098538019,A New Representation of Skeleton Sequences for 3D Action Recognition,2017,0.016933505211660187,13
+W2964253156,Video-Based Sign Language Recognition Without Temporal Segmentation,2018,0.014380448804818272,13
+W2898716605,A novel attention-based hybrid CNN-RNN architecture for sEMG-based gesture recognition,2018,0.01246736558115684,13
+W2964203186,On Human Motion Prediction Using Recurrent Neural Networks,2017,0.010884336333567678,13
+W2603861860,View Adaptive Recurrent Neural Networks for High Performance Human Action Recognition from Skeleton Data,2017,0.010798804971546574,13
+W2613570903,Interpretable 3D Human Action Analysis with Temporal Convolutional Networks,2017,0.01028151556559247,13
+W2941870244,Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos,2019,0.00980628470623234,13
+W2964145825,Learning convolutional neural networks for graphs,2016,0.00910832170265219,13
+W2554408731,Skeleton Optical Spectra-Based Action Recognition Using Convolutional Neural Networks,2016,0.008964523179457212,13
+W2788334925,Hierarchical LSTM for Sign Language Translation,2018,0.008553995952770472,13
+W2948139159,Iterative Alignment Network for Continuous Sign Language Recognition,2019,0.008483414915258489,13
+W2751841288,Skeleton-based action recognition with convolutional neural networks,2017,0.008357558808356223,13
+W2736334449,Global Context-Aware Attention LSTM Networks for 3D Action Recognition,2017,0.008198191929764337,13
+W2948058585,Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition,2019,0.007841190357200826,13
+W3034765865,Sign Language Transformers: Joint End-to-End Sign Language Recognition and Translation,2020,0.0072010063114339665,13
+W2963177663,RGB-D-based human motion recognition with deep learning: A survey,2018,0.006975168504458094,13
+W2903314716,MS-ASL: A Large-Scale Data Set and Benchmark for Understanding American Sign Language.,2018,0.006685721601311941,13
+W2954798773,Neural Sign Language Translation Based on Human Keypoint Estimation,2019,0.006595871321006471,13
+W2940457086,Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition,2019,0.006342983711346544,13
+W2997573805,Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks,2020,0.006298732886387621,13
+W2795089319,3D Human Pose Estimation in the Wild by Adversarial Learning,2018,0.005908513453273864,13
+W2309561466,Deep Multimodal Feature Analysis for Action Recognition in RGB+D Videos,2017,0.0056122356145808985,13
+W2963465695,An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition,2019,0.005247808576991995,13
+W3009828227,Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison,2020,0.0051505371072439075,13
+W2963369114,Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation,2018,0.005089996021443116,13
+W3153832461,Action-Conditioned 3D Human Motion Synthesis with Transformer VAE,2021,0.005041610940842992,13
+W3123784868,Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks,2017,0.004565448552904925,13
+W2997931247,Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition,2020,0.004478549136904619,13
+W2798644314,Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition,2018,0.004355875304930432,13
+W3103858256,Joint Distance Maps Based Action Recognition With Convolutional Neural Networks,2017,0.004340905573220584,13
+W2981531407,"Sign Language Recognition, Generation, and Translation",2019,0.004312928720444784,13
+W2591961134,Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks,2017,0.004297076437234896,13
+W2606517404,Learning Human Motion Models for Long-Term Predictions,2017,0.004203273366370021,13
+W2606294640,Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks,2017,0.003846256218000291,13
+W2966344125,Dynamic Pseudo Label Decoding for Continuous Sign Language Recognition,2019,0.0037961602988633423,13
+W2963548793,Convolutional Sequence to Sequence Model for Human Dynamics,2018,0.0037697673226098093,13
+W2962896489,3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training,2019,0.0036923544294466116,13
+W2963282966,View Adaptive Neural Networks for High Performance Skeleton-Based Human Action Recognition,2019,0.0035284811079033516,13
+W3092336341,Skeleton-Based Action Recognition With Multi-Stream Adaptive Graph Convolutional Networks,2020,0.0034000056162361574,13
+W3109271037,Fully Convolutional Networks for Continuous Sign Language Recognition,2020,0.0033498327156192055,13
+W3034999503,Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition,2020,0.0031028553415731017,13
+W2799211965,Recognizing Human Actions as the Evolution of Pose Estimation Maps,2018,0.003091952740906668,13
+W3098612954,Semantic Graph Convolutional Networks for 3D Human Pose Regression,2019,0.003080117986502616,13
+W3092363664,Stochastic Fine-Grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition,2020,0.002898168999381985,13
+W3126451397,Multi-channel Transformers for Multi-articulatory Sign Language Translation,2020,0.0028881357182308585,13
+W2793547936,Learning Clip Representations for Skeleton-Based 3D Action Recognition,2018,0.0028497531200836657,13
+W2607707631,Skeleton based action recognition using translation-scale invariant image mapping and multi-scale deep CNN,2017,0.002830758670107391,13
+W3127711005,Neural Sign Language Translation by Learning Tokenization,2020,0.0027751321157939344,13
+W2983925976,Learning Trajectory Dependencies for Human Motion Prediction,2019,0.0027645795410219604,13
+W3107972479,Progressive Transformers for End-to-End Sign Language Production,2020,0.002750995492621684,13
+W2779380177,RPAN: An End-to-End Recurrent Pose-Attention Network for Action Recognition in Videos,2017,0.0027401059095727483,13
+W2963065614,Action-Agnostic Human Pose Forecasting,2019,0.0026993091868141926,13
+W3173290664,Improving Sign Language Translation with Monolingual Data by Sign Back-Translation,2021,0.00267425971392294,13
+W3147467731,Visual Alignment Constraint for Continuous Sign Language Recognition,2021,0.002607132745991541,13
+W3133226919,Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation,2021,0.0025670835803786583,13
+W3034548564,PREDICT &amp; CLUSTER: Unsupervised Skeleton Based Action Recognition,2020,0.002530919506741869,13
+W2964347220,Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN,2018,0.0024999891921745343,13
+W3144253442,Synthesis of Compositional Animations from Textual Descriptions,2021,0.002442173761296426,13
+W3114337930,Better Sign Language Translation with STMC-Transformer,2020,0.0023915825242129423,13
+W3108425892,BSL-1K: Scaling Up Co-articulated Sign Language Recognition Using Mouthing Cues,2020,0.002367208235445671,13
+W4312910375,C<sup>2</sup>SLR: Consistency-enhanced Continuous Sign Language Recognition,2022,0.0023630358666475106,13
+W3169413442,3D Human Action Representation Learning via Cross-View Consistency Pursuit,2021,0.0023085317430514966,13
+W3105195350,MS2L,2020,0.002308472730878448,13
+W3015075688,Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation,2020,0.002301583440508944,13
+W3108496296,Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition,2020,0.002285965717301322,13
+W2809583854,DeepInf,2018,0.002282242282855251,13
+W2970756316,Joey NMT: A Minimalist NMT Toolkit for Novices,2019,0.0022321884426835807,13
+W3113067059,Skeleton-based action recognition via spatial and temporal transformer networks,2021,0.0022086119113157894,13
+W2899936784,Skeleton-Based Action Recognition With Gated Convolutional Neural Networks,2018,0.002206304204439186,13
+W2962824791,Depth Pooling Based Large-Scale 3-D Action Recognition With Convolutional Neural Networks,2018,0.002153109426373646,13
+W3034423770,Context-Aware Human Motion Prediction,2020,0.0021487520739418673,13
+W3203359574,Self-Mutual Distillation Learning for Continuous Sign Language Recognition,2021,0.0020890127407625406,13
+W2966210862,Spatio-Temporal Graph Routing for Skeleton-Based Action Recognition,2019,0.0020644654253824985,13
+W3156509901,Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition,2021,0.002037858357169322,13
+W2966395094,SF-Net: Structured Feature Network for Continuous Sign Language Recognition,2019,0.001997233836580063,13
+W2996835428,Learning Graph Convolutional Network for Skeleton-Based Human Action Recognition by Neural Searching,2020,0.0019603251722977075,13
+W3046952127,Sign Language Recognition: A Deep Survey,2020,0.0019448491322212919,13
+W3168702146,How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language,2021,0.0019291893497007527,13
+W2784435047,Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition,2018,0.001902204974728932,13
+W3046544838,AUTSL: A Large Scale Multi-Modal Turkish Sign Language Dataset and Baseline Methods,2020,0.0018833492921415157,13
+W4312396348,A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation,2022,0.0018811591784735917,13
+W3184215204,Skeleton Aware Multi-modal Sign Language Recognition,2021,0.001870401596231976,13
+W3093411241,Dynamic GCN: Context-enriched Topology Learning for Skeleton-based Action Recognition,2020,0.0018667668915168878,13
+W3008273026,A Multi-Stream Graph Convolutional Networks-Hidden Conditional Random Field Model for Skeleton-Based Action Recognition,2020,0.0018593625265440907,13
+W3185273257,Constructing Stronger and Faster Baselines for Skeleton-Based Action Recognition,2022,0.0018289321275713542,13
+W2595328592,Multimodal Gesture Recognition Using 3-D Convolution and Convolutional LSTM,2017,0.0018086017508806111,13
+W2963901033,Human Action Recognition: Pose-Based Attention Draws Focus to Hands,2017,0.0017992402412391022,13
+W2968458594,"Sign Language Recognition, Generation, and Translation: An Interdisciplinary Perspective",2019,0.001784967803717986,13
+W2777985171,Convolutional Neural Networks and Long Short-Term Memory for skeleton-based human activity and hand gesture recognition,2017,0.0017752878183494689,13
+W3139022918,A Comprehensive Study on Deep Learning-Based Methods for Sign Language Recognition,2021,0.001758830687991932,13
+W3097623574,A Comprehensive Study of Weight Sharing in Graph Networks for 3D Human Pose Estimation,2020,0.0016948295413501684,13
+W3126541466,Anatomy-Aware 3D Human Pose Estimation With Bone-Based Pose Decomposition,2021,0.0016750999500090495,13
+W3004835408,Skeleton-based Chinese sign language recognition and generation for bidirectional communication between deaf and hearing people,2020,0.001672713766666735,13
+W2794314470,Deep attention network for joint hand gesture localization and recognition using static RGB-D images,2018,0.0016410615465839765,13
+W2972073716,An experimental study on upper limb position invariant EMG signal classification based on deep neural network,2019,0.0016335858855217318,13
+W3036644940,A Spatio-temporal Transformer for 3D Human Motion Prediction,2021,0.0016252055309267633,13
+W4297981470,TEMOS: Generating Diverse Human Motions from Textual Descriptions,2022,0.0016212668721522269,13
+W2792060773,Deep Learning for Hand Gesture Recognition on Skeletal Data,2018,0.001618657896308846,13
+W2963273301,Glimpse Clouds: Human Activity Recognition from Unstructured Feature Points,2018,0.001617228397870972,13
+W3186548651,A Transfer Learning Model for Gesture Recognition Based on the Deep Features Extracted by CNN,2021,0.0016091566826699813,13
+W3173811519,Graph Stacked Hourglass Networks for 3D Human Pose Estimation,2021,0.0016077303228377291,13
+W3093061880,TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation,2020,0.0016059771054989366,13
+W3043248516,Hand Gesture Recognition based on Surface Electromyography using Convolutional Neural Network with Transfer Learning Method,2020,0.0015688445239878642,13
+W3135189994,Pose-based Sign Language Recognition using GCN and BERT,2021,0.0015653307572040778,13
+W2797382244,Action Recognition With Spatio–Temporal Visual Attention on Skeleton Image Sequences,2018,0.001562522668035677,13
+W3109717189,History Repeats Itself: Human Motion Prediction via Motion Attention,2020,0.0015580454669792232,13
+W4312635677,Generating Diverse and Natural 3D Human Motions from Text,2022,0.0015487421749725743,13
+W2975231468,Hierarchical Recurrent Deep Fusion Using Adaptive Clip Summarization for Sign Language Translation,2019,0.0015257515562488288,13
+W3080888993,Quantitative Survey of the State of the Art in Sign Language Recognition.,2020,0.0015148269515548683,13
+W4386071548,Continuous Sign Language Recognition with Correlation Network,2023,0.0014867859141653658,13
+W4225557002,Exploiting Temporal Contexts With Strided Transformer for 3D Human Pose Estimation,2022,0.0014630631459080405,13
+W3163203114,"Advances in machine translation for sign language: approaches, limitations, and challenges",2021,0.0014609286417299442,13
+W3035180180,FineGym: A Hierarchical Video Dataset for Fine-Grained Action Understanding,2020,0.0014549662475068135,13
+W2966907001,EMG-based online classification of gestures with recurrent neural networks,2019,0.0014280486582327018,13
+W2885940446,Early Action Prediction by Soft Regression,2018,0.0014229490172541306,13
+W3101151469,Learning Progressive Joint Propagation for Human Motion Prediction,2020,0.0014158720584134653,13
+W4312417903,MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video,2022,0.0014060741633966593,13
+W3047772167,Richly Activated Graph Convolutional Network for Robust Skeleton-Based Action Recognition,2020,0.0014014475649385657,13
+W3016127821,XceptionTime: Independent Time-Window Xceptiontime Architecture for Hand Gesture Classification,2020,0.0013978543421180791,13
+W3049455300,Spatial Temporal Transformer Network for Skeleton-Based Action Recognition,2021,0.0013818963606413853,13
+W3009946848,Self-Attention Network for Skeleton-based Human Action Recognition,2020,0.0013647362689725526,13
+W3197240660,Artificial Intelligence Technologies for Sign Language,2021,0.0013596725104063497,13
+W3033228789,Semantic Boundary Detection With Reinforcement Learning for Continuous Sign Language Recognition,2020,0.001350970147293411,13
+W4312249545,MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation,2022,0.0013483219191646203,13
+W3093698307,An Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences,2020,0.001279600419284267,13
+W3153750463,Interpretation of Swedish Sign Language Using Convolutional Neural Networks and Transfer Learning,2021,0.0012745758746686682,13
+W4382240684,Self-Emphasizing Network for Continuous Sign Language Recognition,2023,0.00126936228206505,13
+W3103017991,Everybody Sign Now: Translating Spoken Language to Photo Realistic Sign Language Video,2020,0.0012621044916830135,13
+W3024468270,Continuous Sign Language Recognition Through Cross-Modal Alignment of Video and Text Embeddings in a Joint-Latent Space,2020,0.0012611038135005284,13
+W3161569725,Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks,2021,0.0012511801365782996,13
+W4321113904,Learnable graph convolutional network and feature fusion for multi-view learning,2023,0.0012387161980137373,13
+W4230527737,Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives,2021,0.0012254329352606144,13
+W4296438114,Fusing Higher-Order Features in Graph Neural Networks for Skeleton-Based Action Recognition,2022,0.0012201000357142287,13
+W4297989763,TEACH: Temporal Action Composition for 3D Humans,2022,0.0012174496316654268,13
+W2991376513,SkeleMotion: A New Representation of Skeleton Joint Sequences based on Motion Information for 3D Action Recognition,2019,0.0012132951098280675,13
+W4212986483,Sign Pose-based Transformer for Word-level Sign Language Recognition,2022,0.0012122117108334016,13
+W3204447181,Graph-Based Multimodal Sequential Embedding for Sign Language Translation,2021,0.0012113663082826867,13
+W4386065518,CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment,2023,0.0012050328591429,13
+W2966450377,A Hybrid Deep Learning Model for Human Activity Recognition Using Multimodal Body Sensing Data,2019,0.0011959544543828442,13
+W2604906478,Pose-conditioned Spatio-Temporal Attention for Human Action Recognition,2017,0.0011956341564359715,13
+W3032672158,A Novel Natural Language Processing (NLP)–Based Machine Translation Model for English to Pakistan Sign Language Translation,2020,0.0011793095436993168,13
+W4312592476,PoseGPT: Quantization-Based 3D Human Motion Generation and Forecasting,2022,0.001172475852998494,13
+W4386076650,Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition,2023,0.0011668886246691541,13
+W3202747033,SignBERT: Pre-Training of Hand-Model-Aware Representation for Sign Language Recognition,2021,0.0011652164615183177,13
+W3093751392,Learning Multi-View Interactional Skeleton Graph for Action Recognition,2020,0.0011605476044654276,13
+W3175285983,Including Signed Languages in Natural Language Processing,2021,0.0011477589998014474,13
+W2999237480,"Make Skeleton-based Action Recognition Model Smaller, Faster and Better",2019,0.00114295373749738,13
+W4200634815,Contrastive Learning from Extremely Augmented Skeleton Sequences for Self-Supervised Action Recognition,2022,0.0011389382641202807,13
+W4226079235,VPN++: Rethinking Video-Pose Embeddings for Understanding Activities of Daily Living,2021,0.0011337141080413826,13
+W3082828314,Hand pose aware multimodal isolated sign language recognition,2020,0.0011311443324657597,13
+W3008159994,High-Density Surface EMG-Based Gesture Recognition Using a 3D Convolutional Neural Network,2020,0.0011213695987348795,13
+W2803158089,Beyond Joints: Learning Representations From Primitive Geometries for Skeleton-Based Action Recognition and Detection,2018,0.00111740990007159,13
+W4200633254,Topology-Aware Convolutional Neural Network for Efficient Skeleton-Based Action Recognition,2022,0.0011166928090533173,13
+W3215030504,Feedback Graph Convolutional Network for Skeleton-Based Action Recognition,2021,0.001111764135103715,13
+W3175585044,Sign Language Production: A Review,2021,0.0010881484261840069,13
+W2981578854,Hallucinating IDT Descriptors and I3D Optical Flow Features for Action Recognition With CNNs,2019,0.0010864290070459813,13
+W4304944821,A survey on Sign Language machine translation,2022,0.0010834277947003564,13
+W3196466542,PiSLTRc: Position-Informed Sign Language Transformer With Content-Aware Convolution,2021,0.0010771195157367975,13
+W4367047590,SignBERT+: Hand-Model-Aware Self-Supervised Pre-Training for Sign Language Understanding,2023,0.0010741630397793859,13
+W3186320423,Machine translation from text to sign language: a systematic review,2021,0.001068953142116625,13
+W3185538031,Global-Local Enhancement Network for NMF-Aware Sign Language Recognition,2021,0.001067776723249037,13
+W3170039146,Hierarchical Transformer: Unsupervised Representation Learning for Skeleton-Based Human Action Recognition,2021,0.0010581700111564317,13
+W3014096080,BosphorusSign22k Sign Language Recognition Dataset,2020,0.0010537433756285341,13
+W3120483210,Phonologically-Meaningful Subunits for Deep Learning-Based Sign Language Recognition,2020,0.001046590129469136,13
+W4312585707,Diverse Human Motion Prediction Guided by Multi-level Spatial-Temporal Anchors,2022,0.001044246844026139,13
+W3120017044,Hand Pose Guided 3D Pooling for Word-level Sign Language Recognition,2021,0.0010419039626789126,13
+W3132521062,Real-time isolated hand sign language recognition using deep networks and SVD,2021,0.0010326662651014814,13
+W4200526174,Transflower,2021,0.0010317592854104372,13
+W2917819557,A Comprehensive Survey of Vision-Based Human Action Recognition Methods,2019,0.0010296277289764178,13
+W3158336705,Content4All Open Research Sign Language Translation Datasets,2021,0.0010295187071193337,13
+W3024060113,Understanding vision-based continuous sign language recognition,2020,0.0010279224297283147,13
+W4312841534,Hierarchically Self-supervised Transformer for Human Skeleton Representation Learning,2022,0.0010211083213372578,13
+W4312675926,Global-Local Motion Transformer for Unsupervised Skeleton-Based Action Learning,2022,0.0010211083213372578,13
+W2993496908,Skeleton Image Representation for 3D Action Recognition Based on Tree Structure and Reference Joints,2019,0.001020564249554932,13
+W2973511309,Graph Edge Convolutional Neural Networks for Skeleton-Based Action Recognition,2019,0.0010177566638196358,13
+W3207857704,Pose Transformers (POTR): Human Motion Prediction with Non-Autoregressive Transformers,2021,0.0010173621800170524,13
+W2914992758,Spatial-Temporal Attention Res-TCN for Skeleton-Based Dynamic Hand Gesture Recognition,2019,0.0010046395338026192,13
+W3111233601,"Watch, Read and Lookup: Learning to Spot Signs from Multiple Supervisors",2021,0.0010037056125698062,13
+W3194968841,Enhancing Neural Sign Language Translation by highlighting the facial expression information,2021,0.001000848249554982,13
+W3206600927,OpenHands: Making Sign Language Recognition Accessible with Pose-based Pretrained Models across Languages,2022,0.0009898519941860745,13
+W3119171349,JOLO-GCN: Mining Joint-Centered Light-Weight Information for Skeleton-Based Action Recognition,2021,0.00098648706725598,13
+W3034213511,3DV: 3D Dynamic Voxel for Action Recognition in Depth Video,2020,0.00098598135197104,13
+W2962850006,MFAS: Multimodal Fusion Architecture Search,2019,0.0009842091199957757,13
+W3157280810,FS-HGR: Few-Shot Learning for Hand Gesture Recognition via Electromyography,2021,0.000980892884072649,13
+W3143289910,Continuous Sign Language Recognition through a Context-Aware Generative Adversarial Network,2021,0.0009791898642641014,13
+W4224257285,Static and Dynamic Isolated Indian and Russian Sign Language Recognition with Spatial and Temporal Feature Detection Using Hybrid Neural Network,2022,0.0009761879907334409,13
+W3211614808,Sign Language Translation with Hierarchical Spatio-Temporal Graph Neural Network,2022,0.0009742351465945186,13
+W2884286326,Attention-Based Multiview Re-Observation Fusion Network for Skeletal Action Recognition,2018,0.0009715685229512326,13
+W4285216227,X-Invariant Contrastive Augmentation and Representation Learning for Semi-Supervised Skeleton-Based Action Recognition,2022,0.0009690991215879874,13
+W3137592945,A spatial attentive and temporal dilated (SATD) GCN for skeleton‐based action recognition,2021,0.0009611861375317548,13
+W4390872365,HumanMAC: Masked Motion Completion for Human Motion Prediction,2023,0.0009541181748751425,13
+W4313205909,Fractional Fourier and time domain recurrence plot fusion combining convolutional neural network for bearing fault diagnosis under variable working conditions,2022,0.0009541181748751425,13
+W4297347800,LSTM Recurrent Neural Network for Hand Gesture Recognition Using EMG Signals,2022,0.0009541181748751425,13
+W3202716970,Modulated Graph Convolutional Network for 3D Human Pose Estimation,2021,0.0009527849160137975,13
+W3170431411,Predictively encoded graph convolutional network for noise-robust skeleton-based action recognition,2021,0.0009449904766301187,13
+W4386076575,Gloss Attention for Gloss-free Sign Language Translation,2023,0.0009418062847643706,13
+W4312878209,MLSLT: Towards Multilingual Sign Language Translation,2022,0.0009362677674100827,13
+W4386065445,Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition,2023,0.0009343526857956268,13
+W3150389638,TRACK: A New Method from a Re-examination of Deep Architectures for Head Motion Prediction in 360-degree Videos,2021,0.000934287307442136,13
+W4386065571,3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition,2023,0.0009301072611988517,13
+W3109174848,Multitask Non-Autoregressive Model for Human Motion Prediction,2020,0.0009293185747102935,13
+W3205898195,STST: Spatial-Temporal Specialized Transformer for Skeleton-based Action Recognition,2021,0.000923848248233094,13
+W3206301866,Towards Fast and High-Quality Sign Language Production,2021,0.0009190173410246047,13
+W4205947138,Graph transformer network with temporal kernel attention for skeleton-based action recognition,2022,0.0009089141764744835,13
+W3093441220,Spatio-Temporal Inception Graph Convolutional Networks for Skeleton-Based Action Recognition,2020,0.0009030758936419365,13
+W4322746969,Focal and Global Spatial-Temporal Transformer for Skeleton-Based Action Recognition,2023,0.0009010789580476448,13
+W4312262410,Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production,2022,0.0008978765781276844,13
+W3048477139,A New Framework for Smartphone Sensor-Based Human Activity Recognition Using Graph Neural Network,2020,0.0008931328842025864,13
+W3163487808,"Gesture Recognition Using Surface Electromyography and Deep Learning for Prostheses Hand: State-of-the-Art, Challenges, and Future",2021,0.0008931328842025864,13
+W4390873117,ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation,2023,0.0008926151684217676,13
+W4390873767,Sign Language Translation with Iterative Prototype,2023,0.0008895900049539123,13
+W3121052081,Spatiotemporal Co-Attention Recurrent Neural Networks for Human-Skeleton Motion Prediction,2021,0.0008848257631586491,13
+W2978927732,Symbiotic Graph Neural Networks for 3D Skeleton-Based Human Action Recognition and Motion Prediction,2021,0.0008827300263521777,13
+W4386160289,Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Action Generation,2023,0.0008807907524079101,13
+W3088102655,"A survey on video-based Human Action Recognition: recent updates, datasets, challenges, and applications",2020,0.0008725272860227,13
+W3033755024,A novel hybrid bidirectional unidirectional LSTM network for dynamic hand gesture recognition with Leap Motion,2020,0.0008723096573262903,13
+W3028504508,Arabic Sign Language Recognition and Generating Arabic Speech Using Convolutional Neural Network,2020,0.000871605926704979,13
+W3168718178,Point 4D Transformer Networks for Spatio-Temporal Modeling in Point Cloud Videos,2021,0.0008681917776115029,13
+W4319300161,Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers,2023,0.0008652032920599974,13
+W4205517074,Towards Zero-Shot Sign Language Recognition,2022,0.0008627261306119276,13
+W3160967194,Graph Convolutional Neural Network for Human Action Recognition: A Comprehensive Survey,2021,0.0008620048340951186,13
+W4386075496,Natural Language-Assisted Sign Language Recognition,2023,0.0008617475662747737,13
+W4362623843,Multi-cue temporal modeling for skeleton-based sign language recognition,2023,0.0008606257926133236,13
+W2995086119,Robust Real-Time Embedded EMG Recognition Framework Using Temporal Convolutional Networks on a Multicore IoT Processor,2019,0.0008593474086076235,13
+W4319299814,Back to MLP: A Simple Baseline for Human Motion Prediction,2023,0.0008592521671622775,13
+W3182659197,Isolated Sign Recognition from RGB Video using Pose Flow and Self-Attention,2021,0.0008573542279909284,13
+W4313185874,CMD: Self-supervised 3D Action Representation Learning with Cross-Modal Mutual Distillation,2022,0.0008553529480248581,13
+W4386071549,EqMotion: Equivariant Multi-Agent Motion Prediction with Invariant Interaction Reasoning,2023,0.0008545088667766343,13
+W2974686944,Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition,2019,0.0008542821407539854,13
+W4382240124,Hierarchical Consistent Contrastive Learning for Skeleton-Based Action Recognition with Growing Augmentations,2023,0.0008538417909797272,13
+W3165978997,Graph2Net: Perceptually-Enriched Graph Learning for Skeleton-Based Action Recognition,2021,0.0008512591257525829,13
+W4393171264,Surface EMG-Based Intersession/Intersubject Gesture Recognition by Leveraging Lightweight All-ConvNet and Transfer Learning,2024,0.0008502286209670625,13
+W4385567246,Open-Domain Sign Language Translation Learned from Online Video,2022,0.0008488759417138471,13
+W4390872326,Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining,2023,0.0008460114117359398,13
+W4312621197,Sign Language Video Retrieval with Free-Form Textual Queries,2022,0.0008455007204892765,13
+W2944843851,Encoding Pose Features to Images With Data Augmentation for 3-D Action Recognition,2019,0.0008435577153004696,13
+W3138674438,Deep learning‐based action recognition with 3D skeleton: A survey,2021,0.000841840297033355,13
+W2952200000,A Neural Network Based on SPD Manifold Learning for Skeleton-Based Hand Gesture Recognition,2019,0.0008416963869071834,13
+W4390874423,MotionBERT: A Unified Perspective on Learning Human Motion Representations,2023,0.0008415966126040935,13
+W4285792148,A comprehensive survey and taxonomy of sign language research,2022,0.0008412977287009379,13
+W4390873469,CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition,2023,0.0008380654720592314,13
+W4362586155,Machine translation from signed to spoken languages: state of the art and challenges,2023,0.0008345351142899003,13
+W4282943820,MMNet: A Model-based Multimodal Network for Human Action Recognition in RGB-D Videos,2022,0.0008297480896027942,13
+W4372260090,A Token-Level Contrastive Framework for Sign Language Translation,2023,0.0008257938550766821,13
+W4313476720,Multi-Semantic Discriminative Feature Learning for Sign Gesture Recognition Using Hybrid Deep Neural Architecture,2023,0.0008257082784539457,13
+W4206357202,SignBERT: A BERT-Based Deep Learning Framework for Continuous Sign Language Recognition,2021,0.0008203897303998118,13
+W3125955391,Hypergraph Neural Network for Skeleton-Based Action Recognition,2021,0.0008194785899249908,13
+W4386083126,PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation,2023,0.0008188417119287455,13
+W2893511508,A review of state-of-the-art techniques for abnormal human activity recognition,2018,0.0008186922833289958,13
+W4281710609,Deepsign: Sign Language Detection and Recognition Using Deep Learning,2022,0.0008168414813612321,13
+W3028461828,Deep back propagation–long short-term memory network based upper-limb sEMG signal classification for automated rehabilitation,2020,0.0008118191633058452,13
+W3090906875,Locomo-Net: A Low -Complex Deep Learning Framework for sEMG-Based Hand Movement Recognition for Prosthetic Control,2020,0.0008118191633058452,13
+W4387609214,TraHGR: Transformer for Hand Gesture Recognition via Electromyography,2023,0.0008118191633058452,13
+W4210342212,Sentence2SignGesture: a hybrid neural machine translation network for sign language video generation,2022,0.0008106556820257288,13
+W4221166048,Towards To-a-T Spatio-Temporal Focus for Skeleton-Based Action Recognition,2022,0.0008075418084495489,13
+W3162420734,Boundary-Adaptive Encoder With Attention Method for Chinese Sign Language Recognition,2021,0.0008026944076245933,13
+W3217235291,A comparative review of graph convolutional networks for human skeleton-based action recognition,2021,0.0008017205237751207,13
+W4386076499,Unified Pose Sequence Modeling,2023,0.0007986838699302177,13
+W4312936899,TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts,2022,0.0007977491607089026,13
+W4312973876,"Development of an End-to-End Deep Learning Framework for Sign Language Recognition, Translation, and Video Generation",2022,0.0007952076972282976,13
+W4223990091,Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation,2022,0.0007949834780535537,13
+W4312638762,Motion-Driven Spatial and Temporal Adaptive High-Resolution Graph Convolutional Networks for Skeleton-Based Action Recognition,2022,0.0007914907330816598,13
+W4389505826,A survey on recent advances in Sign Language Production,2023,0.0007896837615061767,13
+W4386065362,Learning Discriminative Representations for Skeleton Based Action Recognition,2023,0.0007865357062434813,13
+W3212618454,Efficient Spatio-Temporal Contrastive Learning for Skeleton-Based 3-D Action Recognition,2021,0.0007858493988489809,13
+W4386066788,CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning,2023,0.0007848257741563905,13
+W4205831148,MTT: Multi-Scale Temporal Transformer for Skeleton-Based Action Recognition,2022,0.000781254456225364,13
+W4389523825,Cross-modality Data Augmentation for End-to-End Sign Language Translation,2023,0.0007798326106807205,13
+W4210359132,Sign Language Recognition Based on R(2+1)D With Spatial–Temporal–Channel Attention,2022,0.0007772457182382156,13
+W4221152513,Joint-Bone Fusion Graph Convolutional Network for Semi-Supervised Skeleton Action Recognition,2022,0.0007764173931830186,13
+W4313068951,GraFormer: Graph-oriented Transformer for 3D Pose Estimation,2022,0.0007719051538666384,13
+W4399460121,Dual-stage temporal perception network for continuous sign language recognition,2024,0.0007712855054648937,13
+W4382240029,BEST: BERT Pre-training for Sign Language Recognition with Coupling Tokenization,2023,0.00076960917141548,13
+W2990525852,Spatial Residual Layer and Dense Connection Block Enhanced Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition,2019,0.0007691812425047247,13
+W4382459184,Hierarchical Contrast for Unsupervised Skeleton-Based Action Representation Learning,2023,0.0007670966168126374,13
+W4385768200,Part Aware Contrastive Learning for Self-Supervised Action Recognition,2023,0.0007670966168126374,13
+W4390873166,GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human Pose Estimation from Monocular Video,2023,0.0007670966168126374,13
+W4393196385,InterGen: Diffusion-Based Multi-human Motion Generation Under Complex Interactions,2024,0.0007643861594494127,13
+W4205876245,Skeleton Motion Recognition Based on Multi-Scale Deep Spatio-Temporal Features,2022,0.0007638196459075863,13
+W2769039400,Learning Spatiotemporal Features Using 3DCNN and Convolutional LSTM for Gesture Recognition,2017,0.0007635547340094507,13
+W4386075829,Ham2Pose: Animating Sign Language Notation into Pose Sequences,2023,0.0007626995041809736,13
+W4304083983,Uncertainty-Aware 3D Human Pose Estimation from Monocular Video,2022,0.0007619221073010265,13
+W4318940682,Spatial–temporal transformer for end-to-end sign language recognition,2023,0.0007612160338783897,13
+W4382240189,Self-Supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences,2023,0.000760712092657784,13
+W4309368547,Multi-Granularity Anchor-Contrastive Representation Learning for Semi-Supervised Skeleton-Based Action Recognition,2022,0.000760125428085634,13
+W3044907535,A Survey on Artificial Intelligence in Chinese Sign Language Recognition,2020,0.0007580206853840114,13
+W4389692290,Continuous Sign Language Recognition for Hearing-Impaired Consumer Communication via Self-Guidance Network,2023,0.0007579353920416777,13
+W4321375307,Audio-Visual Speech and Gesture Recognition by Sensors of Mobile Devices,2023,0.0007563974430104346,13
+W4324135644,Continual spatio-temporal graph convolutional networks,2023,0.0007548995586781262,13
+W3188599010,Isolated Sign Language Recognition with Multi-Scale Spatial-Temporal Graph Convolutional Networks,2021,0.0007544954642664847,13
+W3035385851,HOPE-Net: A Graph-Based Model for Hand-Object Pose Estimation,2020,0.0007515505184366693,13
+W4319300817,Modality Mixer for Multi-modal Action Recognition,2023,0.0007508338726332892,13
+W4387092584,Skeleton-Based Action Recognition With Select-Assemble-Normalize Graph Convolutional Networks,2023,0.0007508338726332892,13
+W4404002871,A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars,2024,0.0007508338726332892,13
+W4393170627,DeGCN: Deformable Graph Convolutional Networks for Skeleton-Based Action Recognition,2024,0.0007508338726332892,13
+W4206744013,Sign Language Gloss Translation using Deep Learning Models,2021,0.0007436591325541649,13
+W4385571721,Considerations for meaningful sign language machine translation based on glosses,2023,0.0007413557618454745,13
+W4212877687,Sign Language Recognition System Using TensorFlow Object Detection API,2022,0.0007386803540196842,13
+W4225013323,Motif-GCNs With Local and Non-Local Temporal Blocks for Skeleton-Based Action Recognition,2022,0.000738636814498778,13
+W3208014149,Incorporating Relative Position Information in Transformer-Based Sign Language Recognition and Translation,2021,0.0007364843924750407,13
+W4390871852,Generative Action Description Prompts for Skeleton-based Action Recognition,2023,0.0007360723048397269,13
+W3198876595,"Deep Learning for Sign Language Recognition: Current Techniques, Benchmarks, and Open Issues",2021,0.0007327946137470267,13
+W3176441955,Fingerspelling Detection in American Sign Language,2021,0.000732708855788095,13
+W3195437714,Evaluating the Immediate Applicability of Pose Estimation for Sign Language Recognition,2021,0.0007277854805073893,13
+W4206004984,Enhanced discriminative graph convolutional network with adaptive temporal modelling for skeleton-based action recognition,2022,0.0007258277176048289,13
+W4391093376,IIP-Transformer: Intra-Inter-Part Transformer for Skeleton-Based Action Recognition,2023,0.0007253664629184067,13
+W4390873551,C<sup>2</sup>ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition,2023,0.0007250845276826544,13
+W4321488262,Skeleton-based Human Action Recognition via Large-kernel Attention Graph Convolutional Network,2023,0.0007199835531403022,13
+W4376604944,Action Capsules: Human skeleton action recognition,2023,0.0007190612890977106,13
+W4387963302,TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis,2023,0.0007169531555929803,13
+W4310443750,Motion In-Betweening via Two-Stage Transformers,2022,0.0007169531555929803,13
+W4399167881,Gloss Prior Guided Visual Feature Learning for Continuous Sign Language Recognition,2024,0.0007169531555929803,13
+W4390871931,Masked Motion Predictors are Strong 3D Action Representation Learners,2023,0.0007133044629886393,13
+W4386108371,Learning Representations by Contrastive Spatio-Temporal Clustering for Skeleton-Based Action Recognition,2023,0.0007133044629886393,13
+W4390873156,SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training,2023,0.0007133044629886393,13
+W4395456691,Multiscale temporal network for continuous sign language recognition,2024,0.0007132410074650855,13
+W3140300872,Arabic Sign Language Recognition System Using 2D Hands and Body Skeleton Data,2021,0.0007131116561842738,13
+W3205717647,A Graph Attention Spatio-temporal Convolutional Network for 3D Human Pose Estimation in Video,2021,0.0007113127366284759,13
+W4402753616,Neural Sign Actors: A diffusion model for 3D sign language production from text,2024,0.0007101770121849184,13
+W4211140127,"Attitudes Toward Signing Avatars Vary Depending on Hearing Status, Age of Signed Language Acquisition, and Avatar Type",2022,0.0007101770121849184,13
+W3155346658,3D Avatar Approach for Continuous Sign Movement Using Speech/Text,2021,0.0007093807279825121,13
+W4401584755,Continuous Sign Language Recognition Based on Cross-Resolution Knowledge Distillation,2024,0.0007074665548216937,13
+W4400369957,Adversarial autoencoder for continuous sign language recognition,2024,0.0007074665548216937,13
+W4392904699,Slowfast Network for Continuous Sign Language Recognition,2024,0.0007074665548216937,13
+W2529163075,Temporal Action Localization with Pyramid of Score Distribution Features,2016,0.0007073863343354198,13
+W4380840047,Sign Language Translation: A Survey of Approaches and Techniques,2023,0.0007072552794153166,13
+W4402351855,DPS-Net: Dual-Path Stimulation Network for Continuous Sign Language Recognition,2024,0.0007011421543075028,13
+W4393160661,Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment,2024,0.0007011421543075028,13
+W4385718003,Including Facial Expressions in Contextual Embeddings for Sign Language Generation,2023,0.0007006989013971039,13
+W4320015918,TranSkeleton: Hierarchical Spatial–Temporal Transformer for Skeleton-Based Action Recognition,2023,0.0007003561032686749,13
+W4387319009,Artificial Intelligence for Sign Language Translation – A Design Science Research Study,2023,0.0006979799540504073,13
+W4376274034,Multi-scale spatial–temporal convolutional neural network for skeleton-based action recognition,2023,0.0006979799540504073,13
+W4389519214,Findings of the Second WMT Shared Task on Sign Language Translation (WMT-SLT23),2023,0.0006968082322335626,13
+W3127189239,An Efficient Sign Language Recognition (SLR) System Using Camshift Tracker and Hidden Markov Model (HMM),2021,0.0006966067308468333,13
+W4323926508,A multi-stack RNN-based neural machine translation model for English to Pakistan sign language translation,2023,0.0006953926992946019,13
+W4312622396,IGFormer: Interaction Graph Transformer for Skeleton-Based Human Interaction Recognition,2022,0.0006922879935876353,13
+W4294012891,"Human activity recognition using tools of convolutional neural networks: A state of the art review, data sets, challenges, and future prospects",2022,0.0006906014867838512,13
+W4394627495,SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition,2024,0.000689147601608175,13
+W4319299821,Efficient Skeleton-Based Action Recognition via Joint-Mapping strategies,2023,0.000689147601608175,13
+W3195949276,Spatiotemporal Multimodal Learning With 3D CNNs for Video Action Recognition,2021,0.000689147601608175,13
+W4401077909,Structure-aware sign language recognition with spatial–temporal scene graph,2024,0.0006884933532791209,13
+W4289822576,Zoom Transformer for Skeleton-Based Group Activity Recognition,2022,0.000687881314519683,13
+W4220980933,A union of deep learning and swarm-based optimization for 3D human action recognition,2022,0.000687881314519683,13
+W4392397356,Sign Language Recognition Using Graph and General Deep Neural Network Based on Large Scale Dataset,2024,0.0006830724385526715,13
+W4406628030,Multilingual speech to Indian sign language translation using synthetic animation: a resource-efficient approach,2025,0.0006695201517365479,13
+W4408285672,SignEdgeLVM transformer model for enhanced sign language translation on edge devices,2025,0.0006695201517365479,13
+W4385489076,Leveraging Large Language Models With Vocabulary Sharing For Sign Language Translation,2023,0.0006695201517365479,13
+W4390190818,A New Dataset for End-to-End Sign Language Translation: The Greek Elementary School Dataset,2023,0.0006695201517365479,13
+W4401163409,SelfGCN: Graph Convolution Network with Self-Attention for Skeleton-based Action Recognition,2024,0.0006695201517365479,13
+W4396612946,Gloss-driven Conditional Diffusion Models for Sign Language Production,2024,0.0006695201517365479,13
+W4408108105,Rethinking the temporal downsampling paradigm for continuous sign language recognition,2025,0.0006695201517365479,13
+W4304606833,Virtual Reality and Internet of Things-Based Music Online Learning via the Graph Neural Network,2022,0.0006695201517365479,13
+W4392164208,Synthetic Corpus Generation for Deep Learning-Based Translation of Spanish Sign Language,2024,0.0006695201517365479,13
+W4361247902,Transformer for Skeleton-based action recognition: A review of recent advances,2023,0.0006695201517365479,13
+W3130174139,Multi-GAT: A Graphical Attention-Based Hierarchical Multimodal Representation Learning Approach for Human Activity Recognition,2021,0.0006695201517365479,13
+W4408046829,Dual-Channel Mixed Token Progressing Unit Model for Sign Language Production with Global Transformer and Local GCN,2025,0.0006695201517365479,13
+W4402715909,KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation,2024,0.0006695201517365479,13
+W4391256287,STSD: spatial–temporal semantic decomposition transformer for skeleton-based action recognition,2024,0.0006695201517365479,13
+W4392902497,A Sign Language Recognition Framework Based on Cross-Modal Complementary Information Fusion,2024,0.0006695201517365479,13
+W3039474590,Simple and Deep Graph Convolutional Networks,2020,0.0006695201517365479,13
+W4406062802,A discriminative multi-modal adaptation neural network model for video action recognition,2025,0.0006695201517365479,13
+W4390872223,Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction,2023,0.0006695201517365479,13
+W4407063601,Sign Language Transformation: AI-Enabled Communication for the Deaf,2025,0.0006695201517365479,13
+W4407550498,Advancing Continuous Sign Language Recognition Through Denoising Diffusion Transformer‐Based Spatial‐Temporal Enhancement,2025,0.0006695201517365479,13
+W4406848944,A structure-based disentangled network with contrastive regularization for sign language recognition,2025,0.0006695201517365479,13
+W4394597906,MotionAGFormer: Enhancing 3D Human Pose Estimation with a Transformer-GCNFormer Network,2024,0.0006695201517365479,13
+W4408551074,Real Time English Speech to British Sign Language Translation for Accessible Banking,2025,0.0006695201517365479,13
+W4404439442,Spatial-Temporal Union Channel Enhancement for Continuous Sign Language Recognition,2024,0.0006695201517365479,13
+W4297168084,Transformer Inertial Poser: Real-time Human Motion Reconstruction from Sparse IMUs with Simultaneous Terrain Generation,2022,0.0006695201517365479,13
+W4313333644,Generalized Pose Decoupled Network for Unsupervised 3D Skeleton Sequence-Based Action Representation Learning,2022,0.0006695201517365479,13
+W4407174029,Chinese sign language recognition and translation with virtual digital human dataset,2025,0.0006695201517365479,13
+W4293869244,Hate Speech Classification Implementing NLP and CNN with Machine Learning Algorithm Through Interpretable Explainable AI,2022,0.0006695201517365479,13
+W4407596334,Incomplete multi-view semi-supervised classification via dual-graph structure and dual-contrastive completion,2025,0.0006695201517365479,13
+W4403306087,Dynamical semantic enhancement network for continuous sign language recognition,2024,0.0006695201517365479,13
+W4393855519,StepNet: Spatial-temporal Part-aware Network for Isolated Sign Language Recognition,2024,0.0006695201517365479,13
+W4399993770,Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition,2024,0.0006695201517365479,13
+W4395041051,Sign language translation with hierarchical memorized context in question answering scenarios,2024,0.0006695201517365479,13
+W4315779632,Spatio-temporal Graph Learning for Epidemic Prediction,2023,0.0006695201517365479,13
+W4409736339,Towards AI-driven Sign Language Generation with Non-manual Markers,2025,0.0006695201517365479,13
+W4402715856,OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers,2024,0.0006695201517365479,13
+W4408608103,MSKA: Multi-stream keypoint attention network for sign language recognition and translation,2025,0.0006695201517365479,13
+W4409195355,Modality mixer exploiting complementary information for multi-modal action recognition,2025,0.0006695201517365479,13
+W4390968997,Human-Robot Collaboration Through a Multi-Scale Graph Convolution Neural Network With Temporal Attention,2024,0.0006695201517365479,13
+W4406559860,SG-CLR: Semantic representation-guided contrastive learning for self-supervised skeleton-based action recognition,2025,0.0006695201517365479,13
+W4396941455,TransFusion: A Practical and Effective Transformer-Based Diffusion Model for 3D Human Motion Prediction,2024,0.0006695201517365479,13
+W2798598284,Convolutional Neural Network Architectures for Signals Supported on Graphs,2018,0.0006695201517365479,13
+W4409720490,"""We do use it, but not how hearing people think"": How the Deaf and Hard of Hearing Community Uses Large Language Model Tools",2025,0.0006695201517365479,13
+W4402017565,"From rule-based models to deep learning transformers architectures for natural language processing and sign language translation systems: survey, taxonomy and performance evaluation",2024,0.0006695201517365479,13
+W4386072465,Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model,2023,0.0006695201517365479,13
+W4406414599,Hand Gesture Recognition from Surface Electromyography Signals with Graph Convolutional Network and Attention Mechanisms,2025,0.0006695201517365479,13
+W4400145859,Tinysign: sign language recognition in low resolution settings,2024,0.0006695201517365479,13
+W4386409816,D-STGCNT: A Dense Spatio-Temporal Graph Conv-GRU Network based on transformer for assessment of patient physical rehabilitation,2023,0.0006695201517365479,13
+W4321770538,Focusing Fine-Grained Action by Self-Attention-Enhanced Graph Neural Networks With Contrastive Learning,2023,0.0006695201517365479,13
+W4410106355,Vision-Based Sign Language Translation via a Skeleton-Aware Neural Network,2025,0.0006695201517365479,13
+W4394921045,ST-TGR: Spatio-Temporal Representation Learning for Skeleton-Based Teaching Gesture Recognition,2024,0.0006695201517365479,13
+W4312905949,Deep Learning-Based Holistic Speaker Independent Visual Speech Recognition,2022,0.0006695201517365479,13
+W4360846814,EMG-Based Dynamic Hand Gesture Recognition Using Edge AI for Human–Robot Interaction,2023,0.0006695201517365479,13
+W4404439889,SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition,2024,0.0006695201517365479,13
+W4292793985,Towards a Deeper Understanding of Skeleton-based Gait Recognition,2022,0.0006695201517365479,13
+W4403452854,Visual context learning based on cross-modal knowledge for continuous sign language recognition,2024,0.0006695201517365479,13
+W4372260352,MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning,2023,0.0006695201517365479,13
+W4378575770,Deep Learning for Human Activity Recognition on 3D Human Skeleton: Survey and Comparative Study,2023,0.0006695201517365479,13
+W4394593114,Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation,2024,0.0006695201517365479,13
+W4205482611,Automatic Graph Learning Convolutional Networks for Hyperspectral Image Classification,2021,0.0006695201517365479,13
+W4226109135,Dynamic Hand Gesture Recognition Using Improved Spatio-Temporal Graph Convolutional Network,2022,0.0006695201517365479,13
+W4403915431,A large corpus for the recognition of Greek Sign Language gestures,2024,0.0006695201517365479,13
+W4403929957,Local and global self-attention enhanced graph convolutional network for skeleton-based action recognition,2024,0.0006695201517365479,13
+W4383555203,Transformer-based hand gesture recognition from instantaneous to fused neural decomposition of high-density EMG signals,2023,0.0006695201517365479,13
+W4288391464,APSNet: Toward Adaptive Point Sampling for Efficient 3D Action Recognition,2022,0.0006695201517365479,13
+W4385681340,DiffDance: Cascaded Human Motion Diffusion Model for Dance Generation,2023,0.0006695201517365479,13
+W4400032875,Overcoming Modality Bias in Question-Driven Sign Language Video Translation,2024,0.0006695201517365479,13
+W4224276321,HybridNet: Integrating GCN and CNN for skeleton-based action recognition,2022,0.0006695201517365479,13
+W3171410415,sEMG-based consecutive estimation of human lower limb movement by using multi-branch neural network,2021,0.0006695201517365479,13
+W4410133332,DSTEN-CSLR: dual spatial–temporal enhancement network for continuous sign language recognition,2025,0.0006695201517365479,13
+W4408379372,Continuous sign language recognition using intra-inter gloss attention,2025,0.0006695201517365479,13
+W4408198885,OVSLT: Advancing Sign Language Translation with Open Vocabulary,2025,0.0006695201517365479,13
+W3010876998,Music2Dance: DanceNet for Music-Driven Dance Generation,2022,0.0006695201517365479,13
+W4321769488,Relation-mining self-attention network for skeleton-based human action recognition,2023,0.0006695201517365479,13
+W4319993414,Collaborative Multi-dynamic Pattern Modeling for Human Motion Prediction,2023,0.0006695201517365479,13
+W4408034046,Temporal Fusion Network for Continuous Sign Language Recognition,2025,0.0006695201517365479,13
+W4288049158,Point Spatio-Temporal Transformer Networks for Point Cloud Video Modeling,2022,0.0006695201517365479,13
+W4283273834,A Survey of Human Action Recognition and Posture Prediction,2022,0.0006695201517365479,13
+W4367301504,Cross-stream contrastive learning for self-supervised skeleton-based action recognition,2023,0.0006695201517365479,13
+W4408577936,Latent space improved masked reconstruction model for human skeleton-based action recognition,2025,0.0006695201517365479,13
+W3118642024,Prediction of Liquid Chromatographic Retention Time with Graph Neural Networks to Assist in Small Molecule Identification,2021,0.0006695201517365479,13
+W4383108355,STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Follow-Ahead,2023,0.0006695201517365479,13
+W4387924637,A survey on sign language literature,2023,0.0006695201517365479,13
+W4401879259,Progressive Sign Language Video Translation Model for Real-World Complex Background Environments,2024,0.0006695201517365479,13
+W4393900743,A transformer model for boundary detection in continuous sign language,2024,0.0006695201517365479,13
+W4403232742,Efficient Continuous Sign Language Recognition with Temporal Shift and Channel Attention,2024,0.0006695201517365479,13
+W4401067355,SC2SLR: Skeleton-based Contrast for Sign Language Recognition,2024,0.0006695201517365479,13
+W4404578281,Continuous sign language recognition based on motor attention mechanism and frame-level self-distillation,2024,0.0006695201517365479,13
+W4220811736,"Technological Solutions for Sign Language Recognition: A Scoping Review of Research Trends, Challenges, and Opportunities",2022,0.0006695201517365479,13
+W4321020794,STr-GCN: Dual Spatial Graph Convolutional Network and Transformer Graph Encoder for 3D Hand Gesture Recognition,2023,0.0006695201517365479,13
+W4318769607,FER_ML: Facial Emotion Recognition using Machine Learning,2023,0.0006695201517365479,13
+W4392405587,EMG-based Multi-User Hand Gesture Classification via Unsupervised Transfer Learning Using Unknown Calibration Gestures,2024,0.0006695201517365479,13
+W4319068967,Interaction Transformer for Human Reaction Generation,2023,0.0006695201517365479,13
+W4391585481,Recent Advances on Deep Learning for Sign Language Recognition,2024,0.0006695201517365479,13
+W4372266847,Indian Sign Language Generation from Live Audio or Text for Tamil,2023,0.0006695201517365479,13
+W4322769066,Sign language recognition from digital videos using feature pyramid network with detection transformer,2023,0.0006695201517365479,13
+W4409537956,Hierarchical contrastive learning for unsupervised 3D action recognition,2025,0.0006695201517365479,13
+W4386075706,STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition,2023,0.0006695201517365479,13
+W4408980990,Exploiting Locality Sensitive Hashing - Clustering and gloss feature for sign language production,2025,0.0006695201517365479,13
+W2793022729,DeepLink: A Deep Learning Approach for User Identity Linkage,2018,0.0006695201517365479,13
+W2987036866,Image representation of pose-transition feature for 3D skeleton-based action recognition,2019,0.0006695201517365479,13
+W4390889794,CLIP-Cluster: CLIP-Guided Attribute Hallucination for Face Clustering,2023,0.0006695201517365479,13
+W4315473885,"Skeleton-based action recognition with multi-stream, multi-scale dilated spatial-temporal graph convolution network",2023,0.0006695201517365479,13
+W4376650560,Abnormal sitting posture recognition based on multi-scale spatiotemporal features of skeleton graph,2023,0.0006695201517365479,13
+W4319317104,A Novel Two-Stream Transformer-Based Framework for Multi-Modality Human Action Recognition,2023,0.0006695201517365479,13
+W4407200705,Progressive semantic learning for unsupervised skeleton-based action recognition,2025,0.0006695201517365479,13
+W4403780785,SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval,2024,0.0006695201517365479,13
+W4404652552,Enhancing human behavior recognition with dynamic graph convolutional networks and multi-scale position attention,2024,0.0006695201517365479,13
+W4392910814,Flow Dynamics Correction for Action Recognition,2024,0.0006695201517365479,13
+W4395000530,Multi-Stream Isolated Sign Language Recognition Based on Finger Features Derived from Pose Data,2024,0.0006695201517365479,13
+W4206447179,sEMG based hand gesture recognition with deformable convolutional network,2022,0.0006695201517365479,13
+W4213302450,Real-Time Gesture Recognition in the View of Repeating Characteristics of Sign Languages,2022,0.0006695201517365479,13
+W2973700007,Movements Classification of Multi-Channel sEMG Based on CNN and Stacking Ensemble Learning,2019,0.0006695201517365479,13
+W4365790334,An Elliptical Modeling Supported System for Human Action Deep Recognition Over Aerial Surveillance,2023,0.0006695201517365479,13
+W4404005044,"Plan, Posture and Go: Towards Open-Vocabulary Text-to-Motion Generation",2024,0.0006695201517365479,13
+W4404838688,Swin-MSTP: Swin transformer with multi-scale temporal perception for continuous sign language recognition,2024,0.0006695201517365479,13
+W4398763293,"Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects",2024,0.0006695201517365479,13
+W4214934662,Deep learning for predicting respiratory rate from biosignals,2022,0.0006695201517365479,13
+W4402961757,Uncertainty-Aware Sign Language Video Retrieval with Probability Distribution Modeling,2024,0.0006695201517365479,13
+W4396753522,"Sign Language Recognition: A Comprehensive Review of Traditional and Deep Learning Approaches, Datasets, and Challenges",2024,0.0006695201517365479,13
+W4390190222,Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse,2023,0.0006695201517365479,13
+W4396919354,Lipwatch: Enabling Silent Speech Recognition on Smartwatches using Acoustic Sensing,2024,0.0006695201517365479,13
+W4402727550,Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation,2024,0.0006695201517365479,13
+W4307794628,KSTAGE: A knowledge-guided spatial-temporal attention graph learning network for crop yield prediction,2022,0.0006695201517365479,13
+W4403878232,EvSign: Sign Language Recognition and Translation with Streaming Events,2024,0.0006695201517365479,13
+W4390872783,Joint-Relation Transformer for Multi-Person Motion Prediction,2023,0.0006695201517365479,13
+W4285105848,Pedestrian Graph +: A Fast Pedestrian Crossing Prediction Model Based on Graph Convolutional Networks,2022,0.0006695201517365479,13
+W4409598482,Skeleton-based action recognition through dual-granularity feature fusion with self-adapting graph convolution and multi-scale temporal convolution,2025,0.0006695201517365479,13
+W4407253929,A Supervised Variational Auto-encoder for Human Motion Generation Using Convolutional Neural Networks,2025,0.0006695201517365479,13
+W4285014203,Sign and Human Action Detection Using Deep Learning,2022,0.0006695201517365479,13
+W4410068031,Matching Skeleton-based Activity Representations with Heterogeneous Signals for HAR,2025,0.0006695201517365479,13
+W3194116415,sEMG pattern recognition based on recurrent neural network,2021,0.0006695201517365479,13
+W4387885733,Enhancing Performance of Movie Recommendations Using LSTM With Meta Path Analysis,2023,0.0006695201517365479,13
+W4402727383,MaskCLR: Attention-Guided Contrastive Learning for Robust Action Representation Learning,2024,0.0006695201517365479,13
+W3202884269,Two-Stream Spatial–Temporal Graph Convolutional Networks for Driver Drowsiness Detection,2021,0.0006695201517365479,13
+W4214579445,EMGHandNet: A hybrid CNN and Bi-LSTM architecture for hand activity classification using surface EMG signals,2022,0.0006695201517365479,13

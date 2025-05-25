@@ -1,0 +1,57 @@
+id,title,year,pagerank,cluster
+W2963919999,Video Summarization with Long Short-Term Memory,2016,0.17663987766529932,18
+W2964167369,Video Summarization With Attention-Based Encoder–Decoder Networks,2019,0.08531345027408488,18
+W2766630207,Hierarchical Recurrent Neural Network for Video Summarization,2017,0.0755831273358148,18
+W2895758197,Retrospective Encoders for Video Summarization,2018,0.053630182947803896,18
+W2798970487,HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization,2018,0.05279785762930313,18
+W2963508075,"Query-Focused Video Summarization: Dataset, Evaluation, and a Memory Network Based Approach",2017,0.042492545790934984,18
+W2964158702,Video Summarization Using Fully Convolutional Sequence Networks,2018,0.03988372203411314,18
+W2788303226,Video Summarization via Semantic Attended Networks,2018,0.027505063300477715,18
+W2902616437,Summarizing Videos with Attention,2019,0.020866655835059273,18
+W2922340345,Attentive and Adversarial Learning for Video Summarization,2019,0.01720998736310373,18
+W3107128832,DSNet: A Flexible Detect-to-Summarize Network for Video Summarization,2020,0.014396221801938204,18
+W3045623285,A comprehensive survey of multi-view video summarization,2020,0.014086169855078374,18
+W3025569967,Deep Attentive Video Summarization With Distribution Consistency Learning,2020,0.013393272194779135,18
+W3087792975,Unsupervised Video Summarization With Cycle-Consistent Adversarial LSTM Networks,2019,0.01273160952406902,18
+W3010790568,TTH-RNN: Tensor-Train Hierarchical Recurrent Neural Network for Video Summarization,2020,0.01216455967058545,18
+W2993980108,Property-Constrained Dual Learning for Video Summarization,2019,0.011759691954475786,18
+W3150815828,Reconstructive Sequence-Graph Network for Video Summarization,2021,0.01141617848904827,18
+W2996611683,DeepReS: A Deep Learning-Based Video Summarization Strategy for Resource-Constrained Industrial Surveillance Scenarios,2019,0.01130617398054047,18
+W2908469318,A Novel Key-Frames Selection Framework for Comprehensive Video Summarization,2019,0.011236367393179772,18
+W2981642654,Video summarization via block sparse dictionary selection,2019,0.0106017326682071,18
+W4206423448,Combining Global and Local Attention with Positional Encoding for Video Summarization,2021,0.010498346086969453,18
+W2919365148,Video Summarization Via Actionness Ranking,2019,0.010318674944730755,18
+W3090254005,Exploring global diverse attention via pairwise temporal relation for video summarization,2020,0.010101318848590524,18
+W3099156605,AC-SUM-GAN: Connecting Actor-Critic and Generative Adversarial Networks for Unsupervised Video Summarization,2020,0.010088492119637747,18
+W2984001224,"A Stepwise, Label-based Approach for Improving the Adversarial Training in Unsupervised Video Summarization",2019,0.009536727674989878,18
+W3210314917,Video Summarization Using Deep Neural Networks: A Survey,2021,0.009248388244581442,18
+W4319300227,Progressive Video Summarization via Multimodal Self-supervised Learning,2023,0.009181474196048374,18
+W2967038491,Unsupervised Video Summarization with Attentive Conditional Generative Adversarial Networks,2019,0.009106826182257522,18
+W3027431227,Deep attentive and semantic preserving video summarization,2020,0.008900075759633468,18
+W4225856951,Video Summarization Through Reinforcement Learning With a 3D Spatio-Temporal U-Net,2022,0.008866553141858594,18
+W2997333136,Unsupervised Video Summarization via Attention-Driven Adversarial Learning,2019,0.00885986264925499,18
+W3171941639,Supervised Video Summarization Via Multiple Feature Sets with Parallel Attention,2021,0.008758986243329669,18
+W3210592264,Hierarchical multimodal transformer to summarize videos,2021,0.008462369409589384,18
+W3138217142,Graph Attention Networks Adjusted Bi-LSTM for Video Summarization,2021,0.008409841236319732,18
+W3201625964,Learning multiscale hierarchical attention for video summarization,2021,0.008196395759142761,18
+W4225769600,Relational Reasoning Over Spatial-Temporal Graphs for Video Summarization,2022,0.007691713006767173,18
+W3163899699,A survey of recent work on video summarization: approaches and techniques,2021,0.007691713006767173,18
+W3209983272,AudioVisual Video Summarization,2021,0.007639859538112621,18
+W4386453740,VSS-Net: Visual Semantic Self-Mining Network for Video Summarization,2023,0.007355651679950729,18
+W4283069582,Video summarization with a convolutional attentive adversarial network,2022,0.0072771266774218565,18
+W4200497606,Deep hierarchical LSTM networks with attention for video summarization,2021,0.0072771266774218565,18
+W3083405884,Unsupervised Video Summarization via Relation-Aware Assignment Learning,2020,0.00715381113082313,18
+W4285058679,Multimodal-Based and Aesthetic-Guided Narrative Video Summarization,2022,0.006992918819259964,18
+W4386257881,Deep multi-scale pyramidal features network for supervised video summarization,2023,0.00672086917374189,18
+W4376607835,Video Summarization With Spatiotemporal Vision Transformer,2023,0.00672086917374189,18
+W3114200511,A Review on Traditional Machine Learning and Deep Learning Models for WBCs Classification in Blood Smear Images,2020,0.00672086917374189,18
+W4311424438,A review on video summarization techniques,2022,0.00672086917374189,18
+W3203160579,AI-Assisted Edge Vision for Violence Detection in IoT-Based Industrial Surveillance Networks,2021,0.00672086917374189,18
+W3107543738,Self-Supervised Learning to Detect Key Frames in Videos,2020,0.00672086917374189,18
+W4408196014,Implicit embedding based multi modal attention network for Cricket video summarization,2025,0.00672086917374189,18
+W4409784910,Training-Free Language-Guided Video Summarization via Multi-Grained Saliency Scoring,2025,0.00672086917374189,18
+W3201832684,Joint Visual and Audio Learning for Video Highlight Detection,2021,0.00672086917374189,18
+W4394814068,Keyframe recommendation based on feature intercross and fusion,2024,0.00672086917374189,18
+W4205520414,Concealed Attack for Robust Watermarking Based on Generative Model and Perceptual Loss,2021,0.00672086917374189,18
+W4392215335,Attention-guided multi-granularity fusion model for video summarization,2024,0.00672086917374189,18
+W4324355347,Video summarization using deep learning techniques: a detailed analysis and investigation,2023,0.00672086917374189,18

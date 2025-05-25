@@ -1,0 +1,57 @@
+paper_id,title,year,eigenvector,cluster_id
+W2964167369,Video Summarization With Attention-Based Encoder–Decoder Networks,2019,0.2887882005333232,18
+W2963919999,Video Summarization with Long Short-Term Memory,2016,0.27346722954640545,18
+W2798970487,HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization,2018,0.21798112400436084,18
+W2766630207,Hierarchical Recurrent Neural Network for Video Summarization,2017,0.2122789518312348,18
+W2964158702,Video Summarization Using Fully Convolutional Sequence Networks,2018,0.19038020202896358,18
+W4386453740,VSS-Net: Visual Semantic Self-Mining Network for Video Summarization,2023,0.18969813213856895,18
+W3210314917,Video Summarization Using Deep Neural Networks: A Survey,2021,0.18965731115262943,18
+W3099156605,AC-SUM-GAN: Connecting Actor-Critic and Generative Adversarial Networks for Unsupervised Video Summarization,2020,0.187897519351727,18
+W2788303226,Video Summarization via Semantic Attended Networks,2018,0.1800270044576544,18
+W3107128832,DSNet: A Flexible Detect-to-Summarize Network for Video Summarization,2020,0.17680875474301527,18
+W2902616437,Summarizing Videos with Attention,2019,0.1718718810391702,18
+W4392215335,Attention-guided multi-granularity fusion model for video summarization,2024,0.16643760109377062,18
+W4386257881,Deep multi-scale pyramidal features network for supervised video summarization,2023,0.15825142169282236,18
+W3150815828,Reconstructive Sequence-Graph Network for Video Summarization,2021,0.1568511761784994,18
+W4376607835,Video Summarization With Spatiotemporal Vision Transformer,2023,0.15613159512852473,18
+W3210592264,Hierarchical multimodal transformer to summarize videos,2021,0.15467280080602558,18
+W2895758197,Retrospective Encoders for Video Summarization,2018,0.1541472355715824,18
+W3209983272,AudioVisual Video Summarization,2021,0.15236511192874083,18
+W4206423448,Combining Global and Local Attention with Positional Encoding for Video Summarization,2021,0.15202700304249,18
+W3025569967,Deep Attentive Video Summarization With Distribution Consistency Learning,2020,0.14692476287458783,18
+W2993980108,Property-Constrained Dual Learning for Video Summarization,2019,0.1461911714864859,18
+W3010790568,TTH-RNN: Tensor-Train Hierarchical Recurrent Neural Network for Video Summarization,2020,0.1395616525619078,18
+W3201625964,Learning multiscale hierarchical attention for video summarization,2021,0.13724475013484466,18
+W4225856951,Video Summarization Through Reinforcement Learning With a 3D Spatio-Temporal U-Net,2022,0.136607670044539,18
+W2997333136,Unsupervised Video Summarization via Attention-Driven Adversarial Learning,2019,0.13378843653123162,18
+W2922340345,Attentive and Adversarial Learning for Video Summarization,2019,0.12735501424869983,18
+W4324355347,Video summarization using deep learning techniques: a detailed analysis and investigation,2023,0.12301559605779588,18
+W2967038491,Unsupervised Video Summarization with Attentive Conditional Generative Adversarial Networks,2019,0.1178652410730134,18
+W4319300227,Progressive Video Summarization via Multimodal Self-supervised Learning,2023,0.11600241807676838,18
+W4225769600,Relational Reasoning Over Spatial-Temporal Graphs for Video Summarization,2022,0.11562141476204588,18
+W2908469318,A Novel Key-Frames Selection Framework for Comprehensive Video Summarization,2019,0.11078762779532657,18
+W3090254005,Exploring global diverse attention via pairwise temporal relation for video summarization,2020,0.10413763676437411,18
+W3027431227,Deep attentive and semantic preserving video summarization,2020,0.10174219027619037,18
+W2984001224,"A Stepwise, Label-based Approach for Improving the Adversarial Training in Unsupervised Video Summarization",2019,0.09993895585922158,18
+W4283069582,Video summarization with a convolutional attentive adversarial network,2022,0.09314472711736813,18
+W3171941639,Supervised Video Summarization Via Multiple Feature Sets with Parallel Attention,2021,0.08782957161207397,18
+W4408196014,Implicit embedding based multi modal attention network for Cricket video summarization,2025,0.08293924829492222,18
+W2919365148,Video Summarization Via Actionness Ranking,2019,0.08288989332094576,18
+W3087792975,Unsupervised Video Summarization With Cycle-Consistent Adversarial LSTM Networks,2019,0.08144291279916013,18
+W4311424438,A review on video summarization techniques,2022,0.07217862357272939,18
+W4285058679,Multimodal-Based and Aesthetic-Guided Narrative Video Summarization,2022,0.06942663405946954,18
+W3045623285,A comprehensive survey of multi-view video summarization,2020,0.06569566124112707,18
+W3138217142,Graph Attention Networks Adjusted Bi-LSTM for Video Summarization,2021,0.06461416760323276,18
+W2981642654,Video summarization via block sparse dictionary selection,2019,0.062169978437190805,18
+W3083405884,Unsupervised Video Summarization via Relation-Aware Assignment Learning,2020,0.06161694055091749,18
+W3163899699,A survey of recent work on video summarization: approaches and techniques,2021,0.05888533264633229,18
+W4200497606,Deep hierarchical LSTM networks with attention for video summarization,2021,0.05590677393796556,18
+W2963508075,"Query-Focused Video Summarization: Dataset, Evaluation, and a Memory Network Based Approach",2017,0.05488988546489999,18
+W3107543738,Self-Supervised Learning to Detect Key Frames in Videos,2020,0.05441174329229265,18
+W3201832684,Joint Visual and Audio Learning for Video Highlight Detection,2021,0.05401572251207801,18
+W2996611683,DeepReS: A Deep Learning-Based Video Summarization Strategy for Resource-Constrained Industrial Surveillance Scenarios,2019,0.05300893942370781,18
+W4409784910,Training-Free Language-Guided Video Summarization via Multi-Grained Saliency Scoring,2025,0.03655815220147764,18
+W4394814068,Keyframe recommendation based on feature intercross and fusion,2024,0.01772427361524158,18
+W3203160579,AI-Assisted Edge Vision for Violence Detection in IoT-Based Industrial Surveillance Networks,2021,0.015565707079960089,18
+W4205520414,Concealed Attack for Robust Watermarking Based on Generative Model and Perceptual Loss,2021,0.015565707079960089,18
+W3114200511,A Review on Traditional Machine Learning and Deep Learning Models for WBCs Classification in Blood Smear Images,2020,0.006398187459114156,18

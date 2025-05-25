@@ -1,0 +1,406 @@
+id,title,year,pagerank,cluster
+W2963517393,Robust Scene Text Recognition with Automatic Rectification,2016,0.0664957065085222,14
+W2294053032,Recursive Recurrent Nets with Attention Modeling for OCR in the Wild,2016,0.06427358301574593,14
+W2964346820,Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks,2017,0.05032083082661463,14
+W2964296749,Towards End-to-End Text Spotting with Convolutional Recurrent Neural Networks,2017,0.029530205088567,14
+W2891117443,Chargrid: Towards Understanding 2D Documents,2018,0.01992986945193251,14
+W3104953317,LayoutLM: Pre-training of Text and Layout for Document Image Understanding,2020,0.019595643707497536,14
+W2963840241,Multi-oriented Scene Text Detection via Corner Localization and Region Segmentation,2018,0.01686335602695728,14
+W2750938222,Focusing Attention: Towards Accurate Text Recognition in Natural Images,2017,0.016205958664700176,14
+W2623860192,"Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition",2017,0.014611917025519236,14
+W2986619406,FUNSD: A Dataset for Form Understanding in Noisy Scanned Documents,2019,0.014335462559183578,14
+W2875814315,Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes,2018,0.011292908147817346,14
+W2964018263,FOTS: Fast Oriented Text Spotting with a Unified Network,2018,0.01115214342522973,14
+W3004846386,What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis,2019,0.010239653057989224,14
+W2795619303,AON: Towards Arbitrarily-Oriented Text Recognition,2018,0.010224069326024052,14
+W2964294787,Rotation-Sensitive Regression for Oriented Scene Text Detection,2018,0.010074904992174704,14
+W2740767790,Learning to Read Irregular Text with Attention Mechanisms,2017,0.009658923092008446,14
+W2962707697,"Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention",2017,0.00954378916479773,14
+W2967615747,Character Region Awareness for Text Detection,2019,0.00875178737360554,14
+W2810028092,TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes,2018,0.00838483957837165,14
+W2963327605,Edit Probability for Scene Text Recognition,2018,0.008116754782130793,14
+W2963233387,Scene Text Recognition from Two-Dimensional Perspective,2019,0.007915657531856045,14
+W3176851559,LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding,2021,0.007364720277100601,14
+W2788069964,Char-Net: A Character-Aware Neural Network for Distorted Scene Text Recognition,2018,0.007042065831709228,14
+W2964099383,Joint Line Segmentation and Transcription for End-to-End Handwritten Paragraph Recognition,2016,0.006686355878261754,14
+W2962986948,An End-to-End TextSpotter with Explicit Alignment and Attention,2018,0.006662510873324551,14
+W2965066169,"Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition",2019,0.006449678151085872,14
+W2963047498,Drawing and Recognizing Chinese Characters with Recurrent Neural Network,2017,0.00584967374422167,14
+W2964108850,A GRU-Based Encoder-Decoder Approach with Attention for Online Handwritten Mathematical Expression Recognition,2017,0.0055526996330064835,14
+W3202839357,Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer,2021,0.005360480333178125,14
+W3093218477,TRIE: End-to-End Text Reading and Information Extraction for Document Understanding,2020,0.00507662542877316,14
+W3163650427,PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks,2021,0.005030496868530254,14
+W3000758063,CORD: A Consolidated Receipt Dataset for Post-OCR Parsing,2019,0.004888122438700099,14
+W2963647456,Shape Robust Text Detection With Progressive Scale Expansion Network,2019,0.004738976920134734,14
+W3182680257,SelfDoc: Self-Supervised Document Representation Learning,2021,0.004706867851218334,14
+W3035449864,Towards Accurate Scene Text Recognition With Semantic Reasoning Networks,2020,0.0046056993150449576,14
+W2998382406,Decoupled Attention Network for Text Recognition,2020,0.004328792616927465,14
+W3003642782,NRTR: A No-Recurrence Sequence-to-Sequence Model for Scene Text Recognition,2019,0.00430256474232196,14
+W2970910956,Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes,2019,0.004294201165055022,14
+W3005436539,Symmetry-Constrained Rectification Network for Scene Text Recognition,2019,0.004197504392845519,14
+W3034864438,Representation Learning for Information Extraction from Form-like Documents,2020,0.004123397962976104,14
+W2963360699,Visual Attention Models for Scene Text Recognition,2017,0.004090020447905548,14
+W3173306993,Spatial Dependency Parsing for Semi-Structured Document Information Extraction,2021,0.003955118765134667,14
+W4304013646,LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking,2022,0.003946404380291952,14
+W2806717845,"Track, Attend, and Parse (TAP): An End-to-End Framework for Online Handwritten Mathematical Expression Recognition",2018,0.003944888219466148,14
+W2964312704,Attention-Based Extraction of Structured Information from Street View Imagery,2017,0.003898952037308058,14
+W2988098900,TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting,2019,0.0038498969237728674,14
+W3034447740,SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition,2020,0.0038134666951311264,14
+W2963637207,Multi-Scale Attention with Dense Encoder for Handwritten Mathematical Expression Recognition,2018,0.003811933648569049,14
+W3003261556,"Attend, Copy, Parse End-to-end Information Extraction from Documents",2019,0.0036866639952625986,14
+W2894730515,Synthetically Supervised Feature Learning for Scene Text Recognition,2018,0.0036829241354376097,14
+W3176664887,DocFormer: End-to-End Transformer for Document Understanding,2021,0.0036519409018049777,14
+W2902494497,TextField: Learning a Deep Direction Field for Irregular Scene Text Detection,2019,0.003602589238824249,14
+W2963398399,Scene Text Detection with Supervised Pyramid Context Network,2019,0.0035783936988523124,14
+W2788840914,SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network,2018,0.0034174127062154757,14
+W2963901427,Radical Analysis Network for Zero-Shot Learning in Printed Chinese Character Recognition,2018,0.0034103749306288824,14
+W2896034938,Attention and Language Ensemble for Scene Text Recognition with Convolutional Sequence Modeling,2018,0.0034091923120262452,14
+W2991626090,Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network,2019,0.0033558067883970636,14
+W2786480153,Multi-Scale Multi-Task FCN for Semantic Page Segmentation and Table Detection,2017,0.003226367340932623,14
+W3181186176,"Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition",2021,0.003165240505658168,14
+W3205981739,StrucTexT: Structured Text Understanding with Multi-Modal Transformers,2021,0.003120717269900124,14
+W3173325518,StructuralLM: Structural Pre-training for Form Understanding,2021,0.00309936826726459,14
+W2906333459,TextNet: Irregular Text Reading from Images with an End-to-End Trainable Network,2019,0.0029930383457463213,14
+W3003868038,ICDAR2019 Robust Reading Challenge on Multi-lingual Scene Text Detection and Recognition — RRC-MLT-2019,2019,0.0029489466103803682,14
+W3013224334,SCATTER: Selective Context Attentional Scene Text Recognizer,2020,0.0029243360826972055,14
+W3204562006,LAMBERT: Layout-Aware Language Modeling for Information Extraction,2021,0.002920320327915532,14
+W3201693581,Kleister: Key Information Extraction Datasets Involving Long Documents with Complex Layouts,2021,0.002836629720363622,14
+W2963114696,E2E-MLT - An Unconstrained End-to-End Method for Multi-language Scene Text,2019,0.0027921892687042026,14
+W2978036638,MASTER: Multi-aspect non-local network for scene text recognition,2021,0.00276900206095803,14
+W3034414401,On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention,2020,0.0027519036953908825,14
+W4226020328,LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding,2022,0.0027483828627595267,14
+W2873558679,Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes,2018,0.002708454337614899,14
+W2997371611,All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting,2020,0.0026580476496593404,14
+W2983626510,Convolutional Character Networks,2019,0.0026516908329088144,14
+W2997749585,TextScanner: Reading Characters in Order for Robust Scene Text Recognition,2020,0.0026509687870814387,14
+W3021347667,"A neural model for text localization, transcription and named entity recognition in full pages",2020,0.0026119366318927088,14
+W3021481629,Text Recognition in the Wild: A Survey,2020,0.00260789112615092,14
+W2768926640,Fully Convolutional Neural Networks for Page Segmentation of Historical Document Images,2018,0.002594442437998049,14
+W2981969038,Towards Unconstrained End-to-End Text Spotting,2019,0.002587411786674571,14
+W2963299454,Handwriting Recognition in Low-Resource Scripts Using Adversarial Learning,2019,0.0025766095620219677,14
+W2959965583,Sequence-To-Sequence Domain Adaptation Network for Robust Text Image Recognition,2019,0.0025705664421183856,14
+W3110267192,RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition,2020,0.0025180313887244675,14
+W3132296545,Towards Robust Visual Information Extraction in Real World: New Dataset and Novel Solution,2021,0.0025087270063276043,14
+W2996956254,Text Perceptron: Towards End-to-End Arbitrary-Shaped Text Spotting,2020,0.0024599015114181925,14
+W2968226676,Arbitrary Shape Scene Text Detection With Adaptive Text Region Representation,2019,0.0024588065441797386,14
+W2795424778,Extracting Scientific Figures with Distantly Supervised Neural Networks,2018,0.002403109065589131,14
+W3034514377,Deep Relational Reasoning Graph Network for Arbitrary Shape Text Detection,2020,0.0023638617428586688,14
+W3038203375,"Accurate, data-efficient, unconstrained text recognition with convolutional neural networks",2020,0.0023408340180099216,14
+W3113463745,LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding,2020,0.0023151613406171057,14
+W3034726763,"OrigamiNet: Weakly-Supervised, Segmentation-Free, One-Step, Full Page Text Recognition by learning to unfold",2020,0.0023089809792058765,14
+W3031548983,Pay attention to what you read: Non-recurrent handwritten text-Line recognition,2022,0.002211879504682071,14
+W3200439183,BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents,2022,0.002187140975805816,14
+W3017171774,PICK: Processing Key Information Extraction from Documents using Improved Graph Learning-Convolutional Networks,2020,0.002173165552024957,14
+W2952285877,2D Attentional Irregular Scene Text Recognizer,2019,0.0020447890621376496,14
+W3202415716,From Two to One: A New Scene Text Recognizer with Visual Language Modeling Network,2021,0.0020220218455055247,14
+W3005400651,Chinese Street View Text: Large-Scale Chinese Text Reading With Partially Supervised Learning,2019,0.0020206142024904055,14
+W3204479434,Vision Transformer for Fast and Efficient Scene Text Recognition,2021,0.0019884368251167767,14
+W4304014014,DiT: Self-supervised Pre-training for Document Image Transformer,2022,0.001987622910536223,14
+W2905413777,Image-to-Markup Generation via Paired Adversarial Learning,2019,0.001965008892311216,14
+W4221167941,XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding,2022,0.0019629461831198406,14
+W3108646486,An End-to-End OCR Text Re-organization Sequence Learning for Rich-Text Detail Image Comprehension,2020,0.0019394394866988109,14
+W2965463054,Total-Text: toward orientation robustness in scene text detection,2019,0.0019364235658905996,14
+W2997864923,GTC: Guided Training of CTC towards Efficient and Accurate Scene Text Recognition,2020,0.0019211305664631373,14
+W2982148195,Editing Text in the Wild,2019,0.001907537316814218,14
+W4312233877,OCR-Free Document Understanding Transformer,2022,0.001872901283333883,14
+W3034904792,ScrabbleGAN: Semi-Supervised Varying Length Handwritten Text Generation,2020,0.0018681996844207432,14
+W3194594797,LayoutReader: Pre-training of Text and Layout for Reading Order Detection,2021,0.0018389808958758323,14
+W2951087161,An Invoice Reading System Using a Graph Convolutional Network,2019,0.001838905901153997,14
+W2774147932,Facial Expression Recognition Using Weighted Mixture Deep Neural Network Based on Double-Channel Facial Images,2017,0.0018176773147243158,14
+W3103667010,PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit,2020,0.0018129185789111657,14
+W2971475692,Pattern generation strategies for improving recognition of Handwritten Mathematical Expressions,2019,0.0018024796795848468,14
+W3035106683,On Vocabulary Reliance in Scene Text Recognition,2020,0.0017711814788963867,14
+W3152831436,PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network,2021,0.0017632174069572748,14
+W3002575754,Handwritten Mathematical Expression Recognition via Paired Adversarial Learning,2020,0.0017563533586060112,14
+W3097932944,Character Region Attention for Text Spotting,2020,0.0017199631432785471,14
+W3004196288,ICDAR 2019 CROHME + TFD: Competition on Recognition of Handwritten Mathematical Expressions and Typeset Formula Detection,2019,0.0016929085489694727,14
+W3111172959,MANGO: A Mask Attention Guided One-Stage Scene Text Spotter,2021,0.0016887637569361256,14
+W3134064484,Text Recognition in the Wild,2021,0.0016357242137125133,14
+W4362612070,"A Survey of OCR in Arabic Language: Applications, Techniques, and Challenges",2023,0.0016233874106483595,14
+W4312230431,Text Spotting Transformers,2022,0.0016063073198092598,14
+W3179897446,TextOCR: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text,2021,0.0015987804840736472,14
+W3190448953,MatchVIE: Exploiting Match Relevancy between Entities for Visual Information Extraction,2021,0.0015763300144036427,14
+W4312879041,Scene Text Recognition with Permuted Autoregressive Sequence Models,2022,0.0015537312382653667,14
+W3014074635,Towards Accurate Scene Text Recognition with Semantic Reasoning Networks,2020,0.0015327132312016327,14
+W3099103595,DocStruct: A Multimodal Method to Extract Hierarchy Structure in Document for General Form Understanding,2020,0.0015155949889208696,14
+W3152774549,LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding,2021,0.0015107979257934175,14
+W3177505580,Scene Text Telescope: Text-Focused Scene Image Super-Resolution,2021,0.0015006968205144348,14
+W3158362813,Named Entity Recognition and Relation Extraction with Graph Neural Networks in Semi Structured Documents,2021,0.001470583335936992,14
+W2928555987,A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition.,2019,0.0014662375671094293,14
+W3159307593,PAN++: Towards Efficient and Accurate End-to-End Spotting of Arbitrarily-Shaped Text,2021,0.0014630831978200746,14
+W3013022628,Multimodal Deep Networks for Text and Image-Based Document Classification,2020,0.0014608046507442857,14
+W4315884068,DAN: A Segmentation-Free Document Attention Network for Handwritten Document Recognition,2023,0.0014606652346854676,14
+W3201139606,Full Page Handwriting Recognition via Image to Sequence Extraction,2021,0.0014447986966352974,14
+W3201871940,"VSR: A Unified Framework for Document Layout Analysis Combining Vision, Semantics and Relations",2021,0.0014438582049058832,14
+W3212748493,"Document AI: Benchmarks, Models and Applications",2021,0.001410884798667684,14
+W2972424968,TextSR: Content-Aware Text Super-Resolution Guided by Recognition,2019,0.0014103581575911801,14
+W3211950664,Transformer-based approach for joint handwriting and named entity recognition in historical document,2021,0.0014083998798398935,14
+W3004194266,Multi-modal Attention Network for Handwritten Mathematical Expression Recognition,2019,0.0013928873970587932,14
+W3175618949,Primitive Representation Learning for Scene Text Recognition,2021,0.0013786282050219038,14
+W3202912918,Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition,2021,0.001376725012323631,14
+W3177684257,What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels,2021,0.001361168436158753,14
+W3175855397,Sequence-to-Sequence Contrastive Learning for Text Recognition,2021,0.0013524192103183527,14
+W4225683503,SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition,2022,0.0013419381778914032,14
+W3132244696,Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer,2021,0.0013214426174122842,14
+W3167392131,Combining Visual and Textual Features for Semantic Segmentation of Historical Newspapers,2021,0.0013034955554749846,14
+W3203055579,ViBERTgrid: A Jointly Trained Multi-modal 2D Document Representation for Key Information Extraction from Documents,2021,0.0012944731879517652,14
+W3111885845,Candidate fusion: Integrating language modelling into a sequence-to-sequence handwritten word recognition architecture,2020,0.001294015703827586,14
+W3043311956,A holistic representation guided attention network for scene text recognition,2020,0.001282942485626775,14
+W4382202677,TrOCR: Transformer-Based Optical Character Recognition with Pre-trained Models,2023,0.001274168738956806,14
+W4229030834,SVTR: Scene Text Recognition with a Single Visual Model,2022,0.0012703711716676364,14
+W4312843595,Multi-granularity Prediction for Scene Text Recognition,2022,0.0012685588029126907,14
+W4285241172,FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction,2022,0.0012552794765293052,14
+W4385574075,ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding,2022,0.0012366124787534824,14
+W3206651063,"PIMNet: A Parallel, Iterative and Mimicking Network for Scene Text Recognition",2021,0.0012315734193769352,14
+W3176276424,"A Multiplexed Network for End-to-End, Multilingual OCR",2021,0.0012088994189534846,14
+W3008483904,Radical analysis network for learning hierarchies of Chinese characters,2020,0.001206004065024368,14
+W3194824089,Beyond document object detection: instance-level segmentation of complex layouts,2021,0.0011952405269746395,14
+W3201922353,LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment,2021,0.0011940979232960471,14
+W4312880451,GLASS: Global to Local Attention for Scene-Text Spotting,2022,0.001189458837208951,14
+W3179426054,Towards End-to-End Text Spotting in Natural Scenes,2021,0.0011892103309294536,14
+W4312351507,Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer,2022,0.0011843876759754259,14
+W4386065837,"Unifying Vision, Text, and Layout for Universal Document Processing",2023,0.0011831404380475072,14
+W3110178865,Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning,2020,0.0011718985176096723,14
+W3186906052,MOST: A Multi-Oriented Scene Text Detector with Localization Refinement,2021,0.0011605232993412982,14
+W2994189733,Adaptive embedding gate for attention-based scene text recognition,2019,0.0011492133442607925,14
+W2997351497,Convolutional Attention Networks for Scene Text Recognition,2019,0.0011483723948943706,14
+W3184364189,Adaptive Boundary Proposal Network for Arbitrary Shape Text Detection,2021,0.0011482024238045527,14
+W4225562651,Multi-modal Text Recognition Networks: Interactive Enhancements Between Visual and Semantic Features,2022,0.0011429082894831972,14
+W4285105124,XFUND: A Benchmark Dataset for Multilingual Visually Rich Form Understanding,2022,0.001139886627653442,14
+W4310335763,"ABINet++: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Spotting",2022,0.0011397483888016943,14
+W4386083087,Conditional Text Image Generation with Diffusion Models,2023,0.0011386449903034081,14
+W4280496051,Text proposals with location-awareness-attention network for arbitrarily shaped scene text detection and recognition,2022,0.0011386449903034081,14
+W3201786596,Towards the Unseen: Iterative Text Recognition by Distilling from Errors,2021,0.0011383625836575706,14
+W2962957458,2D-CTC for Scene Text Recognition,2019,0.0011370583723797553,14
+W4283819468,Context-Based Contrastive Learning for Scene Text Recognition,2022,0.0011279674225207338,14
+W3198984549,VisualWordGrid: Information Extraction from Scanned Documents Using a Multimodal Approach,2021,0.001123937701140402,14
+W3176512504,MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition,2021,0.001118992219814046,14
+W3201757274,Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer,2021,0.0011102273235428645,14
+W2896592058,A tree-BLSTM-based recognition system for online handwritten mathematical expressions,2018,0.0011055851978890008,14
+W3197469504,Searching from the Prediction of Visual and Language Model for Handwritten Chinese Text Recognition,2021,0.0010981600545339318,14
+W4386410320,CDistNet: Perceiving Multi-domain Character Distance for Robust Text Recognition,2023,0.00109379685729295,14
+W3172799005,Progressive Contour Regression for Arbitrary-Shape Scene Text Detection,2021,0.0010908656790932882,14
+W3092894544,Exploring Font-independent Features for Scene Text Recognition,2020,0.0010904061849284486,14
+W4390872501,Vision Grid Transformer for Document Layout Analysis,2023,0.0010897475403507412,14
+W3200280307,ICDAR 2021 Competition on Scientific Literature Parsing,2021,0.0010809258692258958,14
+W2946143059,Natural Scene Text Recognition Based on Encoder-Decoder Framework,2019,0.0010788783795628088,14
+W4313045695,Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition,2022,0.0010766593580176012,14
+W3207806388,Entity Relation Extraction as Dependency Parsing in Visually Rich Documents,2021,0.0010743206093174894,14
+W4304091583,SPTS: Single-Point Text Spotting,2022,0.0010689341260849232,14
+W3035222584,TextFuseNet: Scene Text Detection with Richer Fused Features,2020,0.0010665463993368663,14
+W3083321694,Street View Text Recognition With Deep Learning for Urban Scene Understanding in Intelligent Transportation Systems,2020,0.0010647049922570075,14
+W4386075667,DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting,2023,0.0010640068291317378,14
+W3087858202,PP-OCR: A Practical Ultra Lightweight OCR System,2020,0.0010631452213047702,14
+W4312787220,Levenshtein OCR,2022,0.001059447425509202,14
+W3108675651,Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention,2020,0.0010539683227327268,14
+W4313163001,Multimodal Pre-Training Based on Graph Attention Network for Document Understanding,2022,0.0010493229070863042,14
+W4210337376,Recognition of Handwritten Chinese Text by Segmentation: A Segment-Annotation-Free Approach,2022,0.0010469242672632327,14
+W3186819370,Dictionary-guided Scene Text Recognition,2021,0.0010462806546960631,14
+W2963436467,DenseRAN for Offline Handwritten Chinese Character Recognition,2018,0.0010381963838745015,14
+W3095672411,Adaptive Text Recognition Through Visual Matching,2020,0.0010336596484551513,14
+W4320481960,End-to-End Document Recognition and Understanding with Dessurt,2023,0.001033394664251156,14
+W4312593844,Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection,2022,0.0010319768740326158,14
+W4318465586,Large-scale genealogical information extraction from handwritten Quebec parish records,2023,0.0010317527984001341,14
+W4390670543,Advancements and Challenges in Handwritten Text Recognition: A Comprehensive Survey,2024,0.001025472936233257,14
+W3109173194,A Robust License Plate Recognition Model Based on Bi-LSTM,2020,0.001025472936233257,14
+W4402135494,Reading Order Independent Metrics for Information Extraction in Handwritten Documents,2024,0.001025472936233257,14
+W4382467782,HRDoc: Dataset and Baseline Method toward Hierarchical Reconstruction of Document Structures,2023,0.001025472936233257,14
+W4402702988,LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding,2024,0.001025472936233257,14
+W4226329156,Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition,2022,0.0010230694315701264,14
+W3197981537,An Encoder-Decoder Approach to Handwritten Mathematical Expression Recognition with Multi-head Attention and Stacked Decoder,2021,0.0010147477486338722,14
+W4386075596,GeoLayoutLM: Geometric Pre-training for Visual Information Extraction,2023,0.0010108358234472065,14
+W4292825881,PETR: Rethinking the Capability of Transformer-Based Language Model in Scene Text Recognition,2022,0.0010061571139314122,14
+W4382464147,DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer,2023,0.0010050461926803525,14
+W4312923907,A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution,2022,0.0010034010223129186,14
+W3177167102,Scene Text Retrieval via Joint Text Detection and Similarity Learning,2021,0.0010030982893030668,14
+W4385570166,LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding,2023,0.0009913199991509966,14
+W3204778874,"Text is Text, No Matter What: Unifying Text Recognition using Knowledge Distillation",2021,0.0009910412519313827,14
+W4226544595,Text Gestalt: Stroke-Aware Scene Text Image Super-resolution,2022,0.0009898203758245002,14
+W3153989314,LAMPRET: Layout-Aware Multimodal PreTraining for Document Understanding,2021,0.0009802628557964823,14
+W4283821822,Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition,2022,0.0009792397929869053,14
+W4389524198,Reading Order Matters: Information Extraction from Visually-rich Documents by Token Path Prediction,2023,0.0009771639252604142,14
+W3119350346,Separating Content from Style Using Adversarial Learning for Recognizing Text in the Wild,2021,0.0009758248674307597,14
+W3152720259,Rethinking Text Line Recognition Models,2021,0.0009740357753510323,14
+W3180751782,"Split, Embed and Merge: An accurate table structure recognizer",2022,0.0009717456421434853,14
+W3155464240,Efficient Automated Processing of the Unstructured Documents Using Artificial Intelligence: A Systematic Literature Review and Future Directions,2021,0.0009688869091981812,14
+W2909425146,Review of Scene Text Detection and Recognition,2019,0.0009687169279206484,14
+W4312298799,SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition,2022,0.0009685463884005741,14
+W3207083256,"Show, Read and Reason",2021,0.0009682525980255517,14
+W3199928321,TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models,2021,0.0009600848309132829,14
+W3171030392,Self-attention based Text Knowledge Mining for Text Detection,2021,0.0009564752770186359,14
+W4308236023,Transformer-Based Approach for Document Layout Understanding,2022,0.0009457380799565594,14
+W2979336078,Detecting Mathematical Expressions in Scientific Document Images Using a U-Net Trained on a Diverse Dataset,2019,0.0009457380799565594,14
+W4385991027,DocILE Benchmark for Document Information Localization and Extraction,2023,0.0009457103806250942,14
+W4319777850,Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition,2023,0.0009456316307011474,14
+W3186327500,Post-OCR Paragraph Recognition by Graph Convolutional Networks,2022,0.0009454020262902955,14
+W3164707697,Stroke constrained attention network for online handwritten mathematical expression recognition,2021,0.0009405938956806436,14
+W4285810657,Tree-based data augmentation and mutual learning for offline handwritten mathematical expression recognition,2022,0.0009405938956806436,14
+W4283805255,Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition,2022,0.0009356749519595166,14
+W3034556548,Visual and Textual Deep Feature Fusion for Document Image Classification,2020,0.000934935292977136,14
+W3167911358,TextStyleBrush: Transfer of Text Aesthetics From a Single Example,2023,0.000934935292977136,14
+W3216533828,Donut: Document Understanding Transformer without OCR,2021,0.0009342750723563812,14
+W3113987534,SLOAN: Scale-Adaptive Orientation Attention Network for Scene Text Recognition,2020,0.000930656797943241,14
+W4380839071,Arbitrary Shape Text Detection via Boundary Transformer,2023,0.0009300264359112682,14
+W3014690505,ASTS: A Unified Framework for Arbitrary Shape Text Spotting,2020,0.0009291571754929057,14
+W4313172891,Language Matters: A Weakly Supervised Vision-Language Pre-training Approach for Scene Text Detection and Spotting,2022,0.000926622564632267,14
+W4313006333,Vision-Language Pre-Training for Boosting Scene Text Detectors,2022,0.000924668041622146,14
+W3184923351,Transformer-based Text Detection in the Wild,2021,0.000923188501127543,14
+W3045717997,SCUT-HCCDoc: A new benchmark dataset of handwritten Chinese text in unconstrained camera-captured documents,2020,0.0009212606359391446,14
+W3122447812,2D Positional Embedding-based Transformer for Scene Text Recognition,2021,0.0009200153459162806,14
+W3159162875,ConvMath: A Convolutional Sequence Network for Mathematical Expression Recognition,2021,0.0009170590229698998,14
+W4386075876,Modeling Entities as Semantic Points for Visual Information Extraction in the Wild,2023,0.0009127565798022746,14
+W4402082933,HierCode: A lightweight hierarchical codebook for zero-shot Chinese text recognition,2024,0.0009123008821631056,14
+W3109569233,A Survey of Deep Learning Approaches for OCR and Document Understanding,2020,0.0009123008821631056,14
+W4385765054,RZCR: Zero-shot Character Recognition via Radical-based Reasoning,2023,0.0009123008821631056,14
+W4320481815,Doc2Graph: A Task Agnostic Document Understanding Framework Based on Graph Neural Networks,2023,0.0009045579609130796,14
+W4386065412,Turning a CLIP Model into a Scene Text Detector,2023,0.0009030447472246729,14
+W4394625882,DTrOCR: Decoder-only Transformer for Optical Character Recognition,2024,0.000897897166190541,14
+W4386075746,Towards Unified Scene Text Spotting Based on Sequence Generation,2023,0.0008962084208516652,14
+W4382400366,Industrial‐generative pre‐trained transformer for intelligent manufacturing systems,2023,0.0008961334458673697,14
+W4220926422,Robust text line detection in historical documents: learning and evaluation methods,2022,0.0008946084030019467,14
+W2890023978,Recurrent Global Convolutional Network for Scene Text Detection,2018,0.0008917241450594418,14
+W4386453743,SPTS v2: Single-Point Scene Text Spotting,2023,0.0008881067892593691,14
+W4312457904,Graph Neural Networks and Representation Embedding for Table Extraction in PDF Documents,2022,0.000884531796709315,14
+W4385982258,ICDAR 2023 Competition on Document UnderstanDing of Everything (DUDE),2023,0.0008840078686455678,14
+W3205961173,MMOCR,2021,0.0008840078686455678,14
+W4304092561,Decoupling Recognition from Detection: Single Shot Self-Reliant Scene Text Spotter,2022,0.0008830787798203094,14
+W4312299669,CoMER: Modeling Coverage for Transformer-Based Handwritten Mathematical Expression Recognition,2022,0.0008822632508429041,14
+W3106940130,AE TextSpotter: Learning Visual and Linguistic Representation for Ambiguous Text Spotting,2020,0.00088182578089067,14
+W4321485374,Visual Matching is Enough for Scene Text Retrieval,2023,0.0008745768641397219,14
+W4221167659,WebFormer: The Web-page Transformer for Structure Information Extraction,2022,0.0008745768641397219,14
+W4385767967,TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition,2023,0.000873023522221112,14
+W4321033098,VLCDoC: Vision-Language contrastive pre-training model for cross-Modal document classification,2023,0.0008670320605350451,14
+W4385990785,Text Reading Order in Uncontrolled Conditions by Sparse Graph Segmentation,2023,0.0008670320605350451,14
+W4285606401,C3-STISR: Scene Text Image Super-resolution with Triple Clues,2022,0.0008670320605350451,14
+W4385990846,Visual Information Extraction in the Wild: Practical Dataset and End-to-End Solution,2023,0.0008609454962825328,14
+W4319301060,LayerDoc: Layer-wise Extraction of Spatial Hierarchical Structure in Visually-Rich Documents,2023,0.0008608590394039459,14
+W3202466114,LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis,2021,0.0008608590394039459,14
+W4304080540,You Can even Annotate Text with Voice: Transcription-only-Supervised Text Spotting,2022,0.0008560159043664939,14
+W4313125865,Syntax-Aware Network for Handwritten Mathematical Expression Recognition,2022,0.0008557148551280301,14
+W4385767840,Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition,2023,0.0008557148551280301,14
+W4384891056,DocGraphLM: Documental Graph Language Model for Information Extraction,2023,0.0008557148551280301,14
+W3206324399,MarkupLM: Pre-training of Text and Markup Language for Visually Rich Document Understanding,2022,0.0008557148551280301,14
+W3025830232,Multi-branch guided attention network for irregular text recognition,2020,0.000852707015456703,14
+W3128247800,Text Detection Using Multi-Stage Region Proposal Network Sensitive to Text Scale,2021,0.000850570670852114,14
+W4320489219,Out-of-Vocabulary Challenge Report,2023,0.0008495978013542923,14
+W4312932251,SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization,2022,0.000845200759000918,14
+W4386065575,Self-Supervised Implicit Glyph Attention for Text Recognition,2023,0.0008435840153713445,14
+W4382202584,A Question-Answering Approach to Key Value Pair Extraction from Form-Like Document Images,2023,0.0008415683483692611,14
+W4390873338,DocTr: Document Transformer for Structured Information Extraction in Documents,2023,0.0008415683483692611,14
+W4385768059,Fast-StrucTexT: An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding,2023,0.0008415683483692611,14
+W4390871920,ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction,2023,0.0008406220447028108,14
+W4362585819,A Convolutional Recurrent Neural-Network-Based Machine Learning for Scene Text Recognition Application,2023,0.0008390719060000666,14
+W3189348500,I3CL: Intra- and Inter-Instance Collaborative Learning for Arbitrary-Shaped Scene Text Detection,2022,0.0008367997584682182,14
+W4280542149,An extended attention mechanism for scene text recognition,2022,0.0008348673714835284,14
+W4390874051,ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer,2023,0.0008343917526620866,14
+W4390872070,LISTER: Neighbor Decoding for Length-Insensitive Scene Text Recognition,2023,0.0008330804443139998,14
+W4292937962,Business Document Information Extraction: Towards Practical Benchmarks,2022,0.0008326118770486004,14
+W4375869061,A3S: Adversarial Learning of Semantic Representations for Scene-Text Spotting,2023,0.0008323008306450616,14
+W4401415142,Diving into the Depths of Spotting Text in Multi-Domain Noisy Scenes,2024,0.0008299939337484502,14
+W4403792358,DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training,2024,0.0008299939337484502,14
+W3169016642,Implicit Feature Alignment: Learn to Convert Text Recognizer to Text Spotter,2021,0.0008253466469106885,14
+W3113417909,On Calibration of Scene-Text Recognition Models,2023,0.0008233799825365581,14
+W4312965673,Pushing the Performance Limit of Scene Text Recognizer without Human Annotation,2022,0.0008233799825365581,14
+W4390872592,Self-supervised Character-to-Character Distillation for Text Recognition,2023,0.0008217632389069846,14
+W3211262047,A decade: Review of scene text detection methods,2021,0.0008197055651966182,14
+W4296211656,A Transformer-Based Framework for Scene Text Recognition,2022,0.0008197055651966182,14
+W4385990942,DocParser: End-to-end OCR-Free Information Extraction from Visually Rich Documents,2023,0.0008124431873953251,14
+W4408106711,SKIE-SRL: Structured Key Information Extraction from Business Documents Using Statistical Relational Learning,2025,0.0007991288280929543,14
+W3169729987,A retrospective study on handwritten mathematical symbols and expressions: Classification and recognition,2021,0.0007991288280929543,14
+W4407254152,"Arbitrary-Shape Text Spotting Based on Global, Pixel and Sequence Semantics",2025,0.0007991288280929543,14
+W4406702620,UFLA-FORMS: an academic forms dataset for information extraction in the Portuguese language,2025,0.0007991288280929543,14
+W3024091087,Exploring Deep Learning Approaches to Recognize Handwritten Arabic Texts,2020,0.0007991288280929543,14
+W4321609266,DOC: Text Recognition via Dual Adaptation and Clustering,2023,0.0007991288280929543,14
+W4402191334,HTR-VT: Handwritten text recognition with vision transformer,2024,0.0007991288280929543,14
+W4406984680,MTMFNet: multi-threshold and multi-scale feature fusion network for text detection,2025,0.0007991288280929543,14
+W4407254626,Language-Aware Non-autoregressive Khmer Textline Recognition,2025,0.0007991288280929543,14
+W4392138827,Development and application of emotion recognition technology — a systematic literature review,2024,0.0007991288280929543,14
+W4386832326,An adaptive n-gram transformer for multi-scale scene text recognition,2023,0.0007991288280929543,14
+W4406258852,Attention Guidance by Cross-Domain Supervision Signals for Scene Text Recognition,2025,0.0007991288280929543,14
+W4384636790,Form-NLU: Dataset for the Form Natural Language Understanding,2023,0.0007991288280929543,14
+W2592175858,A Novel Text Structure Feature Extractor for Chinese Scene Text Detection and Recognition,2017,0.0007991288280929543,14
+W4406270097,Vision-language pre-training for graph-based handwritten mathematical expression recognition,2025,0.0007991288280929543,14
+W3034812631,Cursive Character Recognition in Natural Scene Images Using a Multilevel Convolutional Neural Network Fusion,2020,0.0007991288280929543,14
+W3128588897,A Single Neural Network for Mixed Style License Plate Detection and Recognition,2021,0.0007991288280929543,14
+W4385990963,Detecting Forged Receipts with Domain-Specific Ontology-Based Entities &amp; Relations,2023,0.0007991288280929543,14
+W3103821002,Understanding Optical Music Recognition,2020,0.0007991288280929543,14
+W4393207191,Masked and Permuted Implicit Context Learning for Scene Text Recognition,2024,0.0007991288280929543,14
+W3180901325,Multi-Layout Unstructured Invoice Documents Dataset: A Dataset for Template-Free Invoice Processing and Its Evaluation Using AI Approaches,2021,0.0007991288280929543,14
+W4206594836,Fast and Robust Online Handwritten Chinese Character Recognition With Deep Spatial and Contextual Information Fusion Network,2022,0.0007991288280929543,14
+W4396506223,SignboardText: Text Detection and Recognition in In-the-Wild Signboard Images,2024,0.0007991288280929543,14
+W4381090279,Scene text understanding: recapitulating the past decade,2023,0.0007991288280929543,14
+W4392293656,Enhancing medical text detection with vision-language pre-training and efficient segmentation,2024,0.0007991288280929543,14
+W4391469833,Reading order detection in visually-rich documents with multi-modal layout-aware relation prediction,2024,0.0007991288280929543,14
+W4385982317,A Hybrid Approach to Document Layout Analysis for Heterogeneous Document Images,2023,0.0007991288280929543,14
+W3176028514,ScanBank: A Benchmark Dataset for Figure Extraction from Scanned Electronic Theses and Dissertations,2021,0.0007991288280929543,14
+W4407021510,Information extraction from unstructured well reports,2025,0.0007991288280929543,14
+W4281616076,STR Transformer: A Cross-domain Transformer for Scene Text Recognition,2022,0.0007991288280929543,14
+W4390871731,CLIPTER: Looking at the Bigger Picture in Scene Text Recognition,2023,0.0007991288280929543,14
+W4403770375,UDiffText: A Unified Framework for High-Quality Text Synthesis in Arbitrary Images via Character-Aware Diffusion Models,2024,0.0007991288280929543,14
+W4399389699,Neural models for semantic analysis of handwritten document images,2024,0.0007991288280929543,14
+W4406229686,Improving Named Entity Recognition in Handwritten Documents by Predicting Pyramidal Histograms of Characters,2025,0.0007991288280929543,14
+W2984648732,Automatic Generation of a Custom Corpora for Invoice Analysis and Recognition,2019,0.0007991288280929543,14
+W4385571493,FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction,2023,0.0007991288280929543,14
+W4386017236,Fine-Tuning Vision Encoder–Decoder Transformers for Handwriting Text Recognition on Historical Documents,2023,0.0007991288280929543,14
+W4210692322,A Two-Level Rectification Attention Network for Scene Text Recognition,2022,0.0007991288280929543,14
+W4386008071,SwinDocSegmenter: An End-to-End Unified Domain Adaptive Transformer for Document Instance Segmentation,2023,0.0007991288280929543,14
+W4390805912,An Attention-Based Convolutional Recurrent Neural Networks for Scene Text Recognition,2024,0.0007991288280929543,14
+W4386066295,Towards Flexible Multi-modal Document Models,2023,0.0007991288280929543,14
+W4392980188,Turning a CLIP Model into a Scene Text Spotter,2024,0.0007991288280929543,14
+W4407059124,Enhancing Arabic Handwritten Recognition System Based CNN-BLSTM Using Generative Adversarial Networks,2025,0.0007991288280929543,14
+W4387968089,Symmetrical Linguistic Feature Distillation with CLIP for Scene Text Recognition,2023,0.0007991288280929543,14
+W4408808198,Construction regulatory document digitalization with layout knowledge-informed object detection and semantic text recognition,2025,0.0007991288280929543,14
+W3213968854,Traditional to transfer learning progression on scene text detection and recognition: a survey,2021,0.0007991288280929543,14
+W4407667616,Enhancing OCR in historical documents with complex layouts through machine learning,2025,0.0007991288280929543,14
+W4391964546,Collaborative Encoding Method for Scene Text Recognition in Low Linguistic Resources: The Uyghur Language Case Study,2024,0.0007991288280929543,14
+W4407253873,Shared Vision Transformer Helps Scene Text Retrieval,2025,0.0007991288280929543,14
+W4392472425,The Industrial Application of Artificial Intelligence-Based Optical Character Recognition in Modern Manufacturing Innovations,2024,0.0007991288280929543,14
+W2900453221,Recurrent Adaptation Networks for Online Signature Verification,2018,0.0007991288280929543,14
+W4385571871,Are Layout-Infused Language Models Robust to Layout Distribution Shifts? A Case Study with Scientific Documents,2023,0.0007991288280929543,14
+W4390619700,Multimodal weighted graph representation for information extraction from visually rich documents,2024,0.0007991288280929543,14
+W3167911834,Towards end-to-end car license plate location and recognition in unconstrained scenarios,2021,0.0007991288280929543,14
+W4386107415,Visual information extraction deep learning method：a critical review,2023,0.0007991288280929543,14
+W4402716457,Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models,2024,0.0007991288280929543,14
+W4385270165,ResuFormer: Semantic Structure Understanding for Resumes via Multi-Modal Pre-training,2023,0.0007991288280929543,14
+W4402335783,GraphMLLM: A Graph-Based Multi-level Layout Language-Independent Model for Document Understanding,2024,0.0007991288280929543,14
+W4406196974,DANIEL: a fast document attention network for information extraction and labelling of handwritten documents,2025,0.0007991288280929543,14
+W4361011122,Document Analysis and Recognition: A survey,2023,0.0007991288280929543,14
+W4402830235,GOPT: Generalizable Online 3D Bin Packing via Transformer-Based Deep Reinforcement Learning,2024,0.0007991288280929543,14
+W4404725181,DiffusionPen: Towards Controlling the Style of Handwritten Text Generation,2024,0.0007991288280929543,14
+W3133170446,Dense Residual Network: Enhancing global dense feature flow for character recognition,2021,0.0007991288280929543,14
+W4207058148,EMU: Effective Multi-Hot Encoding Net for Lightweight Scene Text Recognition With a Large Character Set,2022,0.0007991288280929543,14
+W4318823461,Rethinking text rectification for scene text recognition,2023,0.0007991288280929543,14
+W4284685252,"Text detection, recognition, and script identification in natural scene images: a Review",2022,0.0007991288280929543,14
+W4400584620,End-to-End Video Text Spotting with Transformer,2024,0.0007991288280929543,14
+W4226502635,EmmDocClassifier: Efficient Multimodal Document Image Classifier for Scarce Data,2022,0.0007991288280929543,14
+W4406067002,IMTLM-Net: improved multi-task transformer based on localization mechanism network for handwritten English text recognition,2025,0.0007991288280929543,14
+W4385991043,Language Independent Neuro-Symbolic Semantic Parsing for Form Understanding,2023,0.0007991288280929543,14
+W4382602926,End-to-end optical music recognition for pianoform sheet music,2023,0.0007991288280929543,14
+W4312800234,Open-Set Text Recognition via Character-Context Decoupling,2022,0.0007991288280929543,14
+W4395449500,A survey on handwritten mathematical expression recognition: The rise of encoder-decoder and GNN models,2024,0.0007991288280929543,14
+W4394625581,Scene Text Image Super-resolution based on Text-conditional Diffusion Models,2024,0.0007991288280929543,14
+W3207420819,Met-MLTS: Leveraging Smartphones for End-to-End Spotting of Multilingual Oriented Scene Texts and Traffic Signs in Adverse Meteorological Conditions,2021,0.0007991288280929543,14
+W4212915707,SeeTek: Very Large-Scale Open-set Logo Recognition with Text-Aware Metric Learning,2022,0.0007991288280929543,14
+W4408974494,Bi-VLDoc: bidirectional vision-language modeling for visually-rich document understanding,2025,0.0007991288280929543,14
+W4318147820,ClinicalLayoutLM: A Pre-trained Multi-modal Model for Understanding Scanned Document in Electronic Health Records,2022,0.0007991288280929543,14
+W4404970060,FastTextSpotter: A High-Efficiency Transformer for Multilingual Scene Text Spotting,2024,0.0007991288280929543,14
+W4388336558,Simsiam Network Based Self-supervised Model for Sign Language Recognition,2023,0.0007991288280929543,14
+W4385471990,"Investigations on Self-supervised Learning for Script-, Font-type, and Location Classification on Historical Documents",2023,0.0007991288280929543,14
+W4400431778,A task‐centric knowledge graph construction method based on multi‐modal representation learning for industrial maintenance automation,2024,0.0007991288280929543,14
+W4407381115,<scp>PM<sub>2.5</sub></scp> Concentration Prediction Using <scp>CNN</scp>‐<scp>LSTM</scp> Model Based on Multi‐Feature Fusion,2025,0.0007991288280929543,14
+W4410192162,TextBlockV2: Towards Precise-Detection-Free Scene Text Spotting with Pre-trained Language Model,2025,0.0007991288280929543,14
+W4406106184,DocExtractNet: A novel framework for enhanced information extraction from business documents,2025,0.0007991288280929543,14
+W4402422601,CREPE: Coordinate-Aware End-to-End Document Parser,2024,0.0007991288280929543,14
+W4408327116,Information extraction from multi-layout invoice images using FATURA dataset,2025,0.0007991288280929543,14
+W4393152519,Text recuperated using ontology with stable marriage optimization technique and text visualization using AR,2024,0.0007991288280929543,14
+W4406580846,UCR: A unified character-radical dual-supervision framework for accurate Chinese character recognition,2025,0.0007991288280929543,14
+W4402716147,"OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition",2024,0.0007991288280929543,14
+W4394779950,From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures,2024,0.0007991288280929543,14
+W4409098822,Improving Document-Based Question Answering with Multi-modal Learning: Batch Size and Token Modality Experiments,2025,0.0007991288280929543,14
+W4385988828,A survey of text detection and recognition algorithms based on deep learning technology,2023,0.0007991288280929543,14
+W4378528383,Artificially Intelligent Readers: An Adaptive Framework for Original Handwritten Numerical Digits Recognition with OCR Methods,2023,0.0007991288280929543,14
+W4409253862,Vietnamese Receipt Information Extraction Using OCR and Deep Learning: A Hybrid Approach with Fuzzy C-Means and PhoBERTv2,2025,0.0007991288280929543,14
+W4292261508,Center TextSpotter: A Novel Text Spotter for Autonomous Unmanned Vehicles,2022,0.0007991288280929543,14
+W4392133760,An approach for handwritten Chinese text recognition unifying character segmentation and recognition,2024,0.0007991288280929543,14
+W4385570779,MUSTIE: Multimodal Structural Transformer for Web Information Extraction,2023,0.0007991288280929543,14
+W4408473936,Detecting reading orders with block-based models for OCR for classical Chinese documents: concepts and demonstrations,2025,0.0007991288280929543,14

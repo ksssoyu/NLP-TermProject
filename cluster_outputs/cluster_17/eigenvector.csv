@@ -1,0 +1,362 @@
+paper_id,title,year,eigenvector,cluster_id
+W2945475330,Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems,2019,0.2424646926483254,17
+W2963797754,A Network-based End-to-End Trainable Task-oriented Dialogue System,2017,0.22717592468580883,17
+W2964101860,Neural Belief Tracker: Data-Driven Dialogue State Tracking,2017,0.2056031134954742,17
+W2997771882,Towards Scalable Multi-Domain Conversational Agents: The Schema-Guided Dialogue Dataset,2020,0.16974645324411408,17
+W2798914047,Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures,2018,0.1597287522516097,17
+W2962831269,SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking,2019,0.15520221035733228,17
+W2798367796,Global-Locally Self-Attentive Encoder for Dialogue State Tracking,2018,0.15495134649661715,17
+W3034573951,Efficient Dialogue State Tracking by Selectively Overwriting Memory,2020,0.15473349252635543,17
+W2963283951,An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking,2018,0.14917147162588804,17
+W2979400990,Dialog State Tracking: A Neural Reading Comprehension Approach,2019,0.1437738612917689,17
+W3119649668,Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking,2019,0.13424253969332722,17
+W3156697766,S<scp>oloist</scp>: BuildingTask Bots at Scale with Transfer Learning and Machine Teaching,2021,0.13082329978043816,17
+W2963009325,Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing,2018,0.1283400361192355,17
+W2963641152,Towards Universal Dialogue State Tracking,2018,0.12390147239793911,17
+W3201659492,Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System,2022,0.12187388030250669,17
+W2988252747,Multi-domain Dialogue State Tracking as Dynamic Knowledge Graph Enhanced Question Answering.,2019,0.11956874708209891,17
+W2891732163,MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling,2018,0.1181564954247703,17
+W3045703328,MultiWOZ 2.2 : A Dialogue Dataset with Additional Annotation Corrections and State Tracking Baselines,2020,0.10643657772444765,17
+W2970404807,Scalable and Accurate Dialogue State Tracking via Hierarchical Sequence Generation,2019,0.10277883969681592,17
+W3174076858,A Sequence-to-Sequence Approach to Dialogue State Tracking,2021,0.09916077726477872,17
+W3100110884,TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue,2020,0.09853648675760333,17
+W3088273075,Recent advances and challenges in task-oriented dialog systems,2020,0.09674813504100138,17
+W3034533785,End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,2020,0.09522544150993094,17
+W3189817881,SOLOIST: Building Task Bots at Scale with Transfer Learning and Machine Teaching,2020,0.08916344663001258,17
+W3045689439,From Machine Reading Comprehension to Dialogue State Tracking: Bridging the Gap,2020,0.08793826764128568,17
+W3035633461,A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking,2020,0.08645853414488795,17
+W3184055159,Recent Neural Methods on Dialogue State Tracking for Task-Oriented Dialogue Systems: A Survey,2021,0.0858090861297436,17
+W2953071719,Semantically Conditioned Dialog Response Generation via Hierarchical Disentangled Self-Attention,2019,0.08568650414818402,17
+W3021016503,A Simple Language Model for Task-Oriented Dialogue,2020,0.0852834316109376,17
+W3151066410,Jointly Optimizing State Operation Prediction and Value Generation for Dialogue State Tracking,2020,0.08445231777365118,17
+W3106495716,Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking,2020,0.08398494390581207,17
+W2997108628,Task-Oriented Dialog Systems That Consider Multiple Appropriate Responses under the Same Context,2020,0.08392681892359831,17
+W2988647680,"Hello, It’s GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems",2019,0.08264922939729105,17
+W2972777589,BERT-DST: Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer,2019,0.08076509270678035,17
+W3200895474,Dialogue State Tracking with a Language Model using Schema-Driven Prompting,2021,0.08054834501521792,17
+W3024509506,SOLOIST: Few-shot Task-Oriented Dialog with A Single Pre-trained Auto-regressive Model,2020,0.07951503612451487,17
+W2604698497,Frames: a corpus for adding memory to goal-oriented dialogue systems,2017,0.07918502915624202,17
+W3123457785,Domain-Aware Dialogue State Tracker for Multi-Domain Dialogue Systems,2021,0.07761021360027238,17
+W3112180926,UBAR: Towards Fully End-to-End Task-Oriented Dialog Systems with GPT-2,2020,0.07725817986040705,17
+W3008966357,Non-Autoregressive Dialog State Tracking,2020,0.07705703860913782,17
+W4206496297,Zero-Shot Dialogue State Tracking via Cross-Task Transfer,2021,0.07571069126148598,17
+W3168491067,Leveraging Slot Descriptions for Zero-Shot Cross-Domain Dialogue StateTracking,2021,0.07555139052150855,17
+W3208705495,MultiWOZ 2.3: A Multi-domain Task-Oriented Dialogue Dataset Enhanced with Annotation Corrections and Co-Reference Annotation,2021,0.075068104752079,17
+W3169116585,Dialogue State Tracking with Incremental Reasoning,2021,0.07442775153511158,17
+W3101469874,UniConv: A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues,2020,0.07435261644621668,17
+W2963692154,ConvLab: Multi-Domain End-to-End Dialog System Platform,2019,0.0743492834471438,17
+W3154553408,Multi-domain Dialogue State Tracking with Recursive Inference,2021,0.07399087810382497,17
+W3154346839,Zero-shot Generalization in Dialog State Tracking through Generative Question Answering,2021,0.07244238537900163,17
+W3104078590,ConveRT: Efficient and Accurate Conversational Representations from Transformers,2020,0.0724025835225066,17
+W3174663234,Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking,2021,0.07222915413164246,17
+W4385571969,MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking,2023,0.0718817592349954,17
+W4232882609,Proceedings of the 2nd Workshop on Natural Language Processing for Conversational AI,2020,0.07143264842401809,17
+W3099140977,Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking,2020,0.07138287602474655,17
+W4308450320,Hierarchical temporal slot interactions for dialogue state tracking,2022,0.07097292914822555,17
+W3037879762,"ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems",2020,0.07065374075431313,17
+W3173691672,"Preview, Attend and Review: Schema-Aware Curriculum Learning for Multi-Domain Dialogue State Tracking",2021,0.07063211775747517,17
+W3034284249,Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking,2020,0.0700236040241813,17
+W1948566616,Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems,2015,0.06942708564630894,17
+W4385573341,In-Context Learning for Few-Shot Dialogue State Tracking,2022,0.06904126247517582,17
+W2784070054,Building a Conversational Agent Overnight with Dialogue Self-Play,2018,0.068581930209442,17
+W2915295540,Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models,2019,0.0673708913685524,17
+W4226451629,"Dialogue Summaries as Dialogue States (DS2), Template-Guided Summarization for Few-shot Dialogue State Tracking",2022,0.06717922297688786,17
+W3015974317,Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking,2020,0.06623676772717044,17
+W2998432370,MA-DST: Multi-Attention-Based Scalable Dialog State Tracking,2020,0.06623393598235672,17
+W3095507100,MultiWOZ 2.3: A multi-domain task-oriented dialogue dataset enhanced with annotation corrections and co-reference annotation,2020,0.06565794647693131,17
+W3101131512,GCDST: A Graph-based and Copy-augmented Multi-domain Dialogue State Tracking,2020,0.0653675160357397,17
+W4385570001,Diable: Efficient Dialogue State Tracking as Operations on Tables,2023,0.06534633246834574,17
+W4294974598,UBAR: Towards Fully End-to-End Task-Oriented Dialog System with GPT-2,2021,0.06509383426877836,17
+W4317897811,OPAL: Ontology-Aware Pretrained Language Model for End-to-End Task-Oriented Dialogue,2023,0.06498378305020644,17
+W3216055172,GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-supervised Learning and Explicit Policy Injection,2022,0.06391186560906696,17
+W4229044077,LUNA: Learning Slot-Turn Alignment for Dialogue State Tracking,2022,0.06299102002718512,17
+W3158235155,A Comparative Study on Schema-Guided Dialogue State Tracking,2021,0.062469796284766746,17
+W3102854726,Few-shot Natural Language Generation for Task-Oriented Dialog,2020,0.0622881663994473,17
+W2979318799,Find or Classify? Dual Strategy for Slot-Value Predictions on Multi-Domain Dialog State Tracking,2019,0.062285178148958974,17
+W3178633887,Pretraining the Noisy Channel Model for Task-Oriented Dialogue,2021,0.061555400679499724,17
+W3197574297,Task-Oriented Dialogue System as Natural Language Generation,2022,0.060755113929575576,17
+W3173154122,RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems,2021,0.05945815869030362,17
+W4310872998,Enhanced Multi-Domain Dialogue State Tracker With Second-Order Slot Interactions,2022,0.05936225416990793,17
+W3174401467,UBAR: Towards Fully End-to-End Task-Oriented Dialog Systems with GPT-2.,2020,0.05916348405409832,17
+W4283072378,Multimodal Dialogue State Tracking,2022,0.05897351949044322,17
+W4409262492,RAICL-DSC: Retrieval-Augmented In-Context Learning for Dialogue State Correction,2025,0.05887847556073161,17
+W4224131719,Dynamic Schema Graph Fusion Network for Multi-Domain Dialogue State Tracking,2022,0.05871481549389653,17
+W4281398986,Beyond the Granularity: Multi-Perspective Dialogue Collaborative Selection for Dialogue State Tracking,2022,0.05797006760914445,17
+W4382318248,Dialogue State Distillation Network with Inter-slot Contrastive Learning for Dialogue State Tracking,2023,0.057962843947460096,17
+W4389009408,AARGH! End-to-end Retrieval-Generation for Task-Oriented Dialog,2022,0.0567546469269755,17
+W3213972251,Generation and Extraction Combined Dialogue State Tracking with Hierarchical Ontology Integration,2021,0.05663392168648608,17
+W3208280523,Contextual Semantic Parsing for Multilingual Task-Oriented Dialogues,2023,0.05534987185888844,17
+W3125487953,Zero-shot Generalization in Dialog State Tracking through Generative Question Answering,2021,0.05531899872380729,17
+W2979520138,Structured Fusion Networks for Dialog,2019,0.05454100691665508,17
+W2594726847,Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning,2017,0.05426331210180144,17
+W3128826916,Domain-Slot Relationship Modeling Using a Pre-Trained Language Encoder for Multi-Domain Dialogue State Tracking,2022,0.05421720866004028,17
+W2952267213,Training Neural Response Selection for Task-Oriented Dialogue Systems,2019,0.05403207782941373,17
+W3205840253,DS-TOD: Efficient Domain Specialization for Task-Oriented Dialog,2022,0.05329397874134389,17
+W4361806113,Zero-Shot Generalizable End-to-End Task-Oriented Dialog System using Context Summarization and Domain Schema,2023,0.053170896547354095,17
+W4375858696,Zero-Shot Generalizable End-to-End Task-Oriented Dialog System using Context Summarization and Domain Schema,2023,0.053170896547354095,17
+W3035594326,Dialogue State Tracking with Explicit Slot Connection Modeling,2020,0.053066654913045665,17
+W4285189764,ASSIST: Towards Label Noise-Robust Dialogue State Tracking,2022,0.052909526310467365,17
+W3045492832,Efficient Intent Detection with Dual Sentence Encoders,2020,0.052092565720570146,17
+W3100544532,Conversational Semantic Parsing for Dialog State Tracking,2020,0.05190839927669653,17
+W2987442863,Efficient Dialogue State Tracking by Selectively Overwriting Memory,2019,0.05179616669699474,17
+W4400010745,UTMGAT: a unified transformer with memory encoder and graph attention networks for multidomain dialogue state tracking,2024,0.05082521002759965,17
+W2806600904,"Bootstrapping a Neural Conversational Agent with Dialogue Self-Play, Crowdsourcing and On-Line Reinforcement Learning",2018,0.050040139033710435,17
+W3083924892,Robust Conversational AI with Grounded Text Generation,2020,0.04994898297295463,17
+W3091355780,DialoGLUE: A Natural Language Understanding Benchmark for Task-Oriented Dialogue,2020,0.049865161409952515,17
+W4385573166,CGoDial: A Large-Scale Benchmark for Chinese Goal-oriented Dialog Evaluation,2022,0.04977309634453397,17
+W3030984790,Rethinking Dialogue State Tracking with Reasoning,2020,0.04930950991303896,17
+W3096389904,Robust dialog state tracker with contextual-feature augmentation,2020,0.04796602597291342,17
+W3036362489,CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset,2020,0.04771307603881,17
+W4385574182,Controllable Dialogue Simulation with In-context Learning,2022,0.047043784057551115,17
+W4385570276,"Divide, Conquer, and Combine: Mixture of Semantic-Independent Experts for Zero-Shot Dialogue State Tracking",2023,0.04694821787293249,17
+W3044597194,MultiWOZ 2.2 : A Dialogue Dataset with Additional Annotation Corrections and State Tracking Baselines,2020,0.046891202634035165,17
+W3030754432,MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines.,2020,0.046069957512742545,17
+W3162479984,Overview of the Eighth Dialog System Technology Challenge: DSTC8,2021,0.0460277082245213,17
+W2985067290,Taskmaster-1: Toward a Realistic and Diverse Dialog Dataset,2019,0.04564576243774386,17
+W4213173126,AraConv: Developing an Arabic Task-Oriented Dialogue System Using Multi-Lingual Transformer Model mT5,2022,0.04520100984040585,17
+W3034861927,Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations,2020,0.04511268950934092,17
+W4389524333,DiSTRICT: Dialogue State Tracking with Retriever Driven In-Context Tuning,2023,0.044781453519516734,17
+W3207583316,GlobalWoZ: Globalizing MultiWoZ to Develop Multilingual Task-Oriented Dialogue Systems,2022,0.04451634440244773,17
+W4287854472,BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog,2022,0.04421697321325775,17
+W3099231098,Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation,2020,0.044210086798469266,17
+W2972437240,A Repository of Conversational Datasets,2019,0.04308768508358905,17
+W3098199128,RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling,2020,0.04223587732748066,17
+W4390686325,Multi-domain gate and interactive dual attention for multi-domain dialogue state tracking,2024,0.04179578785652563,17
+W4385572445,Task-Optimized Adapters for an End-to-End Task-Oriented Dialogue System,2023,0.04174788477673718,17
+W2950765829,Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems,2019,0.040914751441928784,17
+W2749436976,An End-to-End Trainable Neural Network Model with Belief Tracking for Task-Oriented Dialog,2017,0.04086684865164296,17
+W4385570786,ChatGPT for Zero-shot Dialogue State Tracking: A Solution or an Opportunity?,2023,0.04080771882131694,17
+W3185827732,"Shades of BLEU, Flavours of Success: The Case of MultiWOZ",2021,0.04062630368375612,17
+W2963567240,Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems,2018,0.04043303513367403,17
+W3115336344,Continual Learning for Task-Oriented Dialogue Systems,2024,0.0403151486202351,17
+W4386566453,Stabilized In-Context Learning with Pre-trained Language Models for Few Shot Dialogue State Tracking,2023,0.04026288660954229,17
+W3207327529,SGD-X: A Benchmark for Robust Generalization in Schema-Guided Dialogue Systems,2022,0.04002067792164828,17
+W4287887270,Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog,2022,0.03989814881080929,17
+W4328052582,ViWOZ: A Multi-Domain Task-Oriented DialogueSystems Dataset For Low-resource Language,2023,0.039831764739966725,17
+W3035337525,Multi-Domain Dialogue Acts and Response Co-Generation,2020,0.03976687587538883,17
+W4400314522,Injecting Linguistic Knowledge Into BERT for Dialogue State Tracking,2024,0.039672356761800684,17
+W4389116170,Injecting linguistic knowledge into BERT for Dialogue State Tracking,2023,0.039672356761800684,17
+W2979813451,Flexibly-Structured Model for Task-Oriented Dialogues,2019,0.03964365324994444,17
+W3170632963,BiToD: A Bilingual Multi-Domain Dataset For Task-Oriented Dialogue Modeling,2021,0.03939994777088063,17
+W4223510772,"Show, Don’t Tell: Demonstrations Outperform Descriptions for Schema-Guided Task-Oriented Dialogue",2022,0.03876173211660114,17
+W4284683546,Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation,2022,0.03846832326908375,17
+W4245816780,AuGPT: Auxiliary Tasks and Data Augmentation for End-To-End Dialogue with Pre-Trained Language Models,2021,0.03832379630744947,17
+W3088415854,CREDIT: Coarse-to-Fine Sequence Generation for Dialogue State Tracking,2020,0.03740103381637832,17
+W4393406456,MT-DST: Multi-Task Strategy for Few-shot Dialog State Tracking,2023,0.03738875734333281,17
+W2955810669,BERT-DST: Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer,2019,0.03659741211008497,17
+W3205525806,Simulated Chats for Building Dialog Systems: Learning to Generate Conversations from Instructions,2021,0.03619353268557071,17
+W3016625483,ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues,2020,0.036058674884832276,17
+W3197770791,Self-training Improves Pre-training for Few-shot Learning in Task-oriented Dialog Systems,2021,0.03591464840774981,17
+W2948110372,Training Neural Response Selection for Task-Oriented Dialogue Systems,2019,0.03537647282461411,17
+W2962886331,A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue,2017,0.03522063618705185,17
+W3172407229,Action-Based Conversations Dataset: A Corpus for Building More In-Depth Task-Oriented Dialogue Systems,2021,0.034574742821404277,17
+W3005445152,Goal-Oriented Multi-Task BERT-Based Dialogue State Tracker,2020,0.034565002897176296,17
+W4281786578,Learning Dialogue Representations from Consecutive Utterances,2022,0.034493553619582874,17
+W3156555225,SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations,2021,0.03433519152159878,17
+W2994859385,An End-to-End Dialogue State Tracking System with Machine Reading Comprehension and Wide &amp; Deep Classification,2019,0.034131207910785354,17
+W2980207396,Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models,2019,0.033739999768858206,17
+W3100532709,Probing Task-Oriented Dialogue Representation from Language Models,2020,0.03364700152054666,17
+W3152546689,Few Shot Dialogue State Tracking using Meta-learning,2021,0.0335644235851334,17
+W3174579561,"TicketTalk: Toward human-level performance with end-to-end, transaction-based dialog systems",2021,0.03313336360482822,17
+W4205340316,Continual Learning in Task-Oriented Dialogue Systems,2021,0.03265838535371372,17
+W3098826124,Overview of the Ninth Dialog System Technology Challenge: DSTC9,2024,0.03246460962722849,17
+W4287887682,"NLU++: A Multi-Label, Slot-Rich, Generalisable Dataset for Natural Language Understanding in Task-Oriented Dialogue",2022,0.03235645817507425,17
+W2989692108,Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses under the Same Context,2019,0.032265278389700315,17
+W2934890006,Improving Dialogue State Tracking by Discerning the Relevant Context,2019,0.032202969305069204,17
+W3102521862,GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems,2020,0.03204113098428001,17
+W3167146529,SOCCER: An Information-Sparse Discourse State Tracking Collection in the Sports Commentary Domain,2021,0.031826970749468206,17
+W2963068985,Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access,2017,0.031650737928801465,17
+W4285309825,Continual Prompt Tuning for Dialog State Tracking,2022,0.031169622960821916,17
+W2473329891,Multi-Domain Joint Semantic Frame Parsing Using Bi-Directional RNN-LSTM,2016,0.030970016891318296,17
+W3214585123,Improving End-to-End Task-Oriented Dialog System with A Simple Auxiliary Task,2021,0.03055268510765675,17
+W2803392141,Slot-Gated Modeling for Joint Slot Filling and Intent Prediction,2018,0.030522749248213674,17
+W4283798001,GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks,2022,0.029707936159743337,17
+W4385570435,FutureTOD: Teaching Future Knowledge to Pre-trained Language Model for Task-Oriented Dialogue,2023,0.029376531838574995,17
+W3094447228,STAR: A Schema-Guided Dialog Dataset for Transfer Learning,2020,0.029218723112171715,17
+W3117238912,Situated and Interactive Multimodal Conversations,2020,0.02903571388969445,17
+W4389010465,Are Large Language Models All You Need for Task-Oriented Dialogue?,2023,0.028989963892770615,17
+W4366547444,Leveraging Dialogue State Tracking for Zero-Shot Chat-Based Social Engineering Attack Recognition,2023,0.027504361622159464,17
+W3196636639,Uncertainty Measures in Neural Belief Tracking and the Effects on Dialogue Policy Performance,2021,0.02708839229894945,17
+W3100995786,Template Guided Text Generation for Task-Oriented Dialogue,2020,0.026646106423686197,17
+W2986193249,An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction,2019,0.02626986651750766,17
+W3034898894,Paraphrase Augmented Task-Oriented Dialog Generation,2020,0.025882492660411986,17
+W3012396850,Efficient Intent Detection with Dual Sentence Encoders,2020,0.025536174221855622,17
+W3025915678,Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations,2020,0.02443857451730537,17
+W3033461281,Situated and Interactive Multimodal Conversations,2020,0.024295428173421504,17
+W2988299267,ConveRT: Efficient and Accurate Conversational Representations from Transformers,2019,0.023881220286545175,17
+W3176683285,Robustness Testing of Language Understanding in Task-Oriented Dialog,2021,0.023828475420763228,17
+W4410202594,Adapting language generation to dialogue environments and users for task-oriented dialogue systems,2025,0.023441810823512065,17
+W4206516789,Cross-Domain Slot Filling as Machine Reading Comprehension: A New Perspective,2022,0.023385844490223445,17
+W3200577134,End-to-End Learning of Flowchart Grounded Task-Oriented Dialogs,2021,0.023159383173343494,17
+W3173075577,Are Pre-trained Transformers Robust in Intent Classification? A Missing Ingredient in Evaluation of Out-of-Scope Intent Detection,2022,0.022994729922480035,17
+W2970828515,Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog,2019,0.02244298850647276,17
+W2903928064,End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis,2019,0.022111765153805456,17
+W3160818482,Language Model is all You Need: Natural Language Understanding as Question Answering,2021,0.021985907217761263,17
+W3199079601,Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning,2021,0.02184966555181446,17
+W3177075735,Transferable Dialogue Systems and User Simulators,2021,0.021543917764001913,17
+W2997780971,MOSS: End-to-End Dialog System Framework with Modular Supervision,2020,0.02130922219486502,17
+W4385573592,Is MultiWOZ a Solved Task? An Interactive TOD Evaluation Framework with User Simulator,2022,0.021179188156986443,17
+W3143418328,A dynamic goal adapted task oriented dialogue agent,2021,0.02088308927893194,17
+W2889448364,Explicit State Tracking with Semi-Supervisionfor Neural Dialogue Generation,2018,0.02087329534311109,17
+W4293499155,ToD4IR: A Humanised Task-Oriented Dialogue System for Industrial Robots,2022,0.02027709790405175,17
+W2962934384,Zero-Shot Dialog Generation with Cross-Domain Latent Actions,2018,0.020151899408316094,17
+W4400047235,Travel Agency Task Dialogue Corpus: A Multimodal Dataset with Age-Diverse Speakers,2024,0.01978622013211985,17
+W3199296065,Effectiveness of Pre-training for Few-shot Intent Classification,2021,0.019659205275736388,17
+W3167376363,Example-Driven Intent Prediction with Observers,2021,0.01964531093991764,17
+W3173802024,A Dialogue-based Information Extraction System for Medical Insurance Assessment,2021,0.019630318656141024,17
+W3200140725,ConvFiT: Conversational Fine-Tuning of Pretrained Language Models,2021,0.018892165215281195,17
+W4385573210,Semi-Supervised Knowledge-Grounded Pre-training for Task-Oriented Dialog Systems,2022,0.018833942427145266,17
+W3176134652,QA-Driven Zero-shot Slot Filling with Weak Supervision Pretraining,2021,0.018818310339952123,17
+W3156493709,Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models,2021,0.018550739955641816,17
+W4385573899,Q-TOD: A Query-driven Task-oriented Dialogue System,2022,0.01843198186458498,17
+W3170730117,Alexa Conversations: An Extensible Data-driven Approach for Building Task-oriented Dialogue Systems,2021,0.018404774558646714,17
+W2971167298,A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding,2019,0.018128056307364037,17
+W2970110247,GECOR: An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue,2019,0.017997559827175335,17
+W2921671634,Scaling Multi-Domain Dialogue State Tracking via Query Reformulation,2019,0.017996569132522493,17
+W4385574421,End-to-End Evaluation of a Spoken Dialogue System for Learning Basic Mathematics,2022,0.017769007316781518,17
+W3034656193,Multi-Action Dialog Policy Learning with Interactive Human Teaching,2020,0.017559412636693097,17
+W4389520309,Semantic Parsing by Large Language Models for Intricate Updating Strategies of Zero-Shot Dialogue State Tracking,2023,0.017451943385040906,17
+W3106241909,Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference,2020,0.017425815865364784,17
+W4385573743,Multi-Label Intent Detection via Contrastive Task Specialization of Sentence Encoders,2022,0.017264571908147276,17
+W2963033987,Joint Slot Filling and Intent Detection via Capsule Neural Networks,2019,0.016847142484491356,17
+W2972892266,Improving Long Distance Slot Carryover in Spoken Dialogue Systems,2019,0.01682623729562869,17
+W2952562169,Scaling Multi-Domain Dialogue State Tracking via Query Reformulation,2019,0.016639904462612105,17
+W3155000020,Linguistically-Enriched and Context-AwareZero-shot Slot Filling,2021,0.016050798397122184,17
+W3049346316,Language Models as Few-Shot Learner for Task-Oriented Dialogue Systems,2020,0.01577155647531682,17
+W3172759730,Generative Conversational Networks,2021,0.015654664296083188,17
+W4280597403,Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pre-training and Isotropization,2022,0.015448602436575523,17
+W3071356955,A memory network based end-to-end personalized task-oriented dialogue generation,2020,0.015111327615721882,17
+W4307900381,Multi-task learning with graph attention networks for multi-domain task-oriented dialogue systems,2022,0.01452156460348573,17
+W2950009015,A Working Memory Model for Task-oriented Dialog Response Generation,2019,0.014513400568001624,17
+W2970260827,Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever,2019,0.014408961425088976,17
+W4389009523,LAD: Language Models as Data for Zero-Shot Dialog,2022,0.014300202607008582,17
+W3175519734,AugNLG: Few-shot Natural Language Generation using Self-trained Data Augmentation,2021,0.014194441698842559,17
+W3105218021,Conversational Semantic Parsing,2020,0.014110879396048662,17
+W2970676059,CASA-NLU: Context-Aware Self-Attentive Natural Language Understanding for Task-Oriented Chatbots,2019,0.01402381702138045,17
+W4385571039,Revisit Few-shot Intent Classification with PLMs: Direct Fine-tuning vs. Continual Pre-training,2023,0.013851200309191255,17
+W4406884977,MPFToD: a modularized pre-training framework for consistency identification in task-oriented dialogue,2025,0.013684040075551343,17
+W3007894275,Few-shot Natural Language Generation for Task-Oriented Dialog,2020,0.013306625720419787,17
+W2992914527,MultiWOZ 2.1: A Consolidated Multi-Domain Dialogue Dataset with State Corrections and State Tracking Baselines,2019,0.013283307595303771,17
+W2962775474,Leveraging Sentence-level Information with Encoder LSTM for Semantic Slot Filling,2016,0.013183617423310142,17
+W3017465475,DIET: Lightweight Language Understanding for Dialogue Systems,2020,0.012976537381232979,17
+W2886305736,Task-oriented Dialogue System for Automatic Diagnosis,2018,0.0129462131686038,17
+W2892248135,Semantic Parsing for Task Oriented Dialog using Hierarchical Representations,2018,0.012649523617827053,17
+W4281719801,New Intent Discovery with Pre-training and Contrastive Learning,2022,0.012377689515103657,17
+W4392151717,Triple Channel Feature Fusion Few-Shot Intent Recognition With Orthogonality Constrained Multi-Head Attention,2024,0.012176895752258396,17
+W3209855825,Sentence encoding for Dialogue Act classification,2021,0.01191478199041309,17
+W2951980657,Domain Adaptive Dialog Generation via Meta Learning,2019,0.011240591651682353,17
+W3097392354,Language Model is All You Need: Natural Language Understanding as Question Answering,2020,0.010711293694614278,17
+W4386566800,Selective In-Context Data Augmentation for Intent Detection using Pointwise V-Information,2023,0.010594429458555448,17
+W4386644696,Data Augmentation for Conversational AI,2023,0.010377581731728014,17
+W2962715022,"ONENET: Joint domain, intent, slot prediction for spoken language understanding",2017,0.010228799886353616,17
+W4284713914,ReMeDi,2022,0.010053655421567808,17
+W3023207088,Multi-domain Spoken Language Understanding Using Domain- and Task-aware Parameterization,2022,0.009849961522951456,17
+W2964588180,Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems,2019,0.009464027941397052,17
+W3114186958,Intent Detection with WikiHow,2020,0.009426033048350237,17
+W2954108589,Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model,2019,0.009309968015177179,17
+W4287888113,Representation Learning for Conversational Data using Discourse Mutual Information Maximization,2022,0.009154894806214111,17
+W2970450228,CM-Net: A Novel Collaborative Memory Network for Spoken Language Understanding,2019,0.00898808345628245,17
+W4401869038,Intent detection for task‐oriented conversational agents: A comparative study of recurrent neural networks and transformer models,2024,0.008872914297415373,17
+W2962721878,Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding,2018,0.00885172406720034,17
+W3163045655,Injecting Word Information with Multi-Level Word Adapter for Chinese Spoken Language Understanding,2021,0.008688550757299508,17
+W3113593351,Federated Learning for Spoken Language Understanding,2020,0.008493508159568277,17
+W2473965551,End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding,2016,0.008309939154942207,17
+W4401025309,A Segment Augmentation and Prediction Consistency Framework for Multi-Label Unknown Intent Detection,2024,0.008300309147721277,17
+W4287891011,Prompt Augmented Generative Replay via Supervised Contrastive Learning for Lifelong Intent Detection,2022,0.00817474760487625,17
+W3100152912,Continual Learning for Natural Language Generation in Task-oriented Dialog Systems,2020,0.008099748719561296,17
+W3173794693,GL-GIN: Fast and Accurate Non-Autoregressive Model for Joint Multiple Intent Detection and Slot Filling,2021,0.007944554365969504,17
+W4399330903,Modeling the impact of out-of-schema questions in task-oriented dialog systems,2024,0.00767013444548919,17
+W4406697062,Enriching Responses with Crowd-sourced Knowledge for Task-oriented Conversational Agents,2025,0.00759024875776471,17
+W3099757670,SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling,2020,0.007527260762587257,17
+W4285226966,Task2Dial: A Novel Task and Dataset for Commonsense-enhanced Task-based Dialogue Grounded in Documents,2022,0.007242870884227796,17
+W2964120993,Data Augmentation for Spoken Language Understanding via Joint Variational Generation,2019,0.007175378444398179,17
+W3122866338,A Survey of Joint Intent Detection and Slot Filling Models in Natural Language Understanding,2022,0.007174159018133019,17
+W4307009360,Multitask learning for multilingual intent detection and slot filling in dialogue systems,2022,0.0071082428671039545,17
+W2946085385,Joint Multiple Intent Detection and Slot Labeling for Goal-Oriented Dialog,2019,0.007097239990911402,17
+W4385573163,Co-guiding Net: Achieving Mutual Guidances between Multiple Intent Detection and Slot Filling via Heterogeneous Semantics-Label Graphs,2022,0.006922226977716909,17
+W3188188945,A Survey on Spoken Language Understanding: Recent Advances and New Frontiers,2021,0.006891426894137959,17
+W4229058120,Compositional Task-Oriented Parsing as Abstractive Question Answering,2022,0.006788433670110193,17
+W4224219514,Constructing novel datasets for intent detection and ner in a korean healthcare advice system: guidelines and empirical results,2022,0.00668830342963756,17
+W3126145531,Knowing Where to Leverage: Context-Aware Graph Convolutional Network With an Adaptive Fusion Layer for Contextual Spoken Language Understanding,2021,0.0065687705643825665,17
+W3104395172,Dual Learning for Semi-Supervised Natural Language Understanding,2020,0.006555175567222609,17
+W4284695140,A Multi-Task Based Neural Model to Simulate Users in Goal Oriented Dialogue Systems,2022,0.0064645652366362855,17
+W3176625957,ProtAugment: Intent Detection Meta-Learning through Unsupervised Diverse Paraphrasing,2021,0.006209897685014517,17
+W3161463965,A Co-Interactive Transformer for Joint Slot Filling and Intent Detection,2021,0.005920904762976443,17
+W4382406588,Enhanced Emotion and Sentiment Recognition for Empathetic Dialogue System Using Big Data and Deep Learning Methods,2023,0.00575048803496493,17
+W4384702818,Therapeutic Spoken Dialogue System in Clinical Settings: Initial Experiments,2023,0.00575048803496493,17
+W4319081933,Improving Intent Classification Using Unlabeled Data from Large Corpora,2023,0.005742136177189112,17
+W4389520437,Accelerating Multiple Intent Detection and Slot Filling via Targeted Knowledge Distillation,2023,0.005716722416800348,17
+W3209239055,An Effective Non-Autoregressive Model for Spoken Language Understanding,2021,0.005502380015692114,17
+W3170264707,A Result Based Portable Framework for Spoken Language Understanding,2021,0.005394301178663784,17
+W4388794792,AI to Train AI: Using ChatGPT to Improve the Accuracy of a Therapeutic Dialogue System,2023,0.00534663891316001,17
+W3023027202,Open Intent Extraction from Natural Language Interactions,2020,0.005150576280187911,17
+W4387848696,Towards Spoken Language Understanding via Multi-level Multi-grained Contrastive Learning,2023,0.005008018167625021,17
+W3175204457,Out-of-Scope Intent Detection with Self-Supervision and Discriminative Training,2021,0.00500525391957653,17
+W4323856429,A Heterogeneous Interaction Graph Network for Multi-Intent Spoken Language Understanding,2023,0.004977351428759074,17
+W4385624451,Smart tourism chatbot system using Multi-domain Tourism Information DST,2023,0.004970216693610943,17
+W4385573070,Group is better than individual: Exploiting Label Topologies and Label Relations for Joint Multiple Intent Detection and Slot Filling,2022,0.004924222016045082,17
+W4409185769,Selecting Empathic Response Headers in Customer Support Conversations with LLM-Based Emotion Recognition,2025,0.004900676732941296,17
+W4392471527,Analysing Utterances in LLM-Based User Simulation for Conversational Search,2024,0.0048632040929687224,17
+W3194955531,Slim: Explicit Slot-Intent Mapping with Bert for Joint Multi-Intent Detection and Slot Filling,2022,0.004763720101090027,17
+W4382119366,Relational Temporal Graph Reasoning for Dual-task Dialogue Language Understanding,2023,0.004752381735098219,17
+W4399188824,Few-shot intent detection with self-supervised pretraining and prototype-aware attention,2024,0.004733960701608334,17
+W3011396000,Natural language understanding approaches based on joint task of intent detection and slot filling for IoT voice interaction,2020,0.004647533692574192,17
+W3216332495,Development of Dialogue Management System for Banking Services,2021,0.004632761128171342,17
+W4399026759,Leveraging intent–entity relationships to enhance semantic accuracy in NLU models,2024,0.004502624472375284,17
+W4409358257,Knowledge-enhanced prototypical network with graph structure and semantic information interaction for low-shot joint spoken language understanding,2025,0.004240846125638746,17
+W4406273284,Evaluating Natural Language Understanding,2025,0.004239330497345362,17
+W4382202608,A Scope Sensitive and Result Attentive Model for Multi-Intent Spoken Language Understanding,2023,0.004150554620577877,17
+W3158773425,PIN: A Novel Parallel Interactive Network for Spoken Language Understanding,2021,0.004128877487342841,17
+W4295751932,A Two-Stage Selective Fusion Framework for Joint Intent Detection and Slot Filling,2022,0.004077154095437689,17
+W4390638408,Few-shot out-of-scope intent classification: analyzing the robustness of prompt-based learning,2024,0.003976219542665027,17
+W4395024288,ESIE-BERT: Enriching sub-words information explicitly with BERT for intent classification and slot filling,2024,0.003890790342423443,17
+W4391026226,ID-SF-Fusion: a cooperative model of intent detection and slot filling for natural language understanding,2024,0.003849841392797944,17
+W2997774779,Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding,2020,0.0037786016982787832,17
+W3092864024,AISE: Attending to Intent and Slots Explicitly for better spoken language understanding,2020,0.0036832446327928524,17
+W4388574900,Semantically Guided Enhanced Fusion for Intent Detection and Slot Filling,2023,0.003626542875495504,17
+W4382202733,Generalized Category Discovery with Decoupled Prototypical Network,2023,0.0036165126971336695,17
+W2979627741,"Simple, Fast, Accurate Intent Classification and Slot Labeling for Goal-Oriented Dialogue Systems",2019,0.003530442815688306,17
+W4283802608,ContrastNet: A Contrastive Learning Framework for Few-Shot Text Classification,2022,0.0035115339245244794,17
+W3013860672,"A Deep Multi-task Model for Dialogue Act Classification, Intent Detection and Slot Filling",2020,0.0034167814188493938,17
+W4392903773,Dual Level Intent-Slot Interaction for Improved Multi-Intent Spoken Language Understanding,2024,0.003409092288968187,17
+W4375868795,A Dynamic Graph Interactive Framework with Label-Semantic Injection for Spoken Language Understanding,2023,0.0033770308405499543,17
+W4292595679,Joint Intent Detection Model for Task-oriented Human-Computer Dialogue System using Asynchronous Training,2022,0.0032607988998120258,17
+W3100247553,Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes,2020,0.0032557079347358096,17
+W4285263469,Label Errors in BANKING77,2022,0.003169471911873521,17
+W4285189706,One Agent To Rule Them All: Towards Multi-agent Conversational AI,2022,0.003169471911873521,17
+W4323314822,Pre-Trained Joint Model for Intent Classification and Slot Filling with Semantic Feature Fusion,2023,0.0030986613296988125,17
+W3171708917,Spoken Language Understanding for Task-oriented Dialogue Systems with Augmented Memory Networks,2021,0.0030986613296988125,17
+W4320008876,Incorporating BERT With Probability-Aware Gate for Spoken Language Understanding,2023,0.0030945266856638206,17
+W3177367299,Encoding Syntactic Knowledge in Transformer Encoder for Intent Detection and Slot Filling,2021,0.003032186380175879,17
+W3041999958,End-to-end masked graph-based CRF for joint slot filling and intent detection,2020,0.002994184099897305,17
+W4385567178,Enhancing Joint Multiple Intent Detection and Slot Filling with Global Intent-Slot Co-occurrence,2022,0.0029873727876643373,17
+W4385571399,Towards Unified Spoken Language Understanding Decoding via Label-aware Compact Linguistics Representations,2023,0.0028963756704251543,17
+W4321609053,On Using Conversational Frameworks to Support Natural Language Interaction in Intelligent Tutoring Systems,2023,0.0028871044272665604,17
+W3177254891,KoRASA: Pipeline Optimization for Open-Source Korean Natural Language Understanding Framework Based on Deep Learning,2021,0.0028871044272665604,17
+W3021198683,Enriched Pre-trained Transformers for Joint Slot Filling and Intent Detection,2023,0.0028437386328459577,17
+W4210475840,A Contrastive learning-based Task Adaptation model for few-shot intent recognition,2022,0.0027475331089278237,17
+W4381127158,Correlation between artificial intelligence in education and teacher self-efficacy beliefs: a review,2023,0.002654787744770451,17
+W4410212273,A label-guided contrastive capsule network for few-shot text classification,2025,0.0026298854032794187,17
+W4385571427,Measuring and Mitigating Local Instability in Deep Neural Networks,2023,0.002445544145584041,17
+W2979486337,Hierarchical Multi-Task Natural Language Understanding for Cross-domain Conversational AI: HERMIT NLU,2019,0.002398108731444875,17
+W4393160357,Towards Multi-Intent Spoken Language Understanding via Hierarchical Attention and Optimal Transport,2024,0.002363548719181171,17
+W3194175235,Coronabot,2021,0.002325653763827711,17
+W4361200101,Intent Classification of Users Conversation using BERT for Conversational Dialogue System,2023,0.002325653763827711,17
+W4309673226,Educational Chatbot to Support Question Answering on Slack,2022,0.002325653763827711,17
+W2964236684,Zero-Shot Adaptive Transfer for Conversational Language Understanding,2019,0.002261542411147342,17
+W4403101372,A Character-Word Information Interaction Framework for Natural Language Understanding in Chinese Medical Dialogue Domain,2024,0.0022470019040371323,17
+W3193282380,Joint Multiple Intent Detection and Slot Filling Via Self-Distillation,2022,0.0021412932615839844,17
+W3091876275,An Interactive Two-Pass Decoding Network for Joint Intent Detection and Slot Filling,2020,0.002103868977755839,17
+W4387217657,Joint intent detection and slot filling for Turkish natural language understanding,2023,0.0020892852899868013,17
+W4220871331,ProtoSound: A Personalized and Scalable Sound Recognition System for Deaf and Hard-of-Hearing Users,2022,0.0020007671215733712,17
+W2985353426,A Closer Look At Feature Space Data Augmentation For Few-Shot Intent Classification,2019,0.00190155162240113,17
+W4407397969,ATSIU: A large-scale dataset for spoken instruction understanding in air traffic control,2025,0.0017910443871295052,17
+W3004680503,Rapid Adaptation of BERT for Information Extraction on Domain-Specific Business Documents,2020,0.0017639132937273272,17
+W4317659197,Explaining Recommendations through Conversations: Dialog Model and the Effects of Interface Type and Degree of Interactivity,2023,0.0016750009828478086,17
+W4410279964,Granular-Ball Three-Way Decision for Robust Text Classification,2025,0.0016732727706854078,17
+W4408984945,Tunisian Arabic Understanding: Resources Analysis and Evaluation,2025,0.0014519081163930467,17
+W4407752532,Multi-scale feature fusion quantum depthwise Convolutional Neural Networks for text classification,2025,0.0012087504919262144,17
+W3127725267,Intent Detection and Slot Filling with Capsule Net Architectures for a Romanian Home Assistant,2021,0.0009566849993820634,17
+W4386434937,CTRAN: CNN-Transformer-based network for natural language understanding,2023,0.0009330013670006772,17
+W3037301272,Transformer-Capsule Model for Intent Detection (Student Abstract),2020,0.0005411494786870314,17
+W2996636500,Exploring the Use of Chatbots in Hotels: Technology Providers’ Perspective,2019,5.3802946671983484e-05,17

@@ -88,7 +88,7 @@ def extract_paper_info(paper_json, existing_author_ids):
         "institutions": "; ".join(institutions),
         "citations": citation_count,
         "concepts": "; ".join(concepts) + "; ".join(keywords),
-        "referenced_works": "; ".join(referenced_work_ids), # Store as a semicolon-separated string
+        "referenced_works": "; ".join(referenced_work_ids),
         "publication_year": publication_year
     }
 

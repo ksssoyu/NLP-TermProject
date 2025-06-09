@@ -1,88 +1,48 @@
 import json
-import networkx as nx
-import ast
-from collections import defaultdict
+from keybert import KeyBERT
 
 # 🔧 파일 경로 설정
-GRAPH_JSON = "citation_graph_with_cluster_v2.json"    # 입력 파일: 논문 + 클러스터 + citation 정보
-OUTPUT_JSON = "cluster_author_pagerank.json"          # 출력 파일: 클러스터별 저자 PageRank 결과
-TOP_K_AUTHORS = 5                                     # 클러스터별 추출할 상위 저자 수
+INPUT_JSON = "top_clusters_for_keyword.json"              # 클러스터별 논문 정보 입력 파일
+OUTPUT_JSON = "top_clusters_after_bert_with_keyword.json" # 키워드를 추가한 출력 파일
+TOP_K_KEYWORDS = 5                                        # 클러스터별 추출할 키워드 수
 
-# 📥 JSON 파일 로드
-with open(GRAPH_JSON, "r", encoding="utf-8") as f:
+# 🔹 1. JSON 파일 로드
+with open(INPUT_JSON, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-nodes = data["nodes"]  # 논문 노드 정보
-links = data["links"]  # 논문 간 citation 정보
+# 상위 클러스터 ID 및 논문 리스트 정보 추출
+top_clusters = data["top_clusters"]              # 상위 PageRank 클러스터 ID 리스트
+cluster_details = data["cluster_details"]        # 클러스터별 논문 ID 및 제목 목록
 
-# 📌 클러스터별 논문 및 저자 정보 수집
-cluster_to_papers = defaultdict(list)  # 클러스터 ID → 논문 ID 리스트
-paper_authors = {}                     # 논문 ID → 저자 리스트
-for node in nodes:
-    pid = node["id"]
-    group = node["group"]  # 클러스터 ID
-    authors = ast.literal_eval(node.get("authors", "[]"))  # 문자열을 실제 리스트로 변환
-    cluster_to_papers[group].append(pid)
-    paper_authors[pid] = authors
+# 🔹 2. KeyBERT 모델 로드 (기본 모델: all-MiniLM-L6-v2)
+kw_model = KeyBERT("all-MiniLM-L6-v2")
 
-# 📌 클러스터 내부 citation 링크 수집
-edges_by_cluster = defaultdict(list)
-for link in links:
-    src = link["source"]
-    tgt = link["target"]
-    weight = link.get("weight", 1.0)
+# 🔹 3. 클러스터별 키워드 추출 시작
+cluster_keywords = {}
 
-    # 각각의 논문이 속한 클러스터 ID 확인
-    src_group = next((node["group"] for node in nodes if node["id"] == src), None)
-    tgt_group = next((node["group"] for node in nodes if node["id"] == tgt), None)
+for cluster_id in top_clusters:
+    papers = cluster_details[str(cluster_id)]  # 클러스터 ID는 문자열 키로 접근
+    titles = [paper["title"] for paper in papers]  # 논문 제목만 추출
 
-    # 동일 클러스터 내 citation만 저장
-    if src_group == tgt_group and src_group is not None:
-        edges_by_cluster[src_group].append((src, tgt, weight))
+    # 제목들을 공백으로 연결하여 하나의 긴 문서처럼 구성
+    text = " ".join(titles)
 
-# 📊 클러스터별 저자 PageRank 저장할 딕셔너리
-author_rank_by_cluster = {}
+    # KeyBERT로 키워드 추출 (중복 제거 + 중요도 순 상위 N개)
+    keywords = kw_model.extract_keywords(
+        text,
+        top_n=TOP_K_KEYWORDS,
+        stop_words='english'   # 불용어 제거
+    )
+    keywords = [kw for kw, _ in keywords]  # 키워드 텍스트만 추출
 
-# 🔁 클러스터별로 PageRank 수행
-for cluster_id in sorted(cluster_to_papers.keys()):
-    paper_ids = set(cluster_to_papers[cluster_id])         # 해당 클러스터의 논문 ID 집합
-    edges = edges_by_cluster.get(cluster_id, [])           # 내부 citation 링크
+    # 결과 저장
+    cluster_keywords[cluster_id] = keywords
+    print(f"📌 Cluster {cluster_id} → {keywords}")
 
-    # 클러스터 내부 논문으로 Directed Graph 생성
-    G = nx.DiGraph()
-    G.add_nodes_from(paper_ids)
-    for src, tgt, w in edges:
-        G.add_edge(src, tgt, weight=w)
+# 🔹 4. 추출한 키워드를 원본 데이터에 추가 후 저장
+data["cluster_keywords"] = cluster_keywords
 
-    # 빈 그래프는 분석하지 않음
-    if len(G) == 0:
-        continue
-
-    # 📌 논문 단위 PageRank 계산
-    pr = nx.pagerank(G, weight="weight")
-
-    # 📌 논문 PageRank를 저자에게 누적
-    author_scores = defaultdict(float)
-    for pid, score in pr.items():
-        for author in paper_authors.get(pid, []):
-            author_scores[author] += score  # 다저자 논문은 모두에게 동일 점수 부여
-
-    # 🔄 전체 누적 점수를 1로 정규화 (상대적 비교 가능하게 함)
-    total_score = sum(author_scores.values())
-    if total_score > 0:
-        for author in author_scores:
-            author_scores[author] /= total_score
-
-    # 🔝 상위 저자 K명 추출 (PageRank 기준 정렬)
-    top_authors = sorted(author_scores.items(), key=lambda x: x[1], reverse=True)[:TOP_K_AUTHORS]
-
-    # 결과 저장: { cluster_id: [{author: str, score: float}, ...] }
-    author_rank_by_cluster[cluster_id] = [
-        {"author": author, "score": score} for author, score in top_authors
-    ]
-
-# 📤 전체 결과 JSON 파일로 저장
 with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-    json.dump(author_rank_by_cluster, f, ensure_ascii=False, indent=2)
+    json.dump(data, f, ensure_ascii=False, indent=2)
 
-print(f"✅ 클러스터별 저자 PageRank 저장 완료: {OUTPUT_JSON}")
+print(f"✅ 키워드 저장 완료: {OUTPUT_JSON}")

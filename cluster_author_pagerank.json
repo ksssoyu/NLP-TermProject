@@ -1,0 +1,2418 @@
+{
+  "-1": [
+    {
+      "author": "Wei Wang",
+      "score": 0.0005012531328320802
+    },
+    {
+      "author": "Heng Ji",
+      "score": 0.0005012531328320802
+    },
+    {
+      "author": "S. Tiun",
+      "score": 0.0004010025062656641
+    },
+    {
+      "author": "F. T. Al-Dhief",
+      "score": 0.0004010025062656641
+    },
+    {
+      "author": "F. Dalpiaz",
+      "score": 0.0004010025062656641
+    }
+  ],
+  "0": [
+    {
+      "author": "Sebastian Riedel",
+      "score": 0.005222883054601069
+    },
+    {
+      "author": "Yuxiang Wu",
+      "score": 0.005004031768508504
+    },
+    {
+      "author": "F. Petroni",
+      "score": 0.004953432358141247
+    },
+    {
+      "author": "Tim Rocktäschel",
+      "score": 0.004953432358141247
+    },
+    {
+      "author": "Patrick Lewis",
+      "score": 0.004953432358141247
+    }
+  ],
+  "1": [
+    {
+      "author": "William Yang Wang",
+      "score": 0.002188364354342515
+    },
+    {
+      "author": "Kai-Wei Chang",
+      "score": 0.002051339740981902
+    },
+    {
+      "author": "M. Costa-jussà",
+      "score": 0.002018490240737606
+    },
+    {
+      "author": "Rolandos Alexandros Potamias",
+      "score": 0.0019977636557655335
+    },
+    {
+      "author": "Georgios Siolas",
+      "score": 0.0019977636557655335
+    }
+  ],
+  "2": [
+    {
+      "author": "Jiasen Lu",
+      "score": 0.0027048775908705518
+    },
+    {
+      "author": "Dhruv Batra",
+      "score": 0.0026920258938111993
+    },
+    {
+      "author": "Stefan Lee",
+      "score": 0.002622660304296376
+    },
+    {
+      "author": "Devi Parikh",
+      "score": 0.00260647834483969
+    },
+    {
+      "author": "B. Rost",
+      "score": 0.002037066063240812
+    }
+  ],
+  "3": [
+    {
+      "author": "Thomas Wolf",
+      "score": 0.004543886562566426
+    },
+    {
+      "author": "Taku Kudo",
+      "score": 0.00404328826473226
+    },
+    {
+      "author": "John Richardson",
+      "score": 0.00404328826473226
+    },
+    {
+      "author": "Jianfeng Gao",
+      "score": 0.003943857153175475
+    },
+    {
+      "author": "Xiaodong Liu",
+      "score": 0.0037857012126398743
+    }
+  ],
+  "4": [
+    {
+      "author": "Tristan Naumann",
+      "score": 0.012217910646447519
+    },
+    {
+      "author": "Emily Alsentzer",
+      "score": 0.011294246816392994
+    },
+    {
+      "author": "John R. Murphy",
+      "score": 0.011294246816392994
+    },
+    {
+      "author": "Willie Boag",
+      "score": 0.011294246816392994
+    },
+    {
+      "author": "W. Weng",
+      "score": 0.011294246816392994
+    }
+  ],
+  "5": [
+    {
+      "author": "Ibrahim Aljarah",
+      "score": 0.005111407019878818
+    },
+    {
+      "author": "Hossam Faris",
+      "score": 0.005111407019878818
+    },
+    {
+      "author": "T. Lalwani",
+      "score": 0.0049280787588588185
+    },
+    {
+      "author": "Shashank Bhalotia",
+      "score": 0.0049280787588588185
+    },
+    {
+      "author": "Ashish Pal",
+      "score": 0.0049280787588588185
+    }
+  ],
+  "6": [
+    {
+      "author": "Alessio Ferrari",
+      "score": 0.022394875969879706
+    },
+    {
+      "author": "M. Sabetzadeh",
+      "score": 0.02184965679537798
+    },
+    {
+      "author": "Waad Alhoshan",
+      "score": 0.020907664671226955
+    },
+    {
+      "author": "Liping Zhao",
+      "score": 0.020907664671226955
+    },
+    {
+      "author": "R. Batista-Navarro",
+      "score": 0.015630403153293653
+    }
+  ],
+  "7": [
+    {
+      "author": "Jiaqi Guo",
+      "score": 0.01585451286795674
+    },
+    {
+      "author": "Zecheng Zhan",
+      "score": 0.01585451286795674
+    },
+    {
+      "author": "Yan Gao",
+      "score": 0.01585451286795674
+    },
+    {
+      "author": "Yan Xiao",
+      "score": 0.01585451286795674
+    },
+    {
+      "author": "Jian-Guang Lou",
+      "score": 0.01585451286795674
+    }
+  ],
+  "8": [
+    {
+      "author": "Mariya Toneva",
+      "score": 0.02671979499624704
+    },
+    {
+      "author": "Leila Wehbe",
+      "score": 0.024787975181630048
+    },
+    {
+      "author": "Nora Hollenstein",
+      "score": 0.022373767906673475
+    },
+    {
+      "author": "Ariel Goldstein",
+      "score": 0.013922943805476956
+    },
+    {
+      "author": "Samuel A. Nastase",
+      "score": 0.013922943805476956
+    }
+  ],
+  "9": [
+    {
+      "author": "B. Coecke",
+      "score": 0.13181285693390926
+    },
+    {
+      "author": "K. Meichanetzidis",
+      "score": 0.1093977116926783
+    },
+    {
+      "author": "Alexis Toumi",
+      "score": 0.08724371594755759
+    },
+    {
+      "author": "G. Felice",
+      "score": 0.08185622440778474
+    },
+    {
+      "author": "A. Pearson",
+      "score": 0.040959053614646475
+    }
+  ],
+  "10": [
+    {
+      "author": "Katharina Kann",
+      "score": 0.047089808636105554
+    },
+    {
+      "author": "Mans Hulden",
+      "score": 0.036852386809672684
+    },
+    {
+      "author": "Arya D. McCarthy",
+      "score": 0.024170194818384352
+    },
+    {
+      "author": "Antonios Anastasopoulos",
+      "score": 0.02368784307436508
+    },
+    {
+      "author": "Garrett Nicolai",
+      "score": 0.02368784307436508
+    }
+  ],
+  "11": [
+    {
+      "author": "Saif M. Mohammad",
+      "score": 0.3060896808695034
+    },
+    {
+      "author": "J. Mariani",
+      "score": 0.05813851885876178
+    },
+    {
+      "author": "Gil Francopoulo",
+      "score": 0.05813851885876178
+    },
+    {
+      "author": "P. Paroubek",
+      "score": 0.05813851885876178
+    },
+    {
+      "author": "Jan Philip Wahle",
+      "score": 0.044388884733542265
+    }
+  ],
+  "12": [
+    {
+      "author": "R. Baker",
+      "score": 0.062062378663860766
+    },
+    {
+      "author": "Florence R. Sullivan",
+      "score": 0.05899219865863445
+    },
+    {
+      "author": "P. Keith",
+      "score": 0.05899219865863445
+    },
+    {
+      "author": "S. Crossley",
+      "score": 0.039112392209104486
+    },
+    {
+      "author": "Jaclyn L. Ocumpaugh",
+      "score": 0.039112392209104486
+    }
+  ],
+  "13": [
+    {
+      "author": "D. Küçük",
+      "score": 0.1920114235226535
+    },
+    {
+      "author": "F. Can",
+      "score": 0.1920114235226535
+    },
+    {
+      "author": "N. Green",
+      "score": 0.12711998216388012
+    },
+    {
+      "author": "Marco Lippi",
+      "score": 0.06068319439155634
+    },
+    {
+      "author": "Paolo Torroni",
+      "score": 0.06068319439155634
+    }
+  ],
+  "14": [
+    {
+      "author": "Ali E. Abbas",
+      "score": 0.10603908015079908
+    },
+    {
+      "author": "Summaira Sarfraz",
+      "score": 0.10603908015079908
+    },
+    {
+      "author": "B. Patel",
+      "score": 0.07625748045730084
+    },
+    {
+      "author": "Harsh Patel",
+      "score": 0.07625748045730084
+    },
+    {
+      "author": "Manthan Ashok Khanvilkar",
+      "score": 0.07625748045730084
+    }
+  ],
+  "15": [
+    {
+      "author": "Jonas Vanthornhout",
+      "score": 0.059699491092206604
+    },
+    {
+      "author": "Greta Kaufeld",
+      "score": 0.04272506390528602
+    },
+    {
+      "author": "H. Bosker",
+      "score": 0.04272506390528602
+    },
+    {
+      "author": "S. ten Oever",
+      "score": 0.04272506390528602
+    },
+    {
+      "author": "Phillip M. Alday",
+      "score": 0.04272506390528602
+    }
+  ],
+  "16": [
+    {
+      "author": "Svanhvít Lilja Ingólfsdóttir",
+      "score": 0.09290336440299417
+    },
+    {
+      "author": "H. Loftsson",
+      "score": 0.09290336440299417
+    },
+    {
+      "author": "J. Daðason",
+      "score": 0.09290336440299417
+    },
+    {
+      "author": "Kristín Bjarnadóttir",
+      "score": 0.09290336440299417
+    },
+    {
+      "author": "I. Akhmetov",
+      "score": 0.06681123375259504
+    }
+  ],
+  "17": [
+    {
+      "author": "Chidinma A. Nwafor",
+      "score": 0.10685702870773708
+    },
+    {
+      "author": "I. Onyenwe",
+      "score": 0.10685702870773708
+    },
+    {
+      "author": "Sebastiano Panichella",
+      "score": 0.07347262442104238
+    },
+    {
+      "author": "H. Gall",
+      "score": 0.07347262442104238
+    },
+    {
+      "author": "Altaj Virani",
+      "score": 0.04769277523399136
+    }
+  ],
+  "18": [
+    {
+      "author": "Eyal Eckhaus",
+      "score": 0.5
+    },
+    {
+      "author": "N. Davidovitch",
+      "score": 0.4
+    },
+    {
+      "author": "Zachary Sheaffer",
+      "score": 0.1
+    }
+  ],
+  "19": [
+    {
+      "author": "Dr. Punit Goel",
+      "score": 0.2088033594365277
+    },
+    {
+      "author": "Anshika Aggarwal",
+      "score": 0.14619673726199947
+    },
+    {
+      "author": "Vijay Bhasker",
+      "score": 0.10703280781965518
+    },
+    {
+      "author": "Reddy Bhimanapati",
+      "score": 0.10703280781965518
+    },
+    {
+      "author": "Dignesh Kumar Khatri",
+      "score": 0.10177055161687251
+    }
+  ],
+  "20": [
+    {
+      "author": "Jayashree Domala",
+      "score": 0.09273184558953675
+    },
+    {
+      "author": "Manmohan Dogra",
+      "score": 0.09273184558953675
+    },
+    {
+      "author": "Vinit Masrani",
+      "score": 0.09273184558953675
+    },
+    {
+      "author": "Dwayne Fernandes",
+      "score": 0.09273184558953675
+    },
+    {
+      "author": "Kevin D'souza",
+      "score": 0.09273184558953675
+    }
+  ],
+  "21": [
+    {
+      "author": "T. Pardo",
+      "score": 0.40136948697432334
+    },
+    {
+      "author": "Rafael Torres Anchiêta",
+      "score": 0.23859930892321404
+    },
+    {
+      "author": "Marco Antonio Sobrevilla Cabezudo",
+      "score": 0.1627701780511093
+    },
+    {
+      "author": "M. Inácio",
+      "score": 0.06575367535045107
+    },
+    {
+      "author": "Renata Ramisch",
+      "score": 0.06575367535045107
+    }
+  ],
+  "22": [
+    {
+      "author": "S. Anbukkarasi",
+      "score": 0.13340777967643327
+    },
+    {
+      "author": "S. Varadhaganapathy",
+      "score": 0.13340777967643327
+    },
+    {
+      "author": "Sajeetha Thavareesan",
+      "score": 0.13294740027846325
+    },
+    {
+      "author": "S. Mahesan",
+      "score": 0.13294740027846325
+    },
+    {
+      "author": "S. Gokila",
+      "score": 0.09345792801804137
+    }
+  ],
+  "23": [
+    {
+      "author": "Luca Benedetto",
+      "score": 0.12615330105714248
+    },
+    {
+      "author": "Andrea Cappelli",
+      "score": 0.12615330105714248
+    },
+    {
+      "author": "R. Turrin",
+      "score": 0.12615330105714248
+    },
+    {
+      "author": "P. Cremonesi",
+      "score": 0.12615330105714248
+    },
+    {
+      "author": "Ya Zhou",
+      "score": 0.06738042989088466
+    }
+  ],
+  "24": [
+    {
+      "author": "Dhara J. Ladani",
+      "score": 0.20149282503883129
+    },
+    {
+      "author": "NIKITA PARITOSH DESAI",
+      "score": 0.20149282503883129
+    },
+    {
+      "author": "Khabibulla Madatov",
+      "score": 0.07462679374029217
+    },
+    {
+      "author": "Shukurla Bekchanov",
+      "score": 0.07462679374029217
+    },
+    {
+      "author": "Jernej Vičič",
+      "score": 0.07462679374029217
+    }
+  ],
+  "25": [
+    {
+      "author": "G. Ayoade",
+      "score": 0.09152554246243216
+    },
+    {
+      "author": "Swarup Chandra",
+      "score": 0.09152554246243216
+    },
+    {
+      "author": "L. Khan",
+      "score": 0.09152554246243216
+    },
+    {
+      "author": "Kevin W. Hamlen",
+      "score": 0.09152554246243216
+    },
+    {
+      "author": "B. Thuraisingham",
+      "score": 0.09152554246243216
+    }
+  ],
+  "26": [
+    {
+      "author": "Mattia Vicari",
+      "score": 0.09810045698861082
+    },
+    {
+      "author": "M. Gaspari",
+      "score": 0.09810045698861082
+    },
+    {
+      "author": "Sidra Mehtab",
+      "score": 0.09577713195796407
+    },
+    {
+      "author": "Jaydip Sen",
+      "score": 0.09577713195796407
+    },
+    {
+      "author": "Marc Velay",
+      "score": 0.06802720245631669
+    }
+  ],
+  "27": [
+    {
+      "author": "Zeinab Shahbazi",
+      "score": 0.2809187667919219
+    },
+    {
+      "author": "Y. Byun",
+      "score": 0.2809187667919219
+    },
+    {
+      "author": "Stacey O. Baror",
+      "score": 0.14605415547205203
+    },
+    {
+      "author": "H. Venter",
+      "score": 0.14605415547205203
+    },
+    {
+      "author": "Richard Adeyemi",
+      "score": 0.14605415547205203
+    }
+  ],
+  "28": [
+    {
+      "author": "Debapratim Das Dawn",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "S. Shaikh",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "R. Pal",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Rim Laatar",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Chafik Aloulou",
+      "score": 0.1111111111111111
+    }
+  ],
+  "29": [
+    {
+      "author": "Wagobera Edgar Kedi",
+      "score": 0.10724364219756419
+    },
+    {
+      "author": "Chibundom Ejimuda",
+      "score": 0.10724364219756419
+    },
+    {
+      "author": "Courage Idemudia",
+      "score": 0.10724364219756419
+    },
+    {
+      "author": "Tochukwu Ignatius Ijomah",
+      "score": 0.10724364219756419
+    },
+    {
+      "author": "Nikhil Kumar",
+      "score": 0.09549377492359293
+    }
+  ],
+  "30": [
+    {
+      "author": "Elvys Soares",
+      "score": 0.08730283041971237
+    },
+    {
+      "author": "Manoel Aranda",
+      "score": 0.08730283041971237
+    },
+    {
+      "author": "Naelson D. C. Oliveira",
+      "score": 0.08730283041971237
+    },
+    {
+      "author": "Márcio Ribeiro",
+      "score": 0.08730283041971237
+    },
+    {
+      "author": "Rohit Gheyi",
+      "score": 0.08730283041971237
+    }
+  ],
+  "31": [
+    {
+      "author": "Jim Elliot Christopherjames",
+      "score": 0.08078134066042594
+    },
+    {
+      "author": "Mahima Saravanan",
+      "score": 0.08078134066042594
+    },
+    {
+      "author": "D. Thiyam",
+      "score": 0.08078134066042594
+    },
+    {
+      "author": "Prasath Alias Surendhar S",
+      "score": 0.08078134066042594
+    },
+    {
+      "author": "Mohammed Yashik Basheer Sahib",
+      "score": 0.08078134066042594
+    }
+  ],
+  "32": [
+    {
+      "author": "Amit Pimpalkar",
+      "score": 0.07556924343273076
+    },
+    {
+      "author": "Aastha Lalwani",
+      "score": 0.07556924343273076
+    },
+    {
+      "author": "Roshan Chaudhari",
+      "score": 0.07556924343273076
+    },
+    {
+      "author": "Mohd. Inshall",
+      "score": 0.07556924343273076
+    },
+    {
+      "author": "Mahak Dalwani",
+      "score": 0.07556924343273076
+    }
+  ],
+  "33": [
+    {
+      "author": "Anjali Thukral",
+      "score": 0.13805973592550203
+    },
+    {
+      "author": "Shivani Dhiman",
+      "score": 0.13805973592550203
+    },
+    {
+      "author": "Ravi Meher",
+      "score": 0.13805973592550203
+    },
+    {
+      "author": "Punam Bedi",
+      "score": 0.13805973592550203
+    },
+    {
+      "author": "Ambeth Kumar Visvam Devadoss",
+      "score": 0.07462684271633196
+    }
+  ],
+  "34": [
+    {
+      "author": "J. Holler",
+      "score": 0.20758195647693956
+    },
+    {
+      "author": "Marlijn ter Bekke",
+      "score": 0.150278445659678
+    },
+    {
+      "author": "L. Drijvers",
+      "score": 0.150278445659678
+    },
+    {
+      "author": "Ye Zhang",
+      "score": 0.0869115282772886
+    },
+    {
+      "author": "Diego Frassinelli",
+      "score": 0.0869115282772886
+    }
+  ],
+  "35": [
+    {
+      "author": "L. Vaira",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "Mario Alessandro Bochicchio",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "Matteo Conte",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "Francesco Margiotta Casaluci",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "A. Melpignano",
+      "score": 0.06666666666666667
+    }
+  ],
+  "36": [
+    {
+      "author": "F. Al-Wesabi",
+      "score": 0.1525426433437995
+    },
+    {
+      "author": "Hala J. Alshahrani",
+      "score": 0.056497157110413365
+    },
+    {
+      "author": "Khaled Tarmissi",
+      "score": 0.056497157110413365
+    },
+    {
+      "author": "Hussain Alshahrani",
+      "score": 0.056497157110413365
+    },
+    {
+      "author": "Mohamed Ahmed Elfaki",
+      "score": 0.056497157110413365
+    }
+  ],
+  "37": [
+    {
+      "author": "Elliot Murphy",
+      "score": 0.5295812285986534
+    },
+    {
+      "author": "Evelina Leivada",
+      "score": 0.33286507559055756
+    },
+    {
+      "author": "G. Marcus",
+      "score": 0.13755369581078897
+    }
+  ],
+  "38": [
+    {
+      "author": "R. Amato",
+      "score": 0.12050379811303406
+    },
+    {
+      "author": "L. Lacasa",
+      "score": 0.12050379811303406
+    },
+    {
+      "author": "A. Díaz-Guilera",
+      "score": 0.12050379811303406
+    },
+    {
+      "author": "Andrea Baronchelli",
+      "score": 0.12050379811303406
+    },
+    {
+      "author": "M. Pagel",
+      "score": 0.0889018122080249
+    }
+  ],
+  "39": [
+    {
+      "author": "Serhat Kiliçarslan",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Kemal Adem",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Mete Çelik",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Bin Ding",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Huimin Qian",
+      "score": 0.1111111111111111
+    }
+  ],
+  "40": [
+    {
+      "author": "S. Cui",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Chao Li",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Zhe Chen",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Jiaojiao Wang",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Juxiang Yuan",
+      "score": 0.08333333333333333
+    }
+  ],
+  "41": [
+    {
+      "author": "Reza Rahimi",
+      "score": 0.15489132565349603
+    },
+    {
+      "author": "Elaheh Sadredini",
+      "score": 0.15489132565349603
+    },
+    {
+      "author": "K. Skadron",
+      "score": 0.15489132565349603
+    },
+    {
+      "author": "Mircea R. Stan",
+      "score": 0.10054351174120801
+    },
+    {
+      "author": "Daniele Parravicini",
+      "score": 0.054347813912288
+    }
+  ],
+  "42": [
+    {
+      "author": "Musatafa Abbas Abbood Albadr",
+      "score": 0.32905985917054553
+    },
+    {
+      "author": "S. Tiun",
+      "score": 0.32905985917054553
+    },
+    {
+      "author": "F. T. Al-Dhief",
+      "score": 0.17094014082945452
+    },
+    {
+      "author": "M. Ayob",
+      "score": 0.08547007041472726
+    },
+    {
+      "author": "M. Sammour",
+      "score": 0.08547007041472726
+    }
+  ],
+  "43": [
+    {
+      "author": "Jezia Zakraoui",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "M. Saleh",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "J. Jaam",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "Marc A. Kastner",
+      "score": 0.06666666666666667
+    },
+    {
+      "author": "I. Ide",
+      "score": 0.06666666666666667
+    }
+  ],
+  "44": [
+    {
+      "author": "Erdi Gao",
+      "score": 0.09574476609134766
+    },
+    {
+      "author": "Haowei Yang",
+      "score": 0.09574476609134766
+    },
+    {
+      "author": "Dan Sun",
+      "score": 0.09574476609134766
+    },
+    {
+      "author": "Haohao Xia",
+      "score": 0.09574476609134766
+    },
+    {
+      "author": "Yuhan Ma",
+      "score": 0.09574476609134766
+    }
+  ],
+  "45": [
+    {
+      "author": "Christoph Matthies",
+      "score": 0.10170911321075149
+    },
+    {
+      "author": "Franziska Dobrigkeit",
+      "score": 0.10170911321075149
+    },
+    {
+      "author": "Guenter Hesse",
+      "score": 0.10170911321075149
+    },
+    {
+      "author": "Yara Rizk",
+      "score": 0.09166990690854539
+    },
+    {
+      "author": "S. Boag",
+      "score": 0.09166990690854539
+    }
+  ],
+  "46": [
+    {
+      "author": "S. Qaisar",
+      "score": 0.133574071683818
+    },
+    {
+      "author": "Md. Tazimul Hoque",
+      "score": 0.07220216069301516
+    },
+    {
+      "author": "Ashraful Islam",
+      "score": 0.07220216069301516
+    },
+    {
+      "author": "Eshtiak Ahmed",
+      "score": 0.07220216069301516
+    },
+    {
+      "author": "K. Mamun",
+      "score": 0.07220216069301516
+    }
+  ],
+  "47": [
+    {
+      "author": "Pranjul Garg",
+      "score": 0.14211454705290325
+    },
+    {
+      "author": "Nancy Girdhar",
+      "score": 0.14211454705290325
+    },
+    {
+      "author": "Bhargav Kuchipudi",
+      "score": 0.13970583218464577
+    },
+    {
+      "author": "Ravi Teja Nannapaneni",
+      "score": 0.13970583218464577
+    },
+    {
+      "author": "Qi Liao",
+      "score": 0.13970583218464577
+    }
+  ],
+  "48": [
+    {
+      "author": "Ramon Ruiz-Dolz",
+      "score": 0.1615875034352172
+    },
+    {
+      "author": "A. García-Fornes",
+      "score": 0.1615875034352172
+    },
+    {
+      "author": "Allen Roush",
+      "score": 0.15616592207422852
+    },
+    {
+      "author": "Arvind Balaji",
+      "score": 0.15616592207422852
+    },
+    {
+      "author": "Montserrat Nofre",
+      "score": 0.1014528227729457
+    }
+  ],
+  "49": [
+    {
+      "author": "F. Difonzo",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "Luciano Lopez",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "S. F. Pellegrino",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Marco Berardi",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Matteo Icardi",
+      "score": 0.16666666666666666
+    }
+  ],
+  "50": [
+    {
+      "author": "Yash Chopra",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "Priyanka Kaushik",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "S. Rathore",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "Pramneet Kaur",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "Rachna Rathore",
+      "score": 0.10638304084763148
+    }
+  ],
+  "51": [
+    {
+      "author": "Chengcheng Sun",
+      "score": 0.0976253068860717
+    },
+    {
+      "author": "Chenhao Li",
+      "score": 0.0976253068860717
+    },
+    {
+      "author": "Xiang Lin",
+      "score": 0.0976253068860717
+    },
+    {
+      "author": "Tianji Zheng",
+      "score": 0.0976253068860717
+    },
+    {
+      "author": "Fanrong Meng",
+      "score": 0.0976253068860717
+    }
+  ],
+  "52": [
+    {
+      "author": "Amina Catherine Ijiga",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "Enoch Joseph Aboi",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "Idoko Peter Idoko",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "L. A. Enyejo",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "Micheal Olumubo Odeyemi",
+      "score": 0.139622610242527
+    }
+  ],
+  "53": [
+    {
+      "author": "Ali Mohammad Ali Alqudah",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "Yousef M. Jaradat",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "B. Alobaydi",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "Derar Alqudah",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "Emran (Mohamad Ali) Abdalah Al Qudah",
+      "score": 0.14285714285714285
+    }
+  ],
+  "54": [
+    {
+      "author": "Satyanarayan Kanungo",
+      "score": 0.6491226380641381
+    },
+    {
+      "author": "Sasibhushan Rao Chanthati",
+      "score": 0.35087736193586194
+    }
+  ],
+  "55": [
+    {
+      "author": "Shuying Dai",
+      "score": 0.10306404555637971
+    },
+    {
+      "author": "Keqin Li",
+      "score": 0.10306404555637971
+    },
+    {
+      "author": "Zhuolun Luo",
+      "score": 0.10306404555637971
+    },
+    {
+      "author": "Peng Zhao",
+      "score": 0.10306404555637971
+    },
+    {
+      "author": "Bo Hong",
+      "score": 0.10306404555637971
+    }
+  ],
+  "56": [
+    {
+      "author": "Tarek Kanan",
+      "score": 0.12251653221658478
+    },
+    {
+      "author": "Ala Mughaid",
+      "score": 0.12251653221658478
+    },
+    {
+      "author": "R. Al-Shalabi",
+      "score": 0.12251653221658478
+    },
+    {
+      "author": "M. Al-Ayyoub",
+      "score": 0.12251653221658478
+    },
+    {
+      "author": "M. Elbes",
+      "score": 0.12251653221658478
+    }
+  ],
+  "57": [
+    {
+      "author": "Donald Obinna Daraojimba",
+      "score": 0.14122135805227853
+    },
+    {
+      "author": "Adebunmi Okechukwu Adewusi",
+      "score": 0.14122135805227853
+    },
+    {
+      "author": "U. Okoli",
+      "score": 0.14122135805227853
+    },
+    {
+      "author": "Temidayo Olorunsogo",
+      "score": 0.14122135805227853
+    },
+    {
+      "author": "E. Adaga",
+      "score": 0.14122135805227853
+    }
+  ],
+  "58": [
+    {
+      "author": "Vikram Gupta",
+      "score": 0.11280483212777166
+    },
+    {
+      "author": "Rini A. Sharon",
+      "score": 0.11280483212777166
+    },
+    {
+      "author": "Ramit Sawhney",
+      "score": 0.11280483212777166
+    },
+    {
+      "author": "Debdoot Mukherjee",
+      "score": 0.11280483212777166
+    },
+    {
+      "author": "M. Costa-jussà",
+      "score": 0.06097563016543482
+    }
+  ],
+  "59": [
+    {
+      "author": "L. Hannah",
+      "score": 0.24503306443316955
+    },
+    {
+      "author": "H. Kim",
+      "score": 0.24503306443316955
+    },
+    {
+      "author": "E. Jang",
+      "score": 0.24503306443316955
+    },
+    {
+      "author": "Lili Qin",
+      "score": 0.13245040335024566
+    },
+    {
+      "author": "Weixuan Zhong",
+      "score": 0.13245040335024566
+    }
+  ],
+  "60": [
+    {
+      "author": "L. Stracqualursi",
+      "score": 0.39361695915236855
+    },
+    {
+      "author": "Patrizia Agati",
+      "score": 0.39361695915236855
+    },
+    {
+      "author": "Stefan Nisch",
+      "score": 0.21276608169526295
+    }
+  ],
+  "61": [
+    {
+      "author": "Alvin Chaidrata",
+      "score": 0.11011903789452754
+    },
+    {
+      "author": "Mariyam Imtha Shafeeu",
+      "score": 0.11011903789452754
+    },
+    {
+      "author": "S. Chew",
+      "score": 0.11011903789452754
+    },
+    {
+      "author": "Zhiyuan Chen",
+      "score": 0.11011903789452754
+    },
+    {
+      "author": "Jin Sheng Cham",
+      "score": 0.11011903789452754
+    }
+  ],
+  "62": [
+    {
+      "author": "J. Choo",
+      "score": 0.045454545454545456
+    },
+    {
+      "author": "Hyo Seon Ryu",
+      "score": 0.045454545454545456
+    },
+    {
+      "author": "Ji Seon Kim",
+      "score": 0.045454545454545456
+    },
+    {
+      "author": "J. Cheong",
+      "score": 0.045454545454545456
+    },
+    {
+      "author": "S. Baek",
+      "score": 0.045454545454545456
+    }
+  ],
+  "63": [
+    {
+      "author": "Yao Zhang",
+      "score": 0.1728971123568337
+    },
+    {
+      "author": "Q. Ni",
+      "score": 0.1728971123568337
+    },
+    {
+      "author": "Manushi Munshi",
+      "score": 0.09345796789804751
+    },
+    {
+      "author": "Rajesh Gupta",
+      "score": 0.09345796789804751
+    },
+    {
+      "author": "N. Jadav",
+      "score": 0.09345796789804751
+    }
+  ],
+  "64": [
+    {
+      "author": "Emmie Hine",
+      "score": 0.6063830408476315
+    },
+    {
+      "author": "Luciano Floridi",
+      "score": 0.39361695915236855
+    }
+  ],
+  "65": [
+    {
+      "author": "Thangkhanhau Haulai",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "J. Hussain",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Saiful Islam",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Abhijit Paul",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "B. S. Purkayastha",
+      "score": 0.16666666666666666
+    }
+  ],
+  "66": [
+    {
+      "author": "Jasmin Praful Bharadiya",
+      "score": 0.6491226380641381
+    },
+    {
+      "author": "J. Bharadiya",
+      "score": 0.35087736193586194
+    }
+  ],
+  "67": [
+    {
+      "author": "Eunil Park",
+      "score": 0.5
+    },
+    {
+      "author": "Yeonju Jang",
+      "score": 0.32456131903206903
+    },
+    {
+      "author": "Hyeon-Seo Ahn",
+      "score": 0.17543868096793097
+    }
+  ],
+  "68": [
+    {
+      "author": "D. V. Gadasin",
+      "score": 0.29842930432472825
+    },
+    {
+      "author": "A. Shvedov",
+      "score": 0.29842930432472825
+    },
+    {
+      "author": "I. S. Vakurin",
+      "score": 0.1937172172989131
+    },
+    {
+      "author": "K. A. Panteleeva",
+      "score": 0.10471208702581518
+    },
+    {
+      "author": "D. D. Gadasin",
+      "score": 0.10471208702581518
+    }
+  ],
+  "69": [
+    {
+      "author": "W. Lloyd",
+      "score": 0.25
+    },
+    {
+      "author": "M. Fotouhi",
+      "score": 0.125
+    },
+    {
+      "author": "Derek Chen",
+      "score": 0.125
+    },
+    {
+      "author": "Danielle Lambion",
+      "score": 0.125
+    },
+    {
+      "author": "Robert Schmitz",
+      "score": 0.125
+    }
+  ],
+  "70": [
+    {
+      "author": "Bronjon Gogoi",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "Tasiruddin Ahmed",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "Arabinda Dutta",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "Sagar Lakhani",
+      "score": 0.11695912064528731
+    },
+    {
+      "author": "Ashok Yadav",
+      "score": 0.11695912064528731
+    }
+  ],
+  "71": [
+    {
+      "author": "Mohamed Abdellatif Hussein",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "Hesham A. Hassan",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "M. Nassef",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "Samira Said Ibrahim",
+      "score": 0.11695912064528731
+    },
+    {
+      "author": "Essameldean F. Elfakharany",
+      "score": 0.11695912064528731
+    }
+  ],
+  "72": [
+    {
+      "author": "V. R.",
+      "score": 0.38144312394637897
+    },
+    {
+      "author": "Abdulqahar Mukhtar Abubakar",
+      "score": 0.206185625351207
+    },
+    {
+      "author": "Deepa Gupta",
+      "score": 0.206185625351207
+    },
+    {
+      "author": "Suja Palaniswamy",
+      "score": 0.206185625351207
+    }
+  ],
+  "73": [
+    {
+      "author": "Ze Gong",
+      "score": 0.125
+    },
+    {
+      "author": "Yu Zhang",
+      "score": 0.125
+    },
+    {
+      "author": "Zeyuan Cai",
+      "score": 0.125
+    },
+    {
+      "author": "Zhiquan Feng",
+      "score": 0.125
+    },
+    {
+      "author": "Liran Zhou",
+      "score": 0.125
+    }
+  ],
+  "74": [
+    {
+      "author": "Octavian Popescu",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Ngoc Phuoc An Vo",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "V. Sheinin",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Hangu Yeo",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Elahe Khorashani",
+      "score": 0.08333333333333333
+    }
+  ],
+  "75": [
+    {
+      "author": "A. Laposhina",
+      "score": 0.17788457732089213
+    },
+    {
+      "author": "Лапошина Антонина Николаевна",
+      "score": 0.17788457732089213
+    },
+    {
+      "author": "M. Lebedeva",
+      "score": 0.17788457732089213
+    },
+    {
+      "author": "Лебедева Мария Юрьевна",
+      "score": 0.17788457732089213
+    },
+    {
+      "author": "M. Solnyshkina",
+      "score": 0.09615389690547715
+    }
+  ],
+  "76": [
+    {
+      "author": "Adriana Picoral",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "S. Staples",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "R. Reppen",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "Ben Naismith",
+      "score": 0.11695912064528731
+    },
+    {
+      "author": "Na-Rae Han",
+      "score": 0.11695912064528731
+    }
+  ],
+  "77": [
+    {
+      "author": "D. Brunato",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "F. Dell’Orletta",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "Alessio Miaschi",
+      "score": 0.21637421268804602
+    },
+    {
+      "author": "Giulia Venturi",
+      "score": 0.11695912064528731
+    }
+  ],
+  "78": [
+    {
+      "author": "R. S. Sai Dinesh",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "R. Surendran",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "D. Kathirvelan",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "V. Logesh",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "G. Terzopoulos",
+      "score": 0.16666666666666666
+    }
+  ],
+  "79": [
+    {
+      "author": "Heladia Salgado",
+      "score": 0.05332085821563043
+    },
+    {
+      "author": "S. Gama-Castro",
+      "score": 0.05332085821563043
+    },
+    {
+      "author": "Laura Gómez-Romero",
+      "score": 0.05332085821563043
+    },
+    {
+      "author": "Pablo Peña-Loredo",
+      "score": 0.05332085821563043
+    },
+    {
+      "author": "J. García-Sotelo",
+      "score": 0.05332085821563043
+    }
+  ],
+  "80": [
+    {
+      "author": "Yi Yang",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "Jia-Huey Hsu",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "K. Löfgren",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "Wonhyuk Cho",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "Jennifer O. Contreras",
+      "score": 0.14285714285714285
+    }
+  ],
+  "81": [
+    {
+      "author": "Norita Purba",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "M. Dey",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "M. Sawalmeh",
+      "score": 0.3333333333333333
+    }
+  ],
+  "82": [
+    {
+      "author": "Wael M. S. Yafooz",
+      "score": 0.1
+    },
+    {
+      "author": "E. Hezzam",
+      "score": 0.1
+    },
+    {
+      "author": "Waseem Alromema",
+      "score": 0.1
+    },
+    {
+      "author": "E. Clark",
+      "score": 0.1
+    },
+    {
+      "author": "T. James",
+      "score": 0.1
+    }
+  ],
+  "83": [
+    {
+      "author": "Lucas M. Silva",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Daniel A. Epstein",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Hyungik Oh",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Jonathan Nguyen",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Soundarya Soundararajan",
+      "score": 0.16666666666666666
+    }
+  ],
+  "84": [
+    {
+      "author": "Weiming Hu",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Guodong Tian",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Yongxin Kang",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Chunfen Yuan",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "S. Maybank",
+      "score": 0.08333333333333333
+    }
+  ],
+  "85": [
+    {
+      "author": "W. Steingartner",
+      "score": 0.4351145677908859
+    },
+    {
+      "author": "Martin Haratim",
+      "score": 0.2824427161045571
+    },
+    {
+      "author": "Jirí Dostál",
+      "score": 0.2824427161045571
+    }
+  ],
+  "86": [
+    {
+      "author": "Thiemo Wambsganss",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "Rainer Winkler",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Matthias Söllner",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "J. Leimeister",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "H. Fromm",
+      "score": 0.16666666666666666
+    }
+  ],
+  "87": [
+    {
+      "author": "O. Karasov",
+      "score": 0.1
+    },
+    {
+      "author": "Stien Heremans",
+      "score": 0.1
+    },
+    {
+      "author": "M. Külvik",
+      "score": 0.1
+    },
+    {
+      "author": "Artem Domnich",
+      "score": 0.1
+    },
+    {
+      "author": "I. Chervanyov",
+      "score": 0.1
+    }
+  ],
+  "88": [
+    {
+      "author": "Kevin Greene",
+      "score": 0.33333333333333337
+    },
+    {
+      "author": "Baekkwan Park",
+      "score": 0.33333333333333337
+    },
+    {
+      "author": "Michael Colaresi",
+      "score": 0.33333333333333337
+    }
+  ],
+  "89": [
+    {
+      "author": "Vincenzo Di Cicco",
+      "score": 0.125
+    },
+    {
+      "author": "D. Firmani",
+      "score": 0.125
+    },
+    {
+      "author": "Nick Koudas",
+      "score": 0.125
+    },
+    {
+      "author": "P. Merialdo",
+      "score": 0.125
+    },
+    {
+      "author": "D. Srivastava",
+      "score": 0.125
+    }
+  ],
+  "90": [
+    {
+      "author": "Ali Hürriyetoǧlu",
+      "score": 0.13333333333333333
+    },
+    {
+      "author": "E. Yörük",
+      "score": 0.13333333333333333
+    },
+    {
+      "author": "Deniz Yüret",
+      "score": 0.13333333333333333
+    },
+    {
+      "author": "Çağrı Yoltar",
+      "score": 0.13333333333333333
+    },
+    {
+      "author": "Burak Gürel",
+      "score": 0.13333333333333333
+    }
+  ],
+  "91": [
+    {
+      "author": "Tarek Kanan",
+      "score": 0.15384615384615385
+    },
+    {
+      "author": "Odai Sadaqa",
+      "score": 0.15384615384615385
+    },
+    {
+      "author": "Ashraf Almhirat",
+      "score": 0.07692307692307693
+    },
+    {
+      "author": "Emran Kanan",
+      "score": 0.07692307692307693
+    },
+    {
+      "author": "Amal Aldajeh",
+      "score": 0.07692307692307693
+    }
+  ],
+  "92": [
+    {
+      "author": "S. Al-Fedaghi",
+      "score": 0.6063830408476315
+    },
+    {
+      "author": "Mona Al-Otaibi",
+      "score": 0.39361695915236855
+    }
+  ],
+  "93": [
+    {
+      "author": "Federico Aschieri",
+      "score": 0.4
+    },
+    {
+      "author": "F. Genco",
+      "score": 0.4
+    },
+    {
+      "author": "A. Ciabattoni",
+      "score": 0.2
+    }
+  ],
+  "94": [
+    {
+      "author": "Ayla Rigouts Terryn",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Veronique Hoste",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Els Lefever",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Rejwanul Haque",
+      "score": 0.16666666666666666
+    },
+    {
+      "author": "Sergio Penkale",
+      "score": 0.16666666666666666
+    }
+  ],
+  "95": [
+    {
+      "author": "Jin-Dong Kim",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "K. B. Cohen",
+      "score": 0.14285714285714285
+    },
+    {
+      "author": "Yue Wang",
+      "score": 0.07142857142857142
+    },
+    {
+      "author": "Toyofumi Fujiwara",
+      "score": 0.07142857142857142
+    },
+    {
+      "author": "Shujiro Okuda",
+      "score": 0.07142857142857142
+    }
+  ],
+  "96": [
+    {
+      "author": "Tianjie Mu",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Xiaohui Chen",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Li Chen",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Huarui Yin",
+      "score": 0.1111111111111111
+    },
+    {
+      "author": "Weidong Wang",
+      "score": 0.1111111111111111
+    }
+  ],
+  "97": [
+    {
+      "author": "Fatima T. AL-Khawaldeh",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "Noa P. Cruz Díaz",
+      "score": 0.3333333333333333
+    },
+    {
+      "author": "Manuel J. Maña López",
+      "score": 0.3333333333333333
+    }
+  ],
+  "98": [
+    {
+      "author": "Richard L. Martin",
+      "score": 0.11764705882352941
+    },
+    {
+      "author": "D. M. Iraola",
+      "score": 0.058823529411764705
+    },
+    {
+      "author": "E. Louie",
+      "score": 0.058823529411764705
+    },
+    {
+      "author": "D. Pierce",
+      "score": 0.058823529411764705
+    },
+    {
+      "author": "B. A. Tagtow",
+      "score": 0.058823529411764705
+    }
+  ],
+  "99": [
+    {
+      "author": "Yunhan Lin",
+      "score": 0.25
+    },
+    {
+      "author": "Haotian Zhou",
+      "score": 0.25
+    },
+    {
+      "author": "Huasong Min",
+      "score": 0.25
+    },
+    {
+      "author": "Mingyu Chen",
+      "score": 0.125
+    },
+    {
+      "author": "Feilong Pei",
+      "score": 0.125
+    }
+  ],
+  "100": [
+    {
+      "author": "M. Meharie",
+      "score": 0.2
+    },
+    {
+      "author": "Z. Gariy",
+      "score": 0.2
+    },
+    {
+      "author": "Raphael Ngumbau Ndisya Mutuku",
+      "score": 0.2
+    },
+    {
+      "author": "W. Mengesha",
+      "score": 0.2
+    },
+    {
+      "author": "T. Yaghoobi",
+      "score": 0.2
+    }
+  ],
+  "101": [
+    {
+      "author": "Michael Ramscar",
+      "score": 0.48051929535181415
+    },
+    {
+      "author": "R. Ferrer-i-Cancho",
+      "score": 0.25974035232409287
+    },
+    {
+      "author": "C. Bentz",
+      "score": 0.25974035232409287
+    }
+  ],
+  "102": [
+    {
+      "author": "Mandy Faretta-Stutenberg",
+      "score": 0.276119311272626
+    },
+    {
+      "author": "K. Morgan‐Short",
+      "score": 0.276119311272626
+    },
+    {
+      "author": "Simón Ruiz",
+      "score": 0.14925379248491602
+    },
+    {
+      "author": "Kaitlyn M. Tagarelli",
+      "score": 0.14925379248491602
+    },
+    {
+      "author": "P. Rebuschat",
+      "score": 0.14925379248491602
+    }
+  ],
+  "103": [
+    {
+      "author": "Zuraini Zainol",
+      "score": 0.25
+    },
+    {
+      "author": "Sharyar Wani",
+      "score": 0.125
+    },
+    {
+      "author": "N. P. N. Ellyza",
+      "score": 0.125
+    },
+    {
+      "author": "W. M. Noormanshah",
+      "score": 0.125
+    },
+    {
+      "author": "S. Marzukhi",
+      "score": 0.125
+    }
+  ],
+  "104": [
+    {
+      "author": "Kamilya Smagulova",
+      "score": 0.2857142857142857
+    },
+    {
+      "author": "O. Krestinskaya",
+      "score": 0.2857142857142857
+    },
+    {
+      "author": "A. P. James",
+      "score": 0.2857142857142857
+    },
+    {
+      "author": "Kazybek Adam",
+      "score": 0.14285714285714285
+    }
+  ],
+  "105": [
+    {
+      "author": "Konstantinos I. Roumeliotis",
+      "score": 0.33333333333333337
+    },
+    {
+      "author": "Nikolaos D. Tselikas",
+      "score": 0.33333333333333337
+    },
+    {
+      "author": "Dimitrios K. Nasiopoulos",
+      "score": 0.33333333333333337
+    }
+  ],
+  "106": [
+    {
+      "author": "Marcus Young",
+      "score": 0.13603818303080067
+    },
+    {
+      "author": "Kartik Kishore",
+      "score": 0.13603818303080067
+    },
+    {
+      "author": "Sobia Amjad",
+      "score": 0.13603818303080067
+    },
+    {
+      "author": "Natasha Holmes",
+      "score": 0.08830546424640538
+    },
+    {
+      "author": "Nada Marhoon",
+      "score": 0.08830546424640538
+    }
+  ],
+  "107": [
+    {
+      "author": "Alqaraleh Muhyeeddin",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "Salem Alzboon Mowafaq",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "M. Al-batah",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "Abdel Wahed Mutaz",
+      "score": 0.19680847957618428
+    },
+    {
+      "author": "Salma Abdel Wahed",
+      "score": 0.10638304084763148
+    }
+  ],
+  "108": [
+    {
+      "author": "P. Johri",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "Mukul Kathait",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "Munish Sabharwal",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "Ahmad T. Al-Taani",
+      "score": 0.139622610242527
+    },
+    {
+      "author": "Shakhzod Suvanov",
+      "score": 0.139622610242527
+    }
+  ],
+  "109": [
+    {
+      "author": "Onoriode Reginald",
+      "score": 0.18048779181606855
+    },
+    {
+      "author": "Aziza",
+      "score": 0.18048779181606855
+    },
+    {
+      "author": "Onoriode Reginald Aziza",
+      "score": 0.18048779181606855
+    },
+    {
+      "author": "Ngozi Samuel Uzougbo",
+      "score": 0.18048779181606855
+    },
+    {
+      "author": "Munachi Chikodili Ugwu",
+      "score": 0.18048779181606855
+    }
+  ],
+  "110": [
+    {
+      "author": "Yichen Li",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Wei Hu",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Hao Su",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Xuelin Zhang",
+      "score": 0.08333333333333333
+    },
+    {
+      "author": "Yizhi Zhao",
+      "score": 0.08333333333333333
+    }
+  ],
+  "111": [
+    {
+      "author": "J. Lambert",
+      "score": 0.1
+    },
+    {
+      "author": "G. Epstein",
+      "score": 0.1
+    },
+    {
+      "author": "Jennifer Joel",
+      "score": 0.1
+    },
+    {
+      "author": "Jacapo Baggio",
+      "score": 0.1
+    },
+    {
+      "author": "Olegas Beriozovas",
+      "score": 0.1
+    }
+  ],
+  "112": [
+    {
+      "author": "Simone Gallo",
+      "score": 0.425373103757542
+    },
+    {
+      "author": "F. Paternò",
+      "score": 0.276119311272626
+    },
+    {
+      "author": "Fabio Paternò",
+      "score": 0.14925379248491602
+    },
+    {
+      "author": "Alessio Malizia",
+      "score": 0.14925379248491602
+    }
+  ],
+  "113": [
+    {
+      "author": "Simon Goldstein",
+      "score": 0.39361695915236855
+    },
+    {
+      "author": "Cameron Domenico Kirk-Giannini",
+      "score": 0.39361695915236855
+    },
+    {
+      "author": "Inchul Yum",
+      "score": 0.21276608169526295
+    }
+  ],
+  "114": [
+    {
+      "author": "Lucas Klemmer",
+      "score": 0.5
+    },
+    {
+      "author": "Daniel Große",
+      "score": 0.5
+    }
+  ],
+  "115": [
+    {
+      "author": "Tatwadarshi P. Nagarhalli",
+      "score": 0.1937172172989131
+    },
+    {
+      "author": "V. Vaze",
+      "score": 0.1937172172989131
+    },
+    {
+      "author": "N. K. Rana",
+      "score": 0.1937172172989131
+    },
+    {
+      "author": "Lamya Benaddi",
+      "score": 0.10471208702581518
+    },
+    {
+      "author": "Charaf Ouaddi",
+      "score": 0.10471208702581518
+    }
+  ],
+  "116": [
+    {
+      "author": "Tiberiu-Marian Georgescu",
+      "score": 0.4351145677908859
+    },
+    {
+      "author": "B. Iancu",
+      "score": 0.2824427161045571
+    },
+    {
+      "author": "Madalina Zurini",
+      "score": 0.2824427161045571
+    }
+  ]
+}

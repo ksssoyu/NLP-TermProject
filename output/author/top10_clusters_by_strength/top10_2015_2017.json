@@ -1,0 +1,374 @@
+{
+  "window": "2015_2017",
+  "num_clusters": 10,
+  "cluster_details": {
+    "0": [
+      {
+        "id": "Noam M. Shazeer"
+      },
+      {
+        "id": "Lukasz Kaiser"
+      },
+      {
+        "id": "G. Corrado"
+      },
+      {
+        "id": "J. Dean"
+      },
+      {
+        "id": "O. Vinyals"
+      },
+      {
+        "id": "Quoc V. Le"
+      },
+      {
+        "id": "Wei Wang"
+      },
+      {
+        "id": "Minh-Thang Luong"
+      },
+      {
+        "id": "Mohammad Norouzi"
+      },
+      {
+        "id": "Andrew M. Dai"
+      },
+      {
+        "id": "Yonghui Wu"
+      },
+      {
+        "id": "M. Schuster"
+      },
+      {
+        "id": "Z. Chen"
+      },
+      {
+        "id": "Wolfgang Macherey"
+      },
+      {
+        "id": "M. Krikun"
+      },
+      {
+        "id": "Yuan Cao"
+      },
+      {
+        "id": "Qin Gao"
+      },
+      {
+        "id": "Klaus Macherey"
+      },
+      {
+        "id": "J. Klingner"
+      },
+      {
+        "id": "Apurva Shah"
+      },
+      {
+        "id": "Melvin Johnson"
+      },
+      {
+        "id": "Xiaobing Liu"
+      },
+      {
+        "id": "Stephan Gouws"
+      },
+      {
+        "id": "Yoshikiyo Kato"
+      },
+      {
+        "id": "Taku Kudo"
+      },
+      {
+        "id": "H. Kazawa"
+      },
+      {
+        "id": "K. Stevens"
+      },
+      {
+        "id": "George Kurian"
+      },
+      {
+        "id": "Nishant Patil"
+      },
+      {
+        "id": "C. Young"
+      },
+      {
+        "id": "Jason R. Smith"
+      },
+      {
+        "id": "Jason Riesa"
+      },
+      {
+        "id": "Alex Rudnick"
+      },
+      {
+        "id": "Macduff Hughes"
+      },
+      {
+        "id": "D. Britz"
+      },
+      {
+        "id": "Anna Goldie"
+      },
+      {
+        "id": "Azalia Mirhoseini"
+      },
+      {
+        "id": "Krzysztof Maziarz"
+      },
+      {
+        "id": "Andy Davis"
+      },
+      {
+        "id": "Geoffrey E. Hinton"
+      },
+      {
+        "id": "Samy Bengio"
+      },
+      {
+        "id": "Jimmy Ba"
+      },
+      {
+        "id": "J. Kiros"
+      },
+      {
+        "id": "R. Józefowicz"
+      }
+    ],
+    "32": [
+      {
+        "id": "Tomas Mikolov"
+      },
+      {
+        "id": "Armand Joulin"
+      },
+      {
+        "id": "Piotr Bojanowski"
+      },
+      {
+        "id": "Edouard Grave"
+      }
+    ],
+    "4": [
+      {
+        "id": "R. Socher"
+      },
+      {
+        "id": "Mohit Iyyer"
+      },
+      {
+        "id": "Bryan McCann"
+      },
+      {
+        "id": "James Bradbury"
+      },
+      {
+        "id": "Caiming Xiong"
+      },
+      {
+        "id": "Romain Paulus"
+      },
+      {
+        "id": "N. Keskar"
+      },
+      {
+        "id": "Ozan Irsoy"
+      },
+      {
+        "id": "Stephen Merity"
+      },
+      {
+        "id": "Kazuma Hashimoto"
+      },
+      {
+        "id": "Yoshimasa Tsuruoka"
+      },
+      {
+        "id": "A. Kumar"
+      },
+      {
+        "id": "Peter Ondruska"
+      },
+      {
+        "id": "Ishaan Gulrajani"
+      },
+      {
+        "id": "Victor Zhong"
+      }
+    ],
+    "7": [
+      {
+        "id": "Xipeng Qiu"
+      },
+      {
+        "id": "Minghao Hu"
+      },
+      {
+        "id": "Yuxing Peng"
+      },
+      {
+        "id": "Zhen Huang"
+      },
+      {
+        "id": "Furu Wei"
+      },
+      {
+        "id": "M. Zhou"
+      },
+      {
+        "id": "Wenhui Wang"
+      },
+      {
+        "id": "Nan Yang"
+      },
+      {
+        "id": "Baobao Chang"
+      }
+    ],
+    "8": [
+      {
+        "id": "Angeliki Lazaridou"
+      },
+      {
+        "id": "Denis Paperno"
+      },
+      {
+        "id": "Germán Kruszewski"
+      },
+      {
+        "id": "Q. N. Pham"
+      },
+      {
+        "id": "R. Bernardi"
+      },
+      {
+        "id": "Sandro Pezzelle"
+      },
+      {
+        "id": "Marco Baroni"
+      },
+      {
+        "id": "Gemma Boleda"
+      },
+      {
+        "id": "R. Fernández"
+      }
+    ],
+    "9": [
+      {
+        "id": "Sharan Narang"
+      },
+      {
+        "id": "Yanqi Zhou"
+      },
+      {
+        "id": "Joel Hestness"
+      },
+      {
+        "id": "Newsha Ardalani"
+      },
+      {
+        "id": "G. Diamos"
+      },
+      {
+        "id": "Heewoo Jun"
+      },
+      {
+        "id": "Hassan Kianinejad"
+      },
+      {
+        "id": "Md. Mostofa Ali Patwary"
+      },
+      {
+        "id": "Yang Yang"
+      }
+    ],
+    "10": [
+      {
+        "id": "Xiaodong Liu"
+      },
+      {
+        "id": "Jianfeng Gao"
+      },
+      {
+        "id": "Kevin Duh"
+      },
+      {
+        "id": "Xiaodong He"
+      },
+      {
+        "id": "L. Deng"
+      },
+      {
+        "id": "Ye-Yi Wang"
+      },
+      {
+        "id": "Yelong Shen"
+      }
+    ],
+    "12": [
+      {
+        "id": "Kenton Lee"
+      },
+      {
+        "id": "Luke Zettlemoyer"
+      },
+      {
+        "id": "Mandar Joshi"
+      },
+      {
+        "id": "Eunsol Choi"
+      },
+      {
+        "id": "Daniel S. Weld"
+      },
+      {
+        "id": "M. Lewis"
+      },
+      {
+        "id": "Luheng He"
+      }
+    ],
+    "13": [
+      {
+        "id": "Ryan Kiros"
+      },
+      {
+        "id": "Yukun Zhu"
+      },
+      {
+        "id": "R. Salakhutdinov"
+      },
+      {
+        "id": "R. Zemel"
+      },
+      {
+        "id": "R. Urtasun"
+      },
+      {
+        "id": "A. Torralba"
+      },
+      {
+        "id": "S. Fidler"
+      }
+    ],
+    "22": [
+      {
+        "id": "Yonatan Belinkov"
+      },
+      {
+        "id": "Nadir Durrani"
+      },
+      {
+        "id": "Fahim Dalvi"
+      },
+      {
+        "id": "Hassan Sajjad"
+      },
+      {
+        "id": "James R. Glass"
+      }
+    ]
+  }
+}

@@ -1,9 +1,23 @@
+SEMANTIC SCHOLARS CITATION GRAPH ANALYSIS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. semantic_scholars_sync_fetch.py : Fetch paper data starting from 13 landmark nlp-related papers, starting from 2010, with minimum citation count set to 0
+2. batch_fill_embedding.py : Used to fill up missing embedding values.
+3. construct_graph.py : constructs citation graph with weighted edges
+4. cluster.py : leiden community detection and summarize the top n clusters
+5. cluster_umap_cc.py : HDBSCAN along with UMAP(dimension reduction tool) and show top papers by citation count
+6. anaylyze_centrality.py : computes pagerank and eigenvector centrality on the entire graph
+7. sliding_window_analysis.py : from 2010~2012 window and onward, summarize and visualize each subgraph
+8. combined_analysis.py : run Leiden and K-means with respect to embedded vector. Each cluster image represents leiden community, and the colors represent vector-based clusters. Colors are same for same k-means cluster accross different leiden clusters.
+9. adaptive_dyna.py : for each window, HDBSCAN cluster by embedded vectors with parameter tunings via testing multiple sets of parameters while recording the highest scored set of parameters. Shows 3-view ranking for each window, raw citation count, pagerank and HITS score. The keywords for each cluster are also extracted.
+10. dyna_analysis_report.py : Enabling manual granular tweaks on the parameter sets obtained from adaptive learning to find best clustering resolution for each window, Summarize each window by showing 3-view rankings and keywords
+11. power_law.py : analyzes long-tailed power distribution
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Analysis
 1. semantic_scholars_sync_fetch : Fetch paper data starting from 13 landmark nlp-related papers, starting from 2010, with minimum citation count set to 0 (time taken too long even with 1)
 2. construct_graph : constructs citation graph with weighted edges
-3. cluster : leiden community detection and summarize the largest community
+3. cluster : leiden community detection and summarize the top n clusters
 4. anaylyze_centrality : computes pagerank and eigenvector centrality on the entire graph
-5. visualize_graph : visualizes the largest cluster(attention is the centre)
+5. visualize_graph : visualizes the largest cluster
 6. sliding_window_analysis : from 2010~2012 window and onward, summarize and visualize each subgraph
 7. cluster umap, umap_cc : HDBSCAN along with UMAP(dimension reduction tool)
 8. combined_analysis : run Leiden and K-means with respect to embedded vector. Each cluster image represents leiden community, and the colors represent vector-based clusters. Colors are same for same k-means cluster accross different leiden clusters.

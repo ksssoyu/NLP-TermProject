@@ -1,0 +1,1156 @@
+{
+  "window": "2016_2018",
+  "num_clusters": 10,
+  "cluster_details": {
+    "0": [
+      {
+        "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+        "title": "Attention is All you Need"
+      },
+      {
+        "id": "b9de9599d7241459db9213b5cdd7059696f5ef8d",
+        "title": "Character-Level Language Modeling with Deeper Self-Attention"
+      },
+      {
+        "id": "032274e57f7d8b456bd255fe76b909b2c1d7458e",
+        "title": "A Deep Reinforced Model for Abstractive Summarization"
+      },
+      {
+        "id": "5b6ec746d309b165f9f9def873a2375b6fb40f3d",
+        "title": "Xception: Deep Learning with Depthwise Separable Convolutions"
+      },
+      {
+        "id": "7345843e87c81e24e42264859b214d26042f8d51",
+        "title": "Recurrent Neural Network Grammars"
+      },
+      {
+        "id": "ac4dafdef1d2b685b7f28a11837414573d39ff4e",
+        "title": "Universal Transformers"
+      },
+      {
+        "id": "d7b6753a2d4a2b286c396854063bde3a91b75535",
+        "title": "A Simple Method for Commonsense Reasoning"
+      },
+      {
+        "id": "b4bfadfca9742bb3ee98a0cd322d5ce4e59a3ceb",
+        "title": "A Call for Clarity in Reporting BLEU Scores"
+      },
+      {
+        "id": "8691706ad0cf5e83969658b2e6bfffdc379440c9",
+        "title": "Generating Wikipedia by Summarizing Long Sequences"
+      },
+      {
+        "id": "5ed791f810da580c78df6a052c6b9f2e258f6b0a",
+        "title": "The LAMBADA dataset: Word prediction requiring a broad discourse context"
+      },
+      {
+        "id": "04cca8e341a5da42b29b0bc831cb25a0f784fa01",
+        "title": "Adaptive Computation Time for Recurrent Neural Networks"
+      },
+      {
+        "id": "58c6f890a1ae372958b7decf56132fe258152722",
+        "title": "Regularizing and Optimizing LSTM Language Models"
+      },
+      {
+        "id": "2397ce306e5d7f3d0492276e357fb1833536b5d8",
+        "title": "On the State of the Art of Evaluation in Neural Language Models"
+      },
+      {
+        "id": "40f48cdbbe8fa5921d62b480523183c2cbc9f69e",
+        "title": "A Survey of the Usages of Deep Learning in Natural Language Processing"
+      },
+      {
+        "id": "996ac5063794f73745f0284e06630c229184ad7c",
+        "title": "Modeling Local Dependence in Natural Language with Multi-channel Recurrent Neural Networks"
+      },
+      {
+        "id": "4d00097433a538002b36cfd7a621daddde3e4c0d",
+        "title": "Targeted Syntactic Evaluation of Language Models"
+      },
+      {
+        "id": "2e46eac625e70261e43fa765c22a2828e5dd2659",
+        "title": "An Introductory Survey on Attention Mechanisms in NLP Problems"
+      },
+      {
+        "id": "2225b7c480dc627e68f03e5321383f27e12cb1d7",
+        "title": "Structured Neural Summarization"
+      },
+      {
+        "id": "a9a5d671271fff45429084e184a788f611b6f194",
+        "title": "FRAGE: Frequency-Agnostic Word Representation"
+      },
+      {
+        "id": "a56ebc39b8c527774be705cccdcb5f66c7302e0c",
+        "title": "Rational Recurrences"
+      },
+      {
+        "id": "df422d9f28e73975096335014e258bb3872c7a23",
+        "title": "Background Knowledge Based Multi-Stream Neural Network for Text Classification"
+      },
+      {
+        "id": "0b282e50750a1aed24e099d6da7cb24661394cc5",
+        "title": "From Feature to Paradigm: Deep Learning in Machine Translation (Extended Abstract)"
+      },
+      {
+        "id": "b061bc1ce2607a16a509693a782b3a91b0f893ab",
+        "title": "Abstractive Summarization Using Attentive Neural Techniques"
+      },
+      {
+        "id": "c08f47f7175a02215ee4c6f5f247fbd1798a1722",
+        "title": "Hierarchical Text Generation using an Outline"
+      },
+      {
+        "id": "b2eaeca23e450eb418d555c642f872d7da51bafd",
+        "title": "Machine Translation : From Statistical to modern Deep-learning practices"
+      },
+      {
+        "id": "cc500a0e90951ba637b6b00e8760502d8da81bf5",
+        "title": "Deep Learning On Code with an Unbounded Vocabulary"
+      },
+      {
+        "id": "2de437173b4482b66199c49135a9526db38f68ac",
+        "title": "End-to-End Content and Plan Selection for Data-to-Text Generation"
+      },
+      {
+        "id": "8a1aff8c2a2812ac49d23ea816fc62bd9a20323d",
+        "title": "Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation"
+      },
+      {
+        "id": "bc87331f433a79d1663c0e0a87c1175ff55d48f2",
+        "title": "Variational Semi-Supervised Aspect-Term Sentiment Analysis via Transformer"
+      },
+      {
+        "id": "529c3f5247d6f8763d2ca614c7e1cb591073b330",
+        "title": "A Review of Meta-Reinforcement Learning for Deep Neural Networks Architecture Search"
+      },
+      {
+        "id": "d4976a963dad220c0f12f363e003bf6eb2fd61b9",
+        "title": "Understanding Recurrent Neural Architectures by Analyzing and Synthesizing Long Distance Dependencies in Benchmark Sequential Datasets"
+      },
+      {
+        "id": "dd170321c4ecb969eddd40cafcfeb9eca0ed9382",
+        "title": "Incremental Natural Language Processing: Challenges, Strategies, and Evaluation"
+      },
+      {
+        "id": "7a788895b494e5250619ea73575da442f749432d",
+        "title": "Unsupervised Natural Language Generation with Denoising Autoencoders"
+      },
+      {
+        "id": "6e38fefdd81d6ee4f03deb2281b2dfd63d4daee2",
+        "title": "Attentive Sequence-to-Sequence Learning for Diacritic Restoration of Yorùbá Language Text"
+      },
+      {
+        "id": "997c55547aeca733dfc5dfebd12412612ecba022",
+        "title": "The Importance of Being Recurrent for Modeling Hierarchical Structure"
+      },
+      {
+        "id": "5d727286a59d7e2681b6fac5fa269e782849f007",
+        "title": "Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling"
+      },
+      {
+        "id": "79684d21421e38cc6de779c1e16ebe6c55600085",
+        "title": "Real-Time Prediction of the Duration of Distribution System Outages"
+      },
+      {
+        "id": "e05992453805af5108d38ae987055b3452ec2b2f",
+        "title": "TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation"
+      },
+      {
+        "id": "5891b28f7dfc6b3c0a1729887d92be20cd1dc659",
+        "title": "A Survey on Neural Network-Based Summarization Methods"
+      },
+      {
+        "id": "23d6bb8edcd86f8439072f932f414329b393473b",
+        "title": "Object-Based Reasoning in VQA"
+      },
+      {
+        "id": "8119d7b321e19f7166d9cfba483e97c2ed4705c9",
+        "title": "Modelling Morphographemic Alternations in Derivation of Czech"
+      },
+      {
+        "id": "bff88886dfc8149d1348a42f0145ca88c82d3306",
+        "title": "Deep Learning for Depression Detection of Twitter Users"
+      }
+    ],
+    "4": [
+      {
+        "id": "3febb2bed8865945e7fddc99efd791887bb7e14f",
+        "title": "Deep Contextualized Word Representations"
+      },
+      {
+        "id": "ac11062f1f368d97f4c826c317bf50dcc13fdb59",
+        "title": "Dissecting Contextual Word Embeddings: Architecture and Representation"
+      },
+      {
+        "id": "cb0f3ee1e98faf92429d601cdcd76c69c1e484eb",
+        "title": "Neural Network Acceptability Judgments"
+      },
+      {
+        "id": "bc8fa64625d9189f5801837e7b133e7fe3c581f7",
+        "title": "Learned in Translation: Contextualized Word Vectors"
+      },
+      {
+        "id": "59761abc736397539bdd01ad7f9d91c8607c0457",
+        "title": "context2vec: Learning Generic Context Embedding with Bidirectional LSTM"
+      },
+      {
+        "id": "97fb4e3d45bb098e27e0071448b6152217bd35a5",
+        "title": "Layer Normalization"
+      },
+      {
+        "id": "b47381e04739ea3f392ba6c8faaf64105493c196",
+        "title": "Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks"
+      },
+      {
+        "id": "cd18800a0fe0b668a1cc19f2ec95b5003d0a5035",
+        "title": "Improving Language Understanding by Generative Pre-Training"
+      },
+      {
+        "id": "fb166f1e77428a492ea869a8b79df275dd9669c2",
+        "title": "Neural Sequence Learning Models for Word Sense Disambiguation"
+      },
+      {
+        "id": "a4dd3beea286a20c4e4f66436875932d597190bc",
+        "title": "Deep Semantic Role Labeling: What Works and What’s Next"
+      },
+      {
+        "id": "e2ef04c43744761ba3501b2fbb17fc753e9bb271",
+        "title": "Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison"
+      },
+      {
+        "id": "00cc08c90bc4ae7d3523e4dad2ca3a8fafc8501a",
+        "title": "Embeddings for Word Sense Disambiguation: An Evaluation Study"
+      },
+      {
+        "id": "ce2d5b5856bb6c9ab5c2390eb8b180c75a162055",
+        "title": "Recent Trends in Deep Learning Based Natural Language Processing"
+      },
+      {
+        "id": "f447c73de2f5cee843ad14d70e1d373294611934",
+        "title": "Interpreting Recurrent and Attention-Based Neural Models: a Case Study on Natural Language Inference"
+      },
+      {
+        "id": "8d67ef701ee60f778f18d45a034e5567602f4aa1",
+        "title": "Natural Language Understanding: Instructions for (Present and Future) Use"
+      },
+      {
+        "id": "3485d006b91ea3ecccf44b0456e1cb5d0aba2d87",
+        "title": "Ain't Nobody Got Time For Coding: Structure-Aware Program Synthesis From Natural Language"
+      },
+      {
+        "id": "14908a18ff831005b6b4fc953ce61e1b4e7b54ee",
+        "title": "Practical Text Classification With Large Pre-Trained Language Models"
+      },
+      {
+        "id": "fca28d8de84cae5bc8f48cb8cfc5cedf106f62a1",
+        "title": "Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding"
+      },
+      {
+        "id": "754cc1817306dfdfa15ba6173564e41d2bb70b50",
+        "title": "Word Embedding and WordNet Based Metaphor Identification and Interpretation"
+      },
+      {
+        "id": "0eb46986bed4cbfeb73a71fc9eaeab8360632ac1",
+        "title": "Zero-Shot Cross-lingual Classification Using Multilingual Neural Machine Translation"
+      },
+      {
+        "id": "c177aadc2864f521454f67db2365fa0064fc41f0",
+        "title": "A Deep Learning Architecture for De-identification of Patient Notes: Implementation and Evaluation"
+      },
+      {
+        "id": "5bfb0b5494885d35bc15952c025fa2d8fbbd8c98",
+        "title": "Explicit Contextual Semantics for Text Comprehension"
+      },
+      {
+        "id": "0654e75bfea7af13e021a22a21422b36270c08b7",
+        "title": "Visual Reasoning with Multi-hop Feature Modulation"
+      },
+      {
+        "id": "f8b901c330e7f946ef93453b24682f294b8764a1",
+        "title": "In-domain Context-aware Token Embeddings Improve Biomedical Named Entity Recognition"
+      },
+      {
+        "id": "45c70fa07e2b80c8d8c9a393cc0b18e93fb541e5",
+        "title": "GRU based Named Entity Recognition System for Bangla Online Newspapers"
+      },
+      {
+        "id": "cae6dc34016647b64a753b3e4f87260eeabd4fd3",
+        "title": "SenseDefs: a multilingual corpus of semantically annotated textual definitions"
+      },
+      {
+        "id": "7983b67c4cefb9e9577f6925785f0b27907d9229",
+        "title": "Iterative Recursive Attention Model for Interpretable Sequence Classification"
+      },
+      {
+        "id": "3fce4d4dff6c28e6af2c9ae0149875a276d7c75b",
+        "title": "Vietnamese Keyword Extraction Using Hybrid Deep Learning Methods"
+      },
+      {
+        "id": "93b4cc549a1bc4bc112189da36c318193d05d806",
+        "title": "AllenNLP: A Deep Semantic Natural Language Processing Platform"
+      },
+      {
+        "id": "2f35c5354c8f639377b9014f3df4240cbfb75fc9",
+        "title": "Rare Feature Selection in High Dimensions"
+      },
+      {
+        "id": "f4efccf51d54c1b60823a58bc27eb2092169e675",
+        "title": "Multi-task Learning for Universal Sentence Embeddings: A Thorough Evaluation using Transfer and Auxiliary Tasks"
+      }
+    ],
+    "6": [
+      {
+        "id": "26b47e35fe6e4260fdf7b7cc98f279a73c277494",
+        "title": "Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering"
+      },
+      {
+        "id": "27e98e09cf09bc13c913d01676e5f32624011050",
+        "title": "U-Net: Machine Reading Comprehension with Unanswerable Questions"
+      },
+      {
+        "id": "8c1b00128e74f1cd92aede3959690615695d5101",
+        "title": "QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension"
+      },
+      {
+        "id": "3c78c6df5eb1695b6a399e346dde880af27d1016",
+        "title": "Simple and Effective Multi-Paragraph Reading Comprehension"
+      },
+      {
+        "id": "e0222a1ae6874f7fff128c3da8769ab95963da04",
+        "title": "Reinforced Mnemonic Reader for Machine Reading Comprehension"
+      },
+      {
+        "id": "f010affab57b5fcf1cd6be23df79d8ec98c7289c",
+        "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension"
+      },
+      {
+        "id": "3a7b63b50c64f4ec3358477790e84cbd6be2a0b4",
+        "title": "Bidirectional Attention Flow for Machine Comprehension"
+      },
+      {
+        "id": "05dd7254b632376973f3a1b4d39485da17814df5",
+        "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text"
+      },
+      {
+        "id": "a5b66ee341cb990f7f70a124b5fab3316d3b7e27",
+        "title": "ReCoRD: Bridging the Gap between Human and Machine Commonsense Reading Comprehension"
+      },
+      {
+        "id": "990a7b4eceedb6e053e6386269481bdfc42a1094",
+        "title": "CoQA: A Conversational Question Answering Challenge"
+      },
+      {
+        "id": "39e734da43eb8c72e9549b42e96760545036f8e5",
+        "title": "QuAC: Question Answering in Context"
+      },
+      {
+        "id": "9784fbf77295860b2e412137b86356d70b25e3c0",
+        "title": "The Natural Language Decathlon: Multitask Learning as Question Answering"
+      },
+      {
+        "id": "4d1c856275744c0284312a3a50efb6ca9dc4cd4c",
+        "title": "Know What You Don’t Know: Unanswerable Questions for SQuAD"
+      },
+      {
+        "id": "99ad0533f84c110da2d0713d5798e6e14080b159",
+        "title": "Looking Beyond the Surface: A Challenge Set for Reading Comprehension over Multiple Sentences"
+      },
+      {
+        "id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+        "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge"
+      },
+      {
+        "id": "636a79420d838eabe4af7fb25d6437de45ab64e8",
+        "title": "RACE: Large-scale ReAding Comprehension Dataset From Examinations"
+      },
+      {
+        "id": "8490431f3a76fbd165d108eba938ead212a2a639",
+        "title": "Stochastic Answer Networks for Machine Reading Comprehension"
+      },
+      {
+        "id": "b798cfd967e1a9ca5e7bc995d33a907bf65d1c7f",
+        "title": "Gated Self-Matching Networks for Reading Comprehension and Question Answering"
+      },
+      {
+        "id": "df8ae2068d17d969db6ab2d27108776e99413975",
+        "title": "Improving Natural Language Inference Using External Knowledge in the Science Questions Domain"
+      },
+      {
+        "id": "cd832f7081ab7b83240140c4e5e58b4fb1f8e0e6",
+        "title": "Interpretation of Natural Language Rules in Conversational Machine Reading"
+      },
+      {
+        "id": "d6c95586307ee8f45d85f7ba88a038f6d6c5e14b",
+        "title": "Translating Navigation Instructions in Natural Language to a High-Level Plan for Behavioral Robot Navigation"
+      },
+      {
+        "id": "18d62040534012818abb90e37eade5dab6dca716",
+        "title": "Identifying Well-formed Natural Language Questions"
+      },
+      {
+        "id": "f3d5130277fd028c0c9e621c73a4782621b14bf2",
+        "title": "Visual Question Answering as Reading Comprehension"
+      },
+      {
+        "id": "042ff08f5acde4b3aa27b6c2d58e13c04075b7b0",
+        "title": "A Multi-Stage Memory Augmented Neural Network for Machine Reading Comprehension"
+      },
+      {
+        "id": "66abff81db3ec1b2ad72c9f5c723189173e49c83",
+        "title": "A Unified Model for Document-Based Question Answering Based on Human-Like Reading Strategy"
+      },
+      {
+        "id": "fd04e31c25451f9103a0ac2220ac8d7e7884c343",
+        "title": "Coarse-to-Fine Decoding for Neural Semantic Parsing"
+      },
+      {
+        "id": "aee265f6a19f9774c65d296cf9ec0e169365dda5",
+        "title": "Focal Visual-Text Attention for Visual Question Answering"
+      },
+      {
+        "id": "90800d28c61854659fd8d813158ecac5653695fa",
+        "title": "Object Ordering with Bidirectional Matchings for Visual Reasoning"
+      },
+      {
+        "id": "e5a1d41e6212951cb6a831ed61a59d00b7ff6867",
+        "title": "Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph"
+      }
+    ],
+    "2": [
+      {
+        "id": "0c47cad9729c38d9db1f75491b1ee4bd883a5d4e",
+        "title": "Semi-Supervised Sequence Modeling with Cross-View Training"
+      },
+      {
+        "id": "421fc2556836a6b441de806d7b393a35b6eaea58",
+        "title": "Contextual String Embeddings for Sequence Labeling"
+      },
+      {
+        "id": "1e077413b25c4d34945cc2707e17e46ed4fe784a",
+        "title": "Universal Language Model Fine-tuning for Text Classification"
+      },
+      {
+        "id": "0bb4cadc80c0afaf29c57518dc9c06f8fcfa5f38",
+        "title": "Semi-supervised sequence tagging with bidirectional language models"
+      },
+      {
+        "id": "57a10537978600fd33dcdd48922c791609a4851a",
+        "title": "Sequence-Level Knowledge Distillation"
+      },
+      {
+        "id": "786f95cada23d4639aa1a8b922cdb9fb9a9c03fa",
+        "title": "Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling"
+      },
+      {
+        "id": "ade0c116120b54b57a91da51235108b75c28375a",
+        "title": "A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks"
+      },
+      {
+        "id": "03ad06583c9721855ccd82c3d969a01360218d86",
+        "title": "Deep multi-task learning with low level tasks supervised at lower layers"
+      },
+      {
+        "id": "8dd6aae51e31a72752c4be5cddbdd76dfdc6cda4",
+        "title": "End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF"
+      },
+      {
+        "id": "f5a7da72496e2ca8edcd9f9123773012c010cfc6",
+        "title": "Neural Architectures for Named Entity Recognition"
+      },
+      {
+        "id": "838fbfd9066dbbac6c10059c5b183046fb1cd9d1",
+        "title": "Deep Bayesian Active Learning for Natural Language Processing: Results of a Large-Scale Empirical Study"
+      },
+      {
+        "id": "3818b2b96ed6fce4d241acfe1183cbbbd22cb6a4",
+        "title": "Natural language understanding for task oriented dialog in the biomedical domain in a low resources context"
+      },
+      {
+        "id": "16c0ef924da1f6b510c9c783ac764156f5a3d631",
+        "title": "A Survey on Deep Learning for Named Entity Recognition"
+      },
+      {
+        "id": "f2d742704a32c7ebef768bd74d1438522269a4c2",
+        "title": "NextGen AML: Distributed Deep Learning based Language Technologies to Augment Anti Money Laundering Investigation"
+      },
+      {
+        "id": "c3d8d98847bd33fa48bc6448316f78ed7f131afe",
+        "title": "A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks"
+      },
+      {
+        "id": "5b1516c87818084dc5d195cc274e1ee8923210d2",
+        "title": "Neural Cross-Lingual Named Entity Recognition with Minimal Resources"
+      },
+      {
+        "id": "e8fa186444d98a39ee9139b1f5dd0c7618caef8f",
+        "title": "Privacy-preserving Neural Representations of Text"
+      },
+      {
+        "id": "01ffd50b3b82c7adac54d15cb84944b87c32525f",
+        "title": "Latent Alignment and Variational Attention"
+      },
+      {
+        "id": "c0481b349eb58923382a8cc05ddcc8b35cd78b46",
+        "title": "SegBot: A Generic Neural Text Segmentation Model with Pointer Network"
+      },
+      {
+        "id": "a576eed0e48aa49d288f54a46b9ca1bf3647a21e",
+        "title": "A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification"
+      },
+      {
+        "id": "7f03ef6f2ac8adca835571986e6f75468893e255",
+        "title": "From POS tagging to dependency parsing for biomedical event extraction"
+      },
+      {
+        "id": "997b9b8b61840a8ae80122ecd465d5ae507e596a",
+        "title": "Chinese Named Entity Recognition Based on CNN-BiLSTM-CRF"
+      },
+      {
+        "id": "5ea556c35786b52414a78cf57420168041c504e8",
+        "title": "Long Short-Term Memory with Dynamic Skip Connections"
+      },
+      {
+        "id": "9e496d85869a9ab023d01a742f20bc32bcb446b6",
+        "title": "Learning Tag Dependencies for Sequence Tagging"
+      },
+      {
+        "id": "1e68f8e85289d08a59b41ed1d74aaaf49a92e3a2",
+        "title": "Thai Sentiment Analysis via Bidirectional LSTM-CNN Model with Embedding Vectors and Sentic Features"
+      },
+      {
+        "id": "dbce830c56c7c5597477eeec3b2ec21ebc3a6449",
+        "title": "Syntax-based transfer learning for the task of biomedical relation extraction"
+      },
+      {
+        "id": "b9690c1d92de765a7504e284d4969183bc2896df",
+        "title": "Evaluation of a Sequence Tagging Tool for Biomedical Texts"
+      },
+      {
+        "id": "763ad4634a130f0078834c7faac79097e514da90",
+        "title": "DERE: A Task and Domain-Independent Slot Filling Framework for Declarative Relation Extraction"
+      },
+      {
+        "id": "6477456abf90e104976fb1d45d3e386e89b5e0d7",
+        "title": "Training Augmented Intelligent Capabilities for Pharmacovigilance: Applying Deep-learning Approaches to Individual Case Safety Report Processing"
+      },
+      {
+        "id": "150614967ab12f4f2d9a456938523110867ecb50",
+        "title": "Learning User Preferences and Understanding Calendar Contexts for Event Scheduling"
+      },
+      {
+        "id": "cf901e5b02f2ed7489d302240cd8f5ee936c2e19",
+        "title": "VnCoreNLP: A Vietnamese Natural Language Processing Toolkit"
+      },
+      {
+        "id": "c4f6dc73fc060af7674b74c681b8707765ea8eb7",
+        "title": "SemEval-2018 Task 8: Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)"
+      },
+      {
+        "id": "d393943a873ead524069d0f7f55acef05cc9ba45",
+        "title": "Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling"
+      },
+      {
+        "id": "5ca1c595708d22d92b3f913be391575560bdab2c",
+        "title": "Adaptive Co-attention Network for Named Entity Recognition in Tweets"
+      },
+      {
+        "id": "f6fc2c662f8a7bab57717288e7ed91f444e4ee61",
+        "title": "Hybrid semi-Markov CRF for Neural Sequence Labeling"
+      },
+      {
+        "id": "adb5adbc32efa4a1bfc14ec9c511bdc109824a0e",
+        "title": "Training and Evaluating Improved Dependency-Based Word Embeddings"
+      },
+      {
+        "id": "8effcdd6e6d2ab9ae97978c535d385ccd2c36542",
+        "title": "Improve Neural Entity Recognition via Multi-Task Data Selection and Constrained Decoding"
+      }
+    ],
+    "1": [
+      {
+        "id": "af5c4b80fbf847f69a202ba5a780a3dd18c1a027",
+        "title": "SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference"
+      },
+      {
+        "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+        "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding"
+      },
+      {
+        "id": "ad31866da7f14ae21bd38df0a3b1ffd1a1438122",
+        "title": "An efficient framework for learning sentence representations"
+      },
+      {
+        "id": "a23fa96e7217ba0e9405d9e1fe3cdedd57b6e096",
+        "title": "SemEval-2017 Task 1: Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation"
+      },
+      {
+        "id": "ee7b883e35d754ae4f71c21bb71f9f03e4ffbb2c",
+        "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data"
+      },
+      {
+        "id": "a97dc52807d80454e78d255f9fbd7b0fab56bd03",
+        "title": "Discourse-Based Objectives for Fast Unsupervised Sentence Representation Learning"
+      },
+      {
+        "id": "5ded2b8c64491b4a67f6d39ce473d4b9347a672e",
+        "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference"
+      },
+      {
+        "id": "2cd8e8f510c89c7c18268e8ad51c061e459ad321",
+        "title": "A Decomposable Attention Model for Natural Language Inference"
+      },
+      {
+        "id": "26e743d5bd465f49b9538deaf116c15e61b7951f",
+        "title": "Learning Distributed Representations of Sentences from Unlabelled Data"
+      },
+      {
+        "id": "204a4a70428f3938d2c538a4d74c7ae0416306d8",
+        "title": "A Structured Self-attentive Sentence Embedding"
+      },
+      {
+        "id": "13d9323a8716131911bfda048a40e2cde1a76a46",
+        "title": "Structured Attention Networks"
+      },
+      {
+        "id": "13fe71da009484f240c46f14d9330e932f8de210",
+        "title": "Long Short-Term Memory-Networks for Machine Reading"
+      },
+      {
+        "id": "1536e8958697c5364f68b2e2448905dbbeb3a0ca",
+        "title": "Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering"
+      },
+      {
+        "id": "2997b26ffb8c291ce478bd8a6e47979d5a55c466",
+        "title": "Annotation Artifacts in Natural Language Inference Data"
+      },
+      {
+        "id": "1778e32c18bd611169e64c1805a51abff341ca53",
+        "title": "Natural Language Inference over Interaction Space"
+      },
+      {
+        "id": "263210f256603e3b62476ffb5b9bbbbc6403b646",
+        "title": "What do Neural Machine Translation Models Learn about Morphology?"
+      },
+      {
+        "id": "83e7654d545fbbaaf2328df365a781fb67b841b4",
+        "title": "Enhanced LSTM for Natural Language Inference"
+      },
+      {
+        "id": "705dcc8eadba137834e4b0359e2d696d4b209f5b",
+        "title": "Neural Tree Indexers for Text Understanding"
+      },
+      {
+        "id": "c242438dac5aa4d9b13766c14240bb8426690d58",
+        "title": "e-SNLI: Natural Language Inference with Natural Language Explanations"
+      },
+      {
+        "id": "668f42a4d4094f0a66d402a16087e14269b31a1f",
+        "title": "Analysis Methods in Neural Language Processing: A Survey"
+      },
+      {
+        "id": "f2588de5173fb047192dbb93d62ce6636bdf46bd",
+        "title": "Lessons from Natural Language Inference in the Clinical Domain"
+      },
+      {
+        "id": "48758697a493e9a970c51a6198fbb20133d7ae97",
+        "title": "Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference"
+      },
+      {
+        "id": "e19be272d8bd38b930159bea9dcccdfdecc9a044",
+        "title": "Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference"
+      },
+      {
+        "id": "1a8d63650f7fb24b38f30857f7722193ae68300c",
+        "title": "Multi-turn Inference Matching Network for Natural Language Inference"
+      },
+      {
+        "id": "9c2156bc35c6f8e68aa21d4b2f339134a4d28708",
+        "title": "What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models"
+      },
+      {
+        "id": "289e91654f6da968d625481ef21f52892052d4fc",
+        "title": "Explicit Interaction Model towards Text Classification"
+      },
+      {
+        "id": "8775df853e1d6ab440685c00194deb2a2d1d2e4d",
+        "title": "Sentence embeddings in NLI with iterative refinement encoders"
+      },
+      {
+        "id": "6d130a1a5d7756a68d0ba125dd80256961397bb7",
+        "title": "Dynamic Self-Attention : Computing Attention over Words Dynamically for Sentence Embedding"
+      },
+      {
+        "id": "dc1ac510df69b73a24c00ebbe3c589bd2cdf35b7",
+        "title": "Progressive Memory Banks for Incremental Domain Adaptation"
+      },
+      {
+        "id": "3cef7f532bbbbf34852c9c456011fe921311566b",
+        "title": "Structured Alignment Networks for Matching Sentences"
+      },
+      {
+        "id": "590d061013d88e3ac257833c5dd50673280f3e24",
+        "title": "Investigating the Effects of Word Substitution Errors on Sentence Embeddings"
+      },
+      {
+        "id": "b814186af94cfb3c8a1540409c088bb341e41fc1",
+        "title": "Metamorphic Relation Based Adversarial Attacks on Differentiable Neural Computer"
+      },
+      {
+        "id": "4087ebc37a1650dbb5d8205af0850bee74f3784b",
+        "title": "Parameter Re-Initialization through Cyclical Batch Size Schedules"
+      },
+      {
+        "id": "c68fbc1f4aa72d30974f8a3071054e3b227137fd",
+        "title": "Generating Natural Language Adversarial Examples"
+      },
+      {
+        "id": "018f03ade88eb843357f11547a510f92b7f2e772",
+        "title": "Recognizing Textual Entailment: Challenges in the Portuguese Language"
+      },
+      {
+        "id": "afc2850945a871e72c245818f9bc141bd659b453",
+        "title": "Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning"
+      },
+      {
+        "id": "490f76b63af04d69c22ed5a9b9cd469a490a5564",
+        "title": "Improved Sentence Modeling using Suffix Bidirectional LSTM"
+      },
+      {
+        "id": "5878f7c04dfff3866afd2e96e9da97d2533ca560",
+        "title": "Text Simplification without Simplified Corpora"
+      },
+      {
+        "id": "616898cab41f203674bc4364ff433b8bc0146b4d",
+        "title": "On the Evaluation of Semantic Phenomena in Neural Machine Translation Using Natural Language Inference"
+      },
+      {
+        "id": "ca1c55c6c39da237389cc2c95ba97d4fb84f99c0",
+        "title": "On the difficulty of a distributional semantics of spoken language"
+      }
+    ],
+    "3": [
+      {
+        "id": "7f4afc1bf3272ae6ec00b46e27efc4a4f6b0826d",
+        "title": "MaskGAN: Better Text Generation via Filling in the ______"
+      },
+      {
+        "id": "c6850869aa5e78a107c378d2e8bfa39633158c0c",
+        "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+      },
+      {
+        "id": "43428880d75b3a14257c3ee9bda054e61eb869c0",
+        "title": "Convolutional Sequence to Sequence Learning"
+      },
+      {
+        "id": "4550a4c714920ef57d19878e31c9ebae37b049b2",
+        "title": "Massive Exploration of Neural Machine Translation Architectures"
+      },
+      {
+        "id": "79baf48bd560060549998d7b61751286de062e2a",
+        "title": "Factorization tricks for LSTM networks"
+      },
+      {
+        "id": "510e26733aaff585d65701b9f1be7ca9d5afc586",
+        "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer"
+      },
+      {
+        "id": "98445f4172659ec5e891e031d8202c102135c644",
+        "title": "Neural Machine Translation in Linear Time"
+      },
+      {
+        "id": "735d547fc75e0772d2a78c46a1cc5fad7da1474c",
+        "title": "Can Active Memory Replace Attention?"
+      },
+      {
+        "id": "63e39cdf1ad884da6bc69096bb3413b5b1100559",
+        "title": "Using the Output Embedding to Improve Language Models"
+      },
+      {
+        "id": "b60abe57bc195616063be10638c6437358c81d1e",
+        "title": "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation"
+      },
+      {
+        "id": "2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
+        "title": "Exploring the Limits of Language Modeling"
+      },
+      {
+        "id": "a1c922be467d1c0c64b963e65dae41778b81b2a0",
+        "title": "Deep Learning Scaling is Predictable, Empirically"
+      },
+      {
+        "id": "aaa8dfdb01331cfbd380fb83286217ce084fe40c",
+        "title": "A Cross-Architecture Instruction Embedding Model for Natural Language Processing-Inspired Binary Code Analysis"
+      },
+      {
+        "id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
+        "title": "SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing"
+      },
+      {
+        "id": "dd0b63d42a31d4e941c24c60af39f3fa679cecb0",
+        "title": "Encoding Spatial Relations from Natural Language"
+      },
+      {
+        "id": "f56cb5dc32b5b280546998418fda7769d0858629",
+        "title": "How2: A Large-scale Dataset for Multimodal Language Understanding"
+      },
+      {
+        "id": "a625de2fe477f169b49138c3307a14f8ef0e1093",
+        "title": "Classification of Fake News by Fine-tuning Deep Bidirectional Transformers based Language Model"
+      },
+      {
+        "id": "fe3470a9c37e88928fbd0d84ed578357b1f07a0d",
+        "title": "Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs"
+      },
+      {
+        "id": "18e47287dc23f55c6d7c0ffd8579988409c2acef",
+        "title": "Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks"
+      },
+      {
+        "id": "c895008582473859fe97e6c7723a5e655cd05246",
+        "title": "A Simple and Effective Neural Model for Joint Word Segmentation and POS Tagging"
+      },
+      {
+        "id": "984532cd781b2431bdafd442d8fee64ebaeeae3c",
+        "title": "A Deep Learning Based Approach to Transliteration"
+      },
+      {
+        "id": "13dbb2c8a2c7cb3fa066c2d44f93e4a86418596e",
+        "title": "Zero-Resource Multilingual Model Transfer: Learning What to Share"
+      },
+      {
+        "id": "e7fa0af1fef0b219e122bbf66d792b131d0da42b",
+        "title": "Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks"
+      },
+      {
+        "id": "051d9f7eee4332f18f3a5e0a8166528a8b155f53",
+        "title": "Char2char Generation with Reranking for the E2E NLG Challenge"
+      },
+      {
+        "id": "3acde6667c18e3dc747e1b0ea3fd95bb5384a8fe",
+        "title": "Attention Visualization of Gated Convolutional Neural Networks with Self Attention in Sentiment Analysis"
+      },
+      {
+        "id": "6bc001e8edcdfc9038cf75bf9d09b11835afeebf",
+        "title": "Machine Learning Techniques to Automate Scoring of Constructed-Response Type Assessments"
+      },
+      {
+        "id": "cfe42d353e39ad9724693a9b110d46ce5001ea22",
+        "title": "A Context-aware Convolutional Natural Language Generation model for Dialogue Systems"
+      },
+      {
+        "id": "ae916205cdae8210b147d7637f74186e57d15973",
+        "title": "Towards End-to-end Spoken Language Understanding"
+      },
+      {
+        "id": "310f52474578c3375ec98b383654e3d0bc0ff54a",
+        "title": "Navigating with Graph Representations for Fast and Scalable Decoding of Neural Language Models"
+      },
+      {
+        "id": "beeebd2af0d8f130dcf234231de4569d584cb7fd",
+        "title": "SemStyle: Learning to Generate Stylised Image Captions Using Unaligned Text"
+      },
+      {
+        "id": "cbc3ebf2809edcaa04e252d25f4373c924f4136b",
+        "title": "CNN+CNN: Convolutional Decoders for Image Captioning"
+      },
+      {
+        "id": "be70e163473c1c6e42d02b5c4711d0faa493a49b",
+        "title": "Noising and Denoising Natural Language: Diverse Backtranslation for Grammar Correction"
+      }
+    ],
+    "7": [
+      {
+        "id": "a75869d69cc86f501939c237ae4711aa2885f6a6",
+        "title": "Meta-Learning for Low-Resource Neural Machine Translation"
+      },
+      {
+        "id": "bbe13b72314fffcc2f35b0660195f2f6607c00a0",
+        "title": "Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions"
+      },
+      {
+        "id": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+        "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
+      },
+      {
+        "id": "5b8e5804c3adeb4a4e60f8f7d8d76aab0e02cfbe",
+        "title": "Learning to Optimize Neural Nets"
+      },
+      {
+        "id": "29c887794eed2ca9462638ff853e6fe1ab91d5d8",
+        "title": "Optimization as a Model for Few-Shot Learning"
+      },
+      {
+        "id": "954b01151ff13aef416d27adc60cd9a076753b1a",
+        "title": "RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning"
+      },
+      {
+        "id": "71683e224ab91617950956b5005ed0439a733a71",
+        "title": "Learning to learn by gradient descent by gradient descent"
+      },
+      {
+        "id": "be1bb4e4aa1fcf70281b4bd24d8cd31c04864bb6",
+        "title": "Matching Networks for One Shot Learning"
+      },
+      {
+        "id": "fdb87d305c59e9ab82a96198e34e46581b838c4e",
+        "title": "One-Shot Relational Learning for Knowledge Graphs"
+      },
+      {
+        "id": "977aa3978a88120bca3e25891f1e216f3e5e5cd9",
+        "title": "Few-shot classification in named entity recognition task"
+      },
+      {
+        "id": "b70ebda852be03f85b8702b87e5de7df165c8be8",
+        "title": "Adversarial Examples Construction Towards White-Box Q Table Variation in DQN Pathfinding Training"
+      },
+      {
+        "id": "522aa8b08fb1793dfaa91fdbc597196cd8108598",
+        "title": "Instance-based Inductive Deep Transfer Learning by Cross-Dataset Querying with Locality Sensitive Hashing"
+      },
+      {
+        "id": "8d6adaa16ed0af9935a1130a305c85e8bdf8780d",
+        "title": "An Algorithmic Perspective on Imitation Learning"
+      }
+    ],
+    "8": [
+      {
+        "id": "9967cb4fd949039c6f04dd9f2f4c3331dbebe6f7",
+        "title": "Gender Bias in Coreference Resolution"
+      },
+      {
+        "id": "8ae1af4a424f5e464d46903bc3d18fe1cf1434ff",
+        "title": "End-to-end Neural Coreference Resolution"
+      },
+      {
+        "id": "314ee6b03f8c6c3533d2107fe05f9909b9202cbd",
+        "title": "Deep Reinforcement Learning for Mention-Ranking Coreference Models"
+      },
+      {
+        "id": "77770099cd73e6da90f046ac92fa2f9d32e469f6",
+        "title": "Learning Global Features for Coreference Resolution"
+      },
+      {
+        "id": "fef9d9eb2d527174ac5b329b0a044e98a1808971",
+        "title": "Gender Bias in Neural Natural Language Processing"
+      },
+      {
+        "id": "babbf74939612ee2f0203c30a190b4b95881415b",
+        "title": "Learning Gender-Neutral Word Embeddings"
+      },
+      {
+        "id": "92dbdd8fe52c8be46df61637b1ccf10b7c347d59",
+        "title": "Unsupervised Semantic Abstractive Summarization"
+      }
+    ],
+    "5": [
+      {
+        "id": "e2dba792360873aef125572812f3673b1a85d850",
+        "title": "Enriching Word Vectors with Subword Information"
+      },
+      {
+        "id": "12e9d005c77f76e344361f79c4b008034ae547eb",
+        "title": "Charagram: Embedding Words and Sentences via Character n-grams"
+      },
+      {
+        "id": "2ce5b388090be31cabfef3cc8b93cc75d51e927d",
+        "title": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language"
+      },
+      {
+        "id": "9ffc05d8f64f9a970183274c23ab9015579371d7",
+        "title": "Comparative Study of Word Embeddings Models and Their Usage in Arabic Language Applications"
+      },
+      {
+        "id": "cc53457ea7114666e6655e17fe5e6e01b74e3840",
+        "title": "Performance Analysis of Different Word Embedding Models on Bangla Language"
+      },
+      {
+        "id": "7a14cf731f2b8bb86946c07adce16e9738e1b627",
+        "title": "Deep Neural Network Architecture for Part-of-Speech Tagging for Turkish Language"
+      },
+      {
+        "id": "fb6a523a9fb34e1427c5d50251efd17683c0374f",
+        "title": "Generating Semantic Similarity Atlas for Natural Languages"
+      },
+      {
+        "id": "5dc8f1af682c4a148bfa0a08d07f5a30f0de2217",
+        "title": "BioSentVec: creating sentence embeddings for biomedical texts"
+      },
+      {
+        "id": "eedb02a40212b018ae64291549d2025058e7b39d",
+        "title": "A Combined CNN and LSTM Model for Arabic Sentiment Analysis"
+      },
+      {
+        "id": "7304afb491930d520e194f4ca8b91a9652f0e658",
+        "title": "MedSTS: a resource for clinical semantic textual similarity"
+      },
+      {
+        "id": "a2ce385fc8d5068e8c87ebe4699c8f9b295cad5e",
+        "title": "Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations"
+      },
+      {
+        "id": "05d8ce6f60a0abd7ffc2ab67c4ef80233cf60f1f",
+        "title": "Open Vocabulary Learning on Source Code with a Graph-Structured Cache"
+      },
+      {
+        "id": "a8d9b6d7d6618e10bfba9e5a3ffe96d1bc7e08e4",
+        "title": "A Comparative Study of Classifying Legal Documents with Neural Networks"
+      },
+      {
+        "id": "8f1b1621b0869fdf7913aeaac28a0b3a65febbce",
+        "title": "Learning Semantic Representations for Novel Words: Leveraging Both Form and Context"
+      },
+      {
+        "id": "1c1b86fced8930ced55b51297f20af34cd230159",
+        "title": "Magnitude: A Fast, Efficient Universal Vector Embedding Utility Package"
+      },
+      {
+        "id": "7c3a7f2c121eb94dc05b4eaee5c9a2ed1007110b",
+        "title": "BioCreative/OHNLP Challenge 2018"
+      },
+      {
+        "id": "4e4eb1e533f3ec6fa06d3e6efbb12f1f58f0f9d2",
+        "title": "Exploring Spanish Corpora for Portuguese Coreference Resolution"
+      },
+      {
+        "id": "dae1f8ffc86b66f8d4cd6e1977b4137924a63052",
+        "title": "Words, Meanings, Characters in Sentiment Analysis"
+      },
+      {
+        "id": "9348186c18bbd35d77a9011474fdd76ef98c86c5",
+        "title": "Robust Word Vectors: Context-Informed Embeddings for Noisy Texts"
+      },
+      {
+        "id": "5019da491732e412fafea4e1511818fd684cc1f1",
+        "title": "Complementary Strategies for Low Resourced Morphological Modeling"
+      },
+      {
+        "id": "90dd771829094dad1230e32b8bc4385bfe86c4e5",
+        "title": "A Comparison of Word Embeddings for the Biomedical Natural Language Processing"
+      },
+      {
+        "id": "0fe73c19513dfd17372d8ef58da0d0149725832c",
+        "title": "Learning Word Vectors for 157 Languages"
+      },
+      {
+        "id": "7127158ba15c6be10f10d5b754733cd75b8f5cc8",
+        "title": "Unsupervised Alignment of Embeddings with Wasserstein Procrustes"
+      },
+      {
+        "id": "8b1aa4727eb2a83db1bd3ae54e078b0b7ce5eccb",
+        "title": "Retrieval on source code: a neural code search"
+      },
+      {
+        "id": "4588c518deebb639174025498927a2945734b753",
+        "title": "Refining Word Embeddings Using Intensity Scores for Sentiment Analysis"
+      },
+      {
+        "id": "7c8de2abe8024de05d00095447d918b21960095d",
+        "title": "Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase Embeddings"
+      },
+      {
+        "id": "93622eba37f521be018a54db1688c37c39ba9575",
+        "title": "Improving Sentiment Analysis in Arabic Using Word Representation"
+      },
+      {
+        "id": "1464437184a6984a4183a8db5819f654af8de81f",
+        "title": "Embedding Transfer for Low-Resource Medical Named Entity Recognition: A Case Study on Patient Mobility"
+      },
+      {
+        "id": "3d65dda5c662c0c25cd00a3365ebf451558d44b9",
+        "title": "Theme-Weighted Ranking of Keywords from Text Documents Using Phrase Embeddings"
+      },
+      {
+        "id": "d0576122f43b15ac31479fadf550b2f81cf01943",
+        "title": "Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents"
+      }
+    ],
+    "9": [
+      {
+        "id": "b0bd79de12dcc892c7ed3750fa278d14158cab26",
+        "title": "Extraction of Information Related to Adverse Drug Events from Electronic Health Record Notes: Design of an End-to-End Model Based on Deep Learning"
+      },
+      {
+        "id": "bef46175615cc45b6f2c67f31dd087f304129280",
+        "title": "Clinical Relation Extraction Toward Drug Safety Surveillance Using Electronic Health Record Narratives: Classical Learning Versus Deep Learning"
+      },
+      {
+        "id": "4d19d3afa57523331533e912ebf13dc5145ab685",
+        "title": "UArizona at the MADE1.0 NLP Challenge"
+      },
+      {
+        "id": "5eb255eb36937f6c7b678bf4e1b91dd58d6e0bb4",
+        "title": "IBM Research System at MADE 2018: Detecting Adverse Drug Events from Electronic Health Records"
+      },
+      {
+        "id": "4d99632c86558d909588e215cecdfe894dcdb91b",
+        "title": "Hybrid system for adverse drug event detection"
+      }
+    ]
+  },
+  "cluster_keywords": {
+    "0": [
+      "deep",
+      "evaluation",
+      "sequence",
+      "translation",
+      "outline"
+    ],
+    "4": [
+      "disambiguation",
+      "deep",
+      "tasks",
+      "representations",
+      "translation"
+    ],
+    "6": [
+      "machine",
+      "challenge",
+      "knowledge",
+      "focal",
+      "ai2"
+    ],
+    "2": [
+      "sequence",
+      "task",
+      "labeling",
+      "tagging",
+      "tasks"
+    ],
+    "1": [
+      "inference",
+      "sentence",
+      "structured",
+      "task",
+      "discourse"
+    ],
+    "3": [
+      "convolutional",
+      "deep",
+      "recurrent",
+      "embedding",
+      "multimodal"
+    ],
+    "7": [
+      "shot",
+      "gradient",
+      "reinforcement",
+      "querying",
+      "rl"
+    ],
+    "8": [],
+    "5": [
+      "languages",
+      "morphological",
+      "texts",
+      "similarity",
+      "representations"
+    ],
+    "9": [
+      "electronic",
+      "end",
+      "extraction",
+      "detecting",
+      "research"
+    ]
+  }
+}

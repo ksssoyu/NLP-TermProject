@@ -1,0 +1,3633 @@
+{
+  "global_rank": [
+    {
+      "author": "Quoc V. Le",
+      "total_weight": 64.0,
+      "cluster_id": 6,
+      "rank": 1
+    },
+    {
+      "author": "O. Vinyals",
+      "total_weight": 58.0,
+      "cluster_id": 6,
+      "rank": 2
+    },
+    {
+      "author": "Lukasz Kaiser",
+      "total_weight": 50.0,
+      "cluster_id": 15,
+      "rank": 3
+    },
+    {
+      "author": "J. Dean",
+      "total_weight": 48.0,
+      "cluster_id": 6,
+      "rank": 4
+    },
+    {
+      "author": "Yonghui Wu",
+      "total_weight": 41.0,
+      "cluster_id": 6,
+      "rank": 5
+    },
+    {
+      "author": "Z. Chen",
+      "total_weight": 37.0,
+      "cluster_id": 6,
+      "rank": 6
+    },
+    {
+      "author": "M. Krikun",
+      "total_weight": 36.0,
+      "cluster_id": 6,
+      "rank": 7
+    },
+    {
+      "author": "G. Corrado",
+      "total_weight": 36.0,
+      "cluster_id": 6,
+      "rank": 8
+    },
+    {
+      "author": "Melvin Johnson",
+      "total_weight": 35.0,
+      "cluster_id": 6,
+      "rank": 9
+    },
+    {
+      "author": "M. Schuster",
+      "total_weight": 34.0,
+      "cluster_id": 6,
+      "rank": 10
+    },
+    {
+      "author": "R. Socher",
+      "total_weight": 33.0,
+      "cluster_id": 1,
+      "rank": 11
+    },
+    {
+      "author": "Wolfgang Macherey",
+      "total_weight": 32.0,
+      "cluster_id": 6,
+      "rank": 12
+    },
+    {
+      "author": "Stephan Gouws",
+      "total_weight": 32.0,
+      "cluster_id": 6,
+      "rank": 13
+    },
+    {
+      "author": "H. Kazawa",
+      "total_weight": 32.0,
+      "cluster_id": 6,
+      "rank": 14
+    },
+    {
+      "author": "Mohammad Norouzi",
+      "total_weight": 31.0,
+      "cluster_id": 6,
+      "rank": 15
+    },
+    {
+      "author": "Yuan Cao",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 16
+    },
+    {
+      "author": "Qin Gao",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 17
+    },
+    {
+      "author": "Klaus Macherey",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 18
+    },
+    {
+      "author": "J. Klingner",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 19
+    },
+    {
+      "author": "Apurva Shah",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 20
+    },
+    {
+      "author": "Xiaobing Liu",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 21
+    },
+    {
+      "author": "Yoshikiyo Kato",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 22
+    },
+    {
+      "author": "Taku Kudo",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 23
+    },
+    {
+      "author": "K. Stevens",
+      "total_weight": 30.0,
+      "cluster_id": 12,
+      "rank": 24
+    },
+    {
+      "author": "George Kurian",
+      "total_weight": 30.0,
+      "cluster_id": 4,
+      "rank": 25
+    },
+    {
+      "author": "Nishant Patil",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 26
+    },
+    {
+      "author": "Wei Wang",
+      "total_weight": 30.0,
+      "cluster_id": 0,
+      "rank": 27
+    },
+    {
+      "author": "C. Young",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 28
+    },
+    {
+      "author": "Jason R. Smith",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 29
+    },
+    {
+      "author": "Jason Riesa",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 30
+    },
+    {
+      "author": "Alex Rudnick",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 31
+    },
+    {
+      "author": "Macduff Hughes",
+      "total_weight": 30.0,
+      "cluster_id": 6,
+      "rank": 32
+    },
+    {
+      "author": "Jianfeng Gao",
+      "total_weight": 29.0,
+      "cluster_id": 1,
+      "rank": 33
+    },
+    {
+      "author": "Xiaodong Liu",
+      "total_weight": 23.0,
+      "cluster_id": 1,
+      "rank": 34
+    },
+    {
+      "author": "Noam M. Shazeer",
+      "total_weight": 22.0,
+      "cluster_id": 6,
+      "rank": 35
+    },
+    {
+      "author": "Caiming Xiong",
+      "total_weight": 21.0,
+      "cluster_id": 1,
+      "rank": 36
+    },
+    {
+      "author": "I. Sutskever",
+      "total_weight": 18.0,
+      "cluster_id": 15,
+      "rank": 37
+    },
+    {
+      "author": "Chris Dyer",
+      "total_weight": 18.0,
+      "cluster_id": 9,
+      "rank": 38
+    },
+    {
+      "author": "Nadir Durrani",
+      "total_weight": 17.0,
+      "cluster_id": 3,
+      "rank": 39
+    },
+    {
+      "author": "Fahim Dalvi",
+      "total_weight": 17.0,
+      "cluster_id": 3,
+      "rank": 40
+    },
+    {
+      "author": "Luke Zettlemoyer",
+      "total_weight": 16.0,
+      "cluster_id": 4,
+      "rank": 41
+    },
+    {
+      "author": "Hassan Sajjad",
+      "total_weight": 16.0,
+      "cluster_id": 3,
+      "rank": 42
+    },
+    {
+      "author": "Furu Wei",
+      "total_weight": 15.0,
+      "cluster_id": 0,
+      "rank": 43
+    },
+    {
+      "author": "Jakob Uszkoreit",
+      "total_weight": 14.0,
+      "cluster_id": 6,
+      "rank": 44
+    },
+    {
+      "author": "Armand Joulin",
+      "total_weight": 14.0,
+      "cluster_id": 4,
+      "rank": 45
+    },
+    {
+      "author": "M. Zhou",
+      "total_weight": 14.0,
+      "cluster_id": 0,
+      "rank": 46
+    },
+    {
+      "author": "Alexander M. Rush",
+      "total_weight": 14.0,
+      "cluster_id": 10,
+      "rank": 47
+    },
+    {
+      "author": "Yonatan Belinkov",
+      "total_weight": 14.0,
+      "cluster_id": 10,
+      "rank": 48
+    },
+    {
+      "author": "James R. Glass",
+      "total_weight": 14.0,
+      "cluster_id": 3,
+      "rank": 49
+    },
+    {
+      "author": "Nando de Freitas",
+      "total_weight": 13.0,
+      "cluster_id": 6,
+      "rank": 50
+    },
+    {
+      "author": "Xiaodong He",
+      "total_weight": 13.0,
+      "cluster_id": 0,
+      "rank": 51
+    },
+    {
+      "author": "P. Abbeel",
+      "total_weight": 12.0,
+      "cluster_id": 15,
+      "rank": 52
+    },
+    {
+      "author": "A\u00e4ron van den Oord",
+      "total_weight": 12.0,
+      "cluster_id": 6,
+      "rank": 53
+    },
+    {
+      "author": "Ryan Kiros",
+      "total_weight": 12.0,
+      "cluster_id": 26,
+      "rank": 54
+    },
+    {
+      "author": "Yukun Zhu",
+      "total_weight": 12.0,
+      "cluster_id": 26,
+      "rank": 55
+    },
+    {
+      "author": "R. Salakhutdinov",
+      "total_weight": 12.0,
+      "cluster_id": 26,
+      "rank": 56
+    },
+    {
+      "author": "R. Zemel",
+      "total_weight": 12.0,
+      "cluster_id": 26,
+      "rank": 57
+    },
+    {
+      "author": "R. Urtasun",
+      "total_weight": 12.0,
+      "cluster_id": 26,
+      "rank": 58
+    },
+    {
+      "author": "A. Torralba",
+      "total_weight": 12.0,
+      "cluster_id": 26,
+      "rank": 59
+    },
+    {
+      "author": "S. Fidler",
+      "total_weight": 12.0,
+      "cluster_id": 26,
+      "rank": 60
+    },
+    {
+      "author": "Geoffrey E. Hinton",
+      "total_weight": 11.0,
+      "cluster_id": 0,
+      "rank": 61
+    },
+    {
+      "author": "Edouard Grave",
+      "total_weight": 11.0,
+      "cluster_id": 4,
+      "rank": 62
+    },
+    {
+      "author": "James Bradbury",
+      "total_weight": 11.0,
+      "cluster_id": 6,
+      "rank": 63
+    },
+    {
+      "author": "L. Deng",
+      "total_weight": 11.0,
+      "cluster_id": 0,
+      "rank": 64
+    },
+    {
+      "author": "M. Lewis",
+      "total_weight": 10.0,
+      "cluster_id": 4,
+      "rank": 65
+    },
+    {
+      "author": "Minh-Thang Luong",
+      "total_weight": 10.0,
+      "cluster_id": 6,
+      "rank": 66
+    },
+    {
+      "author": "Bryan McCann",
+      "total_weight": 10.0,
+      "cluster_id": 1,
+      "rank": 67
+    },
+    {
+      "author": "Romain Paulus",
+      "total_weight": 10.0,
+      "cluster_id": 1,
+      "rank": 68
+    },
+    {
+      "author": "Christopher D. Manning",
+      "total_weight": 10.0,
+      "cluster_id": 20,
+      "rank": 69
+    },
+    {
+      "author": "Kevin Duh",
+      "total_weight": 10.0,
+      "cluster_id": 1,
+      "rank": 70
+    },
+    {
+      "author": "Sharan Narang",
+      "total_weight": 10.0,
+      "cluster_id": 6,
+      "rank": 71
+    },
+    {
+      "author": "Yanqi Zhou",
+      "total_weight": 10.0,
+      "cluster_id": 6,
+      "rank": 72
+    },
+    {
+      "author": "Llion Jones",
+      "total_weight": 9.0,
+      "cluster_id": 6,
+      "rank": 73
+    },
+    {
+      "author": "Illia Polosukhin",
+      "total_weight": 9.0,
+      "cluster_id": 6,
+      "rank": 74
+    },
+    {
+      "author": "Wojciech Zaremba",
+      "total_weight": 9.0,
+      "cluster_id": 15,
+      "rank": 75
+    },
+    {
+      "author": "Piotr Bojanowski",
+      "total_weight": 9.0,
+      "cluster_id": 4,
+      "rank": 76
+    },
+    {
+      "author": "Mohit Iyyer",
+      "total_weight": 9.0,
+      "cluster_id": 0,
+      "rank": 77
+    },
+    {
+      "author": "K. Kavukcuoglu",
+      "total_weight": 9.0,
+      "cluster_id": 6,
+      "rank": 78
+    },
+    {
+      "author": "Yacine Jernite",
+      "total_weight": 9.0,
+      "cluster_id": 10,
+      "rank": 79
+    },
+    {
+      "author": "Jie Zhou",
+      "total_weight": 9.0,
+      "cluster_id": 0,
+      "rank": 80
+    },
+    {
+      "author": "Germ\u00e1n Kruszewski",
+      "total_weight": 9.0,
+      "cluster_id": 10,
+      "rank": 81
+    },
+    {
+      "author": "Sandro Pezzelle",
+      "total_weight": 9.0,
+      "cluster_id": 9,
+      "rank": 82
+    },
+    {
+      "author": "Marco Baroni",
+      "total_weight": 9.0,
+      "cluster_id": 9,
+      "rank": 83
+    },
+    {
+      "author": "R. Fern\u00e1ndez",
+      "total_weight": 9.0,
+      "cluster_id": 9,
+      "rank": 84
+    },
+    {
+      "author": "Roberto Navigli",
+      "total_weight": 9.0,
+      "cluster_id": 12,
+      "rank": 85
+    },
+    {
+      "author": "A. Kumar",
+      "total_weight": 8.0,
+      "cluster_id": 1,
+      "rank": 86
+    },
+    {
+      "author": "Ozan Irsoy",
+      "total_weight": 8.0,
+      "cluster_id": 1,
+      "rank": 87
+    },
+    {
+      "author": "Peter Ondruska",
+      "total_weight": 8.0,
+      "cluster_id": 1,
+      "rank": 88
+    },
+    {
+      "author": "Ishaan Gulrajani",
+      "total_weight": 8.0,
+      "cluster_id": 1,
+      "rank": 89
+    },
+    {
+      "author": "Victor Zhong",
+      "total_weight": 8.0,
+      "cluster_id": 1,
+      "rank": 90
+    },
+    {
+      "author": "Samuel R. Bowman",
+      "total_weight": 8.0,
+      "cluster_id": 15,
+      "rank": 91
+    },
+    {
+      "author": "Wenhui Wang",
+      "total_weight": 8.0,
+      "cluster_id": 0,
+      "rank": 92
+    },
+    {
+      "author": "Yoon Kim",
+      "total_weight": 8.0,
+      "cluster_id": 3,
+      "rank": 93
+    },
+    {
+      "author": "Peng Li",
+      "total_weight": 8.0,
+      "cluster_id": 0,
+      "rank": 94
+    },
+    {
+      "author": "Wang Ling",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 95
+    },
+    {
+      "author": "Angeliki Lazaridou",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 96
+    },
+    {
+      "author": "Denis Paperno",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 97
+    },
+    {
+      "author": "Q. N. Pham",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 98
+    },
+    {
+      "author": "R. Bernardi",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 99
+    },
+    {
+      "author": "Gemma Boleda",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 100
+    },
+    {
+      "author": "Joel Hestness",
+      "total_weight": 8.0,
+      "cluster_id": 0,
+      "rank": 101
+    },
+    {
+      "author": "Newsha Ardalani",
+      "total_weight": 8.0,
+      "cluster_id": 4,
+      "rank": 102
+    },
+    {
+      "author": "G. Diamos",
+      "total_weight": 8.0,
+      "cluster_id": 6,
+      "rank": 103
+    },
+    {
+      "author": "Heewoo Jun",
+      "total_weight": 8.0,
+      "cluster_id": 15,
+      "rank": 104
+    },
+    {
+      "author": "Hassan Kianinejad",
+      "total_weight": 8.0,
+      "cluster_id": 6,
+      "rank": 105
+    },
+    {
+      "author": "Md. Mostofa Ali Patwary",
+      "total_weight": 8.0,
+      "cluster_id": 6,
+      "rank": 106
+    },
+    {
+      "author": "Yang Yang",
+      "total_weight": 8.0,
+      "cluster_id": 5,
+      "rank": 107
+    },
+    {
+      "author": "Jiasen Lu",
+      "total_weight": 8.0,
+      "cluster_id": 4,
+      "rank": 108
+    },
+    {
+      "author": "Devi Parikh",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 109
+    },
+    {
+      "author": "Dhruv Batra",
+      "total_weight": 8.0,
+      "cluster_id": 9,
+      "rank": 110
+    },
+    {
+      "author": "Kenton Lee",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 111
+    },
+    {
+      "author": "Ashish Vaswani",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 112
+    },
+    {
+      "author": "Niki Parmar",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 113
+    },
+    {
+      "author": "Aidan N. Gomez",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 114
+    },
+    {
+      "author": "Azalia Mirhoseini",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 115
+    },
+    {
+      "author": "Scott E. Reed",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 116
+    },
+    {
+      "author": "Yutian Chen",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 117
+    },
+    {
+      "author": "T. Paine",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 118
+    },
+    {
+      "author": "S. Eslami",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 119
+    },
+    {
+      "author": "Danilo Jimenez Rezende",
+      "total_weight": 7.0,
+      "cluster_id": 6,
+      "rank": 120
+    },
+    {
+      "author": "C. D. Santos",
+      "total_weight": 7.0,
+      "cluster_id": 0,
+      "rank": 121
+    },
+    {
+      "author": "Bing Xiang",
+      "total_weight": 7.0,
+      "cluster_id": 0,
+      "rank": 122
+    },
+    {
+      "author": "Nan Yang",
+      "total_weight": 7.0,
+      "cluster_id": 0,
+      "rank": 123
+    },
+    {
+      "author": "Kevin Gimpel",
+      "total_weight": 7.0,
+      "cluster_id": 28,
+      "rank": 124
+    },
+    {
+      "author": "Miguel Ballesteros",
+      "total_weight": 7.0,
+      "cluster_id": 0,
+      "rank": 125
+    },
+    {
+      "author": "A. Black",
+      "total_weight": 7.0,
+      "cluster_id": 28,
+      "rank": 126
+    },
+    {
+      "author": "I. Trancoso",
+      "total_weight": 7.0,
+      "cluster_id": 9,
+      "rank": 127
+    },
+    {
+      "author": "Ram\u00f3n Fern\u00e1ndez Astudillo",
+      "total_weight": 7.0,
+      "cluster_id": 17,
+      "rank": 128
+    },
+    {
+      "author": "Silvio Amir",
+      "total_weight": 7.0,
+      "cluster_id": 9,
+      "rank": 129
+    },
+    {
+      "author": "Lu\u00eds Marujo",
+      "total_weight": 7.0,
+      "cluster_id": 9,
+      "rank": 130
+    },
+    {
+      "author": "Tiago Lu\u00eds",
+      "total_weight": 7.0,
+      "cluster_id": 9,
+      "rank": 131
+    },
+    {
+      "author": "Alessandro Raganato",
+      "total_weight": 7.0,
+      "cluster_id": 12,
+      "rank": 132
+    },
+    {
+      "author": "Luheng He",
+      "total_weight": 6.0,
+      "cluster_id": 4,
+      "rank": 133
+    },
+    {
+      "author": "Krzysztof Maziarz",
+      "total_weight": 6.0,
+      "cluster_id": 11,
+      "rank": 134
+    },
+    {
+      "author": "Andy Davis",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 135
+    },
+    {
+      "author": "R. J\u00f3zefowicz",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 136
+    },
+    {
+      "author": "Tomas Mikolov",
+      "total_weight": 6.0,
+      "cluster_id": 4,
+      "rank": 137
+    },
+    {
+      "author": "Christopher Potts",
+      "total_weight": 6.0,
+      "cluster_id": 20,
+      "rank": 138
+    },
+    {
+      "author": "Holger Schwenk",
+      "total_weight": 6.0,
+      "cluster_id": 3,
+      "rank": 139
+    },
+    {
+      "author": "Lo\u00efc Barrault",
+      "total_weight": 6.0,
+      "cluster_id": 3,
+      "rank": 140
+    },
+    {
+      "author": "Yoshua Bengio",
+      "total_weight": 6.0,
+      "cluster_id": 9,
+      "rank": 141
+    },
+    {
+      "author": "Zhouhan Lin",
+      "total_weight": 6.0,
+      "cluster_id": 0,
+      "rank": 142
+    },
+    {
+      "author": "Minwei Feng",
+      "total_weight": 6.0,
+      "cluster_id": 0,
+      "rank": 143
+    },
+    {
+      "author": "Mo Yu",
+      "total_weight": 6.0,
+      "cluster_id": 17,
+      "rank": 144
+    },
+    {
+      "author": "Bowen Zhou",
+      "total_weight": 6.0,
+      "cluster_id": 0,
+      "rank": 145
+    },
+    {
+      "author": "Baobao Chang",
+      "total_weight": 6.0,
+      "cluster_id": 0,
+      "rank": 146
+    },
+    {
+      "author": "E. Hovy",
+      "total_weight": 6.0,
+      "cluster_id": 12,
+      "rank": 147
+    },
+    {
+      "author": "Margaret Mitchell",
+      "total_weight": 6.0,
+      "cluster_id": 10,
+      "rank": 148
+    },
+    {
+      "author": "Aishwarya Agrawal",
+      "total_weight": 6.0,
+      "cluster_id": 1,
+      "rank": 149
+    },
+    {
+      "author": "Stanislaw Antol",
+      "total_weight": 6.0,
+      "cluster_id": 9,
+      "rank": 150
+    },
+    {
+      "author": "C. L. Zitnick",
+      "total_weight": 6.0,
+      "cluster_id": 9,
+      "rank": 151
+    },
+    {
+      "author": "Marcin Andrychowicz",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 152
+    },
+    {
+      "author": "Misha Denil",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 153
+    },
+    {
+      "author": "Sergio Gomez Colmenarejo",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 154
+    },
+    {
+      "author": "Matthew W. Hoffman",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 155
+    },
+    {
+      "author": "David Pfau",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 156
+    },
+    {
+      "author": "T. Schaul",
+      "total_weight": 6.0,
+      "cluster_id": 6,
+      "rank": 157
+    },
+    {
+      "author": "Alex Ray",
+      "total_weight": 6.0,
+      "cluster_id": 15,
+      "rank": 158
+    },
+    {
+      "author": "Jiaming Xu",
+      "total_weight": 6.0,
+      "cluster_id": 19,
+      "rank": 159
+    },
+    {
+      "author": "Bo Xu",
+      "total_weight": 6.0,
+      "cluster_id": 0,
+      "rank": 160
+    },
+    {
+      "author": "E. Cambria",
+      "total_weight": 6.0,
+      "cluster_id": 8,
+      "rank": 161
+    },
+    {
+      "author": "Yan Duan",
+      "total_weight": 5.0,
+      "cluster_id": 15,
+      "rank": 162
+    },
+    {
+      "author": "John Schulman",
+      "total_weight": 5.0,
+      "cluster_id": 15,
+      "rank": 163
+    },
+    {
+      "author": "Xi Chen",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 164
+    },
+    {
+      "author": "P. Bartlett",
+      "total_weight": 5.0,
+      "cluster_id": 15,
+      "rank": 165
+    },
+    {
+      "author": "Kazuma Hashimoto",
+      "total_weight": 5.0,
+      "cluster_id": 1,
+      "rank": 166
+    },
+    {
+      "author": "Xipeng Qiu",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 167
+    },
+    {
+      "author": "Minghao Hu",
+      "total_weight": 5.0,
+      "cluster_id": 18,
+      "rank": 168
+    },
+    {
+      "author": "Yuxing Peng",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 169
+    },
+    {
+      "author": "Zhen Huang",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 170
+    },
+    {
+      "author": "D. Sontag",
+      "total_weight": 5.0,
+      "cluster_id": 19,
+      "rank": 171
+    },
+    {
+      "author": "Ali Farhadi",
+      "total_weight": 5.0,
+      "cluster_id": 4,
+      "rank": 172
+    },
+    {
+      "author": "Karen Livescu",
+      "total_weight": 5.0,
+      "cluster_id": 28,
+      "rank": 173
+    },
+    {
+      "author": "Jian Zhang",
+      "total_weight": 5.0,
+      "cluster_id": 5,
+      "rank": 174
+    },
+    {
+      "author": "Nal Kalchbrenner",
+      "total_weight": 5.0,
+      "cluster_id": 6,
+      "rank": 175
+    },
+    {
+      "author": "L. Espeholt",
+      "total_weight": 5.0,
+      "cluster_id": 6,
+      "rank": 176
+    },
+    {
+      "author": "K. Simonyan",
+      "total_weight": 5.0,
+      "cluster_id": 6,
+      "rank": 177
+    },
+    {
+      "author": "Alex Graves",
+      "total_weight": 5.0,
+      "cluster_id": 6,
+      "rank": 178
+    },
+    {
+      "author": "W. Xu",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 179
+    },
+    {
+      "author": "Guillaume Lample",
+      "total_weight": 5.0,
+      "cluster_id": 4,
+      "rank": 180
+    },
+    {
+      "author": "Sandeep Subramanian",
+      "total_weight": 5.0,
+      "cluster_id": 4,
+      "rank": 181
+    },
+    {
+      "author": "B. Haddow",
+      "total_weight": 5.0,
+      "cluster_id": 3,
+      "rank": 182
+    },
+    {
+      "author": "Alexandra Birch",
+      "total_weight": 5.0,
+      "cluster_id": 3,
+      "rank": 183
+    },
+    {
+      "author": "Ye-Yi Wang",
+      "total_weight": 5.0,
+      "cluster_id": 1,
+      "rank": 184
+    },
+    {
+      "author": "Qizhe Xie",
+      "total_weight": 5.0,
+      "cluster_id": 6,
+      "rank": 185
+    },
+    {
+      "author": "Joshua Tobin",
+      "total_weight": 5.0,
+      "cluster_id": 15,
+      "rank": 186
+    },
+    {
+      "author": "Rachel Fong",
+      "total_weight": 5.0,
+      "cluster_id": 15,
+      "rank": 187
+    },
+    {
+      "author": "Jonas Schneider",
+      "total_weight": 5.0,
+      "cluster_id": 15,
+      "rank": 188
+    },
+    {
+      "author": "P. Zhou",
+      "total_weight": 5.0,
+      "cluster_id": 4,
+      "rank": 189
+    },
+    {
+      "author": "Zhenyu Qi",
+      "total_weight": 5.0,
+      "cluster_id": 19,
+      "rank": 190
+    },
+    {
+      "author": "Suncong Zheng",
+      "total_weight": 5.0,
+      "cluster_id": 19,
+      "rank": 191
+    },
+    {
+      "author": "Hongyun Bao",
+      "total_weight": 5.0,
+      "cluster_id": 19,
+      "rank": 192
+    },
+    {
+      "author": "Qian Chen",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 193
+    },
+    {
+      "author": "Xiao-Dan Zhu",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 194
+    },
+    {
+      "author": "Zhenhua Ling",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 195
+    },
+    {
+      "author": "Si Wei",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 196
+    },
+    {
+      "author": "Hui Jiang",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 197
+    },
+    {
+      "author": "Diana Inkpen",
+      "total_weight": 5.0,
+      "cluster_id": 0,
+      "rank": 198
+    },
+    {
+      "author": "Soujanya Poria",
+      "total_weight": 5.0,
+      "cluster_id": 8,
+      "rank": 199
+    },
+    {
+      "author": "Ankur P. Parikh",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 200
+    },
+    {
+      "author": "N. Keskar",
+      "total_weight": 4.0,
+      "cluster_id": 1,
+      "rank": 201
+    },
+    {
+      "author": "C. Blundell",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 202
+    },
+    {
+      "author": "T. Lillicrap",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 203
+    },
+    {
+      "author": "D. Wierstra",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 204
+    },
+    {
+      "author": "Andrew M. Dai",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 205
+    },
+    {
+      "author": "Anna Goldie",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 206
+    },
+    {
+      "author": "Alexis Conneau",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 207
+    },
+    {
+      "author": "Douwe Kiela",
+      "total_weight": 4.0,
+      "cluster_id": 10,
+      "rank": 208
+    },
+    {
+      "author": "Antoine Bordes",
+      "total_weight": 4.0,
+      "cluster_id": 9,
+      "rank": 209
+    },
+    {
+      "author": "Mandar Joshi",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 210
+    },
+    {
+      "author": "Eunsol Choi",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 211
+    },
+    {
+      "author": "Daniel Matthew Cer",
+      "total_weight": 4.0,
+      "cluster_id": 3,
+      "rank": 212
+    },
+    {
+      "author": "Mona T. Diab",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 213
+    },
+    {
+      "author": "Eneko Agirre",
+      "total_weight": 4.0,
+      "cluster_id": 3,
+      "rank": 214
+    },
+    {
+      "author": "I. Lopez-Gazpio",
+      "total_weight": 4.0,
+      "cluster_id": 3,
+      "rank": 215
+    },
+    {
+      "author": "Lucia Specia",
+      "total_weight": 4.0,
+      "cluster_id": 3,
+      "rank": 216
+    },
+    {
+      "author": "Aniruddha Kembhavi",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 217
+    },
+    {
+      "author": "Hannaneh Hajishirzi",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 218
+    },
+    {
+      "author": "Pranav Rajpurkar",
+      "total_weight": 4.0,
+      "cluster_id": 1,
+      "rank": 219
+    },
+    {
+      "author": "Percy Liang",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 220
+    },
+    {
+      "author": "Jonas Gehring",
+      "total_weight": 4.0,
+      "cluster_id": 15,
+      "rank": 221
+    },
+    {
+      "author": "Michael Auli",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 222
+    },
+    {
+      "author": "David Grangier",
+      "total_weight": 4.0,
+      "cluster_id": 20,
+      "rank": 223
+    },
+    {
+      "author": "Denis Yarats",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 224
+    },
+    {
+      "author": "Yann Dauphin",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 225
+    },
+    {
+      "author": "Ying Cao",
+      "total_weight": 4.0,
+      "cluster_id": 0,
+      "rank": 226
+    },
+    {
+      "author": "Xuguang Wang",
+      "total_weight": 4.0,
+      "cluster_id": 0,
+      "rank": 227
+    },
+    {
+      "author": "Phil Blunsom",
+      "total_weight": 4.0,
+      "cluster_id": 9,
+      "rank": 228
+    },
+    {
+      "author": "Kazuya Kawakami",
+      "total_weight": 4.0,
+      "cluster_id": 4,
+      "rank": 229
+    },
+    {
+      "author": "Christian Szegedy",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 230
+    },
+    {
+      "author": "Vincent Vanhoucke",
+      "total_weight": 4.0,
+      "cluster_id": 9,
+      "rank": 231
+    },
+    {
+      "author": "Sergey Ioffe",
+      "total_weight": 4.0,
+      "cluster_id": 9,
+      "rank": 232
+    },
+    {
+      "author": "Jonathon Shlens",
+      "total_weight": 4.0,
+      "cluster_id": 9,
+      "rank": 233
+    },
+    {
+      "author": "Z. Wojna",
+      "total_weight": 4.0,
+      "cluster_id": 9,
+      "rank": 234
+    },
+    {
+      "author": "Rico Sennrich",
+      "total_weight": 4.0,
+      "cluster_id": 12,
+      "rank": 235
+    },
+    {
+      "author": "Yiming Yang",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 236
+    },
+    {
+      "author": "Guokun Lai",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 237
+    },
+    {
+      "author": "Hanxiao Liu",
+      "total_weight": 4.0,
+      "cluster_id": 6,
+      "rank": 238
+    },
+    {
+      "author": "Jos\u00e9 Camacho-Collados",
+      "total_weight": 4.0,
+      "cluster_id": 8,
+      "rank": 239
+    },
+    {
+      "author": "Claudio Delli Bovi",
+      "total_weight": 4.0,
+      "cluster_id": 12,
+      "rank": 240
+    },
+    {
+      "author": "Tom Young",
+      "total_weight": 4.0,
+      "cluster_id": 8,
+      "rank": 241
+    },
+    {
+      "author": "Oscar T\u00e4ckstr\u00f6m",
+      "total_weight": 3.0,
+      "cluster_id": 6,
+      "rank": 242
+    },
+    {
+      "author": "Dipanjan Das",
+      "total_weight": 3.0,
+      "cluster_id": 6,
+      "rank": 243
+    },
+    {
+      "author": "Yoshimasa Tsuruoka",
+      "total_weight": 3.0,
+      "cluster_id": 1,
+      "rank": 244
+    },
+    {
+      "author": "Gabor Angeli",
+      "total_weight": 3.0,
+      "cluster_id": 20,
+      "rank": 245
+    },
+    {
+      "author": "D. Britz",
+      "total_weight": 3.0,
+      "cluster_id": 6,
+      "rank": 246
+    },
+    {
+      "author": "Matthew E. Peters",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 247
+    },
+    {
+      "author": "Bridger Waleed Ammar",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 248
+    },
+    {
+      "author": "Chandra Bhagavatula",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 249
+    },
+    {
+      "author": "Russell Power",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 250
+    },
+    {
+      "author": "Daniel S. Weld",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 251
+    },
+    {
+      "author": "Nikita Nangia",
+      "total_weight": 3.0,
+      "cluster_id": 15,
+      "rank": 252
+    },
+    {
+      "author": "Minjoon Seo",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 253
+    },
+    {
+      "author": "J. Wieting",
+      "total_weight": 3.0,
+      "cluster_id": 6,
+      "rank": 254
+    },
+    {
+      "author": "Mohit Bansal",
+      "total_weight": 3.0,
+      "cluster_id": 1,
+      "rank": 255
+    },
+    {
+      "author": "Konstantin Lopyrev",
+      "total_weight": 3.0,
+      "cluster_id": 5,
+      "rank": 256
+    },
+    {
+      "author": "Zihang Chen",
+      "total_weight": 3.0,
+      "cluster_id": 0,
+      "rank": 257
+    },
+    {
+      "author": "Hongbo Zhang",
+      "total_weight": 3.0,
+      "cluster_id": 0,
+      "rank": 258
+    },
+    {
+      "author": "Xiaoji Zhang",
+      "total_weight": 3.0,
+      "cluster_id": 0,
+      "rank": 259
+    },
+    {
+      "author": "Leqi Zhao",
+      "total_weight": 3.0,
+      "cluster_id": 0,
+      "rank": 260
+    },
+    {
+      "author": "Carl Denton",
+      "total_weight": 3.0,
+      "cluster_id": 3,
+      "rank": 261
+    },
+    {
+      "author": "Luong Hoang",
+      "total_weight": 3.0,
+      "cluster_id": 3,
+      "rank": 262
+    },
+    {
+      "author": "A. Kuncoro",
+      "total_weight": 3.0,
+      "cluster_id": 12,
+      "rank": 263
+    },
+    {
+      "author": "Noah A. Smith",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 264
+    },
+    {
+      "author": "G\u00e1bor Melis",
+      "total_weight": 3.0,
+      "cluster_id": 9,
+      "rank": 265
+    },
+    {
+      "author": "Li Dong",
+      "total_weight": 3.0,
+      "cluster_id": 0,
+      "rank": 266
+    },
+    {
+      "author": "Mirella Lapata",
+      "total_weight": 3.0,
+      "cluster_id": 9,
+      "rank": 267
+    },
+    {
+      "author": "Kaiming He",
+      "total_weight": 3.0,
+      "cluster_id": 5,
+      "rank": 268
+    },
+    {
+      "author": "X. Zhang",
+      "total_weight": 3.0,
+      "cluster_id": 5,
+      "rank": 269
+    },
+    {
+      "author": "Shaoqing Ren",
+      "total_weight": 3.0,
+      "cluster_id": 5,
+      "rank": 270
+    },
+    {
+      "author": "Jian Sun",
+      "total_weight": 3.0,
+      "cluster_id": 0,
+      "rank": 271
+    },
+    {
+      "author": "Sainbayar Sukhbaatar",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 272
+    },
+    {
+      "author": "Arthur Szlam",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 273
+    },
+    {
+      "author": "J. Weston",
+      "total_weight": 3.0,
+      "cluster_id": 6,
+      "rank": 274
+    },
+    {
+      "author": "R. Fergus",
+      "total_weight": 3.0,
+      "cluster_id": 4,
+      "rank": 275
+    },
+    {
+      "author": "Yelong Shen",
+      "total_weight": 3.0,
+      "cluster_id": 1,
+      "rank": 276
+    },
+    {
+      "author": "Chelsea Finn",
+      "total_weight": 3.0,
+      "cluster_id": 9,
+      "rank": 277
+    },
+    {
+      "author": "S. Levine",
+      "total_weight": 3.0,
+      "cluster_id": 9,
+      "rank": 278
+    },
+    {
+      "author": "Devamanyu Hazarika",
+      "total_weight": 3.0,
+      "cluster_id": 8,
+      "rank": 279
+    },
+    {
+      "author": "Stephen Merity",
+      "total_weight": 2.0,
+      "cluster_id": 1,
+      "rank": 280
+    },
+    {
+      "author": "Kevin Clark",
+      "total_weight": 2.0,
+      "cluster_id": 20,
+      "rank": 281
+    },
+    {
+      "author": "Thang Luong",
+      "total_weight": 2.0,
+      "cluster_id": 6,
+      "rank": 282
+    },
+    {
+      "author": "Hieu Pham",
+      "total_weight": 2.0,
+      "cluster_id": 20,
+      "rank": 283
+    },
+    {
+      "author": "Kyunghyun Cho",
+      "total_weight": 2.0,
+      "cluster_id": 2,
+      "rank": 284
+    },
+    {
+      "author": "Felix Hill",
+      "total_weight": 2.0,
+      "cluster_id": 15,
+      "rank": 285
+    },
+    {
+      "author": "A. Korhonen",
+      "total_weight": 2.0,
+      "cluster_id": 3,
+      "rank": 286
+    },
+    {
+      "author": "Matt Gardner",
+      "total_weight": 2.0,
+      "cluster_id": 4,
+      "rank": 287
+    },
+    {
+      "author": "Christopher Clark",
+      "total_weight": 2.0,
+      "cluster_id": 4,
+      "rank": 288
+    },
+    {
+      "author": "Adina Williams",
+      "total_weight": 2.0,
+      "cluster_id": 3,
+      "rank": 289
+    },
+    {
+      "author": "Oren Melamud",
+      "total_weight": 2.0,
+      "cluster_id": 4,
+      "rank": 290
+    },
+    {
+      "author": "J. Goldberger",
+      "total_weight": 2.0,
+      "cluster_id": 4,
+      "rank": 291
+    },
+    {
+      "author": "Ido Dagan",
+      "total_weight": 2.0,
+      "cluster_id": 4,
+      "rank": 292
+    },
+    {
+      "author": "Dan Hendrycks",
+      "total_weight": 2.0,
+      "cluster_id": 0,
+      "rank": 293
+    },
+    {
+      "author": "Yichen Gong",
+      "total_weight": 2.0,
+      "cluster_id": 5,
+      "rank": 294
+    },
+    {
+      "author": "Heng Luo",
+      "total_weight": 2.0,
+      "cluster_id": 5,
+      "rank": 295
+    },
+    {
+      "author": "Oleksii Kuchaiev",
+      "total_weight": 2.0,
+      "cluster_id": 88,
+      "rank": 296
+    },
+    {
+      "author": "Boris Ginsburg",
+      "total_weight": 2.0,
+      "cluster_id": 88,
+      "rank": 297
+    },
+    {
+      "author": "Sam Wiseman",
+      "total_weight": 2.0,
+      "cluster_id": 10,
+      "rank": 298
+    },
+    {
+      "author": "Stuart M. Shieber",
+      "total_weight": 2.0,
+      "cluster_id": 10,
+      "rank": 299
+    },
+    {
+      "author": "Jimmy Ba",
+      "total_weight": 2.0,
+      "cluster_id": 0,
+      "rank": 300
+    },
+    {
+      "author": "J. Kiros",
+      "total_weight": 2.0,
+      "cluster_id": 0,
+      "rank": 301
+    },
+    {
+      "author": "Jianpeng Cheng",
+      "total_weight": 2.0,
+      "cluster_id": 0,
+      "rank": 302
+    },
+    {
+      "author": "Mohammad Taher Pilehvar",
+      "total_weight": 2.0,
+      "cluster_id": 8,
+      "rank": 303
+    },
+    {
+      "author": "Ignacio Iacobacci",
+      "total_weight": 2.0,
+      "cluster_id": 8,
+      "rank": 304
+    },
+    {
+      "author": "J. Schmidhuber",
+      "total_weight": 2.0,
+      "cluster_id": 537,
+      "rank": 305
+    },
+    {
+      "author": "R. Srivastava",
+      "total_weight": 2.0,
+      "cluster_id": 537,
+      "rank": 306
+    },
+    {
+      "author": "Klaus Greff",
+      "total_weight": 2.0,
+      "cluster_id": 537,
+      "rank": 307
+    },
+    {
+      "author": "Tsendsuren Munkhdalai",
+      "total_weight": 2.0,
+      "cluster_id": 18,
+      "rank": 308
+    },
+    {
+      "author": "Hong Yu",
+      "total_weight": 2.0,
+      "cluster_id": 18,
+      "rank": 309
+    },
+    {
+      "author": "Samy Bengio",
+      "total_weight": 1.0,
+      "cluster_id": 4,
+      "rank": 310
+    },
+    {
+      "author": "Ofir Press",
+      "total_weight": 1.0,
+      "cluster_id": 10,
+      "rank": 311
+    },
+    {
+      "author": "Lior Wolf",
+      "total_weight": 1.0,
+      "cluster_id": 20,
+      "rank": 312
+    },
+    {
+      "author": "Jitendra Malik",
+      "total_weight": 1.0,
+      "cluster_id": 11,
+      "rank": 313
+    },
+    {
+      "author": "Ke Li",
+      "total_weight": 1.0,
+      "cluster_id": 13,
+      "rank": 314
+    },
+    {
+      "author": "Xuezhe Ma",
+      "total_weight": 1.0,
+      "cluster_id": 0,
+      "rank": 315
+    },
+    {
+      "author": "Yoav Goldberg",
+      "total_weight": 1.0,
+      "cluster_id": 3,
+      "rank": 316
+    },
+    {
+      "author": "Anders S\u00f8gaard",
+      "total_weight": 1.0,
+      "cluster_id": 3,
+      "rank": 317
+    },
+    {
+      "author": "I. Loshchilov",
+      "total_weight": 1.0,
+      "cluster_id": 34,
+      "rank": 318
+    },
+    {
+      "author": "F. Hutter",
+      "total_weight": 1.0,
+      "cluster_id": 34,
+      "rank": 319
+    },
+    {
+      "author": "S. Ravi",
+      "total_weight": 1.0,
+      "cluster_id": 29,
+      "rank": 320
+    },
+    {
+      "author": "H. Larochelle",
+      "total_weight": 1.0,
+      "cluster_id": 29,
+      "rank": 321
+    },
+    {
+      "author": "Y. Gal",
+      "total_weight": 1.0,
+      "cluster_id": 3565,
+      "rank": 322
+    },
+    {
+      "author": "Zoubin Ghahramani",
+      "total_weight": 1.0,
+      "cluster_id": 3565,
+      "rank": 323
+    },
+    {
+      "author": "Jason P. C. Chiu",
+      "total_weight": 1.0,
+      "cluster_id": 3566,
+      "rank": 324
+    },
+    {
+      "author": "Eric Nichols",
+      "total_weight": 1.0,
+      "cluster_id": 3566,
+      "rank": 325
+    }
+  ],
+  "cluster_rank": {
+    "6": [
+      {
+        "author": "Quoc V. Le",
+        "total_weight": 64.0,
+        "rank": 1
+      },
+      {
+        "author": "O. Vinyals",
+        "total_weight": 58.0,
+        "rank": 2
+      },
+      {
+        "author": "J. Dean",
+        "total_weight": 48.0,
+        "rank": 3
+      },
+      {
+        "author": "Yonghui Wu",
+        "total_weight": 41.0,
+        "rank": 4
+      },
+      {
+        "author": "Z. Chen",
+        "total_weight": 37.0,
+        "rank": 5
+      },
+      {
+        "author": "M. Krikun",
+        "total_weight": 36.0,
+        "rank": 6
+      },
+      {
+        "author": "G. Corrado",
+        "total_weight": 36.0,
+        "rank": 7
+      },
+      {
+        "author": "Melvin Johnson",
+        "total_weight": 35.0,
+        "rank": 8
+      },
+      {
+        "author": "M. Schuster",
+        "total_weight": 34.0,
+        "rank": 9
+      },
+      {
+        "author": "Wolfgang Macherey",
+        "total_weight": 32.0,
+        "rank": 10
+      },
+      {
+        "author": "Stephan Gouws",
+        "total_weight": 32.0,
+        "rank": 11
+      },
+      {
+        "author": "H. Kazawa",
+        "total_weight": 32.0,
+        "rank": 12
+      },
+      {
+        "author": "Mohammad Norouzi",
+        "total_weight": 31.0,
+        "rank": 13
+      },
+      {
+        "author": "Yuan Cao",
+        "total_weight": 30.0,
+        "rank": 14
+      },
+      {
+        "author": "Qin Gao",
+        "total_weight": 30.0,
+        "rank": 15
+      },
+      {
+        "author": "Klaus Macherey",
+        "total_weight": 30.0,
+        "rank": 16
+      },
+      {
+        "author": "J. Klingner",
+        "total_weight": 30.0,
+        "rank": 17
+      },
+      {
+        "author": "Apurva Shah",
+        "total_weight": 30.0,
+        "rank": 18
+      },
+      {
+        "author": "Xiaobing Liu",
+        "total_weight": 30.0,
+        "rank": 19
+      },
+      {
+        "author": "Yoshikiyo Kato",
+        "total_weight": 30.0,
+        "rank": 20
+      },
+      {
+        "author": "Taku Kudo",
+        "total_weight": 30.0,
+        "rank": 21
+      },
+      {
+        "author": "Nishant Patil",
+        "total_weight": 30.0,
+        "rank": 22
+      },
+      {
+        "author": "C. Young",
+        "total_weight": 30.0,
+        "rank": 23
+      },
+      {
+        "author": "Jason R. Smith",
+        "total_weight": 30.0,
+        "rank": 24
+      },
+      {
+        "author": "Jason Riesa",
+        "total_weight": 30.0,
+        "rank": 25
+      },
+      {
+        "author": "Alex Rudnick",
+        "total_weight": 30.0,
+        "rank": 26
+      },
+      {
+        "author": "Macduff Hughes",
+        "total_weight": 30.0,
+        "rank": 27
+      },
+      {
+        "author": "Noam M. Shazeer",
+        "total_weight": 22.0,
+        "rank": 28
+      },
+      {
+        "author": "Jakob Uszkoreit",
+        "total_weight": 14.0,
+        "rank": 29
+      },
+      {
+        "author": "Nando de Freitas",
+        "total_weight": 13.0,
+        "rank": 30
+      },
+      {
+        "author": "A\u00e4ron van den Oord",
+        "total_weight": 12.0,
+        "rank": 31
+      },
+      {
+        "author": "James Bradbury",
+        "total_weight": 11.0,
+        "rank": 32
+      },
+      {
+        "author": "Minh-Thang Luong",
+        "total_weight": 10.0,
+        "rank": 33
+      },
+      {
+        "author": "Sharan Narang",
+        "total_weight": 10.0,
+        "rank": 34
+      },
+      {
+        "author": "Yanqi Zhou",
+        "total_weight": 10.0,
+        "rank": 35
+      },
+      {
+        "author": "Llion Jones",
+        "total_weight": 9.0,
+        "rank": 36
+      },
+      {
+        "author": "Illia Polosukhin",
+        "total_weight": 9.0,
+        "rank": 37
+      },
+      {
+        "author": "K. Kavukcuoglu",
+        "total_weight": 9.0,
+        "rank": 38
+      },
+      {
+        "author": "G. Diamos",
+        "total_weight": 8.0,
+        "rank": 39
+      },
+      {
+        "author": "Hassan Kianinejad",
+        "total_weight": 8.0,
+        "rank": 40
+      },
+      {
+        "author": "Md. Mostofa Ali Patwary",
+        "total_weight": 8.0,
+        "rank": 41
+      },
+      {
+        "author": "Kenton Lee",
+        "total_weight": 7.0,
+        "rank": 42
+      },
+      {
+        "author": "Ashish Vaswani",
+        "total_weight": 7.0,
+        "rank": 43
+      },
+      {
+        "author": "Niki Parmar",
+        "total_weight": 7.0,
+        "rank": 44
+      },
+      {
+        "author": "Aidan N. Gomez",
+        "total_weight": 7.0,
+        "rank": 45
+      },
+      {
+        "author": "Azalia Mirhoseini",
+        "total_weight": 7.0,
+        "rank": 46
+      },
+      {
+        "author": "Scott E. Reed",
+        "total_weight": 7.0,
+        "rank": 47
+      },
+      {
+        "author": "Yutian Chen",
+        "total_weight": 7.0,
+        "rank": 48
+      },
+      {
+        "author": "T. Paine",
+        "total_weight": 7.0,
+        "rank": 49
+      },
+      {
+        "author": "S. Eslami",
+        "total_weight": 7.0,
+        "rank": 50
+      },
+      {
+        "author": "Danilo Jimenez Rezende",
+        "total_weight": 7.0,
+        "rank": 51
+      },
+      {
+        "author": "Andy Davis",
+        "total_weight": 6.0,
+        "rank": 52
+      },
+      {
+        "author": "R. J\u00f3zefowicz",
+        "total_weight": 6.0,
+        "rank": 53
+      },
+      {
+        "author": "Marcin Andrychowicz",
+        "total_weight": 6.0,
+        "rank": 54
+      },
+      {
+        "author": "Misha Denil",
+        "total_weight": 6.0,
+        "rank": 55
+      },
+      {
+        "author": "Sergio Gomez Colmenarejo",
+        "total_weight": 6.0,
+        "rank": 56
+      },
+      {
+        "author": "Matthew W. Hoffman",
+        "total_weight": 6.0,
+        "rank": 57
+      },
+      {
+        "author": "David Pfau",
+        "total_weight": 6.0,
+        "rank": 58
+      },
+      {
+        "author": "T. Schaul",
+        "total_weight": 6.0,
+        "rank": 59
+      },
+      {
+        "author": "Nal Kalchbrenner",
+        "total_weight": 5.0,
+        "rank": 60
+      },
+      {
+        "author": "L. Espeholt",
+        "total_weight": 5.0,
+        "rank": 61
+      },
+      {
+        "author": "K. Simonyan",
+        "total_weight": 5.0,
+        "rank": 62
+      },
+      {
+        "author": "Alex Graves",
+        "total_weight": 5.0,
+        "rank": 63
+      },
+      {
+        "author": "Qizhe Xie",
+        "total_weight": 5.0,
+        "rank": 64
+      },
+      {
+        "author": "Ankur P. Parikh",
+        "total_weight": 4.0,
+        "rank": 65
+      },
+      {
+        "author": "C. Blundell",
+        "total_weight": 4.0,
+        "rank": 66
+      },
+      {
+        "author": "T. Lillicrap",
+        "total_weight": 4.0,
+        "rank": 67
+      },
+      {
+        "author": "D. Wierstra",
+        "total_weight": 4.0,
+        "rank": 68
+      },
+      {
+        "author": "Andrew M. Dai",
+        "total_weight": 4.0,
+        "rank": 69
+      },
+      {
+        "author": "Anna Goldie",
+        "total_weight": 4.0,
+        "rank": 70
+      },
+      {
+        "author": "Christian Szegedy",
+        "total_weight": 4.0,
+        "rank": 71
+      },
+      {
+        "author": "Yiming Yang",
+        "total_weight": 4.0,
+        "rank": 72
+      },
+      {
+        "author": "Guokun Lai",
+        "total_weight": 4.0,
+        "rank": 73
+      },
+      {
+        "author": "Hanxiao Liu",
+        "total_weight": 4.0,
+        "rank": 74
+      },
+      {
+        "author": "Oscar T\u00e4ckstr\u00f6m",
+        "total_weight": 3.0,
+        "rank": 75
+      },
+      {
+        "author": "Dipanjan Das",
+        "total_weight": 3.0,
+        "rank": 76
+      },
+      {
+        "author": "D. Britz",
+        "total_weight": 3.0,
+        "rank": 77
+      },
+      {
+        "author": "J. Wieting",
+        "total_weight": 3.0,
+        "rank": 78
+      },
+      {
+        "author": "J. Weston",
+        "total_weight": 3.0,
+        "rank": 79
+      },
+      {
+        "author": "Thang Luong",
+        "total_weight": 2.0,
+        "rank": 80
+      }
+    ],
+    "15": [
+      {
+        "author": "Lukasz Kaiser",
+        "total_weight": 50.0,
+        "rank": 1
+      },
+      {
+        "author": "I. Sutskever",
+        "total_weight": 18.0,
+        "rank": 2
+      },
+      {
+        "author": "P. Abbeel",
+        "total_weight": 12.0,
+        "rank": 3
+      },
+      {
+        "author": "Wojciech Zaremba",
+        "total_weight": 9.0,
+        "rank": 4
+      },
+      {
+        "author": "Samuel R. Bowman",
+        "total_weight": 8.0,
+        "rank": 5
+      },
+      {
+        "author": "Heewoo Jun",
+        "total_weight": 8.0,
+        "rank": 6
+      },
+      {
+        "author": "Alex Ray",
+        "total_weight": 6.0,
+        "rank": 7
+      },
+      {
+        "author": "Yan Duan",
+        "total_weight": 5.0,
+        "rank": 8
+      },
+      {
+        "author": "John Schulman",
+        "total_weight": 5.0,
+        "rank": 9
+      },
+      {
+        "author": "P. Bartlett",
+        "total_weight": 5.0,
+        "rank": 10
+      },
+      {
+        "author": "Joshua Tobin",
+        "total_weight": 5.0,
+        "rank": 11
+      },
+      {
+        "author": "Rachel Fong",
+        "total_weight": 5.0,
+        "rank": 12
+      },
+      {
+        "author": "Jonas Schneider",
+        "total_weight": 5.0,
+        "rank": 13
+      },
+      {
+        "author": "Jonas Gehring",
+        "total_weight": 4.0,
+        "rank": 14
+      },
+      {
+        "author": "Nikita Nangia",
+        "total_weight": 3.0,
+        "rank": 15
+      },
+      {
+        "author": "Felix Hill",
+        "total_weight": 2.0,
+        "rank": 16
+      }
+    ],
+    "1": [
+      {
+        "author": "R. Socher",
+        "total_weight": 33.0,
+        "rank": 1
+      },
+      {
+        "author": "Jianfeng Gao",
+        "total_weight": 29.0,
+        "rank": 2
+      },
+      {
+        "author": "Xiaodong Liu",
+        "total_weight": 23.0,
+        "rank": 3
+      },
+      {
+        "author": "Caiming Xiong",
+        "total_weight": 21.0,
+        "rank": 4
+      },
+      {
+        "author": "Bryan McCann",
+        "total_weight": 10.0,
+        "rank": 5
+      },
+      {
+        "author": "Romain Paulus",
+        "total_weight": 10.0,
+        "rank": 6
+      },
+      {
+        "author": "Kevin Duh",
+        "total_weight": 10.0,
+        "rank": 7
+      },
+      {
+        "author": "A. Kumar",
+        "total_weight": 8.0,
+        "rank": 8
+      },
+      {
+        "author": "Ozan Irsoy",
+        "total_weight": 8.0,
+        "rank": 9
+      },
+      {
+        "author": "Peter Ondruska",
+        "total_weight": 8.0,
+        "rank": 10
+      },
+      {
+        "author": "Ishaan Gulrajani",
+        "total_weight": 8.0,
+        "rank": 11
+      },
+      {
+        "author": "Victor Zhong",
+        "total_weight": 8.0,
+        "rank": 12
+      },
+      {
+        "author": "Aishwarya Agrawal",
+        "total_weight": 6.0,
+        "rank": 13
+      },
+      {
+        "author": "Kazuma Hashimoto",
+        "total_weight": 5.0,
+        "rank": 14
+      },
+      {
+        "author": "Ye-Yi Wang",
+        "total_weight": 5.0,
+        "rank": 15
+      },
+      {
+        "author": "N. Keskar",
+        "total_weight": 4.0,
+        "rank": 16
+      },
+      {
+        "author": "Pranav Rajpurkar",
+        "total_weight": 4.0,
+        "rank": 17
+      },
+      {
+        "author": "Yoshimasa Tsuruoka",
+        "total_weight": 3.0,
+        "rank": 18
+      },
+      {
+        "author": "Mohit Bansal",
+        "total_weight": 3.0,
+        "rank": 19
+      },
+      {
+        "author": "Yelong Shen",
+        "total_weight": 3.0,
+        "rank": 20
+      },
+      {
+        "author": "Stephen Merity",
+        "total_weight": 2.0,
+        "rank": 21
+      }
+    ],
+    "12": [
+      {
+        "author": "K. Stevens",
+        "total_weight": 30.0,
+        "rank": 1
+      },
+      {
+        "author": "Roberto Navigli",
+        "total_weight": 9.0,
+        "rank": 2
+      },
+      {
+        "author": "Alessandro Raganato",
+        "total_weight": 7.0,
+        "rank": 3
+      },
+      {
+        "author": "E. Hovy",
+        "total_weight": 6.0,
+        "rank": 4
+      },
+      {
+        "author": "Rico Sennrich",
+        "total_weight": 4.0,
+        "rank": 5
+      },
+      {
+        "author": "Claudio Delli Bovi",
+        "total_weight": 4.0,
+        "rank": 6
+      },
+      {
+        "author": "A. Kuncoro",
+        "total_weight": 3.0,
+        "rank": 7
+      }
+    ],
+    "4": [
+      {
+        "author": "George Kurian",
+        "total_weight": 30.0,
+        "rank": 1
+      },
+      {
+        "author": "Luke Zettlemoyer",
+        "total_weight": 16.0,
+        "rank": 2
+      },
+      {
+        "author": "Armand Joulin",
+        "total_weight": 14.0,
+        "rank": 3
+      },
+      {
+        "author": "Edouard Grave",
+        "total_weight": 11.0,
+        "rank": 4
+      },
+      {
+        "author": "M. Lewis",
+        "total_weight": 10.0,
+        "rank": 5
+      },
+      {
+        "author": "Piotr Bojanowski",
+        "total_weight": 9.0,
+        "rank": 6
+      },
+      {
+        "author": "Newsha Ardalani",
+        "total_weight": 8.0,
+        "rank": 7
+      },
+      {
+        "author": "Jiasen Lu",
+        "total_weight": 8.0,
+        "rank": 8
+      },
+      {
+        "author": "Luheng He",
+        "total_weight": 6.0,
+        "rank": 9
+      },
+      {
+        "author": "Tomas Mikolov",
+        "total_weight": 6.0,
+        "rank": 10
+      },
+      {
+        "author": "Ali Farhadi",
+        "total_weight": 5.0,
+        "rank": 11
+      },
+      {
+        "author": "Guillaume Lample",
+        "total_weight": 5.0,
+        "rank": 12
+      },
+      {
+        "author": "Sandeep Subramanian",
+        "total_weight": 5.0,
+        "rank": 13
+      },
+      {
+        "author": "P. Zhou",
+        "total_weight": 5.0,
+        "rank": 14
+      },
+      {
+        "author": "Alexis Conneau",
+        "total_weight": 4.0,
+        "rank": 15
+      },
+      {
+        "author": "Mandar Joshi",
+        "total_weight": 4.0,
+        "rank": 16
+      },
+      {
+        "author": "Eunsol Choi",
+        "total_weight": 4.0,
+        "rank": 17
+      },
+      {
+        "author": "Mona T. Diab",
+        "total_weight": 4.0,
+        "rank": 18
+      },
+      {
+        "author": "Aniruddha Kembhavi",
+        "total_weight": 4.0,
+        "rank": 19
+      },
+      {
+        "author": "Hannaneh Hajishirzi",
+        "total_weight": 4.0,
+        "rank": 20
+      },
+      {
+        "author": "Percy Liang",
+        "total_weight": 4.0,
+        "rank": 21
+      },
+      {
+        "author": "Michael Auli",
+        "total_weight": 4.0,
+        "rank": 22
+      },
+      {
+        "author": "Denis Yarats",
+        "total_weight": 4.0,
+        "rank": 23
+      },
+      {
+        "author": "Yann Dauphin",
+        "total_weight": 4.0,
+        "rank": 24
+      },
+      {
+        "author": "Kazuya Kawakami",
+        "total_weight": 4.0,
+        "rank": 25
+      },
+      {
+        "author": "Matthew E. Peters",
+        "total_weight": 3.0,
+        "rank": 26
+      },
+      {
+        "author": "Bridger Waleed Ammar",
+        "total_weight": 3.0,
+        "rank": 27
+      },
+      {
+        "author": "Chandra Bhagavatula",
+        "total_weight": 3.0,
+        "rank": 28
+      },
+      {
+        "author": "Russell Power",
+        "total_weight": 3.0,
+        "rank": 29
+      },
+      {
+        "author": "Daniel S. Weld",
+        "total_weight": 3.0,
+        "rank": 30
+      },
+      {
+        "author": "Minjoon Seo",
+        "total_weight": 3.0,
+        "rank": 31
+      },
+      {
+        "author": "Noah A. Smith",
+        "total_weight": 3.0,
+        "rank": 32
+      },
+      {
+        "author": "Sainbayar Sukhbaatar",
+        "total_weight": 3.0,
+        "rank": 33
+      },
+      {
+        "author": "Arthur Szlam",
+        "total_weight": 3.0,
+        "rank": 34
+      },
+      {
+        "author": "R. Fergus",
+        "total_weight": 3.0,
+        "rank": 35
+      },
+      {
+        "author": "Matt Gardner",
+        "total_weight": 2.0,
+        "rank": 36
+      },
+      {
+        "author": "Christopher Clark",
+        "total_weight": 2.0,
+        "rank": 37
+      },
+      {
+        "author": "Oren Melamud",
+        "total_weight": 2.0,
+        "rank": 38
+      },
+      {
+        "author": "J. Goldberger",
+        "total_weight": 2.0,
+        "rank": 39
+      },
+      {
+        "author": "Ido Dagan",
+        "total_weight": 2.0,
+        "rank": 40
+      },
+      {
+        "author": "Samy Bengio",
+        "total_weight": 1.0,
+        "rank": 41
+      }
+    ],
+    "0": [
+      {
+        "author": "Wei Wang",
+        "total_weight": 30.0,
+        "rank": 1
+      },
+      {
+        "author": "Furu Wei",
+        "total_weight": 15.0,
+        "rank": 2
+      },
+      {
+        "author": "M. Zhou",
+        "total_weight": 14.0,
+        "rank": 3
+      },
+      {
+        "author": "Xiaodong He",
+        "total_weight": 13.0,
+        "rank": 4
+      },
+      {
+        "author": "Geoffrey E. Hinton",
+        "total_weight": 11.0,
+        "rank": 5
+      },
+      {
+        "author": "L. Deng",
+        "total_weight": 11.0,
+        "rank": 6
+      },
+      {
+        "author": "Mohit Iyyer",
+        "total_weight": 9.0,
+        "rank": 7
+      },
+      {
+        "author": "Jie Zhou",
+        "total_weight": 9.0,
+        "rank": 8
+      },
+      {
+        "author": "Wenhui Wang",
+        "total_weight": 8.0,
+        "rank": 9
+      },
+      {
+        "author": "Peng Li",
+        "total_weight": 8.0,
+        "rank": 10
+      },
+      {
+        "author": "Joel Hestness",
+        "total_weight": 8.0,
+        "rank": 11
+      },
+      {
+        "author": "C. D. Santos",
+        "total_weight": 7.0,
+        "rank": 12
+      },
+      {
+        "author": "Bing Xiang",
+        "total_weight": 7.0,
+        "rank": 13
+      },
+      {
+        "author": "Nan Yang",
+        "total_weight": 7.0,
+        "rank": 14
+      },
+      {
+        "author": "Miguel Ballesteros",
+        "total_weight": 7.0,
+        "rank": 15
+      },
+      {
+        "author": "Zhouhan Lin",
+        "total_weight": 6.0,
+        "rank": 16
+      },
+      {
+        "author": "Minwei Feng",
+        "total_weight": 6.0,
+        "rank": 17
+      },
+      {
+        "author": "Bowen Zhou",
+        "total_weight": 6.0,
+        "rank": 18
+      },
+      {
+        "author": "Baobao Chang",
+        "total_weight": 6.0,
+        "rank": 19
+      },
+      {
+        "author": "Bo Xu",
+        "total_weight": 6.0,
+        "rank": 20
+      },
+      {
+        "author": "Xi Chen",
+        "total_weight": 5.0,
+        "rank": 21
+      },
+      {
+        "author": "Xipeng Qiu",
+        "total_weight": 5.0,
+        "rank": 22
+      },
+      {
+        "author": "Yuxing Peng",
+        "total_weight": 5.0,
+        "rank": 23
+      },
+      {
+        "author": "Zhen Huang",
+        "total_weight": 5.0,
+        "rank": 24
+      },
+      {
+        "author": "W. Xu",
+        "total_weight": 5.0,
+        "rank": 25
+      },
+      {
+        "author": "Qian Chen",
+        "total_weight": 5.0,
+        "rank": 26
+      },
+      {
+        "author": "Xiao-Dan Zhu",
+        "total_weight": 5.0,
+        "rank": 27
+      },
+      {
+        "author": "Zhenhua Ling",
+        "total_weight": 5.0,
+        "rank": 28
+      },
+      {
+        "author": "Si Wei",
+        "total_weight": 5.0,
+        "rank": 29
+      },
+      {
+        "author": "Hui Jiang",
+        "total_weight": 5.0,
+        "rank": 30
+      },
+      {
+        "author": "Diana Inkpen",
+        "total_weight": 5.0,
+        "rank": 31
+      },
+      {
+        "author": "Ying Cao",
+        "total_weight": 4.0,
+        "rank": 32
+      },
+      {
+        "author": "Xuguang Wang",
+        "total_weight": 4.0,
+        "rank": 33
+      },
+      {
+        "author": "Zihang Chen",
+        "total_weight": 3.0,
+        "rank": 34
+      },
+      {
+        "author": "Hongbo Zhang",
+        "total_weight": 3.0,
+        "rank": 35
+      },
+      {
+        "author": "Xiaoji Zhang",
+        "total_weight": 3.0,
+        "rank": 36
+      },
+      {
+        "author": "Leqi Zhao",
+        "total_weight": 3.0,
+        "rank": 37
+      },
+      {
+        "author": "Li Dong",
+        "total_weight": 3.0,
+        "rank": 38
+      },
+      {
+        "author": "Jian Sun",
+        "total_weight": 3.0,
+        "rank": 39
+      },
+      {
+        "author": "Dan Hendrycks",
+        "total_weight": 2.0,
+        "rank": 40
+      },
+      {
+        "author": "Jimmy Ba",
+        "total_weight": 2.0,
+        "rank": 41
+      },
+      {
+        "author": "J. Kiros",
+        "total_weight": 2.0,
+        "rank": 42
+      },
+      {
+        "author": "Jianpeng Cheng",
+        "total_weight": 2.0,
+        "rank": 43
+      },
+      {
+        "author": "Xuezhe Ma",
+        "total_weight": 1.0,
+        "rank": 44
+      }
+    ],
+    "9": [
+      {
+        "author": "Chris Dyer",
+        "total_weight": 18.0,
+        "rank": 1
+      },
+      {
+        "author": "Sandro Pezzelle",
+        "total_weight": 9.0,
+        "rank": 2
+      },
+      {
+        "author": "Marco Baroni",
+        "total_weight": 9.0,
+        "rank": 3
+      },
+      {
+        "author": "R. Fern\u00e1ndez",
+        "total_weight": 9.0,
+        "rank": 4
+      },
+      {
+        "author": "Wang Ling",
+        "total_weight": 8.0,
+        "rank": 5
+      },
+      {
+        "author": "Angeliki Lazaridou",
+        "total_weight": 8.0,
+        "rank": 6
+      },
+      {
+        "author": "Denis Paperno",
+        "total_weight": 8.0,
+        "rank": 7
+      },
+      {
+        "author": "Q. N. Pham",
+        "total_weight": 8.0,
+        "rank": 8
+      },
+      {
+        "author": "R. Bernardi",
+        "total_weight": 8.0,
+        "rank": 9
+      },
+      {
+        "author": "Gemma Boleda",
+        "total_weight": 8.0,
+        "rank": 10
+      },
+      {
+        "author": "Devi Parikh",
+        "total_weight": 8.0,
+        "rank": 11
+      },
+      {
+        "author": "Dhruv Batra",
+        "total_weight": 8.0,
+        "rank": 12
+      },
+      {
+        "author": "I. Trancoso",
+        "total_weight": 7.0,
+        "rank": 13
+      },
+      {
+        "author": "Silvio Amir",
+        "total_weight": 7.0,
+        "rank": 14
+      },
+      {
+        "author": "Lu\u00eds Marujo",
+        "total_weight": 7.0,
+        "rank": 15
+      },
+      {
+        "author": "Tiago Lu\u00eds",
+        "total_weight": 7.0,
+        "rank": 16
+      },
+      {
+        "author": "Yoshua Bengio",
+        "total_weight": 6.0,
+        "rank": 17
+      },
+      {
+        "author": "Stanislaw Antol",
+        "total_weight": 6.0,
+        "rank": 18
+      },
+      {
+        "author": "C. L. Zitnick",
+        "total_weight": 6.0,
+        "rank": 19
+      },
+      {
+        "author": "Antoine Bordes",
+        "total_weight": 4.0,
+        "rank": 20
+      },
+      {
+        "author": "Phil Blunsom",
+        "total_weight": 4.0,
+        "rank": 21
+      },
+      {
+        "author": "Vincent Vanhoucke",
+        "total_weight": 4.0,
+        "rank": 22
+      },
+      {
+        "author": "Sergey Ioffe",
+        "total_weight": 4.0,
+        "rank": 23
+      },
+      {
+        "author": "Jonathon Shlens",
+        "total_weight": 4.0,
+        "rank": 24
+      },
+      {
+        "author": "Z. Wojna",
+        "total_weight": 4.0,
+        "rank": 25
+      },
+      {
+        "author": "G\u00e1bor Melis",
+        "total_weight": 3.0,
+        "rank": 26
+      },
+      {
+        "author": "Mirella Lapata",
+        "total_weight": 3.0,
+        "rank": 27
+      },
+      {
+        "author": "Chelsea Finn",
+        "total_weight": 3.0,
+        "rank": 28
+      },
+      {
+        "author": "S. Levine",
+        "total_weight": 3.0,
+        "rank": 29
+      }
+    ],
+    "3": [
+      {
+        "author": "Nadir Durrani",
+        "total_weight": 17.0,
+        "rank": 1
+      },
+      {
+        "author": "Fahim Dalvi",
+        "total_weight": 17.0,
+        "rank": 2
+      },
+      {
+        "author": "Hassan Sajjad",
+        "total_weight": 16.0,
+        "rank": 3
+      },
+      {
+        "author": "James R. Glass",
+        "total_weight": 14.0,
+        "rank": 4
+      },
+      {
+        "author": "Yoon Kim",
+        "total_weight": 8.0,
+        "rank": 5
+      },
+      {
+        "author": "Holger Schwenk",
+        "total_weight": 6.0,
+        "rank": 6
+      },
+      {
+        "author": "Lo\u00efc Barrault",
+        "total_weight": 6.0,
+        "rank": 7
+      },
+      {
+        "author": "B. Haddow",
+        "total_weight": 5.0,
+        "rank": 8
+      },
+      {
+        "author": "Alexandra Birch",
+        "total_weight": 5.0,
+        "rank": 9
+      },
+      {
+        "author": "Daniel Matthew Cer",
+        "total_weight": 4.0,
+        "rank": 10
+      },
+      {
+        "author": "Eneko Agirre",
+        "total_weight": 4.0,
+        "rank": 11
+      },
+      {
+        "author": "I. Lopez-Gazpio",
+        "total_weight": 4.0,
+        "rank": 12
+      },
+      {
+        "author": "Lucia Specia",
+        "total_weight": 4.0,
+        "rank": 13
+      },
+      {
+        "author": "Carl Denton",
+        "total_weight": 3.0,
+        "rank": 14
+      },
+      {
+        "author": "Luong Hoang",
+        "total_weight": 3.0,
+        "rank": 15
+      },
+      {
+        "author": "A. Korhonen",
+        "total_weight": 2.0,
+        "rank": 16
+      },
+      {
+        "author": "Adina Williams",
+        "total_weight": 2.0,
+        "rank": 17
+      },
+      {
+        "author": "Yoav Goldberg",
+        "total_weight": 1.0,
+        "rank": 18
+      },
+      {
+        "author": "Anders S\u00f8gaard",
+        "total_weight": 1.0,
+        "rank": 19
+      }
+    ],
+    "10": [
+      {
+        "author": "Alexander M. Rush",
+        "total_weight": 14.0,
+        "rank": 1
+      },
+      {
+        "author": "Yonatan Belinkov",
+        "total_weight": 14.0,
+        "rank": 2
+      },
+      {
+        "author": "Yacine Jernite",
+        "total_weight": 9.0,
+        "rank": 3
+      },
+      {
+        "author": "Germ\u00e1n Kruszewski",
+        "total_weight": 9.0,
+        "rank": 4
+      },
+      {
+        "author": "Margaret Mitchell",
+        "total_weight": 6.0,
+        "rank": 5
+      },
+      {
+        "author": "Douwe Kiela",
+        "total_weight": 4.0,
+        "rank": 6
+      },
+      {
+        "author": "Sam Wiseman",
+        "total_weight": 2.0,
+        "rank": 7
+      },
+      {
+        "author": "Stuart M. Shieber",
+        "total_weight": 2.0,
+        "rank": 8
+      },
+      {
+        "author": "Ofir Press",
+        "total_weight": 1.0,
+        "rank": 9
+      }
+    ],
+    "26": [
+      {
+        "author": "Ryan Kiros",
+        "total_weight": 12.0,
+        "rank": 1
+      },
+      {
+        "author": "Yukun Zhu",
+        "total_weight": 12.0,
+        "rank": 2
+      },
+      {
+        "author": "R. Salakhutdinov",
+        "total_weight": 12.0,
+        "rank": 3
+      },
+      {
+        "author": "R. Zemel",
+        "total_weight": 12.0,
+        "rank": 4
+      },
+      {
+        "author": "R. Urtasun",
+        "total_weight": 12.0,
+        "rank": 5
+      },
+      {
+        "author": "A. Torralba",
+        "total_weight": 12.0,
+        "rank": 6
+      },
+      {
+        "author": "S. Fidler",
+        "total_weight": 12.0,
+        "rank": 7
+      }
+    ],
+    "20": [
+      {
+        "author": "Christopher D. Manning",
+        "total_weight": 10.0,
+        "rank": 1
+      },
+      {
+        "author": "Christopher Potts",
+        "total_weight": 6.0,
+        "rank": 2
+      },
+      {
+        "author": "David Grangier",
+        "total_weight": 4.0,
+        "rank": 3
+      },
+      {
+        "author": "Gabor Angeli",
+        "total_weight": 3.0,
+        "rank": 4
+      },
+      {
+        "author": "Kevin Clark",
+        "total_weight": 2.0,
+        "rank": 5
+      },
+      {
+        "author": "Hieu Pham",
+        "total_weight": 2.0,
+        "rank": 6
+      },
+      {
+        "author": "Lior Wolf",
+        "total_weight": 1.0,
+        "rank": 7
+      }
+    ],
+    "5": [
+      {
+        "author": "Yang Yang",
+        "total_weight": 8.0,
+        "rank": 1
+      },
+      {
+        "author": "Jian Zhang",
+        "total_weight": 5.0,
+        "rank": 2
+      },
+      {
+        "author": "Konstantin Lopyrev",
+        "total_weight": 3.0,
+        "rank": 3
+      },
+      {
+        "author": "Kaiming He",
+        "total_weight": 3.0,
+        "rank": 4
+      },
+      {
+        "author": "X. Zhang",
+        "total_weight": 3.0,
+        "rank": 5
+      },
+      {
+        "author": "Shaoqing Ren",
+        "total_weight": 3.0,
+        "rank": 6
+      },
+      {
+        "author": "Yichen Gong",
+        "total_weight": 2.0,
+        "rank": 7
+      },
+      {
+        "author": "Heng Luo",
+        "total_weight": 2.0,
+        "rank": 8
+      }
+    ],
+    "28": [
+      {
+        "author": "Kevin Gimpel",
+        "total_weight": 7.0,
+        "rank": 1
+      },
+      {
+        "author": "A. Black",
+        "total_weight": 7.0,
+        "rank": 2
+      },
+      {
+        "author": "Karen Livescu",
+        "total_weight": 5.0,
+        "rank": 3
+      }
+    ],
+    "17": [
+      {
+        "author": "Ram\u00f3n Fern\u00e1ndez Astudillo",
+        "total_weight": 7.0,
+        "rank": 1
+      },
+      {
+        "author": "Mo Yu",
+        "total_weight": 6.0,
+        "rank": 2
+      }
+    ],
+    "11": [
+      {
+        "author": "Krzysztof Maziarz",
+        "total_weight": 6.0,
+        "rank": 1
+      },
+      {
+        "author": "Jitendra Malik",
+        "total_weight": 1.0,
+        "rank": 2
+      }
+    ],
+    "19": [
+      {
+        "author": "Jiaming Xu",
+        "total_weight": 6.0,
+        "rank": 1
+      },
+      {
+        "author": "D. Sontag",
+        "total_weight": 5.0,
+        "rank": 2
+      },
+      {
+        "author": "Zhenyu Qi",
+        "total_weight": 5.0,
+        "rank": 3
+      },
+      {
+        "author": "Suncong Zheng",
+        "total_weight": 5.0,
+        "rank": 4
+      },
+      {
+        "author": "Hongyun Bao",
+        "total_weight": 5.0,
+        "rank": 5
+      }
+    ],
+    "8": [
+      {
+        "author": "E. Cambria",
+        "total_weight": 6.0,
+        "rank": 1
+      },
+      {
+        "author": "Soujanya Poria",
+        "total_weight": 5.0,
+        "rank": 2
+      },
+      {
+        "author": "Jos\u00e9 Camacho-Collados",
+        "total_weight": 4.0,
+        "rank": 3
+      },
+      {
+        "author": "Tom Young",
+        "total_weight": 4.0,
+        "rank": 4
+      },
+      {
+        "author": "Devamanyu Hazarika",
+        "total_weight": 3.0,
+        "rank": 5
+      },
+      {
+        "author": "Mohammad Taher Pilehvar",
+        "total_weight": 2.0,
+        "rank": 6
+      },
+      {
+        "author": "Ignacio Iacobacci",
+        "total_weight": 2.0,
+        "rank": 7
+      }
+    ],
+    "18": [
+      {
+        "author": "Minghao Hu",
+        "total_weight": 5.0,
+        "rank": 1
+      },
+      {
+        "author": "Tsendsuren Munkhdalai",
+        "total_weight": 2.0,
+        "rank": 2
+      },
+      {
+        "author": "Hong Yu",
+        "total_weight": 2.0,
+        "rank": 3
+      }
+    ],
+    "2": [
+      {
+        "author": "Kyunghyun Cho",
+        "total_weight": 2.0,
+        "rank": 1
+      }
+    ],
+    "88": [
+      {
+        "author": "Oleksii Kuchaiev",
+        "total_weight": 2.0,
+        "rank": 1
+      },
+      {
+        "author": "Boris Ginsburg",
+        "total_weight": 2.0,
+        "rank": 2
+      }
+    ],
+    "537": [
+      {
+        "author": "J. Schmidhuber",
+        "total_weight": 2.0,
+        "rank": 1
+      },
+      {
+        "author": "R. Srivastava",
+        "total_weight": 2.0,
+        "rank": 2
+      },
+      {
+        "author": "Klaus Greff",
+        "total_weight": 2.0,
+        "rank": 3
+      }
+    ],
+    "13": [
+      {
+        "author": "Ke Li",
+        "total_weight": 1.0,
+        "rank": 1
+      }
+    ],
+    "34": [
+      {
+        "author": "I. Loshchilov",
+        "total_weight": 1.0,
+        "rank": 1
+      },
+      {
+        "author": "F. Hutter",
+        "total_weight": 1.0,
+        "rank": 2
+      }
+    ],
+    "29": [
+      {
+        "author": "S. Ravi",
+        "total_weight": 1.0,
+        "rank": 1
+      },
+      {
+        "author": "H. Larochelle",
+        "total_weight": 1.0,
+        "rank": 2
+      }
+    ],
+    "3565": [
+      {
+        "author": "Y. Gal",
+        "total_weight": 1.0,
+        "rank": 1
+      },
+      {
+        "author": "Zoubin Ghahramani",
+        "total_weight": 1.0,
+        "rank": 2
+      }
+    ],
+    "3566": [
+      {
+        "author": "Jason P. C. Chiu",
+        "total_weight": 1.0,
+        "rank": 1
+      },
+      {
+        "author": "Eric Nichols",
+        "total_weight": 1.0,
+        "rank": 2
+      }
+    ]
+  }
+}

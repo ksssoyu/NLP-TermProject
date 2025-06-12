@@ -1,0 +1,52 @@
+[
+  {
+    "author": "Yang Liu",
+    "pagerank": 0.00033581712604661024,
+    "cluster_id": 0
+  },
+  {
+    "author": "Philip S. Yu",
+    "pagerank": 0.00026646941877532336,
+    "cluster_id": 1
+  },
+  {
+    "author": "Hua Xu",
+    "pagerank": 0.0002599097688948759,
+    "cluster_id": 2
+  },
+  {
+    "author": "Kai-Wei Chang",
+    "pagerank": 0.00024179399232729647,
+    "cluster_id": 1
+  },
+  {
+    "author": "Hongfang Liu",
+    "pagerank": 0.00023323279010529854,
+    "cluster_id": 2
+  },
+  {
+    "author": "Jianfeng Gao",
+    "pagerank": 0.00023299731467269562,
+    "cluster_id": 1
+  },
+  {
+    "author": "Rui Zhang",
+    "pagerank": 0.00022961945958604964,
+    "cluster_id": 10
+  },
+  {
+    "author": "Graham Neubig",
+    "pagerank": 0.00022455436030840254,
+    "cluster_id": 3
+  },
+  {
+    "author": "Xiang Li",
+    "pagerank": 0.00022014563673675215,
+    "cluster_id": 1
+  },
+  {
+    "author": "Caiming Xiong",
+    "pagerank": 0.00021043275483613878,
+    "cluster_id": 1
+  }
+]

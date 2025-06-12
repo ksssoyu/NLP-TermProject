@@ -1,0 +1,2145 @@
+{
+  "window": "2022_2024",
+  "top5_authors_per_cluster": {
+    "0": [
+      {
+        "author": "Tianming Liu",
+        "total_internal_collab_weight": 348.0
+      },
+      {
+        "author": "Xiang Li",
+        "total_internal_collab_weight": 276.0
+      },
+      {
+        "author": "Lichao Sun",
+        "total_internal_collab_weight": 273.0
+      },
+      {
+        "author": "Zheng Liu",
+        "total_internal_collab_weight": 273.0
+      },
+      {
+        "author": "Zihao Wu",
+        "total_internal_collab_weight": 254.0
+      },
+      {
+        "author": "Haixing Dai",
+        "total_internal_collab_weight": 223.0
+      },
+      {
+        "author": "Dinggang Shen",
+        "total_internal_collab_weight": 206.0
+      },
+      {
+        "author": "Philip S. Yu",
+        "total_internal_collab_weight": 201.0
+      },
+      {
+        "author": "Lin Zhao",
+        "total_internal_collab_weight": 198.0
+      },
+      {
+        "author": "Bao Ge",
+        "total_internal_collab_weight": 170.0
+      },
+      {
+        "author": "Caiming Xiong",
+        "total_internal_collab_weight": 165.0
+      },
+      {
+        "author": "Jun Liu",
+        "total_internal_collab_weight": 156.0
+      },
+      {
+        "author": "Dajiang Zhu",
+        "total_internal_collab_weight": 156.0
+      },
+      {
+        "author": "Xi Jiang",
+        "total_internal_collab_weight": 155.0
+      },
+      {
+        "author": "Tianyang Zhong",
+        "total_internal_collab_weight": 154.0
+      },
+      {
+        "author": "Shaochen Xu",
+        "total_internal_collab_weight": 151.0
+      },
+      {
+        "author": "Chao-Yang Cao",
+        "total_internal_collab_weight": 150.0
+      },
+      {
+        "author": "Jiaqi Wang",
+        "total_internal_collab_weight": 150.0
+      },
+      {
+        "author": "Lu Zhang",
+        "total_internal_collab_weight": 150.0
+      },
+      {
+        "author": "Peng Shu",
+        "total_internal_collab_weight": 149.0
+      },
+      {
+        "author": "Yiwei Li",
+        "total_internal_collab_weight": 149.0
+      },
+      {
+        "author": "Yixin Liu",
+        "total_internal_collab_weight": 142.0
+      },
+      {
+        "author": "Shu Zhang",
+        "total_internal_collab_weight": 142.0
+      },
+      {
+        "author": "Yutong Zhang",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "Heng Ji",
+        "total_internal_collab_weight": 128.0
+      },
+      {
+        "author": "Xin Zhang",
+        "total_internal_collab_weight": 128.0
+      },
+      {
+        "author": "J. Holmes",
+        "total_internal_collab_weight": 123.0
+      },
+      {
+        "author": "Lifang He",
+        "total_internal_collab_weight": 119.0
+      },
+      {
+        "author": "Jianfeng Gao",
+        "total_internal_collab_weight": 115.0
+      },
+      {
+        "author": "Yi Pan",
+        "total_internal_collab_weight": 108.0
+      },
+      {
+        "author": "Jindong Wang",
+        "total_internal_collab_weight": 107.0
+      },
+      {
+        "author": "Xiao-Xing Yu",
+        "total_internal_collab_weight": 104.0
+      },
+      {
+        "author": "Huaqin Zhao",
+        "total_internal_collab_weight": 103.0
+      },
+      {
+        "author": "Gang Li",
+        "total_internal_collab_weight": 98.0
+      },
+      {
+        "author": "Kai-Wei Chang",
+        "total_internal_collab_weight": 97.0
+      },
+      {
+        "author": "Xiaoming Zhai",
+        "total_internal_collab_weight": 96.0
+      },
+      {
+        "author": "Huawen Hu",
+        "total_internal_collab_weight": 96.0
+      },
+      {
+        "author": "Hui Wang",
+        "total_internal_collab_weight": 94.0
+      },
+      {
+        "author": "Huan Zhao",
+        "total_internal_collab_weight": 93.0
+      },
+      {
+        "author": "Lian-Cheng Zhang",
+        "total_internal_collab_weight": 93.0
+      },
+      {
+        "author": "W. Liu",
+        "total_internal_collab_weight": 93.0
+      },
+      {
+        "author": "Junhao Chen",
+        "total_internal_collab_weight": 92.0
+      },
+      {
+        "author": "Hanqi Jiang",
+        "total_internal_collab_weight": 92.0
+      },
+      {
+        "author": "Yifan Zhou",
+        "total_internal_collab_weight": 92.0
+      },
+      {
+        "author": "Yue Huang",
+        "total_internal_collab_weight": 91.0
+      },
+      {
+        "author": "Jian Pei",
+        "total_internal_collab_weight": 91.0
+      },
+      {
+        "author": "Xiao Wang",
+        "total_internal_collab_weight": 91.0
+      },
+      {
+        "author": "Wei Liu",
+        "total_internal_collab_weight": 91.0
+      },
+      {
+        "author": "Quanzheng Li",
+        "total_internal_collab_weight": 90.0
+      },
+      {
+        "author": "Jing Zhang",
+        "total_internal_collab_weight": 89.0
+      },
+      {
+        "author": "Furong Huang",
+        "total_internal_collab_weight": 88.0
+      },
+      {
+        "author": "Jiliang Tang",
+        "total_internal_collab_weight": 87.0
+      },
+      {
+        "author": "Jiawei Han",
+        "total_internal_collab_weight": 86.0
+      },
+      {
+        "author": "Neil Zhenqiang Gong",
+        "total_internal_collab_weight": 84.0
+      },
+      {
+        "author": "Hua Zhou",
+        "total_internal_collab_weight": 83.0
+      },
+      {
+        "author": "Huaxiu Yao",
+        "total_internal_collab_weight": 82.0
+      },
+      {
+        "author": "Zhuang Yan",
+        "total_internal_collab_weight": 81.0
+      },
+      {
+        "author": "Yu Bao",
+        "total_internal_collab_weight": 81.0
+      },
+      {
+        "author": "Qihui Zhang",
+        "total_internal_collab_weight": 78.0
+      },
+      {
+        "author": "Wei Zhang",
+        "total_internal_collab_weight": 78.0
+      }
+    ],
+    "33": [
+      {
+        "author": "J. V. D. van der Hooft",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "A. K. Pakkir Shah",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Axel Walter",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Filip Ottosson",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Francesco Russo",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Marcelo Navarro-Díaz",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "J. Boldt",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Jarmo-Charles J. Kalinski",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "E. Kontou",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "James Elofson",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Alexandros Polyzois",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Carolina González-Marín",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Shane P Farrell",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Marie Rønne Aggerbeck",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Thapanee Pruksatrakul",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Nathan Chan",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Yunshu Wang",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Magdalena Pöchhacker",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Corinna Brungs",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Beatriz Cámara",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "A. Caraballo-Rodríguez",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "A. Cumsille",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Fernanda de Oliveira",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Kai Dührkop",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Yasin El Abiead",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Christian Geibel",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Lana G Graves",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Martin Hansen",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "S. Heuckeroth",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Simon Knoblauch",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Anastasiia Kostenko",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Mirte C. M. Kuijpers",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Kevin Mildau",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Stilianos Papadopoulos Lambidis",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Paulo Wender Portal Gomes",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Tilman Schramm",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Karoline Steuer-Lodd",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "P. Stincone",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Sibgha Tayyab",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Giovanni Andrea Vitale",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "B. Wagner",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Shipei Xing",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Marquis T Yazzie",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Simone Zuffa",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Martinus de Kruijff",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "C. Beemelmanns",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Hannes Link",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Christoph Mayer",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Tito Damiani",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Tomáš Pluskal",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Pieter C Dorrestein",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Jan Stanstrup",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Robin Schmid",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Mingxun Wang",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Allegra T Aron",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "M. Ernst",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Daniel Petras",
+        "total_internal_collab_weight": 56.0
+      }
+    ],
+    "34": [
+      {
+        "author": "Rong Zhang",
+        "total_internal_collab_weight": 42.0
+      },
+      {
+        "author": "I. Gurung",
+        "total_internal_collab_weight": 34.0
+      },
+      {
+        "author": "M. Maskey",
+        "total_internal_collab_weight": 34.0
+      },
+      {
+        "author": "Sergi Blanco-Cuaresma",
+        "total_internal_collab_weight": 34.0
+      },
+      {
+        "author": "A. Accomazzi",
+        "total_internal_collab_weight": 34.0
+      },
+      {
+        "author": "P. Staar",
+        "total_internal_collab_weight": 34.0
+      },
+      {
+        "author": "Bishwaranjan Bhattacharjee",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Aashka Trivedi",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Masayasu Muraoka",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Muthukumaran Ramasubramanian",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Takuma Udagawa",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Bharath Dandala",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Rahul Ramachandran",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Kayleen Bugbee",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Mike Little",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Elizabeth Fancher",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Lauren Sanders",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Sylvain Costes",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Kelly Lockhart",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Thomas Allen",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Felix Grazes",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Megan Ansdel",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Yousef El-Kurdi",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Davis Wertheimer",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Birgit M. Pfitzmann",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Cesar Berrospi Ramis",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Michele Dolfi",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Rafael Teixeira de Lima",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Panos Vegenas",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "S. K. Mukkavilli",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "S. Vahidinia",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Ryan McGranaghan",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "A. Mehrabian",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Tsendgar Lee",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Yao Zhu",
+        "total_internal_collab_weight": 13.0
+      },
+      {
+        "author": "Shaokai Ye",
+        "total_internal_collab_weight": 11.0
+      },
+      {
+        "author": "Hui Xue",
+        "total_internal_collab_weight": 9.0
+      },
+      {
+        "author": "Xiaofeng Mao",
+        "total_internal_collab_weight": 8.0
+      },
+      {
+        "author": "Yuefeng Chen",
+        "total_internal_collab_weight": 8.0
+      },
+      {
+        "author": "Ranjie Duan",
+        "total_internal_collab_weight": 8.0
+      },
+      {
+        "author": "Gege Qi",
+        "total_internal_collab_weight": 8.0
+      },
+      {
+        "author": "Xiaodan Li",
+        "total_internal_collab_weight": 8.0
+      },
+      {
+        "author": "Chuanpeng Yang",
+        "total_internal_collab_weight": 5.0
+      },
+      {
+        "author": "Wang Lu",
+        "total_internal_collab_weight": 5.0
+      },
+      {
+        "author": "Chenlong Gao",
+        "total_internal_collab_weight": 5.0
+      },
+      {
+        "author": "Bingjie Yan",
+        "total_internal_collab_weight": 5.0
+      },
+      {
+        "author": "Yiqiang Chen",
+        "total_internal_collab_weight": 5.0
+      },
+      {
+        "author": "Jessy Lauer",
+        "total_internal_collab_weight": 3.0
+      },
+      {
+        "author": "Alexander Mathis",
+        "total_internal_collab_weight": 3.0
+      },
+      {
+        "author": "Mackenzie W. Mathis",
+        "total_internal_collab_weight": 3.0
+      },
+      {
+        "author": "F. Fusco",
+        "total_internal_collab_weight": 1.0
+      }
+    ],
+    "66": [
+      {
+        "author": "Heladia Salgado",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "S. Gama-Castro",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "Laura Gómez-Romero",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "Pablo Peña-Loredo",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "J. García-Sotelo",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "Carlos-Francisco Méndez-Cruz",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "César Bonavides-Martínez",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "J. Galagan",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "J. Collado-Vides",
+        "total_internal_collab_weight": 29.0
+      },
+      {
+        "author": "V. Tierrafría",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Claire Rioualen",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "P. Lara",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "P. Lally",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Andrés G. López-Almazo",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Gabriel Alarcón-Carranza",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Felipe Betancourt-Figueroa",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Shirley Alquicira-Hernández",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "J. E. Polanco-Morelos",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Estefani Gaytan-Nuñez",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Luis J Muñiz",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "G. Moreno-Hagelsieb",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "J. Wade",
+        "total_internal_collab_weight": 21.0
+      }
+    ],
+    "8": [
+      {
+        "author": "Yacine Jernite",
+        "total_internal_collab_weight": 460.0
+      },
+      {
+        "author": "Samuel Cahyawijaya",
+        "total_internal_collab_weight": 457.0
+      },
+      {
+        "author": "Jenny Chim",
+        "total_internal_collab_weight": 448.0
+      },
+      {
+        "author": "Thomas Wolf",
+        "total_internal_collab_weight": 447.0
+      },
+      {
+        "author": "Albert Villanova del Moral",
+        "total_internal_collab_weight": 446.0
+      },
+      {
+        "author": "Stella Biderman",
+        "total_internal_collab_weight": 445.0
+      },
+      {
+        "author": "M. Samwald",
+        "total_internal_collab_weight": 441.0
+      },
+      {
+        "author": "Simon Ott",
+        "total_internal_collab_weight": 440.0
+      },
+      {
+        "author": "Alexander M. Rush",
+        "total_internal_collab_weight": 438.0
+      },
+      {
+        "author": "Victor Sanh",
+        "total_internal_collab_weight": 436.0
+      },
+      {
+        "author": "Minh Chien Vu",
+        "total_internal_collab_weight": 435.0
+      },
+      {
+        "author": "Marianna Nezhurina",
+        "total_internal_collab_weight": 435.0
+      },
+      {
+        "author": "Bo Wang",
+        "total_internal_collab_weight": 434.0
+      },
+      {
+        "author": "John Giorgi",
+        "total_internal_collab_weight": 434.0
+      },
+      {
+        "author": "Leon Weber",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Shamik Bose",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Debajyoti Datta",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Jason Alan Fries",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Stephen H. Bach",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Trishala Neeraj",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "A. Callahan",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Benjamin Beilharz",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Daniel Le'on Perin'an",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Fabio Barth",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Gabriel Altay",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Jonas Golde",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "J. Posada",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Karthi Sivaraman",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Marc Pàmies",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Mario Sanger",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Michael Cullan",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "M. Freidank",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Myungsun Kang",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Natasha Seelam",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "N. Dahlberg",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "N. Broad",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Patrick Haller",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Robert Martin",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Ruisi Su",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Samuele Garda",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Shlok S Deshmukh",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Shubhanshu Mishra",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Sid Kiblawi",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Théo Gigant",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Wojciech Kusa",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Yanis Labrak",
+        "total_internal_collab_weight": 432.0
+      },
+      {
+        "author": "Niklas Muennighoff",
+        "total_internal_collab_weight": 424.0
+      },
+      {
+        "author": "Teven Le Scao",
+        "total_internal_collab_weight": 421.0
+      },
+      {
+        "author": "Patrick von Platen",
+        "total_internal_collab_weight": 421.0
+      },
+      {
+        "author": "Thomas Wang",
+        "total_internal_collab_weight": 419.0
+      },
+      {
+        "author": "Canwen Xu",
+        "total_internal_collab_weight": 418.0
+      },
+      {
+        "author": "Quentin Lhoest",
+        "total_internal_collab_weight": 418.0
+      },
+      {
+        "author": "Manan Dey",
+        "total_internal_collab_weight": 417.0
+      },
+      {
+        "author": "Genta Indra Winata",
+        "total_internal_collab_weight": 417.0
+      },
+      {
+        "author": "Angelina McMillan-Major",
+        "total_internal_collab_weight": 416.0
+      },
+      {
+        "author": "Benoît Sagot",
+        "total_internal_collab_weight": 415.0
+      },
+      {
+        "author": "Sebastian Gehrmann",
+        "total_internal_collab_weight": 415.0
+      },
+      {
+        "author": "Stas Bekman",
+        "total_internal_collab_weight": 414.0
+      },
+      {
+        "author": "Chenghao Mou",
+        "total_internal_collab_weight": 412.0
+      },
+      {
+        "author": "L. V. Werra",
+        "total_internal_collab_weight": 412.0
+      }
+    ],
+    "41": [
+      {
+        "author": "L. Chambless",
+        "total_internal_collab_weight": 39.0
+      },
+      {
+        "author": "Douglas B. Johnson",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Rachel S Goodman",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "J. Patrinely",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Cosby A Stone",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Eli Zimmerman",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "R. Donald",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Sam S Chang",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Sean T Berkowitz",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Avni P Finn",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Eiman Jahangir",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Elizabeth A Scoville",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Tyler Reese",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Debra E. Friedman",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Julie A. Bastarache",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Yuri F van der Heijden",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Jordan Wright",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Nicholas Carter",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Matthew R Alexander",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Jennifer H Choe",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Cody A Chastain",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "J. Zic",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Sara N Horst",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Isik Turker",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "R. Agarwal",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "E. Osmundson",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "K. Idrees",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "C. Kiernan",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Chandrasekhar Padmanabhan",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "C. Bailey",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Cameron Schlegel",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Mike Gibson",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Travis J. Osterman",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Lee E. Wheless",
+        "total_internal_collab_weight": 33.0
+      },
+      {
+        "author": "Alexander V Ortiz",
+        "total_internal_collab_weight": 6.0
+      },
+      {
+        "author": "M. Feldman",
+        "total_internal_collab_weight": 6.0
+      },
+      {
+        "author": "A. Yengo-Kahn",
+        "total_internal_collab_weight": 6.0
+      },
+      {
+        "author": "Steven G. Roth",
+        "total_internal_collab_weight": 6.0
+      },
+      {
+        "author": "Robert J. Dambrino",
+        "total_internal_collab_weight": 6.0
+      },
+      {
+        "author": "R. Chitale",
+        "total_internal_collab_weight": 6.0
+      }
+    ],
+    "14": [
+      {
+        "author": "Nan Du",
+        "total_internal_collab_weight": 247.0
+      },
+      {
+        "author": "Andrew M. Dai",
+        "total_internal_collab_weight": 233.0
+      },
+      {
+        "author": "Pengcheng Yin",
+        "total_internal_collab_weight": 224.0
+      },
+      {
+        "author": "Denny Zhou",
+        "total_internal_collab_weight": 222.0
+      },
+      {
+        "author": "Orhan Firat",
+        "total_internal_collab_weight": 220.0
+      },
+      {
+        "author": "Yi Tay",
+        "total_internal_collab_weight": 218.0
+      },
+      {
+        "author": "Kevin Robinson",
+        "total_internal_collab_weight": 206.0
+      },
+      {
+        "author": "Marie Pellat",
+        "total_internal_collab_weight": 206.0
+      },
+      {
+        "author": "Xuezhi Wang",
+        "total_internal_collab_weight": 206.0
+      },
+      {
+        "author": "K. Meier-Hellstern",
+        "total_internal_collab_weight": 206.0
+      },
+      {
+        "author": "Guy Gur-Ari",
+        "total_internal_collab_weight": 202.0
+      },
+      {
+        "author": "Vedant Misra",
+        "total_internal_collab_weight": 202.0
+      },
+      {
+        "author": "Aakanksha Chowdhery",
+        "total_internal_collab_weight": 196.0
+      },
+      {
+        "author": "Xavier García",
+        "total_internal_collab_weight": 195.0
+      },
+      {
+        "author": "Emily Reif",
+        "total_internal_collab_weight": 194.0
+      },
+      {
+        "author": "Katherine Lee",
+        "total_internal_collab_weight": 194.0
+      },
+      {
+        "author": "Jacob Devlin",
+        "total_internal_collab_weight": 191.0
+      },
+      {
+        "author": "Slav Petrov",
+        "total_internal_collab_weight": 191.0
+      },
+      {
+        "author": "Joshua Maynez",
+        "total_internal_collab_weight": 190.0
+      },
+      {
+        "author": "Gaurav Mishra",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "P. Barham",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Reiner Pope",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "James Bradbury",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Jacob Austin",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "M. Isard",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Sunipa Dev",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Hyeontaek Lim",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Mark Omernick",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Erica Moreira",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Oleksandr Polozov",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Brennan Saeta",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Michele Catasta",
+        "total_internal_collab_weight": 189.0
+      },
+      {
+        "author": "Yanping Huang",
+        "total_internal_collab_weight": 176.0
+      },
+      {
+        "author": "Yonghui Wu",
+        "total_internal_collab_weight": 175.0
+      },
+      {
+        "author": "Z. Chen",
+        "total_internal_collab_weight": 161.0
+      },
+      {
+        "author": "Yuhuai Wu",
+        "total_internal_collab_weight": 145.0
+      },
+      {
+        "author": "M. Krikun",
+        "total_internal_collab_weight": 141.0
+      },
+      {
+        "author": "David R. So",
+        "total_internal_collab_weight": 141.0
+      },
+      {
+        "author": "Tao Wang",
+        "total_internal_collab_weight": 141.0
+      },
+      {
+        "author": "Siamak Shakeri",
+        "total_internal_collab_weight": 140.0
+      },
+      {
+        "author": "Chang Lan",
+        "total_internal_collab_weight": 140.0
+      },
+      {
+        "author": "Wei Li",
+        "total_internal_collab_weight": 140.0
+      },
+      {
+        "author": "Rohan Anil",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "Ethan Dyer",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "Benjamin Lee",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "Aurko Roy",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "Ambrose Slone",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "Dmitry Lepikhin",
+        "total_internal_collab_weight": 138.0
+      },
+      {
+        "author": "Yuanzhong Xu",
+        "total_internal_collab_weight": 138.0
+      },
+      {
+        "author": "Siddhartha Brahma",
+        "total_internal_collab_weight": 137.0
+      },
+      {
+        "author": "Siyuan Qiao",
+        "total_internal_collab_weight": 137.0
+      },
+      {
+        "author": "Le Hou",
+        "total_internal_collab_weight": 136.0
+      },
+      {
+        "author": "J. Clark",
+        "total_internal_collab_weight": 135.0
+      },
+      {
+        "author": "Melvin Johnson",
+        "total_internal_collab_weight": 134.0
+      },
+      {
+        "author": "Sebastian Ruder",
+        "total_internal_collab_weight": 132.0
+      },
+      {
+        "author": "Fan Feng",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "Jiahui Yu",
+        "total_internal_collab_weight": 130.0
+      },
+      {
+        "author": "Wei Zhou",
+        "total_internal_collab_weight": 130.0
+      },
+      {
+        "author": "Jan A. Botha",
+        "total_internal_collab_weight": 129.0
+      },
+      {
+        "author": "Mostafa Dehghani",
+        "total_internal_collab_weight": 128.0
+      }
+    ],
+    "21": [
+      {
+        "author": "Peng Xu",
+        "total_internal_collab_weight": 106.0
+      },
+      {
+        "author": "Ted Xiao",
+        "total_internal_collab_weight": 91.0
+      },
+      {
+        "author": "Karol Hausman",
+        "total_internal_collab_weight": 85.0
+      },
+      {
+        "author": "Brian Ichter",
+        "total_internal_collab_weight": 85.0
+      },
+      {
+        "author": "F. Xia",
+        "total_internal_collab_weight": 85.0
+      },
+      {
+        "author": "S. Levine",
+        "total_internal_collab_weight": 78.0
+      },
+      {
+        "author": "Chelsea Finn",
+        "total_internal_collab_weight": 72.0
+      },
+      {
+        "author": "Igor Mordatch",
+        "total_internal_collab_weight": 71.0
+      },
+      {
+        "author": "Fei Xia",
+        "total_internal_collab_weight": 68.0
+      },
+      {
+        "author": "Noah Brown",
+        "total_internal_collab_weight": 66.0
+      },
+      {
+        "author": "Yevgen Chebotar",
+        "total_internal_collab_weight": 66.0
+      },
+      {
+        "author": "Tomas Jackson",
+        "total_internal_collab_weight": 66.0
+      },
+      {
+        "author": "Anthony Brohan",
+        "total_internal_collab_weight": 62.0
+      },
+      {
+        "author": "Jodilyn Peralta",
+        "total_internal_collab_weight": 62.0
+      },
+      {
+        "author": "Jaspiar Singh",
+        "total_internal_collab_weight": 62.0
+      },
+      {
+        "author": "Austin Stone",
+        "total_internal_collab_weight": 62.0
+      },
+      {
+        "author": "Clayton Tan",
+        "total_internal_collab_weight": 62.0
+      },
+      {
+        "author": "Tianhe Yu",
+        "total_internal_collab_weight": 62.0
+      },
+      {
+        "author": "Karl Pertsch",
+        "total_internal_collab_weight": 59.0
+      },
+      {
+        "author": "Yao Lu",
+        "total_internal_collab_weight": 54.0
+      },
+      {
+        "author": "Q. Vuong",
+        "total_internal_collab_weight": 54.0
+      },
+      {
+        "author": "Ofir Nachum",
+        "total_internal_collab_weight": 52.0
+      },
+      {
+        "author": "M. Ryoo",
+        "total_internal_collab_weight": 52.0
+      },
+      {
+        "author": "A. Irpan",
+        "total_internal_collab_weight": 51.0
+      },
+      {
+        "author": "Dmitry Kalashnikov",
+        "total_internal_collab_weight": 51.0
+      },
+      {
+        "author": "Vincent Vanhoucke",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Justice Carbajal",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Joseph Dabis",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "K. Gopalakrishnan",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Alexander Herzog",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Jasmine Hsu",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Julian Ibarz",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Sally Jesmonth",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Nikhil J. Joshi",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Ryan C. Julian",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Yuheng Kuang",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Isabel Leal",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Kuang-Huei Lee",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "U. Malla",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "D. Manjunath",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Carolina Parada",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Emily Perez",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Jornell Quiambao",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Kanishka Rao",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Grecia Salazar",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Pannag R. Sanketi",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Kevin Sayed",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "S. Sontakke",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Huong Tran",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Steve Vega",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Sichun Xu",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Brianna Zitkovich",
+        "total_internal_collab_weight": 50.0
+      },
+      {
+        "author": "Anthony Francis",
+        "total_internal_collab_weight": 49.0
+      },
+      {
+        "author": "Claudia Pérez-D'Arpino",
+        "total_internal_collab_weight": 49.0
+      },
+      {
+        "author": "Chengshu Li",
+        "total_internal_collab_weight": 49.0
+      },
+      {
+        "author": "Alexandre Alahi",
+        "total_internal_collab_weight": 49.0
+      },
+      {
+        "author": "R. Alami",
+        "total_internal_collab_weight": 49.0
+      },
+      {
+        "author": "Aniket Bera",
+        "total_internal_collab_weight": 49.0
+      },
+      {
+        "author": "Abhijat Biswas",
+        "total_internal_collab_weight": 49.0
+      },
+      {
+        "author": "Joydeep Biswas",
+        "total_internal_collab_weight": 49.0
+      }
+    ],
+    "29": [
+      {
+        "author": "Ariel Goldstein",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "Samuel A. Nastase",
+        "total_internal_collab_weight": 139.0
+      },
+      {
+        "author": "A. Hassidim",
+        "total_internal_collab_weight": 133.0
+      },
+      {
+        "author": "Zaid Zada",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "Bobbi Aubrey",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "H. Gazula",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "W. Doyle",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "S. Devore",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "Patricia Dugan",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "A. Flinker",
+        "total_internal_collab_weight": 131.0
+      },
+      {
+        "author": "Amir Feder",
+        "total_internal_collab_weight": 119.0
+      },
+      {
+        "author": "Mariano Schain",
+        "total_internal_collab_weight": 115.0
+      },
+      {
+        "author": "O. Devinsky",
+        "total_internal_collab_weight": 115.0
+      },
+      {
+        "author": "U. Hasson",
+        "total_internal_collab_weight": 83.0
+      },
+      {
+        "author": "Yossi Matias",
+        "total_internal_collab_weight": 81.0
+      },
+      {
+        "author": "Eliav Buchnik",
+        "total_internal_collab_weight": 77.0
+      },
+      {
+        "author": "D. Friedman",
+        "total_internal_collab_weight": 75.0
+      },
+      {
+        "author": "Gina Choe",
+        "total_internal_collab_weight": 71.0
+      },
+      {
+        "author": "Aditi Rao",
+        "total_internal_collab_weight": 71.0
+      },
+      {
+        "author": "Catherine Kim",
+        "total_internal_collab_weight": 71.0
+      },
+      {
+        "author": "Roi Reichart",
+        "total_internal_collab_weight": 68.0
+      },
+      {
+        "author": "K. Norman",
+        "total_internal_collab_weight": 64.0
+      },
+      {
+        "author": "A. Price",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Dotan Emanuel",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Alon Cohen",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "A. Jansen",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Colton Casto",
+        "total_internal_collab_weight": 56.0
+      },
+      {
+        "author": "Michael Brenner",
+        "total_internal_collab_weight": 52.0
+      },
+      {
+        "author": "Omer Levy",
+        "total_internal_collab_weight": 51.0
+      },
+      {
+        "author": "Haocheng Wang",
+        "total_internal_collab_weight": 51.0
+      },
+      {
+        "author": "Daniel Friedman",
+        "total_internal_collab_weight": 51.0
+      },
+      {
+        "author": "Uri Hasson",
+        "total_internal_collab_weight": 51.0
+      },
+      {
+        "author": "Michael P. Brenner",
+        "total_internal_collab_weight": 45.0
+      },
+      {
+        "author": "Eric Ham",
+        "total_internal_collab_weight": 39.0
+      },
+      {
+        "author": "Zhuoqiao Hong",
+        "total_internal_collab_weight": 36.0
+      },
+      {
+        "author": "Lora Fanda",
+        "total_internal_collab_weight": 31.0
+      },
+      {
+        "author": "Lucia Melloni",
+        "total_internal_collab_weight": 31.0
+      },
+      {
+        "author": "Liat Hasenfratz",
+        "total_internal_collab_weight": 31.0
+      },
+      {
+        "author": "Christopher Potts",
+        "total_internal_collab_weight": 28.0
+      },
+      {
+        "author": "O. Pietquin",
+        "total_internal_collab_weight": 28.0
+      },
+      {
+        "author": "Leonard Niekerken",
+        "total_internal_collab_weight": 27.0
+      },
+      {
+        "author": "Lior Shani",
+        "total_internal_collab_weight": 26.0
+      },
+      {
+        "author": "Avigail Grinstein-Dabush",
+        "total_internal_collab_weight": 21.0
+      },
+      {
+        "author": "Karel D’Oosterlinck",
+        "total_internal_collab_weight": 20.0
+      },
+      {
+        "author": "Gal Chechik",
+        "total_internal_collab_weight": 19.0
+      },
+      {
+        "author": "Avigail Grinstein-Dabus",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Roee Aharoni",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Paul Roit",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Johan Ferret",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Geoffrey Cideron",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Robert Dadashi",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "M. Geist",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Sertan Girgin",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "L'eonard Hussenot",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Orgad Keller",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Nikola Momchev",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Sabela Ramos",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "P. Stańczyk",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Nino Vieillard",
+        "total_internal_collab_weight": 18.0
+      },
+      {
+        "author": "Olivier Bachem",
+        "total_internal_collab_weight": 18.0
+      }
+    ],
+    "30": [
+      {
+        "author": "R. Yaeger",
+        "total_internal_collab_weight": 111.0
+      },
+      {
+        "author": "Justin Jee",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Christopher J. Fong",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "K. Pichotta",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "T. Tran",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "A. Luthra",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Michele Waters",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Chenlian Fu",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "M. Altoe",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Si-yang Liu",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "S. Maron",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Mehnaj S. Ahmed",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Susie Kim",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Mono Pirun",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "W. Chatila",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Ino de Bruijn",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Arfath Pasha",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Ritika Kundra",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Benjamin E. Gross",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "B. Mastrogiacomo",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Tyler J. Aprati",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "David Liu",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Jianjiong Gao",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "M. Capelletti",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Kelly Pekala",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Lisa Loudon",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Maria A Perry",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "C. Bandlamudi",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "M. Donoghue",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "B. Satravada",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Axel Martin",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Ronglai Shen",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Yuan Chen",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "A. Brannon",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Jason Chang",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "L. Braunstein",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Anyi Li",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "A. Safonov",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Aaron J Stonestrom",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Pablo Sánchez-Vela",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Clare Wilhelm",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "M. Robson",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Howard I Scher",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Marc Ladanyi",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "J. Reis-Filho",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "D. Solit",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "David R Jones",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Daniel Gomez",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "H. Yu",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "D. Chakravarty",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "W. Abida",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Wungki Park",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Eileen M. O’Reilly",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "J. Garcia-Aguilar",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Nicholas B Socci",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "F. Sánchez-Vega",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Jian Carrot-Zhang",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Peter D. Stetson",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Ross L. Levine",
+        "total_internal_collab_weight": 95.0
+      },
+      {
+        "author": "Charles M. Rudin",
+        "total_internal_collab_weight": 95.0
+      }
+    ]
+  }
+}

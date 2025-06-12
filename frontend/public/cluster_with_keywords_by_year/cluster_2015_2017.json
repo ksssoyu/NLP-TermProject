@@ -1,0 +1,408 @@
+{
+  "window": "2015_2017",
+  "num_clusters": 10,
+  "cluster_details": {
+    "1": [
+      {
+        "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+        "title": "Attention is All you Need"
+      },
+      {
+        "id": "bc8fa64625d9189f5801837e7b133e7fe3c581f7",
+        "title": "Learned in Translation: Contextualized Word Vectors"
+      },
+      {
+        "id": "5ded2b8c64491b4a67f6d39ce473d4b9347a672e",
+        "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference"
+      },
+      {
+        "id": "2cd8e8f510c89c7c18268e8ad51c061e459ad321",
+        "title": "A Decomposable Attention Model for Natural Language Inference"
+      },
+      {
+        "id": "f04df4e20a18358ea2f689b4c129781628ef7fc1",
+        "title": "A large annotated corpus for learning natural language inference"
+      },
+      {
+        "id": "13d9323a8716131911bfda048a40e2cde1a76a46",
+        "title": "Structured Attention Networks"
+      },
+      {
+        "id": "13fe71da009484f240c46f14d9330e932f8de210",
+        "title": "Long Short-Term Memory-Networks for Machine Reading"
+      },
+      {
+        "id": "4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e",
+        "title": "End-To-End Memory Networks"
+      },
+      {
+        "id": "5ed791f810da580c78df6a052c6b9f2e258f6b0a",
+        "title": "The LAMBADA dataset: Word prediction requiring a broad discourse context"
+      },
+      {
+        "id": "1778e32c18bd611169e64c1805a51abff341ca53",
+        "title": "Natural Language Inference over Interaction Space"
+      },
+      {
+        "id": "786f95cada23d4639aa1a8b922cdb9fb9a9c03fa",
+        "title": "Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling"
+      },
+      {
+        "id": "83e7654d545fbbaaf2328df365a781fb67b841b4",
+        "title": "Enhanced LSTM for Natural Language Inference"
+      },
+      {
+        "id": "705dcc8eadba137834e4b0359e2d696d4b209f5b",
+        "title": "Neural Tree Indexers for Text Understanding"
+      }
+    ],
+    "2": [
+      {
+        "id": "3c78c6df5eb1695b6a399e346dde880af27d1016",
+        "title": "Simple and Effective Multi-Paragraph Reading Comprehension"
+      },
+      {
+        "id": "e0222a1ae6874f7fff128c3da8769ab95963da04",
+        "title": "Reinforced Mnemonic Reader for Machine Reading Comprehension"
+      },
+      {
+        "id": "f010affab57b5fcf1cd6be23df79d8ec98c7289c",
+        "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension"
+      },
+      {
+        "id": "3a7b63b50c64f4ec3358477790e84cbd6be2a0b4",
+        "title": "Bidirectional Attention Flow for Machine Comprehension"
+      },
+      {
+        "id": "05dd7254b632376973f3a1b4d39485da17814df5",
+        "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text"
+      },
+      {
+        "id": "636a79420d838eabe4af7fb25d6437de45ab64e8",
+        "title": "RACE: Large-scale ReAding Comprehension Dataset From Examinations"
+      },
+      {
+        "id": "8490431f3a76fbd165d108eba938ead212a2a639",
+        "title": "Stochastic Answer Networks for Machine Reading Comprehension"
+      },
+      {
+        "id": "b798cfd967e1a9ca5e7bc995d33a907bf65d1c7f",
+        "title": "Gated Self-Matching Networks for Reading Comprehension and Question Answering"
+      },
+      {
+        "id": "452059171226626718eb677358836328f884298e",
+        "title": "Ask Me Anything: Dynamic Memory Networks for Natural Language Processing"
+      },
+      {
+        "id": "97ad70a9fa3f99adf18030e5e38ebe3d90daa2db",
+        "title": "VQA: Visual Question Answering"
+      }
+    ],
+    "6": [
+      {
+        "id": "a23fa96e7217ba0e9405d9e1fe3cdedd57b6e096",
+        "title": "SemEval-2017 Task 1: Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation"
+      },
+      {
+        "id": "58c6f890a1ae372958b7decf56132fe258152722",
+        "title": "Regularizing and Optimizing LSTM Language Models"
+      },
+      {
+        "id": "2397ce306e5d7f3d0492276e357fb1833536b5d8",
+        "title": "On the State of the Art of Evaluation in Neural Language Models"
+      },
+      {
+        "id": "a4dd3beea286a20c4e4f66436875932d597190bc",
+        "title": "Deep Semantic Role Labeling: What Works and What’s Next"
+      },
+      {
+        "id": "0c1f9ca23f4f09ecfc44bcc8ca1c2736624f4652",
+        "title": "A Theoretically Grounded Application of Dropout in Recurrent Neural Networks"
+      },
+      {
+        "id": "c34e41312b47f60986458759d5cc546c2b53f748",
+        "title": "End-to-end learning of semantic role labeling using recurrent neural networks"
+      },
+      {
+        "id": "ce2d5b5856bb6c9ab5c2390eb8b180c75a162055",
+        "title": "Recent Trends in Deep Learning Based Natural Language Processing"
+      }
+    ],
+    "3": [
+      {
+        "id": "ee7b883e35d754ae4f71c21bb71f9f03e4ffbb2c",
+        "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data"
+      },
+      {
+        "id": "a97dc52807d80454e78d255f9fbd7b0fab56bd03",
+        "title": "Discourse-Based Objectives for Fast Unsupervised Sentence Representation Learning"
+      },
+      {
+        "id": "26e743d5bd465f49b9538deaf116c15e61b7951f",
+        "title": "Learning Distributed Representations of Sentences from Unlabelled Data"
+      },
+      {
+        "id": "4aa9f5150b46320f534de4747a2dd0cd7f3fe292",
+        "title": "Semi-supervised Sequence Learning"
+      },
+      {
+        "id": "6e795c6e9916174ae12349f5dc3f516570c17ce8",
+        "title": "Skip-Thought Vectors"
+      },
+      {
+        "id": "0e6824e137847be0599bb0032e37042ed2ef5045",
+        "title": "Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books"
+      },
+      {
+        "id": "204a4a70428f3938d2c538a4d74c7ae0416306d8",
+        "title": "A Structured Self-attentive Sentence Embedding"
+      },
+      {
+        "id": "97fb4e3d45bb098e27e0071448b6152217bd35a5",
+        "title": "Layer Normalization"
+      },
+      {
+        "id": "d76c07211479e233f7c6a6f32d5346c983c5598f",
+        "title": "Multi-task Sequence to Sequence Learning"
+      },
+      {
+        "id": "c3b8367a80181e28c95630b9b63060d895de08ff",
+        "title": "Representation Learning Using Multi-Task Deep Neural Networks for Semantic Classification and Information Retrieval"
+      }
+    ],
+    "5": [
+      {
+        "id": "0bb4cadc80c0afaf29c57518dc9c06f8fcfa5f38",
+        "title": "Semi-supervised sequence tagging with bidirectional language models"
+      },
+      {
+        "id": "ade0c116120b54b57a91da51235108b75c28375a",
+        "title": "A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks"
+      },
+      {
+        "id": "03ad06583c9721855ccd82c3d969a01360218d86",
+        "title": "Deep multi-task learning with low level tasks supervised at lower layers"
+      },
+      {
+        "id": "e2dba792360873aef125572812f3673b1a85d850",
+        "title": "Enriching Word Vectors with Subword Information"
+      },
+      {
+        "id": "8dd6aae51e31a72752c4be5cddbdd76dfdc6cda4",
+        "title": "End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF"
+      },
+      {
+        "id": "f5a7da72496e2ca8edcd9f9123773012c010cfc6",
+        "title": "Neural Architectures for Named Entity Recognition"
+      },
+      {
+        "id": "10a4db59e81d26b2e0e896d3186ef81b4458b93f",
+        "title": "Named Entity Recognition with Bidirectional LSTM-CNNs"
+      },
+      {
+        "id": "6dab1c6491929d396e9e5463bc2e87af88602aa2",
+        "title": "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation"
+      }
+    ],
+    "0": [
+      {
+        "id": "c6850869aa5e78a107c378d2e8bfa39633158c0c",
+        "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+      },
+      {
+        "id": "032274e57f7d8b456bd255fe76b909b2c1d7458e",
+        "title": "A Deep Reinforced Model for Abstractive Summarization"
+      },
+      {
+        "id": "43428880d75b3a14257c3ee9bda054e61eb869c0",
+        "title": "Convolutional Sequence to Sequence Learning"
+      },
+      {
+        "id": "4550a4c714920ef57d19878e31c9ebae37b049b2",
+        "title": "Massive Exploration of Neural Machine Translation Architectures"
+      },
+      {
+        "id": "79baf48bd560060549998d7b61751286de062e2a",
+        "title": "Factorization tricks for LSTM networks"
+      },
+      {
+        "id": "510e26733aaff585d65701b9f1be7ca9d5afc586",
+        "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer"
+      },
+      {
+        "id": "98445f4172659ec5e891e031d8202c102135c644",
+        "title": "Neural Machine Translation in Linear Time"
+      },
+      {
+        "id": "63e39cdf1ad884da6bc69096bb3413b5b1100559",
+        "title": "Using the Output Embedding to Improve Language Models"
+      },
+      {
+        "id": "b60abe57bc195616063be10638c6437358c81d1e",
+        "title": "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation"
+      },
+      {
+        "id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+        "title": "Deep Residual Learning for Image Recognition"
+      },
+      {
+        "id": "1518039b5001f1836565215eb047526b3ac7f462",
+        "title": "Neural Machine Translation of Rare Words with Subword Units"
+      },
+      {
+        "id": "93499a7c7f699b6630a86fad964536f9423bb6d0",
+        "title": "Effective Approaches to Attention-based Neural Machine Translation"
+      },
+      {
+        "id": "a1c922be467d1c0c64b963e65dae41778b81b2a0",
+        "title": "Deep Learning Scaling is Predictable, Empirically"
+      }
+    ],
+    "8": [
+      {
+        "id": "59761abc736397539bdd01ad7f9d91c8607c0457",
+        "title": "context2vec: Learning Generic Context Embedding with Bidirectional LSTM"
+      },
+      {
+        "id": "fb166f1e77428a492ea869a8b79df275dd9669c2",
+        "title": "Neural Sequence Learning Models for Word Sense Disambiguation"
+      },
+      {
+        "id": "e2ef04c43744761ba3501b2fbb17fc753e9bb271",
+        "title": "Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison"
+      },
+      {
+        "id": "00cc08c90bc4ae7d3523e4dad2ca3a8fafc8501a",
+        "title": "Embeddings for Word Sense Disambiguation: An Evaluation Study"
+      }
+    ],
+    "4": [
+      {
+        "id": "5b6ec746d309b165f9f9def873a2375b6fb40f3d",
+        "title": "Xception: Deep Learning with Depthwise Separable Convolutions"
+      },
+      {
+        "id": "23ffaa0fe06eae05817f527a47ac3291077f9e58",
+        "title": "Rethinking the Inception Architecture for Computer Vision"
+      },
+      {
+        "id": "bbe13b72314fffcc2f35b0660195f2f6607c00a0",
+        "title": "Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions"
+      },
+      {
+        "id": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+        "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
+      },
+      {
+        "id": "5b8e5804c3adeb4a4e60f8f7d8d76aab0e02cfbe",
+        "title": "Learning to Optimize Neural Nets"
+      },
+      {
+        "id": "954b01151ff13aef416d27adc60cd9a076753b1a",
+        "title": "RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning"
+      },
+      {
+        "id": "71683e224ab91617950956b5005ed0439a733a71",
+        "title": "Learning to learn by gradient descent by gradient descent"
+      },
+      {
+        "id": "be1bb4e4aa1fcf70281b4bd24d8cd31c04864bb6",
+        "title": "Matching Networks for One Shot Learning"
+      },
+      {
+        "id": "5b8364c21155d3d2cd38ea4c8b8580beba9a3250",
+        "title": "An Empirical Exploration of Recurrent Network Architectures"
+      }
+    ],
+    "7": [
+      {
+        "id": "2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
+        "title": "Exploring the Limits of Language Modeling"
+      },
+      {
+        "id": "263210f256603e3b62476ffb5b9bbbbc6403b646",
+        "title": "What do Neural Machine Translation Models Learn about Morphology?"
+      },
+      {
+        "id": "12e9d005c77f76e344361f79c4b008034ae547eb",
+        "title": "Charagram: Embedding Words and Sentences via Character n-grams"
+      },
+      {
+        "id": "891ce1687e2befddd19f54e4eef1d3f39c8dbaf7",
+        "title": "Character-Aware Neural Language Models"
+      },
+      {
+        "id": "b92aa7024b87f50737b372e5df31ef091ab54e62",
+        "title": "Training Very Deep Networks"
+      }
+    ],
+    "9": [
+      {
+        "id": "8ae1af4a424f5e464d46903bc3d18fe1cf1434ff",
+        "title": "End-to-end Neural Coreference Resolution"
+      },
+      {
+        "id": "314ee6b03f8c6c3533d2107fe05f9909b9202cbd",
+        "title": "Deep Reinforcement Learning for Mention-Ranking Coreference Models"
+      },
+      {
+        "id": "77770099cd73e6da90f046ac92fa2f9d32e469f6",
+        "title": "Learning Global Features for Coreference Resolution"
+      }
+    ]
+  },
+  "cluster_keywords": {
+    "1": [
+      "inference",
+      "broad",
+      "word",
+      "networks",
+      "need"
+    ],
+    "2": [
+      "dataset",
+      "networks",
+      "squad",
+      "triviaqa",
+      "dynamic"
+    ],
+    "6": [
+      "evaluation",
+      "end",
+      "models",
+      "art",
+      "recent"
+    ],
+    "3": [
+      "sentence",
+      "books",
+      "movies",
+      "sequence",
+      "unsupervised"
+    ],
+    "5": [
+      "named",
+      "tasks",
+      "recognition",
+      "word",
+      "sequence"
+    ],
+    "0": [
+      "machine",
+      "human",
+      "scaling",
+      "forward",
+      "factorization"
+    ],
+    "8": [],
+    "4": [
+      "descent",
+      "reinforcement",
+      "fast",
+      "architecture",
+      "optimize"
+    ],
+    "7": [],
+    "9": []
+  }
+}

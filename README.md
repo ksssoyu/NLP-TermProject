@@ -1,139 +1,112 @@
-# 📚 Analyzing Academic Influence and Emerging Trends via OpenAlex Citation Graphs
+## 📁 Coauthorship Network Analysis Code Documentation (README)
 
-> A graph-based exploration of scholarly impact and topic evolution in NLP using OpenAlex citation data.
-
----
-
-## 🚀 Motivation
-
-Understanding how academic knowledge evolves is crucial in fast-growing fields like Natural Language Processing (NLP). Traditional systems often rely on keyword matching or raw citation counts, overlooking **structural influence** in citation networks.
-
-This project leverages the **OpenAlex** dataset — a comprehensive open-source scholarly graph — to:
-- Detect **emerging topics**,
-- Identify **influential papers** using centrality metrics,
-- Analyze **knowledge clusters** through citation-based community detection.
-
-### 📌 What is a Knowledge Cluster?
-
-A **knowledge cluster** is a group of papers closely linked by citation relationships. These clusters naturally reflect specific research subfields and can be discovered using graph-based community detection algorithms like **Louvain** or **Label Propagation**.
+This project performs comprehensive network analysis based on a coauthorship graph. It includes clustering, centrality correlation, power-law fitting, and evaluation of clustering quality.
 
 ---
 
-## 🎯 Objectives
+### 🔷 `make_author_json.py`
 
-1. **Emerging Topic Detection**
-   - Slice citation graphs by year (2015–2025)
-   - Track centrality metrics (e.g., PageRank) over time
-   - Identify papers with rapid influence growth
+**Purpose**: Converts the coauthorship graph from GraphML format to JSON.
 
-2. **Influential Paper Discovery**
-   - Rank papers using PageRank, HITS, Eigenvector centrality
-   - Use co-citation analysis to detect under-the-radar impactful works
-
-3. **Knowledge Cluster Analysis**
-   - Detect research communities via **Louvain method**
-   - Summarize clusters with representative concepts and keywords
-   - Track how clusters evolve, merge, or split over time
+* Input: `coauthorship_graph_with_year.graphml`
+* Output: `coauthorship_graph_with_year.json`
+* Why: JSON format is used in the subsequent analysis modules
 
 ---
 
-## 📦 Dataset
+### 🔷 `coauthorship_leiden.py`
 
-- **Source**: [OpenAlex.org](https://openalex.org/)
-- **Scope**: NLP-related papers retrieved using the keyword `"natural language processing"`
-- **Format**: JSON → Pandas DataFrame
+**Purpose**: Splits the coauthorship graph into temporal windows and performs clustering using the Leiden algorithm.
 
-### 📑 Key Fields
-
-| Column | Description |
-|--------|-------------|
-| `id` | Unique OpenAlex paper ID |
-| `title` | Paper title |
-| `year` | Publication year |
-| `cited_by_count` | Raw citation count |
-| `doi` | Digital Object Identifier |
-| `first_author` | Name of first author |
-| `referenced_works` | List of cited OpenAlex IDs |
-| `concepts` | High-level OpenAlex concepts |
-| `keywords` | Paper keywords |
-
-### 📈 Citation Graph
-
-- **Node**: Paper (with valid title)
-- **Edge**: Directed link A → B (A cites B)
-- **Graph Type**: `networkx.DiGraph`
+* Windows: `2015~2017`, `2016~2018`, ..., `2022~2024`
+* Clustering: Uses `leidenalg.find_partition()`
+* Includes filtering by minimum cluster size
+* Output: `coauthorship_cluster_by_year/cluster_*.json`
 
 ---
 
-## 🧪 Methodology
+### 🔷 `top10_cluster_year.py`
 
-1. **Data Collection**
-   - Use `requests` and OpenAlex API to retrieve NLP papers
-   - Extract metadata and references
+**Purpose**: From each time window's clustering result, selects the top 10 clusters with the highest internal collaboration strength.
 
-2. **Citation Graph Construction**
-   - Build directed graph using `networkx`
-   - Nodes = papers, Edges = citations
-
-3. **Centrality Analysis**
-   - Compute PageRank, HITS, degree centrality per year
-   - Identify influential papers and fast-rising topics
-
-4. **Community Detection**
-   - Use **Louvain method** to find clusters
-   - Summarize each cluster with top concepts/keywords
-
-5. **Visualization**
-   - Plot topic timelines, centrality rankings
-   - Graph visualizations with **Pyvis**, **Plotly**, or **Gephi**
+* Input: `coauthorship_cluster_by_year/`
+* Output: `top10_clusters_by_strength/`
+* Criteria: Normalized internal edge weight sum divided by node count
 
 ---
 
-## 📊 Expected Outcomes
+### 🔷 `top60_author_per_cluster.py`
 
-- 🔍 **List of emerging papers** in NLP (2015–2025)
-- 🏅 **Ranking of structurally influential papers**
-- 🧠 **Topic clusters** and their evolution
-- 🌐 **Interactive visualizations** of the citation network
-- 🛠 A lightweight **toolkit** for scholarly trend analysis
+**Purpose**: For each of the top 10 clusters, ranks and selects the top 60 authors by internal collaboration weight.
 
----
-
-## 🛠 Tools and Libraries
-
-- **API & Data**: OpenAlex REST API, JSON
-- **Processing**: `pandas`, `requests`, `tqdm`, `json`
-- **Graph Analysis**: `networkx`, `community` (Louvain)
-- **Visualization**: `Pyvis`, `Plotly`, `Matplotlib`, `Gephi`
+* Input: `top10_clusters_by_strength/`
+* Output: `top60_authors_per_cluster/`
+* Metric: Total internal edge weights
 
 ---
 
-## 🗓 Timeline
+### 🔷 `evaluate_cluster_all.py`
 
-| Week | Tasks |
-|------|-------|
-| **Week 1** | Data collection from OpenAlex, cleaning, structuring |
-| **Week 2** | Graph construction & centrality computation |
-| **Week 3** | Cluster detection & topic evolution analysis |
-| **Week 4** | Final report, slides, and visualizations |
+**Purpose**: Evaluates the overall quality of clustering on the full graph.
 
----
-
-## 👥 Team Responsibilities
-
-| Member | Role |
-|--------|------|
-| **Soyu Kim** | Data collection, API integration, DataFrame structuring |
-| **Cheoloh Park** | Graph construction, centrality computation |
-| **Sanghun Lee** | Community detection, cluster topic analysis, visualizations |
-| **Yejin Cho** | Result synthesis, reporting, final presentation |
-
-> ✨ All members contribute across tasks, with specific leadership roles.
+* Metrics: Modularity, Coverage, Conductance
+* Input: JSON with global cluster IDs (`coauthorship_graph_with_year_cluster.json`)
+* Output: Console summary of scores
 
 ---
 
-## 🧠 Contribution
+### 🔷 `evaluate_cluster_per_year.py`
 
-This project contributes a **scalable**, **interpretable**, and **visually rich** approach to academic network analysis. It goes beyond citation counts to reveal **structural influence**, **topic dynamics**, and **emergent knowledge clusters** — empowering researchers with deeper insights into the scholarly ecosystem.
+**Purpose**: Evaluates clustering quality for each temporal window.
+
+* Input: `coauthorship_graph_with_year.json`, `coauthorship_cluster_by_year/`
+* Metrics: Modularity, Coverage, Performance, Conductance
+* Output: DataFrame of results per window
 
 ---
+
+### 🔷 `spearman.py`
+
+**Purpose**: Computes correlation between centrality metrics.
+
+* Metrics: Coreness vs. Strength
+* Method: Spearman rank correlation (`scipy.stats.spearmanr`)
+* Example output: `Spearman ρ(coreness, strength) = 0.959  (p=0)`
+
+---
+
+### 🔷 `power_law.py`
+
+**Purpose**: Analyzes degree distribution of the entire coauthorship network and fits a power-law model.
+
+* Library: `powerlaw`
+* Output: Estimated α, xmin, KS distance, log–log CCDF plot
+* Interpretation: Quantifies scale-free nature of scientific collaboration networks
+
+---
+
+### 🔧 Environment
+
+* Python >= 3.8
+* Required libraries: `networkx`, `igraph`, `leidenalg`, `matplotlib`, `powerlaw`, `scipy`, `pandas`
+
+```bash
+pip install networkx igraph leidenalg matplotlib powerlaw scipy pandas
+```
+
+---
+
+### 📂 Overall Execution Flow
+
+1. `make_author_json.py`: Convert GraphML → JSON
+2. `coauthorship_leiden.py`: Perform time-based clustering
+3. `top10_cluster_year.py`: Filter top 10 clusters by strength
+4. `top60_author_per_cluster.py`: Select top 60 authors per cluster
+5. `evaluate_cluster_per_year.py`: Evaluate each time window
+6. `evaluate_cluster_all.py`: Evaluate entire network
+7. `power_law.py`: Degree distribution and power-law fitting
+8. `spearman.py`: Centrality correlation analysis
+
+---
+
+Refer to each section above for further details. More in-depth documentation with code comments can be added if needed.

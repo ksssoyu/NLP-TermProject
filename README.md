@@ -1,6 +1,6 @@
 SEMANTIC SCHOLARS CITATION GRAPH ANALYSIS
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. semantic_scholars_sync_fetch.py : Fetch paper data starting from 13 landmark nlp-related papers, starting from 2010, with minimum citation count set to 0
+1. semantic_scholars_sync_fetch.py : Fetch paper data starting from 13 landmark nlp-related papers
 2. batch_fill_embedding.py : Used to fill up missing embedding values.
 3. construct_graph.py : constructs citation graph with weighted edges
 4. cluster.py : leiden community detection and summarize the top n clusters

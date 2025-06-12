@@ -13,7 +13,7 @@ import os
 
 # --- Configuration ---
 # The path to the graph file.
-INPUT_GRAPH_FILE = "citation_graph.graphml"
+INPUT_GRAPH_FILE = "final_v2_graph.graphml"
 # The path to the new CSV file that includes the embedding vectors.
 INPUT_EMBEDDING_CSV = "papers_with_embeddings.csv"
 # Directory to save the output visualizations
@@ -23,15 +23,15 @@ OUTPUT_DIR = "combined_cluster_visualizations"
 # Number of top communities/topics to display in the final report.
 TOP_N_COMMUNITIES = 5
 # Number of top papers to show from each community/topic.
-PAPERS_PER_GROUP = 3
+PAPERS_PER_GROUP = 8
 
 # --- Leiden Algorithm Configuration ---
-LEIDEN_RESOLUTION = 1.0
+LEIDEN_RESOLUTION = 0.88
 
 # --- K-Means Clustering Configuration ---
 # The number of topical clusters to find. This is a key parameter to tune.
 # A good starting point is often between 20 and 50 for a dataset of this size.
-NUM_TOPICAL_CLUSTERS = 30
+NUM_TOPICAL_CLUSTERS = 10
 
 # --- Logging Configuration ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

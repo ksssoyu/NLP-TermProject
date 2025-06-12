@@ -6,19 +6,18 @@ import pandas as pd
 
 # --- Configuration ---
 # The path to the graph file created by the graph builder script.
-INPUT_GRAPH_FILE = "citation_graph.graphml"
+INPUT_GRAPH_FILE = "final_v2_graph.graphml"
 # The number of top clusters to display in the summary.
-TOP_N_CLUSTERS = 10
+TOP_N_CLUSTERS = 5
 # The number of top papers to show from each cluster to identify its theme.
-PAPERS_PER_CLUSTER = 10
+PAPERS_PER_CLUSTER = 20
 
 # --- Leiden Algorithm Configuration ---
 # The resolution parameter controls the size of the communities.
 # - Higher values lead to more, smaller communities.
 # - Lower values lead to fewer, larger communities.
 # A good starting point is often 1.0. You can tune this value.
-RESOLUTION_PARAMETER = 0.75
-
+RESOLUTION_PARAMETER = 1.7
 # --- Logging Configuration ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 

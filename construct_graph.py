@@ -6,9 +6,9 @@ from tqdm import tqdm
 
 # --- Configuration ---
 # The path to the dataset collected by the crawler.
-INPUT_CSV_FILE = "nlp_papers_dataset_v6_with_isInfluential.csv"
+INPUT_CSV_FILE = "final_v2_papers.csv"
 # The path where you want to save the final graph file.
-OUTPUT_GRAPH_FILE = "citation_graph.graphml"
+OUTPUT_GRAPH_FILE = "final_v2_graph.graphml"
 
 # --- Edge Weight Configuration ---
 WEIGHT_CONFIG = {

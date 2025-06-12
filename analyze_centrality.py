@@ -3,7 +3,7 @@ import logging
 
 # --- Configuration ---
 # The path to the graph file created by the graph builder script.
-INPUT_GRAPH_FILE = "citation_graph.graphml"
+INPUT_GRAPH_FILE = "final_v2_graph.graphml"
 # The number of top-ranking papers to display for each metric.
 TOP_N = 50
 

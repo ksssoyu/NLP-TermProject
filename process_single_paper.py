@@ -8,26 +8,20 @@ from tqdm import tqdm
 
 # --- Configuration ---
 # The ID of the paper you want to fetch and add to your dataset.
-# Pre-filled with the ID for "Training language models to follow instructions with human feedback" (InstructGPT)
-PAPER_ID_TO_ADD = "d766bffc357127e0dc86dd69561d5aeb520d6f4c"
+PAPER_ID_TO_ADD = "f9a7175198a2c9f3ab0134a12a7e9e5369428e42" 
 
-# Your Semantic Scholar API Key (optional but recommended)
+# Your Semantic Scholar API Key
 API_KEY = "KRzThuhqxK42MZRgsnQJR5NnLLO17hKx8flTuDnx"
 API_DELAY_SECONDS = 1.0
 
 # --- File Paths ---
-# These should match the files from your previous steps.
-# The script will OVERWRITE these files with the updated data.
 INPUT_OUTPUT_CSV_FILE = "nlp_papers_dataset_v6_with_isInfluential.csv"
 OUTPUT_GRAPH_FILE = "citation_graph.graphml"
-
-# --- Re-use functions from previous scripts ---
-# Note: These are slightly simplified versions for single-paper fetching and building.
 
 # --- Logging Configuration ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# --- Edge Weight Configuration (from graph_builder.py) ---
+# --- Edge Weight Configuration (from construct_graph.py) ---
 WEIGHT_CONFIG = {
     'base_weight': 1.0,
     'influential_multiplier': 2.0,
@@ -35,19 +29,66 @@ WEIGHT_CONFIG = {
     'unknown_intent_score': 0.2
 }
 
-# --- Helper Functions (from crawler and builder) ---
+# --- Relevance Filter Constants (from semantic_scholars_sync_fetch.py) ---
+CORE_S2_NLP_FOS = ['natural language processing', 'computational linguistics']
+TOP_NLP_VENUES = [
+    'acl', 'emnlp', 'naacl', 'coling', 'eacl',
+    'transactions of the association for computational linguistics', 'computational linguistics', 'lrec',
+    'neurips', 'icml', 'iclr', 'aaai', 'ijcai'
+]
+BROADER_S2_NLP_FOS = ['artificial intelligence', 'linguistics', 'information retrieval', 'speech recognition', 'machine learning']
+CS_FOS_CATEGORY = "computer science"
+
+
+# --- Helper Functions ---
 
 def make_single_api_request(url, params, request_type="generic"):
+    """
+    Makes a single, robust request to the Semantic Scholar API,
+    with automatic retries for 429 rate limit errors.
+    """
     headers = {}
-    if API_KEY and API_KEY != "YOUR_SEMANTIC_SCHOLAR_API_KEY": headers['X-API-KEY'] = API_KEY
-    try:
-        time.sleep(API_DELAY_SECONDS)
-        logging.debug(f"Making API {request_type} request: URL={url}, Params={params}")
-        response = requests.get(url, params=params, headers=headers)
-        response.raise_for_status()
-        return response.json()
-    except Exception as e:
-        logging.error(f"API request failed for {url} with params {params}: {e}")
+    if API_KEY and API_KEY != "YOUR_SEMANTIC_SCHOLAR_API_KEY":
+        headers['X-API-KEY'] = API_KEY
+    
+    max_retries = 3
+    retry_delay = API_DELAY_SECONDS * 10  # Start with a longer delay
+    retries = 0
+
+    while retries < max_retries:
+        try:
+            # Always have a base delay for every attempt
+            time.sleep(API_DELAY_SECONDS)
+            
+            logging.debug(f"Making API {request_type} request (Attempt {retries + 1}): URL={url}, Params={params}")
+            response = requests.get(url, params=params, headers=headers)
+            
+            # This will raise an HTTPError for 4xx/5xx responses
+            response.raise_for_status()
+            
+            # If successful, return the JSON and exit the loop
+            return response.json()
+
+        except requests.exceptions.HTTPError as e:
+            # Check specifically for the 429 Rate Limit error
+            if e.response.status_code == 429:
+                retries += 1
+                logging.warning(f"Rate limit (429) encountered for {url}. Waiting {retry_delay:.1f} seconds before retry {retries}/{max_retries}.")
+                time.sleep(retry_delay)
+                # Increase delay for subsequent retries
+                retry_delay *= 2
+                continue # Go to the next iteration of the while loop to retry
+            else:
+                # For any other HTTP error, log it and fail immediately
+                logging.error(f"HTTP error {e.response.status_code} for {request_type} URL {url}: {e.response.text}")
+                return None # Exit loop and function
+                
+        except Exception as e:
+            # For non-HTTP errors (e.g., network issues), fail immediately
+            logging.error(f"An unexpected error occurred for {url}: {e}")
+            return None # Exit loop and function
+
+    logging.error(f"Failed to fetch data for {url} after {max_retries} retries.")
     return None
 
 def fetch_all_connections(paper_id, conn_type):
@@ -77,13 +118,46 @@ def process_connections(raw_conns, conn_type):
         })
     return processed
 
+def is_nlp_related_enhanced(api_response_data):
+    """
+    Checks if a paper is NLP-related using the same logic as the main crawler.
+    """
+    if not api_response_data: return False
+    
+    # Check for strong signals first
+    if api_response_data.get('externalIds', {}).get('ACL'): return True
+    
+    venue_name = (api_response_data.get('publicationVenue') or {}).get('name', '').lower()
+    if any(top_venue in venue_name for top_venue in TOP_NLP_VENUES): return True
+    
+    s2_categories = {field.get('category', '').lower() for field in api_response_data.get('s2FieldsOfStudy', [])}
+    if CS_FOS_CATEGORY in s2_categories: return True
+    if any(core_fos in s2_categories for core_fos in CORE_S2_NLP_FOS): return True
+    
+    # Check for weaker signals
+    has_arxiv = bool(api_response_data.get('externalIds', {}).get('ArXiv'))
+    broader_fos_count = sum(1 for fos in BROADER_S2_NLP_FOS if fos in s2_categories)
+    
+    if has_arxiv and broader_fos_count > 0: return True
+    
+    # If no criteria are met, it's not considered relevant.
+    return False
+
 def fetch_single_paper_data(paper_id):
-    """Fetches all required data for a single paper."""
+    """Fetches all required data for a single paper, now with a relevance check."""
     logging.info(f"Fetching complete data for paper: {paper_id}")
     fields = "paperId,title,authors.name,year,citationCount,s2FieldsOfStudy,publicationVenue,externalIds"
     paper_details = make_single_api_request(f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}", {'fields': fields})
+    time.sleep(1.0)
     if not paper_details: return None
 
+    # --- NEW: Relevance Filter ---
+    if not is_nlp_related_enhanced(paper_details):
+        logging.warning(f"REJECTED: Paper {paper_id} ('{paper_details.get('title')}') does not meet the NLP relevance criteria.")
+        return None
+
+    logging.info(f"PASSED: Paper {paper_id} meets relevance criteria. Fetching connections.")
+    
     # Fetch all references and citations
     references_raw = fetch_all_connections(paper_id, 'references')
     citations_raw = fetch_all_connections(paper_id, 'citations')
@@ -150,7 +224,7 @@ if __name__ == "__main__":
         df = pd.read_csv(INPUT_OUTPUT_CSV_FILE)
     except FileNotFoundError:
         logging.error(f"File not found: {INPUT_OUTPUT_CSV_FILE}. Cannot proceed.")
-        df = pd.DataFrame() # Start with an empty dataframe if file doesn't exist
+        df = pd.DataFrame() 
 
     # 2. Check if paper already exists
     if not df.empty and PAPER_ID_TO_ADD in df['paperId'].values:

@@ -9,9 +9,9 @@ import os
 
 # --- Configuration ---
 # The path to the graph file created by the graph builder script.
-INPUT_GRAPH_FILE = "citation_graph.graphml"
+INPUT_GRAPH_FILE = "final_v2_graph.graphml"
 # Directory to save the output visualizations
-OUTPUT_DIR = "temporal_visualizations"
+OUTPUT_DIR = "final_v2_temporal_visualizations"
 
 # --- Sliding Window Configuration ---
 START_YEAR = 2010
@@ -20,9 +20,9 @@ WINDOW_SIZE = 3
 STEP_SIZE = 1   
 
 # --- Analysis Configuration for each Subgraph ---
-TOP_PAGERANK_PAPERS_TO_SHOW = 5
-TOP_CLUSTERS_TO_SHOW = 3
-PAPERS_PER_CLUSTER_TO_SHOW = 3
+TOP_PAGERANK_PAPERS_TO_SHOW = 10
+TOP_CLUSTERS_TO_SHOW = 5
+PAPERS_PER_CLUSTER_TO_SHOW = 10
 LEIDEN_RESOLUTION = 1.0
 
 # --- Logging Configuration ---

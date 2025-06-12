@@ -1,0 +1,3838 @@
+[
+  {
+    "window_start": 2014,
+    "window_end": 2016,
+    "paper_count": 80,
+    "edge_count": 303,
+    "dbcv_score": 0.0,
+    "topics": [],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "Deep Residual Learning for Image Recognition",
+          "score": 192834
+        },
+        {
+          "title": "Adam: A Method for Stochastic Optimization",
+          "score": 149584
+        },
+        {
+          "title": "Dropout: a simple way to prevent neural networks from overfitting",
+          "score": 39709
+        },
+        {
+          "title": "GloVe: Global Vectors for Word Representation",
+          "score": 32016
+        },
+        {
+          "title": "Rethinking the Inception Architecture for Computer Vision",
+          "score": 27242
+        },
+        {
+          "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "score": 27210
+        },
+        {
+          "title": "Learning Phrase Representations using RNN Encoder\u2013Decoder for Statistical Machine Translation",
+          "score": 23254
+        },
+        {
+          "title": "Sequence to Sequence Learning with Neural Networks",
+          "score": 20484
+        },
+        {
+          "title": "Distilling the Knowledge in a Neural Network",
+          "score": 19498
+        },
+        {
+          "title": "Xception: Deep Learning with Depthwise Separable Convolutions",
+          "score": 14474
+        },
+        {
+          "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+          "score": 12647
+        },
+        {
+          "title": "Layer Normalization",
+          "score": 10421
+        },
+        {
+          "title": "Enriching Word Vectors with Subword Information",
+          "score": 9944
+        },
+        {
+          "title": "Distributed Representations of Sentences and Documents",
+          "score": 9231
+        },
+        {
+          "title": "How transferable are features in deep neural networks?",
+          "score": 8313
+        },
+        {
+          "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+          "score": 8081
+        },
+        {
+          "title": "Effective Approaches to Attention-based Neural Machine Translation",
+          "score": 7948
+        },
+        {
+          "title": "Neural Machine Translation of Rare Words with Subword Units",
+          "score": 7701
+        },
+        {
+          "title": "The Stanford CoreNLP Natural Language Processing Toolkit",
+          "score": 7335
+        },
+        {
+          "title": "Matching Networks for One Shot Learning",
+          "score": 7295
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "Learning Phrase Representations using RNN Encoder\u2013Decoder for Statistical Machine Translation",
+          "score": 0.09921434386793059
+        },
+        {
+          "title": "Sequence to Sequence Learning with Neural Networks",
+          "score": 0.0742497810728496
+        },
+        {
+          "title": "An Autoencoder Approach to Learning Bilingual Word Representations",
+          "score": 0.06826201580589807
+        },
+        {
+          "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "score": 0.054852836580718684
+        },
+        {
+          "title": "Fast and Robust Neural Network Joint Models for Statistical Machine Translation",
+          "score": 0.038921739442276386
+        },
+        {
+          "title": "On the Properties of Neural Machine Translation: Encoder\u2013Decoder Approaches",
+          "score": 0.03088467611033192
+        },
+        {
+          "title": "Don\u2019t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors",
+          "score": 0.02948778972710567
+        },
+        {
+          "title": "Dropout: a simple way to prevent neural networks from overfitting",
+          "score": 0.02410697743149893
+        },
+        {
+          "title": "Distributed Representations of Sentences and Documents",
+          "score": 0.022978918299413273
+        },
+        {
+          "title": "Adam: A Method for Stochastic Optimization",
+          "score": 0.022372085292228023
+        },
+        {
+          "title": "GloVe: Global Vectors for Word Representation",
+          "score": 0.021813532299472253
+        },
+        {
+          "title": "Overcoming the Curse of Sentence Length for Neural Machine Translation using Automatic Segmentation",
+          "score": 0.01857746445494767
+        },
+        {
+          "title": "Skip-Thought Vectors",
+          "score": 0.016994064159628324
+        },
+        {
+          "title": "Training Very Deep Networks",
+          "score": 0.016247628390511006
+        },
+        {
+          "title": "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation",
+          "score": 0.015711307329691428
+        },
+        {
+          "title": "Linguistic Regularities in Sparse and Explicit Word Representations",
+          "score": 0.014285613662552656
+        },
+        {
+          "title": "Grammar as a Foreign Language",
+          "score": 0.01423139653002717
+        },
+        {
+          "title": "Show and tell: A neural image caption generator",
+          "score": 0.012592282787147028
+        },
+        {
+          "title": "Character-Aware Neural Language Models",
+          "score": 0.012004254072605839
+        },
+        {
+          "title": "Multi-task Sequence to Sequence Learning",
+          "score": 0.011152508324902506
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "Sequence to Sequence Learning with Neural Networks",
+          "score": 0.16720832739063293
+        },
+        {
+          "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+          "score": 0.15401710399667065
+        },
+        {
+          "title": "Learning Phrase Representations using RNN Encoder\u2013Decoder for Statistical Machine Translation",
+          "score": 0.14214579160976115
+        },
+        {
+          "title": "Adam: A Method for Stochastic Optimization",
+          "score": 0.051794240363941875
+        },
+        {
+          "title": "On the Properties of Neural Machine Translation: Encoder\u2013Decoder Approaches",
+          "score": 0.037486726303126224
+        },
+        {
+          "title": "Skip-Thought Vectors",
+          "score": 0.03731422772002106
+        },
+        {
+          "title": "Grammar as a Foreign Language",
+          "score": 0.03408744057770205
+        },
+        {
+          "title": "Effective Approaches to Attention-based Neural Machine Translation",
+          "score": 0.02979363726875709
+        },
+        {
+          "title": "Deep Residual Learning for Image Recognition",
+          "score": 0.02853052344478501
+        },
+        {
+          "title": "Show and tell: A neural image caption generator",
+          "score": 0.02407656835834712
+        },
+        {
+          "title": "GloVe: Global Vectors for Word Representation",
+          "score": 0.023172272528294808
+        },
+        {
+          "title": "Edinburgh\u2019s Phrase-based Machine Translation Systems for WMT-14",
+          "score": 0.019568106013269988
+        },
+        {
+          "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "score": 0.019120742035088855
+        },
+        {
+          "title": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+          "score": 0.016905960544570334
+        },
+        {
+          "title": "Neural GPUs Learn Algorithms",
+          "score": 0.01673742559407525
+        },
+        {
+          "title": "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation",
+          "score": 0.015127654125621457
+        },
+        {
+          "title": "Dropout: a simple way to prevent neural networks from overfitting",
+          "score": 0.013180177956941274
+        },
+        {
+          "title": "A Neural Network for Factoid Question Answering over Paragraphs",
+          "score": 0.01195211563173414
+        },
+        {
+          "title": "Distributed Representations of Sentences and Documents",
+          "score": 0.011720123152921442
+        },
+        {
+          "title": "A large annotated corpus for learning natural language inference",
+          "score": 0.01143710612174258
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2015,
+    "window_end": 2017,
+    "paper_count": 94,
+    "edge_count": 319,
+    "dbcv_score": 0.0,
+    "topics": [],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "Deep Residual Learning for Image Recognition",
+          "score": 192834
+        },
+        {
+          "title": "Attention is All you Need",
+          "score": 130102
+        },
+        {
+          "title": "Rethinking the Inception Architecture for Computer Vision",
+          "score": 27242
+        },
+        {
+          "title": "Decoupled Weight Decay Regularization",
+          "score": 22656
+        },
+        {
+          "title": "Distilling the Knowledge in a Neural Network",
+          "score": 19498
+        },
+        {
+          "title": "Xception: Deep Learning with Depthwise Separable Convolutions",
+          "score": 14474
+        },
+        {
+          "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+          "score": 11810
+        },
+        {
+          "title": "Layer Normalization",
+          "score": 10421
+        },
+        {
+          "title": "Enriching Word Vectors with Subword Information",
+          "score": 9944
+        },
+        {
+          "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+          "score": 8081
+        },
+        {
+          "title": "Effective Approaches to Attention-based Neural Machine Translation",
+          "score": 7948
+        },
+        {
+          "title": "Neural Machine Translation of Rare Words with Subword Units",
+          "score": 7701
+        },
+        {
+          "title": "Matching Networks for One Shot Learning",
+          "score": 7295
+        },
+        {
+          "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "score": 6772
+        },
+        {
+          "title": "VQA: Visual Question Answering",
+          "score": 5436
+        },
+        {
+          "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+          "score": 4452
+        },
+        {
+          "title": "A large annotated corpus for learning natural language inference",
+          "score": 4264
+        },
+        {
+          "title": "Neural Architectures for Named Entity Recognition",
+          "score": 4005
+        },
+        {
+          "title": "Optimization as a Model for Few-Shot Learning",
+          "score": 3394
+        },
+        {
+          "title": "Convolutional Sequence to Sequence Learning",
+          "score": 3279
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "Skip-Thought Vectors",
+          "score": 0.15631160828672577
+        },
+        {
+          "title": "Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books",
+          "score": 0.1391954654603023
+        },
+        {
+          "title": "Training Very Deep Networks",
+          "score": 0.03398545666514756
+        },
+        {
+          "title": "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation",
+          "score": 0.026351668090095964
+        },
+        {
+          "title": "Effective Approaches to Attention-based Neural Machine Translation",
+          "score": 0.021596140451786962
+        },
+        {
+          "title": "A large annotated corpus for learning natural language inference",
+          "score": 0.02136204868562581
+        },
+        {
+          "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+          "score": 0.0187189777821047
+        },
+        {
+          "title": "Character-Aware Neural Language Models",
+          "score": 0.018456520074128485
+        },
+        {
+          "title": "Deep Residual Learning for Image Recognition",
+          "score": 0.017508924253058698
+        },
+        {
+          "title": "End-To-End Memory Networks",
+          "score": 0.015768726138139618
+        },
+        {
+          "title": "Neural GPUs Learn Algorithms",
+          "score": 0.015228024843485302
+        },
+        {
+          "title": "Long Short-Term Memory-Networks for Machine Reading",
+          "score": 0.015075143043969775
+        },
+        {
+          "title": "Neural Machine Translation of Rare Words with Subword Units",
+          "score": 0.014444202996634663
+        },
+        {
+          "title": "End-to-end learning of semantic role labeling using recurrent neural networks",
+          "score": 0.013089575271662759
+        },
+        {
+          "title": "Multi-task Sequence to Sequence Learning",
+          "score": 0.01225034102217686
+        },
+        {
+          "title": "A Theoretically Grounded Application of Dropout in Recurrent Neural Networks",
+          "score": 0.012023207421635273
+        },
+        {
+          "title": "Rethinking the Inception Architecture for Computer Vision",
+          "score": 0.011982394875188089
+        },
+        {
+          "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "score": 0.011292047607034464
+        },
+        {
+          "title": "Bidirectional Attention Flow for Machine Comprehension",
+          "score": 0.010534688467590656
+        },
+        {
+          "title": "A Decomposable Attention Model for Natural Language Inference",
+          "score": 0.010484637958576216
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "score": 0.09769847016167156
+        },
+        {
+          "title": "Effective Approaches to Attention-based Neural Machine Translation",
+          "score": 0.07811880292524652
+        },
+        {
+          "title": "Deep Residual Learning for Image Recognition",
+          "score": 0.07686398442691748
+        },
+        {
+          "title": "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation",
+          "score": 0.06243619128143112
+        },
+        {
+          "title": "A large annotated corpus for learning natural language inference",
+          "score": 0.05308120796793421
+        },
+        {
+          "title": "Skip-Thought Vectors",
+          "score": 0.05231128437256827
+        },
+        {
+          "title": "Neural Machine Translation of Rare Words with Subword Units",
+          "score": 0.04497440526734646
+        },
+        {
+          "title": "Exploring the Limits of Language Modeling",
+          "score": 0.0336396736675865
+        },
+        {
+          "title": "End-To-End Memory Networks",
+          "score": 0.030636395832247247
+        },
+        {
+          "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+          "score": 0.026371495079993437
+        },
+        {
+          "title": "Neural Machine Translation in Linear Time",
+          "score": 0.025987286442469264
+        },
+        {
+          "title": "Character-Aware Neural Language Models",
+          "score": 0.024623163370477867
+        },
+        {
+          "title": "A Decomposable Attention Model for Natural Language Inference",
+          "score": 0.024376075765135827
+        },
+        {
+          "title": "Bidirectional Attention Flow for Machine Comprehension",
+          "score": 0.024051989221191387
+        },
+        {
+          "title": "End-to-end learning of semantic role labeling using recurrent neural networks",
+          "score": 0.02101524728688029
+        },
+        {
+          "title": "Attention is All you Need",
+          "score": 0.01980473149605331
+        },
+        {
+          "title": "Learning Distributed Representations of Sentences from Unlabelled Data",
+          "score": 0.01968382917563829
+        },
+        {
+          "title": "Layer Normalization",
+          "score": 0.017333993552127447
+        },
+        {
+          "title": "Long Short-Term Memory-Networks for Machine Reading",
+          "score": 0.015473150097966263
+        },
+        {
+          "title": "Convolutional Sequence to Sequence Learning",
+          "score": 0.01498179184274635
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2016,
+    "window_end": 2018,
+    "paper_count": 1812,
+    "edge_count": 1221,
+    "dbcv_score": 0.0,
+    "topics": [],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "Attention is All you Need",
+          "score": 130102
+        },
+        {
+          "title": "Decoupled Weight Decay Regularization",
+          "score": 22656
+        },
+        {
+          "title": "Xception: Deep Learning with Depthwise Separable Convolutions",
+          "score": 14474
+        },
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "score": 11860
+        },
+        {
+          "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+          "score": 11810
+        },
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 11526
+        },
+        {
+          "title": "Layer Normalization",
+          "score": 10421
+        },
+        {
+          "title": "Enriching Word Vectors with Subword Information",
+          "score": 9944
+        },
+        {
+          "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+          "score": 8081
+        },
+        {
+          "title": "Matching Networks for One Shot Learning",
+          "score": 7295
+        },
+        {
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "score": 7103
+        },
+        {
+          "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "score": 6772
+        },
+        {
+          "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+          "score": 4452
+        },
+        {
+          "title": "Neural Architectures for Named Entity Recognition",
+          "score": 4005
+        },
+        {
+          "title": "Universal Language Model Fine-tuning for Text Classification",
+          "score": 3628
+        },
+        {
+          "title": "SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
+          "score": 3499
+        },
+        {
+          "title": "Optimization as a Model for Few-Shot Learning",
+          "score": 3394
+        },
+        {
+          "title": "Convolutional Sequence to Sequence Learning",
+          "score": 3279
+        },
+        {
+          "title": "A Call for Clarity in Reporting BLEU Scores",
+          "score": 2958
+        },
+        {
+          "title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+          "score": 2954
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "Enriching Word Vectors with Subword Information",
+          "score": 0.014966849909398696
+        },
+        {
+          "title": "Charagram: Embedding Words and Sentences via Character n-grams",
+          "score": 0.014633528619181211
+        },
+        {
+          "title": "Neural Architectures for Named Entity Recognition",
+          "score": 0.014184453095953273
+        },
+        {
+          "title": "Learning Distributed Representations of Sentences from Unlabelled Data",
+          "score": 0.012571508266005203
+        },
+        {
+          "title": "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation",
+          "score": 0.012234829740634733
+        },
+        {
+          "title": "Exploring the Limits of Language Modeling",
+          "score": 0.011286539912142578
+        },
+        {
+          "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+          "score": 0.010478025585597413
+        },
+        {
+          "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "score": 0.010353975820235064
+        },
+        {
+          "title": "Attention is All you Need",
+          "score": 0.00905881670006661
+        },
+        {
+          "title": "Long Short-Term Memory-Networks for Machine Reading",
+          "score": 0.008843167375330281
+        },
+        {
+          "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data",
+          "score": 0.006088673654995846
+        },
+        {
+          "title": "Bidirectional Attention Flow for Machine Comprehension",
+          "score": 0.0060172224281599615
+        },
+        {
+          "title": "End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF",
+          "score": 0.005728049382126606
+        },
+        {
+          "title": "A Decomposable Attention Model for Natural Language Inference",
+          "score": 0.005553324961541771
+        },
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 0.005439317340183861
+        },
+        {
+          "title": "Convolutional Sequence to Sequence Learning",
+          "score": 0.003634594656463435
+        },
+        {
+          "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+          "score": 0.003392729237073296
+        },
+        {
+          "title": "Learning Global Features for Coreference Resolution",
+          "score": 0.0033129464723872805
+        },
+        {
+          "title": "Neural Machine Translation in Linear Time",
+          "score": 0.0031211917606619663
+        },
+        {
+          "title": "Layer Normalization",
+          "score": 0.003075915966520947
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 0.07743993855928498
+        },
+        {
+          "title": "Attention is All you Need",
+          "score": 0.06833748277754811
+        },
+        {
+          "title": "Bidirectional Attention Flow for Machine Comprehension",
+          "score": 0.061253572080850645
+        },
+        {
+          "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+          "score": 0.05452937364304798
+        },
+        {
+          "title": "Learned in Translation: Contextualized Word Vectors",
+          "score": 0.043970572762234435
+        },
+        {
+          "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data",
+          "score": 0.04379978330341752
+        },
+        {
+          "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+          "score": 0.031182275473821065
+        },
+        {
+          "title": "Enhanced LSTM for Natural Language Inference",
+          "score": 0.027059217561041817
+        },
+        {
+          "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+          "score": 0.02630036084461729
+        },
+        {
+          "title": "A Decomposable Attention Model for Natural Language Inference",
+          "score": 0.02276180328583483
+        },
+        {
+          "title": "Neural Architectures for Named Entity Recognition",
+          "score": 0.02189098662927836
+        },
+        {
+          "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+          "score": 0.019615317335149502
+        },
+        {
+          "title": "Convolutional Sequence to Sequence Learning",
+          "score": 0.018744082957306164
+        },
+        {
+          "title": "Semi-supervised sequence tagging with bidirectional language models",
+          "score": 0.018140616794873127
+        },
+        {
+          "title": "A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks",
+          "score": 0.017313262789932674
+        },
+        {
+          "title": "Gated Self-Matching Networks for Reading Comprehension and Question Answering",
+          "score": 0.017039606415822795
+        },
+        {
+          "title": "Enriching Word Vectors with Subword Information",
+          "score": 0.015226220199858918
+        },
+        {
+          "title": "Deep Semantic Role Labeling: What Works and What\u2019s Next",
+          "score": 0.015104240344612387
+        },
+        {
+          "title": "Stochastic Answer Networks for Machine Reading Comprehension",
+          "score": 0.015099075712977033
+        },
+        {
+          "title": "Learning Distributed Representations of Sentences from Unlabelled Data",
+          "score": 0.014507332803392926
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2017,
+    "window_end": 2019,
+    "paper_count": 3646,
+    "edge_count": 3818,
+    "dbcv_score": 0.5568105603263703,
+    "topics": [
+      {
+        "cluster_id": 1,
+        "size": 1585,
+        "keywords": [
+          "language",
+          "learning",
+          "natural",
+          "processing",
+          "neural",
+          "deep",
+          "using",
+          "text",
+          "based",
+          "analysis",
+          "machine",
+          "word",
+          "networks",
+          "sentiment",
+          "model"
+        ],
+        "confidence": 0.9280377837565452
+      },
+      {
+        "cluster_id": 0,
+        "size": 275,
+        "keywords": [
+          "language",
+          "processing",
+          "natural",
+          "learning",
+          "clinical",
+          "using",
+          "deep",
+          "health",
+          "based",
+          "machine",
+          "data",
+          "medical",
+          "text",
+          "biomedical",
+          "electronic"
+        ],
+        "confidence": 0.7617482502241691
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "Attention is All you Need",
+          "score": 130102
+        },
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 94099
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 24213
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 22682
+        },
+        {
+          "title": "Decoupled Weight Decay Regularization",
+          "score": 22656
+        },
+        {
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "score": 19888
+        },
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "score": 11860
+        },
+        {
+          "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+          "score": 11810
+        },
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 11526
+        },
+        {
+          "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+          "score": 10743
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 8395
+        },
+        {
+          "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "score": 7422
+        },
+        {
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "score": 7103
+        },
+        {
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "score": 6424
+        },
+        {
+          "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+          "score": 5602
+        },
+        {
+          "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+          "score": 4452
+        },
+        {
+          "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+          "score": 3715
+        },
+        {
+          "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+          "score": 3664
+        },
+        {
+          "title": "Universal Language Model Fine-tuning for Text Classification",
+          "score": 3628
+        },
+        {
+          "title": "SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
+          "score": 3499
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "Attention is All you Need",
+          "score": 0.023275748031958983
+        },
+        {
+          "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data",
+          "score": 0.018074231634764747
+        },
+        {
+          "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+          "score": 0.016443866345450503
+        },
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 0.015202273440775028
+        },
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 0.01477625286834375
+        },
+        {
+          "title": "RACE: Large-scale ReAding Comprehension Dataset From Examinations",
+          "score": 0.014550720089580369
+        },
+        {
+          "title": "A Structured Self-attentive Sentence Embedding",
+          "score": 0.013559073591175577
+        },
+        {
+          "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+          "score": 0.009518796771517677
+        },
+        {
+          "title": "Neural Sequence Learning Models for Word Sense Disambiguation",
+          "score": 0.008129281526641876
+        },
+        {
+          "title": "Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison",
+          "score": 0.007919855945992968
+        },
+        {
+          "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+          "score": 0.005670035451646098
+        },
+        {
+          "title": "Learned in Translation: Contextualized Word Vectors",
+          "score": 0.005223174322103817
+        },
+        {
+          "title": "Convolutional Sequence to Sequence Learning",
+          "score": 0.005062603890220453
+        },
+        {
+          "title": "Semi-supervised sequence tagging with bidirectional language models",
+          "score": 0.004550815324187714
+        },
+        {
+          "title": "Gated Self-Matching Networks for Reading Comprehension and Question Answering",
+          "score": 0.004247158028809485
+        },
+        {
+          "title": "Deep Semantic Role Labeling: What Works and What\u2019s Next",
+          "score": 0.00419277519039572
+        },
+        {
+          "title": "Recent Trends in Deep Learning Based Natural Language Processing",
+          "score": 0.004083696762729267
+        },
+        {
+          "title": "On the State of the Art of Evaluation in Neural Language Models",
+          "score": 0.003609172372213135
+        },
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "score": 0.0035428811444598485
+        },
+        {
+          "title": "End-to-end Neural Coreference Resolution",
+          "score": 0.0031900148557484492
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 0.14048826184127758
+        },
+        {
+          "title": "Attention is All you Need",
+          "score": 0.09852690089065282
+        },
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 0.08626347341002676
+        },
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "score": 0.055669304972748516
+        },
+        {
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "score": 0.03187109122595793
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 0.0312321142709426
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 0.030159180509569606
+        },
+        {
+          "title": "Universal Language Model Fine-tuning for Text Classification",
+          "score": 0.02659810602191992
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 0.024493000993205647
+        },
+        {
+          "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+          "score": 0.021347971827353908
+        },
+        {
+          "title": "Cross-lingual Language Model Pretraining",
+          "score": 0.018397442598309843
+        },
+        {
+          "title": "Learned in Translation: Contextualized Word Vectors",
+          "score": 0.016897933036684045
+        },
+        {
+          "title": "Multi-Task Deep Neural Networks for Natural Language Understanding",
+          "score": 0.015138232357151078
+        },
+        {
+          "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+          "score": 0.013990518098499096
+        },
+        {
+          "title": "Know What You Don\u2019t Know: Unanswerable Questions for SQuAD",
+          "score": 0.013816789366998953
+        },
+        {
+          "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data",
+          "score": 0.0118936060525098
+        },
+        {
+          "title": "RACE: Large-scale ReAding Comprehension Dataset From Examinations",
+          "score": 0.008289952600991175
+        },
+        {
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "score": 0.008233626400324967
+        },
+        {
+          "title": "Convolutional Sequence to Sequence Learning",
+          "score": 0.008104806656124626
+        },
+        {
+          "title": "Semi-supervised sequence tagging with bidirectional language models",
+          "score": 0.007829375744808943
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2018,
+    "window_end": 2020,
+    "paper_count": 5511,
+    "edge_count": 8505,
+    "dbcv_score": 0.2624394141417694,
+    "topics": [
+      {
+        "cluster_id": 0,
+        "size": 3092,
+        "keywords": [
+          "language",
+          "natural",
+          "learning",
+          "processing",
+          "using",
+          "deep",
+          "based",
+          "text",
+          "neural",
+          "analysis",
+          "machine",
+          "survey",
+          "models",
+          "data",
+          "sentiment"
+        ],
+        "confidence": 0.9718980690937364
+      },
+      {
+        "cluster_id": 2,
+        "size": 488,
+        "keywords": [
+          "language",
+          "processing",
+          "natural",
+          "learning",
+          "clinical",
+          "using",
+          "health",
+          "medical",
+          "based",
+          "data",
+          "machine",
+          "text",
+          "deep",
+          "electronic",
+          "biomedical"
+        ],
+        "confidence": 0.790414130766295
+      },
+      {
+        "cluster_id": 1,
+        "size": 80,
+        "keywords": [
+          "learning",
+          "deep",
+          "language",
+          "using",
+          "chemical",
+          "natural",
+          "processing",
+          "protein",
+          "prediction",
+          "machine",
+          "molecular",
+          "based",
+          "sequence",
+          "modeling",
+          "drug"
+        ],
+        "confidence": 1.0
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 94099
+        },
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "score": 41302
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 24213
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 22682
+        },
+        {
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "score": 19888
+        },
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "score": 11860
+        },
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 11526
+        },
+        {
+          "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+          "score": 10743
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 8395
+        },
+        {
+          "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "score": 7422
+        },
+        {
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "score": 7103
+        },
+        {
+          "title": "Training data-efficient image transformers & distillation through attention",
+          "score": 6690
+        },
+        {
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "score": 6424
+        },
+        {
+          "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+          "score": 6136
+        },
+        {
+          "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+          "score": 5602
+        },
+        {
+          "title": "Scaling Laws for Neural Language Models",
+          "score": 4707
+        },
+        {
+          "title": "Measuring Massive Multitask Language Understanding",
+          "score": 4304
+        },
+        {
+          "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+          "score": 3715
+        },
+        {
+          "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+          "score": 3664
+        },
+        {
+          "title": "Universal Language Model Fine-tuning for Text Classification",
+          "score": 3628
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 0.04530512785658739
+        },
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 0.03711532830313184
+        },
+        {
+          "title": "Annotation Artifacts in Natural Language Inference Data",
+          "score": 0.012131423324897224
+        },
+        {
+          "title": "Visual Referring Expression Recognition: What Do Systems Actually Learn?",
+          "score": 0.009455701187906448
+        },
+        {
+          "title": "Universal Language Model Fine-tuning for Text Classification",
+          "score": 0.008598958509965443
+        },
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "score": 0.006818763229753415
+        },
+        {
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "score": 0.006634423871080353
+        },
+        {
+          "title": "Dissecting Contextual Word Embeddings: Architecture and Representation",
+          "score": 0.005936074696973018
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 0.005459413801978025
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 0.005187734025888473
+        },
+        {
+          "title": "Semi-Supervised Sequence Modeling with Cross-View Training",
+          "score": 0.004976808210242764
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 0.00473446941682172
+        },
+        {
+          "title": "QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension",
+          "score": 0.004306564493001064
+        },
+        {
+          "title": "Character-Level Language Modeling with Deeper Self-Attention",
+          "score": 0.0040617009828947505
+        },
+        {
+          "title": "AllenNLP: A Deep Semantic Natural Language Processing Platform",
+          "score": 0.003616761270119268
+        },
+        {
+          "title": "Neural Network Acceptability Judgments",
+          "score": 0.003055622936069514
+        },
+        {
+          "title": "Learning Word Vectors for 157 Languages",
+          "score": 0.0029297590366418997
+        },
+        {
+          "title": "Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning",
+          "score": 0.002655492651951333
+        },
+        {
+          "title": "Know What You Don\u2019t Know: Unanswerable Questions for SQuAD",
+          "score": 0.0026481912222525755
+        },
+        {
+          "title": "Contextual String Embeddings for Sequence Labeling",
+          "score": 0.002604994133852114
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 0.17219910881022515
+        },
+        {
+          "title": "Deep Contextualized Word Representations",
+          "score": 0.06370713858166287
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 0.0611517459226309
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 0.041695493515838206
+        },
+        {
+          "title": "Improving Language Understanding by Generative Pre-Training",
+          "score": 0.03986707133191133
+        },
+        {
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "score": 0.039039656712231974
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 0.03603433212372864
+        },
+        {
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "score": 0.02764895334230798
+        },
+        {
+          "title": "Universal Language Model Fine-tuning for Text Classification",
+          "score": 0.021970019392859693
+        },
+        {
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "score": 0.01799643192654518
+        },
+        {
+          "title": "Cross-lingual Language Model Pretraining",
+          "score": 0.01592032640689576
+        },
+        {
+          "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "score": 0.014156571552333791
+        },
+        {
+          "title": "Multi-Task Deep Neural Networks for Natural Language Understanding",
+          "score": 0.01395019388826708
+        },
+        {
+          "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+          "score": 0.012193388980609456
+        },
+        {
+          "title": "Know What You Don\u2019t Know: Unanswerable Questions for SQuAD",
+          "score": 0.011235124521213013
+        },
+        {
+          "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+          "score": 0.010106347215095738
+        },
+        {
+          "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+          "score": 0.008429692830626603
+        },
+        {
+          "title": "Unified Language Model Pre-training for Natural Language Understanding and Generation",
+          "score": 0.007406177911170888
+        },
+        {
+          "title": "Contextual String Embeddings for Sequence Labeling",
+          "score": 0.007216680430739237
+        },
+        {
+          "title": "Patient Knowledge Distillation for BERT Model Compression",
+          "score": 0.007210994636000411
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2019,
+    "window_end": 2021,
+    "paper_count": 5582,
+    "edge_count": 11216,
+    "dbcv_score": 0.4552385458729814,
+    "topics": [
+      {
+        "cluster_id": 7,
+        "size": 2476,
+        "keywords": [
+          "language",
+          "natural",
+          "processing",
+          "learning",
+          "deep",
+          "based",
+          "models",
+          "using",
+          "neural",
+          "survey",
+          "text",
+          "model",
+          "bert",
+          "transformer",
+          "machine"
+        ],
+        "confidence": 0.9671574366218972
+      },
+      {
+        "cluster_id": 5,
+        "size": 738,
+        "keywords": [
+          "sentiment",
+          "analysis",
+          "using",
+          "learning",
+          "language",
+          "based",
+          "detection",
+          "text",
+          "natural",
+          "processing",
+          "classification",
+          "deep",
+          "social",
+          "media",
+          "covid"
+        ],
+        "confidence": 0.9864031379423032
+      },
+      {
+        "cluster_id": 1,
+        "size": 652,
+        "keywords": [
+          "language",
+          "natural",
+          "processing",
+          "learning",
+          "using",
+          "clinical",
+          "health",
+          "based",
+          "machine",
+          "medical",
+          "text",
+          "data",
+          "deep",
+          "electronic",
+          "records"
+        ],
+        "confidence": 0.7588018760853108
+      },
+      {
+        "cluster_id": 6,
+        "size": 203,
+        "keywords": [
+          "language",
+          "natural",
+          "chatbot",
+          "learning",
+          "processing",
+          "based",
+          "using",
+          "ai",
+          "dialogue",
+          "chatbots",
+          "artificial",
+          "conversational",
+          "education",
+          "intelligence",
+          "generation"
+        ],
+        "confidence": 0.8298685000873518
+      },
+      {
+        "cluster_id": 2,
+        "size": 120,
+        "keywords": [
+          "adversarial",
+          "language",
+          "learning",
+          "natural",
+          "deep",
+          "attacks",
+          "models",
+          "neural",
+          "robustness",
+          "training",
+          "text",
+          "networks",
+          "attack",
+          "processing",
+          "machine"
+        ],
+        "confidence": 0.8699358723592315
+      },
+      {
+        "cluster_id": 4,
+        "size": 107,
+        "keywords": [
+          "bias",
+          "language",
+          "gender",
+          "natural",
+          "processing",
+          "word",
+          "embeddings",
+          "biases",
+          "analysis",
+          "models",
+          "fairness",
+          "nlp",
+          "inference",
+          "learning",
+          "evaluating"
+        ],
+        "confidence": 0.944513947614093
+      },
+      {
+        "cluster_id": 0,
+        "size": 95,
+        "keywords": [
+          "learning",
+          "deep",
+          "language",
+          "using",
+          "protein",
+          "sequence",
+          "molecular",
+          "natural",
+          "chemical",
+          "prediction",
+          "models",
+          "based",
+          "processing",
+          "model",
+          "modeling"
+        ],
+        "confidence": 0.9844910254260855
+      },
+      {
+        "cluster_id": 3,
+        "size": 85,
+        "keywords": [
+          "detection",
+          "language",
+          "learning",
+          "using",
+          "natural",
+          "processing",
+          "based",
+          "machine",
+          "deep",
+          "phishing",
+          "privacy",
+          "malware",
+          "vulnerability",
+          "security",
+          "automated"
+        ],
+        "confidence": 0.9992788962649095
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 94099
+        },
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "score": 41302
+        },
+        {
+          "title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "score": 28903
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 24213
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 22682
+        },
+        {
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "score": 19888
+        },
+        {
+          "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+          "score": 10743
+        },
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "score": 10099
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 8395
+        },
+        {
+          "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "score": 7422
+        },
+        {
+          "title": "Training data-efficient image transformers & distillation through attention",
+          "score": 6690
+        },
+        {
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "score": 6424
+        },
+        {
+          "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+          "score": 6136
+        },
+        {
+          "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+          "score": 5602
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "score": 5385
+        },
+        {
+          "title": "Scaling Laws for Neural Language Models",
+          "score": 4707
+        },
+        {
+          "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+          "score": 4617
+        },
+        {
+          "title": "Measuring Massive Multitask Language Understanding",
+          "score": 4304
+        },
+        {
+          "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+          "score": 3934
+        },
+        {
+          "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+          "score": 3715
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 0.1130130305113478
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 0.01675829170340148
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 0.015509629899824745
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 0.012089233064052221
+        },
+        {
+          "title": "Multi-Task Deep Neural Networks for Natural Language Understanding",
+          "score": 0.010072905103119503
+        },
+        {
+          "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+          "score": 0.007198891843270161
+        },
+        {
+          "title": "Cross-lingual Language Model Pretraining",
+          "score": 0.006447395448776761
+        },
+        {
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "score": 0.0059118397802872145
+        },
+        {
+          "title": "Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding",
+          "score": 0.0048916327418538855
+        },
+        {
+          "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+          "score": 0.0046427560844990055
+        },
+        {
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "score": 0.004518112970169574
+        },
+        {
+          "title": "Unified Language Model Pre-training for Natural Language Understanding and Generation",
+          "score": 0.00437084571302838
+        },
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "score": 0.004155502611880344
+        },
+        {
+          "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "score": 0.00307018145351682
+        },
+        {
+          "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+          "score": 0.002860542251712976
+        },
+        {
+          "title": "MASS: Masked Sequence to Sequence Pre-training for Language Generation",
+          "score": 0.0026626113155885246
+        },
+        {
+          "title": "Publicly Available Clinical BERT Embeddings",
+          "score": 0.0024800605680422735
+        },
+        {
+          "title": "Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them",
+          "score": 0.0023326761546307775
+        },
+        {
+          "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+          "score": 0.0021333199838863494
+        },
+        {
+          "title": "Generating Long Sequences with Sparse Transformers",
+          "score": 0.0019178624402590254
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "score": 0.2137343583886254
+        },
+        {
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "score": 0.07776749037059522
+        },
+        {
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "score": 0.04464151397189972
+        },
+        {
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "score": 0.04144610435382313
+        },
+        {
+          "title": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations",
+          "score": 0.035874858938199417
+        },
+        {
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "score": 0.026004037204757635
+        },
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "score": 0.02323866595940757
+        },
+        {
+          "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "score": 0.02026813387442083
+        },
+        {
+          "title": "Cross-lingual Language Model Pretraining",
+          "score": 0.016655239224049934
+        },
+        {
+          "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+          "score": 0.014569780459490122
+        },
+        {
+          "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+          "score": 0.013075614306385222
+        },
+        {
+          "title": "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+          "score": 0.012958781115059572
+        },
+        {
+          "title": "Multi-Task Deep Neural Networks for Natural Language Understanding",
+          "score": 0.011686141379083435
+        },
+        {
+          "title": "TinyBERT: Distilling BERT for Natural Language Understanding",
+          "score": 0.010527193239264042
+        },
+        {
+          "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+          "score": 0.010394066075777652
+        },
+        {
+          "title": "SciBERT: A Pretrained Language Model for Scientific Text",
+          "score": 0.009834859720994758
+        },
+        {
+          "title": "Patient Knowledge Distillation for BERT Model Compression",
+          "score": 0.008393381678696315
+        },
+        {
+          "title": "Unified Language Model Pre-training for Natural Language Understanding and Generation",
+          "score": 0.0069405534440031705
+        },
+        {
+          "title": "MASS: Masked Sequence to Sequence Pre-training for Language Generation",
+          "score": 0.006917682025757061
+        },
+        {
+          "title": "Publicly Available Clinical BERT Embeddings",
+          "score": 0.006816596447957756
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2020,
+    "window_end": 2022,
+    "paper_count": 5579,
+    "edge_count": 7223,
+    "dbcv_score": 0.4086360610887749,
+    "topics": [
+      {
+        "cluster_id": 6,
+        "size": 2859,
+        "keywords": [
+          "language",
+          "natural",
+          "processing",
+          "learning",
+          "models",
+          "based",
+          "survey",
+          "using",
+          "deep",
+          "text",
+          "neural",
+          "transformer",
+          "model",
+          "pre",
+          "data"
+        ],
+        "confidence": 0.9915834250834906
+      },
+      {
+        "cluster_id": 5,
+        "size": 761,
+        "keywords": [
+          "analysis",
+          "sentiment",
+          "learning",
+          "language",
+          "using",
+          "based",
+          "natural",
+          "processing",
+          "text",
+          "detection",
+          "classification",
+          "deep",
+          "machine",
+          "social",
+          "covid"
+        ],
+        "confidence": 0.6856024426126052
+      },
+      {
+        "cluster_id": 4,
+        "size": 753,
+        "keywords": [
+          "language",
+          "natural",
+          "processing",
+          "using",
+          "clinical",
+          "learning",
+          "health",
+          "based",
+          "medical",
+          "machine",
+          "review",
+          "electronic",
+          "text",
+          "data",
+          "records"
+        ],
+        "confidence": 0.7641687670249927
+      },
+      {
+        "cluster_id": 3,
+        "size": 316,
+        "keywords": [
+          "language",
+          "natural",
+          "chatbot",
+          "processing",
+          "learning",
+          "based",
+          "using",
+          "conversational",
+          "ai",
+          "artificial",
+          "intelligence",
+          "chatbots",
+          "review",
+          "dialogue",
+          "education"
+        ],
+        "confidence": 0.8334761549260138
+      },
+      {
+        "cluster_id": 1,
+        "size": 272,
+        "keywords": [
+          "language",
+          "learning",
+          "natural",
+          "adversarial",
+          "processing",
+          "detection",
+          "based",
+          "models",
+          "using",
+          "privacy",
+          "text",
+          "attacks",
+          "deep",
+          "nlp",
+          "attack"
+        ],
+        "confidence": 0.7666107953926373
+      },
+      {
+        "cluster_id": 0,
+        "size": 116,
+        "keywords": [
+          "learning",
+          "language",
+          "deep",
+          "using",
+          "protein",
+          "models",
+          "model",
+          "prediction",
+          "sequence",
+          "natural",
+          "molecular",
+          "chemical",
+          "data",
+          "based",
+          "processing"
+        ],
+        "confidence": 0.9158471208818386
+      },
+      {
+        "cluster_id": 2,
+        "size": 81,
+        "keywords": [
+          "language",
+          "speech",
+          "recognition",
+          "learning",
+          "sign",
+          "end",
+          "using",
+          "processing",
+          "based",
+          "spoken",
+          "translation",
+          "self",
+          "natural",
+          "supervised",
+          "understanding"
+        ],
+        "confidence": 0.9998815009646717
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "score": 41302
+        },
+        {
+          "title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "score": 28903
+        },
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 12686
+        },
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "score": 10099
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 9151
+        },
+        {
+          "title": "Training data-efficient image transformers & distillation through attention",
+          "score": 6690
+        },
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 6159
+        },
+        {
+          "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+          "score": 6136
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "score": 5385
+        },
+        {
+          "title": "Scaling Laws for Neural Language Models",
+          "score": 4707
+        },
+        {
+          "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+          "score": 4617
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 4332
+        },
+        {
+          "title": "Measuring Massive Multitask Language Understanding",
+          "score": 4304
+        },
+        {
+          "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+          "score": 3934
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 3533
+        },
+        {
+          "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+          "score": 3350
+        },
+        {
+          "title": "BEiT: BERT Pre-Training of Image Transformers",
+          "score": 2790
+        },
+        {
+          "title": "DeBERTa: Decoding-enhanced BERT with Disentangled Attention",
+          "score": 2698
+        },
+        {
+          "title": "A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects",
+          "score": 2675
+        },
+        {
+          "title": "Transformers in Vision: A Survey",
+          "score": 2478
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "How Much Knowledge Can You Pack into the Parameters of a Language Model?",
+          "score": 0.04389484992654042
+        },
+        {
+          "title": "REALM: Retrieval-Augmented Language Model Pre-Training",
+          "score": 0.04179744855966395
+        },
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "score": 0.031827082993554516
+        },
+        {
+          "title": "Scaling Laws for Neural Language Models",
+          "score": 0.006847413441462462
+        },
+        {
+          "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+          "score": 0.005368577535766679
+        },
+        {
+          "title": "Language (Technology) is Power: A Critical Survey of \u201cBias\u201d in NLP",
+          "score": 0.004759985738934841
+        },
+        {
+          "title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "score": 0.004623592700718162
+        },
+        {
+          "title": "Adversarial Training for Large Neural Language Models",
+          "score": 0.004428632815239659
+        },
+        {
+          "title": "Training data-efficient image transformers & distillation through attention",
+          "score": 0.004025757591301289
+        },
+        {
+          "title": "Pretrained Transformers Improve Out-of-Distribution Robustness",
+          "score": 0.003587219461438036
+        },
+        {
+          "title": "Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers",
+          "score": 0.0034488033905581803
+        },
+        {
+          "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+          "score": 0.003408318890699769
+        },
+        {
+          "title": "StereoSet: Measuring stereotypical bias in pretrained language models",
+          "score": 0.0032277611132198753
+        },
+        {
+          "title": "Multilingual Denoising Pre-training for Neural Machine Translation",
+          "score": 0.002958000364554333
+        },
+        {
+          "title": "How Can We Accelerate Progress Towards Human-like Linguistic Generalization?",
+          "score": 0.0029121996286667457
+        },
+        {
+          "title": "Stanza: A Python Natural Language Processing Toolkit for Many Human Languages",
+          "score": 0.0028716903609703032
+        },
+        {
+          "title": "AraBERT: Transformer-based Model for Arabic Language Understanding",
+          "score": 0.002764224115076104
+        },
+        {
+          "title": "UnifiedQA: Crossing Format Boundaries With a Single QA System",
+          "score": 0.0027574401363936476
+        },
+        {
+          "title": "Compressing Large-Scale Transformer-Based Models: A Case Study on BERT",
+          "score": 0.0023687017148760754
+        },
+        {
+          "title": "Pre-trained models for natural language processing: A survey",
+          "score": 0.0023322317601466554
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "Language Models are Few-Shot Learners",
+          "score": 0.21214926189252273
+        },
+        {
+          "title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "score": 0.03236666577900115
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 0.021826465669139202
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "score": 0.020527448108843844
+        },
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 0.017401519025599953
+        },
+        {
+          "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+          "score": 0.016553603140031334
+        },
+        {
+          "title": "Scaling Laws for Neural Language Models",
+          "score": 0.01607925834013722
+        },
+        {
+          "title": "REALM: Retrieval-Augmented Language Model Pre-Training",
+          "score": 0.015824874416962457
+        },
+        {
+          "title": "Training data-efficient image transformers & distillation through attention",
+          "score": 0.014737876203972801
+        },
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 0.014590865288264102
+        },
+        {
+          "title": "DeBERTa: Decoding-enhanced BERT with Disentangled Attention",
+          "score": 0.011468135452441179
+        },
+        {
+          "title": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts",
+          "score": 0.011048619350926579
+        },
+        {
+          "title": "How Much Knowledge Can You Pack into the Parameters of a Language Model?",
+          "score": 0.0108564462859799
+        },
+        {
+          "title": "Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference",
+          "score": 0.010439869717776634
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 0.009690470904870982
+        },
+        {
+          "title": "Linformer: Self-Attention with Linear Complexity",
+          "score": 0.009476039909805988
+        },
+        {
+          "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+          "score": 0.008596463351098317
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 0.008569202219972875
+        },
+        {
+          "title": "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model",
+          "score": 0.008124704187923989
+        },
+        {
+          "title": "Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing",
+          "score": 0.008032352934292978
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2021,
+    "window_end": 2023,
+    "paper_count": 5684,
+    "edge_count": 8779,
+    "dbcv_score": 0.04178994880320212,
+    "topics": [
+      {
+        "cluster_id": 3,
+        "size": 4369,
+        "keywords": [
+          "language",
+          "natural",
+          "models",
+          "processing",
+          "learning",
+          "based",
+          "using",
+          "large",
+          "text",
+          "survey",
+          "analysis",
+          "deep",
+          "model",
+          "transformer",
+          "machine"
+        ],
+        "confidence": 0.9835990605670714
+      },
+      {
+        "cluster_id": 0,
+        "size": 816,
+        "keywords": [
+          "language",
+          "natural",
+          "processing",
+          "using",
+          "clinical",
+          "learning",
+          "health",
+          "review",
+          "medical",
+          "models",
+          "based",
+          "electronic",
+          "large",
+          "machine",
+          "records"
+        ],
+        "confidence": 0.7960029649683691
+      },
+      {
+        "cluster_id": 1,
+        "size": 287,
+        "keywords": [
+          "language",
+          "learning",
+          "adversarial",
+          "models",
+          "detection",
+          "natural",
+          "based",
+          "processing",
+          "privacy",
+          "using",
+          "attacks",
+          "model",
+          "contrastive",
+          "nlp",
+          "deep"
+        ],
+        "confidence": 0.8393373145846824
+      },
+      {
+        "cluster_id": 2,
+        "size": 122,
+        "keywords": [
+          "language",
+          "models",
+          "learning",
+          "protein",
+          "model",
+          "using",
+          "molecular",
+          "deep",
+          "based",
+          "chemical",
+          "sequence",
+          "prediction",
+          "design",
+          "natural",
+          "transformer"
+        ],
+        "confidence": 0.9500197127917128
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "score": 28903
+        },
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 12954
+        },
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 12686
+        },
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "score": 10099
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 9151
+        },
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 6159
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "score": 5385
+        },
+        {
+          "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+          "score": 4617
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 4332
+        },
+        {
+          "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+          "score": 3934
+        },
+        {
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "score": 3800
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 3533
+        },
+        {
+          "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+          "score": 3350
+        },
+        {
+          "title": "DINOv2: Learning Robust Visual Features without Supervision",
+          "score": 3256
+        },
+        {
+          "title": "BEiT: BERT Pre-Training of Image Transformers",
+          "score": 2790
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 2659
+        },
+        {
+          "title": "Transformers in Vision: A Survey",
+          "score": 2478
+        },
+        {
+          "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+          "score": 2364
+        },
+        {
+          "title": "Learning to Prompt for Vision-Language Models",
+          "score": 2355
+        },
+        {
+          "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "score": 2098
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "score": 0.029245891381565456
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "score": 0.01588821046397209
+        },
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 0.011797761624561039
+        },
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 0.010621479530297689
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 0.009616958010453027
+        },
+        {
+          "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+          "score": 0.008944398533787383
+        },
+        {
+          "title": "BEiT: BERT Pre-Training of Image Transformers",
+          "score": 0.007241796848021521
+        },
+        {
+          "title": "ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning",
+          "score": 0.006805959047116828
+        },
+        {
+          "title": "What\u2019s in Your Head? Emergent Behaviour in Multi-Task Transformer Models",
+          "score": 0.006019574367560385
+        },
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 0.005849342252590578
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 0.005206373281264926
+        },
+        {
+          "title": "PanGu-\u03b1: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation",
+          "score": 0.005080886272921366
+        },
+        {
+          "title": "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model",
+          "score": 0.00424665299145642
+        },
+        {
+          "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+          "score": 0.0039281751887419525
+        },
+        {
+          "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+          "score": 0.0036691592246864144
+        },
+        {
+          "title": "QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer",
+          "score": 0.0034691302986721083
+        },
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "score": 0.0033803374608387454
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 0.0033056438629531504
+        },
+        {
+          "title": "lambeq: An Efficient High-Level Python Library for Quantum NLP",
+          "score": 0.0028960907391549877
+        },
+        {
+          "title": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts",
+          "score": 0.0028239624053064774
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 0.08019505640792238
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 0.07000463787573762
+        },
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 0.054008374570823456
+        },
+        {
+          "title": "Learning Transferable Visual Models From Natural Language Supervision",
+          "score": 0.05114597553640424
+        },
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 0.05051779291730287
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "score": 0.03914823608032608
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 0.033514599915190346
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 0.03187951937569291
+        },
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "score": 0.026678263500405704
+        },
+        {
+          "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+          "score": 0.021449368471762893
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 0.014401004326142308
+        },
+        {
+          "title": "Solving Quantitative Reasoning Problems with Language Models",
+          "score": 0.013885805578166589
+        },
+        {
+          "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+          "score": 0.01372279362283698
+        },
+        {
+          "title": "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model",
+          "score": 0.013617566003828635
+        },
+        {
+          "title": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts",
+          "score": 0.01142694659722411
+        },
+        {
+          "title": "CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation",
+          "score": 0.007894038602820484
+        },
+        {
+          "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+          "score": 0.006723676160245177
+        },
+        {
+          "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+          "score": 0.006450152306661659
+        },
+        {
+          "title": "PanGu-\u03b1: Large-scale Autoregressive Pretrained Chinese Language Models with Auto-parallel Computation",
+          "score": 0.0062358239608606095
+        },
+        {
+          "title": "Code as Policies: Language Model Programs for Embodied Control",
+          "score": 0.00608027523905882
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2022,
+    "window_end": 2024,
+    "paper_count": 5921,
+    "edge_count": 10079,
+    "dbcv_score": 0.25748444534269294,
+    "topics": [
+      {
+        "cluster_id": 3,
+        "size": 4525,
+        "keywords": [
+          "language",
+          "models",
+          "natural",
+          "large",
+          "learning",
+          "processing",
+          "based",
+          "using",
+          "model",
+          "survey",
+          "text",
+          "analysis",
+          "deep",
+          "review",
+          "generation"
+        ],
+        "confidence": 0.9790768053987595
+      },
+      {
+        "cluster_id": 1,
+        "size": 763,
+        "keywords": [
+          "language",
+          "natural",
+          "processing",
+          "clinical",
+          "models",
+          "using",
+          "large",
+          "review",
+          "medical",
+          "health",
+          "learning",
+          "applications",
+          "artificial",
+          "intelligence",
+          "healthcare"
+        ],
+        "confidence": 0.7853377259078208
+      },
+      {
+        "cluster_id": 2,
+        "size": 253,
+        "keywords": [
+          "language",
+          "models",
+          "learning",
+          "large",
+          "privacy",
+          "attacks",
+          "natural",
+          "detection",
+          "processing",
+          "adversarial",
+          "based",
+          "survey",
+          "model",
+          "federated",
+          "security"
+        ],
+        "confidence": 0.8447098778535256
+      },
+      {
+        "cluster_id": 0,
+        "size": 172,
+        "keywords": [
+          "language",
+          "models",
+          "protein",
+          "learning",
+          "large",
+          "model",
+          "based",
+          "using",
+          "prediction",
+          "deep",
+          "molecular",
+          "natural",
+          "drug",
+          "processing",
+          "design"
+        ],
+        "confidence": 0.8938242119086531
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 12954
+        },
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 12686
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 9151
+        },
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 6159
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 4332
+        },
+        {
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "score": 3800
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 3533
+        },
+        {
+          "title": "DINOv2: Learning Robust Visual Features without Supervision",
+          "score": 3256
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 2659
+        },
+        {
+          "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+          "score": 2364
+        },
+        {
+          "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "score": 2098
+        },
+        {
+          "title": "Qwen Technical Report",
+          "score": 1756
+        },
+        {
+          "title": "A Survey on Evaluation of Large Language Models",
+          "score": 1619
+        },
+        {
+          "title": "Diffusion Models: A Comprehensive Survey of Methods and Applications",
+          "score": 1360
+        },
+        {
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 1225
+        },
+        {
+          "title": "How Does ChatGPT Perform on the United States Medical Licensing Examination (USMLE)? The Implications of Large Language Models for Medical Education and Knowledge Assessment",
+          "score": 1224
+        },
+        {
+          "title": "PaLM 2 Technical Report",
+          "score": 1178
+        },
+        {
+          "title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment",
+          "score": 1155
+        },
+        {
+          "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images",
+          "score": 1098
+        },
+        {
+          "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+          "score": 1084
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 0.04450878191407462
+        },
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 0.0412683669023162
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 0.03772384209777562
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 0.023419248930139063
+        },
+        {
+          "title": "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model",
+          "score": 0.02032906931245537
+        },
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 0.01804496055109493
+        },
+        {
+          "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+          "score": 0.011039892585042035
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 0.010722144475202483
+        },
+        {
+          "title": "Designing Effective Sparse Expert Models",
+          "score": 0.008470874113523843
+        },
+        {
+          "title": "Solving Quantitative Reasoning Problems with Language Models",
+          "score": 0.007018600574786968
+        },
+        {
+          "title": "Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text",
+          "score": 0.005700579487240294
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 0.00294015086641408
+        },
+        {
+          "title": "Natural Language to Code Translation with Execution",
+          "score": 0.0027476138061722556
+        },
+        {
+          "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+          "score": 0.0026421324239948234
+        },
+        {
+          "title": "EleutherAI: Going Beyond \"Open Science\" to \"Science in the Open\"",
+          "score": 0.0020484807466261464
+        },
+        {
+          "title": "BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining",
+          "score": 0.0019476361600320822
+        },
+        {
+          "title": "Autoformalization with Large Language Models",
+          "score": 0.001905143759820462
+        },
+        {
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "score": 0.0018409021410540672
+        },
+        {
+          "title": "A Contrastive Framework for Neural Text Generation",
+          "score": 0.0018185398378996777
+        },
+        {
+          "title": "Contrastive Search Is What You Need For Neural Text Generation",
+          "score": 0.0016211071888055173
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "Training language models to follow instructions with human feedback",
+          "score": 0.10479205743881025
+        },
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 0.09425187017669957
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "score": 0.07766636698464734
+        },
+        {
+          "title": "PaLM: Scaling Language Modeling with Pathways",
+          "score": 0.059197826250290735
+        },
+        {
+          "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+          "score": 0.038462622150874586
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "score": 0.03459612223589825
+        },
+        {
+          "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+          "score": 0.02897700907839008
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 0.020164719615866397
+        },
+        {
+          "title": "Solving Quantitative Reasoning Problems with Language Models",
+          "score": 0.01392845117734739
+        },
+        {
+          "title": "Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model",
+          "score": 0.011868188221971694
+        },
+        {
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "score": 0.010696599031658469
+        },
+        {
+          "title": "PaLM 2 Technical Report",
+          "score": 0.008226326290949354
+        },
+        {
+          "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+          "score": 0.007465360404767011
+        },
+        {
+          "title": "Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning",
+          "score": 0.006511900787159603
+        },
+        {
+          "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+          "score": 0.0061843622876712285
+        },
+        {
+          "title": "Qwen Technical Report",
+          "score": 0.005687863824812624
+        },
+        {
+          "title": "Towards Reasoning in Large Language Models: A Survey",
+          "score": 0.005567414283323356
+        },
+        {
+          "title": "CodeT5+: Open Code Large Language Models for Code Understanding and Generation",
+          "score": 0.005453901638013544
+        },
+        {
+          "title": "Red Teaming Language Models with Language Models",
+          "score": 0.005390094695112421
+        },
+        {
+          "title": "BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining",
+          "score": 0.005344693700464301
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2023,
+    "window_end": 2025,
+    "paper_count": 4766,
+    "edge_count": 6128,
+    "dbcv_score": 0.40484247911572985,
+    "topics": [
+      {
+        "cluster_id": 1,
+        "size": 589,
+        "keywords": [
+          "language",
+          "natural",
+          "processing",
+          "models",
+          "large",
+          "medical",
+          "review",
+          "clinical",
+          "using",
+          "health",
+          "healthcare",
+          "learning",
+          "applications",
+          "chatgpt",
+          "systematic"
+        ],
+        "confidence": 0.7921871906346872
+      },
+      {
+        "cluster_id": 9,
+        "size": 359,
+        "keywords": [
+          "language",
+          "models",
+          "large",
+          "learning",
+          "survey",
+          "model",
+          "transformers",
+          "efficient",
+          "deep",
+          "tuning",
+          "neural",
+          "transformer",
+          "networks",
+          "time",
+          "fine"
+        ],
+        "confidence": 0.9603657182699823
+      },
+      {
+        "cluster_id": 5,
+        "size": 306,
+        "keywords": [
+          "language",
+          "chatgpt",
+          "ai",
+          "education",
+          "natural",
+          "models",
+          "processing",
+          "learning",
+          "large",
+          "artificial",
+          "intelligence",
+          "review",
+          "using",
+          "chatbot",
+          "analysis"
+        ],
+        "confidence": 0.889037511101764
+      },
+      {
+        "cluster_id": 12,
+        "size": 252,
+        "keywords": [
+          "language",
+          "models",
+          "large",
+          "reasoning",
+          "agents",
+          "model",
+          "planning",
+          "survey",
+          "learning",
+          "llm",
+          "robot",
+          "based",
+          "natural",
+          "ai",
+          "multi"
+        ],
+        "confidence": 0.915818289233528
+      },
+      {
+        "cluster_id": 6,
+        "size": 238,
+        "keywords": [
+          "language",
+          "models",
+          "image",
+          "visual",
+          "vision",
+          "multimodal",
+          "generation",
+          "large",
+          "text",
+          "learning",
+          "survey",
+          "video",
+          "natural",
+          "understanding",
+          "model"
+        ],
+        "confidence": 0.8621010929104079
+      },
+      {
+        "cluster_id": 10,
+        "size": 184,
+        "keywords": [
+          "language",
+          "code",
+          "models",
+          "large",
+          "generation",
+          "software",
+          "natural",
+          "llm",
+          "using",
+          "model",
+          "requirements",
+          "llms",
+          "engineering",
+          "study",
+          "based"
+        ],
+        "confidence": 0.844027519322785
+      },
+      {
+        "cluster_id": 13,
+        "size": 178,
+        "keywords": [
+          "language",
+          "models",
+          "large",
+          "translation",
+          "languages",
+          "multilingual",
+          "machine",
+          "natural",
+          "low",
+          "processing",
+          "resource",
+          "model",
+          "survey",
+          "cross",
+          "benchmark"
+        ],
+        "confidence": 0.9101070274664222
+      },
+      {
+        "cluster_id": 0,
+        "size": 177,
+        "keywords": [
+          "language",
+          "models",
+          "protein",
+          "large",
+          "learning",
+          "model",
+          "natural",
+          "processing",
+          "based",
+          "using",
+          "drug",
+          "molecular",
+          "prediction",
+          "design",
+          "transformer"
+        ],
+        "confidence": 0.8844727735041248
+      },
+      {
+        "cluster_id": 7,
+        "size": 175,
+        "keywords": [
+          "sentiment",
+          "analysis",
+          "language",
+          "learning",
+          "based",
+          "natural",
+          "processing",
+          "using",
+          "deep",
+          "text",
+          "classification",
+          "social",
+          "models",
+          "model",
+          "techniques"
+        ],
+        "confidence": 0.8709293357500459
+      },
+      {
+        "cluster_id": 2,
+        "size": 160,
+        "keywords": [
+          "language",
+          "models",
+          "large",
+          "privacy",
+          "attacks",
+          "survey",
+          "learning",
+          "llm",
+          "adversarial",
+          "security",
+          "detection",
+          "backdoor",
+          "model",
+          "natural",
+          "based"
+        ],
+        "confidence": 0.8406861292150005
+      },
+      {
+        "cluster_id": 11,
+        "size": 148,
+        "keywords": [
+          "language",
+          "knowledge",
+          "models",
+          "large",
+          "graph",
+          "extraction",
+          "graphs",
+          "question",
+          "answering",
+          "based",
+          "generation",
+          "information",
+          "text",
+          "model",
+          "using"
+        ],
+        "confidence": 0.9660633779479245
+      },
+      {
+        "cluster_id": 14,
+        "size": 112,
+        "keywords": [
+          "language",
+          "models",
+          "large",
+          "survey",
+          "prompt",
+          "llms",
+          "llm",
+          "model",
+          "challenges",
+          "evaluation",
+          "learning",
+          "natural",
+          "efficient",
+          "context",
+          "effective"
+        ],
+        "confidence": 0.9905495625835645
+      },
+      {
+        "cluster_id": 4,
+        "size": 108,
+        "keywords": [
+          "language",
+          "models",
+          "large",
+          "hallucination",
+          "llms",
+          "recognition",
+          "emotion",
+          "speech",
+          "based",
+          "natural",
+          "sign",
+          "hallucinations",
+          "using",
+          "personality",
+          "text"
+        ],
+        "confidence": 0.9767049058363606
+      },
+      {
+        "cluster_id": 8,
+        "size": 101,
+        "keywords": [
+          "intelligence",
+          "ai",
+          "artificial",
+          "management",
+          "driven",
+          "challenges",
+          "language",
+          "review",
+          "processing",
+          "sustainable",
+          "role",
+          "natural",
+          "applications",
+          "learning",
+          "machine"
+        ],
+        "confidence": 0.9865269209197962
+      },
+      {
+        "cluster_id": 3,
+        "size": 89,
+        "keywords": [
+          "speech",
+          "language",
+          "models",
+          "audio",
+          "large",
+          "text",
+          "survey",
+          "generation",
+          "natural",
+          "diffusion",
+          "model",
+          "processing",
+          "using",
+          "self",
+          "synthesis"
+        ],
+        "confidence": 0.9745667701615615
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 12954
+        },
+        {
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "score": 3800
+        },
+        {
+          "title": "DINOv2: Learning Robust Visual Features without Supervision",
+          "score": 3256
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 2659
+        },
+        {
+          "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "score": 2098
+        },
+        {
+          "title": "Qwen Technical Report",
+          "score": 1756
+        },
+        {
+          "title": "A Survey on Evaluation of Large Language Models",
+          "score": 1619
+        },
+        {
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 1225
+        },
+        {
+          "title": "How Does ChatGPT Perform on the United States Medical Licensing Examination (USMLE)? The Implications of Large Language Models for Medical Education and Knowledge Assessment",
+          "score": 1224
+        },
+        {
+          "title": "PaLM 2 Technical Report",
+          "score": 1178
+        },
+        {
+          "title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment",
+          "score": 1155
+        },
+        {
+          "title": "Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation",
+          "score": 943
+        },
+        {
+          "title": "Sentiment Analysis",
+          "score": 830
+        },
+        {
+          "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+          "score": 816
+        },
+        {
+          "title": "A Brief Overview of ChatGPT: The History, Status Quo and Potential Future Development",
+          "score": 774
+        },
+        {
+          "title": "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+          "score": 760
+        },
+        {
+          "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+          "score": 755
+        },
+        {
+          "title": "StarCoder: may the source be with you!",
+          "score": 747
+        },
+        {
+          "title": "Abstractive Text Summarization Using GAN",
+          "score": 702
+        },
+        {
+          "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+          "score": 692
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 0.06583267588889052
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 0.011350041522185866
+        },
+        {
+          "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+          "score": 0.011149494833497973
+        },
+        {
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "score": 0.005918025188487
+        },
+        {
+          "title": "PaLM 2 Technical Report",
+          "score": 0.004955158940131452
+        },
+        {
+          "title": "Pretraining Language Models with Human Preferences",
+          "score": 0.0047207049165841645
+        },
+        {
+          "title": "A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT",
+          "score": 0.003698404070828774
+        },
+        {
+          "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "score": 0.0034856474025553356
+        },
+        {
+          "title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment",
+          "score": 0.0034536868977731823
+        },
+        {
+          "title": "Qwen Technical Report",
+          "score": 0.0034459118012249196
+        },
+        {
+          "title": "A Survey on Evaluation of Large Language Models",
+          "score": 0.0033740040388993164
+        },
+        {
+          "title": "How Does ChatGPT Perform on the United States Medical Licensing Examination (USMLE)? The Implications of Large Language Models for Medical Education and Knowledge Assessment",
+          "score": 0.003137231158866894
+        },
+        {
+          "title": "Large Language Models",
+          "score": 0.003044397580720346
+        },
+        {
+          "title": "Scaling Transformer to 1M tokens and beyond with RMT",
+          "score": 0.0026132116722837836
+        },
+        {
+          "title": "RWKV: Reinventing RNNs for the Transformer Era",
+          "score": 0.002571078689825856
+        },
+        {
+          "title": "Augmented Language Models: a Survey",
+          "score": 0.002443901236221778
+        },
+        {
+          "title": "StarCoder: may the source be with you!",
+          "score": 0.0023531023289971318
+        },
+        {
+          "title": "Natural Language Processing in the Legal Domain",
+          "score": 0.0022324079701033592
+        },
+        {
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 0.002151400416745718
+        },
+        {
+          "title": "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond",
+          "score": 0.002021086128593505
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "LLaMA: Open and Efficient Foundation Language Models",
+          "score": 0.3033823908163803
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "score": 0.04109488942884319
+        },
+        {
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "score": 0.016894151905533603
+        },
+        {
+          "title": "Qwen Technical Report",
+          "score": 0.015641583085980963
+        },
+        {
+          "title": "PaLM 2 Technical Report",
+          "score": 0.014877721504532005
+        },
+        {
+          "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+          "score": 0.0104369888190549
+        },
+        {
+          "title": "One Fits All: Power General Time Series Analysis by Pretrained LM",
+          "score": 0.009582990765784631
+        },
+        {
+          "title": "StarCoder: may the source be with you!",
+          "score": 0.008891288206443637
+        },
+        {
+          "title": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+          "score": 0.008661020827803319
+        },
+        {
+          "title": "Time-LLM: Time Series Forecasting by Reprogramming Large Language Models",
+          "score": 0.008648973000745233
+        },
+        {
+          "title": "HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge",
+          "score": 0.008447006730030772
+        },
+        {
+          "title": "CodeT5+: Open Code Large Language Models for Code Understanding and Generation",
+          "score": 0.00793197538489415
+        },
+        {
+          "title": "A Survey on Evaluation of Large Language Models",
+          "score": 0.007698488697999797
+        },
+        {
+          "title": "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond",
+          "score": 0.006780599421134141
+        },
+        {
+          "title": "G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment",
+          "score": 0.006725085648753316
+        },
+        {
+          "title": "A Survey on Large Language Model based Autonomous Agents",
+          "score": 0.005892842217350508
+        },
+        {
+          "title": "Augmented Language Models: a Survey",
+          "score": 0.005800884577187346
+        },
+        {
+          "title": "ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models",
+          "score": 0.005694097570244162
+        },
+        {
+          "title": "PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance",
+          "score": 0.005609827554920818
+        },
+        {
+          "title": "Language is All a Graph Needs",
+          "score": 0.0054839806805447285
+        }
+      ]
+    }
+  },
+  {
+    "window_start": 2024,
+    "window_end": 2026,
+    "paper_count": 2760,
+    "edge_count": 898,
+    "dbcv_score": 0.5127995599079828,
+    "topics": [
+      {
+        "cluster_id": 0,
+        "size": 2278,
+        "keywords": [
+          "language",
+          "models",
+          "large",
+          "natural",
+          "learning",
+          "model",
+          "processing",
+          "survey",
+          "based",
+          "llm",
+          "generation",
+          "llms",
+          "using",
+          "ai",
+          "analysis"
+        ],
+        "confidence": 0.9792496455740415
+      },
+      {
+        "cluster_id": 2,
+        "size": 301,
+        "keywords": [
+          "language",
+          "processing",
+          "natural",
+          "models",
+          "review",
+          "large",
+          "medical",
+          "healthcare",
+          "clinical",
+          "using",
+          "learning",
+          "systematic",
+          "applications",
+          "health",
+          "machine"
+        ],
+        "confidence": 0.8333901530571073
+      },
+      {
+        "cluster_id": 1,
+        "size": 103,
+        "keywords": [
+          "language",
+          "protein",
+          "models",
+          "large",
+          "model",
+          "learning",
+          "natural",
+          "based",
+          "processing",
+          "prediction",
+          "drug",
+          "using",
+          "design",
+          "foundation",
+          "analysis"
+        ],
+        "confidence": 0.9507674632041344
+      }
+    ],
+    "top_papers": {
+      "by_citation": [
+        {
+          "title": "Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation",
+          "score": 943
+        },
+        {
+          "title": "Sentiment Analysis",
+          "score": 830
+        },
+        {
+          "title": "Abstractive Text Summarization Using GAN",
+          "score": 702
+        },
+        {
+          "title": "GPT-4 passes the bar exam",
+          "score": 400
+        },
+        {
+          "title": "Large Language Models: A Survey",
+          "score": 394
+        },
+        {
+          "title": "OLMo: Accelerating the Science of Language Models",
+          "score": 388
+        },
+        {
+          "title": "AI-Driven Proactive Cloud Application Data Access Security",
+          "score": 216
+        },
+        {
+          "title": "Statistical mechanics of deep learning",
+          "score": 215
+        },
+        {
+          "title": "SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation",
+          "score": 210
+        },
+        {
+          "title": "TrustLLM: Trustworthiness in Large Language Models",
+          "score": 205
+        },
+        {
+          "title": "PMC-LLaMA: toward building open-source language models for medicine",
+          "score": 181
+        },
+        {
+          "title": "A Survey on Large Language Models for Code Generation",
+          "score": 177
+        },
+        {
+          "title": "SliceGPT: Compress Large Language Models by Deleting Rows and Columns",
+          "score": 169
+        },
+        {
+          "title": "Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs",
+          "score": 168
+        },
+        {
+          "title": "Autoencoders and their applications in machine learning: a survey",
+          "score": 149
+        },
+        {
+          "title": "Evaluating Text-to-Visual Generation with Image-to-Text Generation",
+          "score": 149
+        },
+        {
+          "title": "Transformative Potential of AI in Healthcare: Definitions, Applications, and Navigating the Ethical Landscape and Public Perspectives",
+          "score": 144
+        },
+        {
+          "title": "Qwen2-Audio Technical Report",
+          "score": 136
+        },
+        {
+          "title": "Chatbots and Large Language Models in Radiology: A Practical Primer for Clinical and Research Applications.",
+          "score": 135
+        },
+        {
+          "title": "Security and Privacy Challenges of Large Language Models: A Survey",
+          "score": 125
+        }
+      ],
+      "by_pagerank": [
+        {
+          "title": "TrustLLM: Trustworthiness in Large Language Models",
+          "score": 0.00524828659739278
+        },
+        {
+          "title": "OLMo: Accelerating the Science of Language Models",
+          "score": 0.0036282066119888295
+        },
+        {
+          "title": "Implicit Optimization Bias of Next-token Prediction in Linear Models",
+          "score": 0.003246924526776585
+        },
+        {
+          "title": "Large Language Models: A Survey",
+          "score": 0.003217484088553004
+        },
+        {
+          "title": "Evaluating Text-to-Visual Generation with Image-to-Text Generation",
+          "score": 0.0031603057430071636
+        },
+        {
+          "title": "GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation",
+          "score": 0.0029520107089909776
+        },
+        {
+          "title": "SpeechVerse: A Large-scale Generalizable Audio Language Model",
+          "score": 0.0026755572952251025
+        },
+        {
+          "title": "SliceGPT: Compress Large Language Models by Deleting Rows and Columns",
+          "score": 0.0019251299756264577
+        },
+        {
+          "title": "Efficiency Optimization of Large-Scale Language Models Based on Deep Learning in Natural Language Processing Tasks",
+          "score": 0.001883534860465934
+        },
+        {
+          "title": "Mechanics of Next Token Prediction with Self-Attention",
+          "score": 0.0018267003437178165
+        },
+        {
+          "title": "Qwen2-Audio Technical Report",
+          "score": 0.0016991727617972812
+        },
+        {
+          "title": "Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations",
+          "score": 0.001695722241109399
+        },
+        {
+          "title": "PMC-LLaMA: toward building open-source language models for medicine",
+          "score": 0.0016452522210621842
+        },
+        {
+          "title": "ShieldGPT: An LLM-based Framework for DDoS Mitigation",
+          "score": 0.0015935378700930231
+        },
+        {
+          "title": "CAMEx: Curvature-aware Merging of Experts",
+          "score": 0.0015398073924943292
+        },
+        {
+          "title": "Self-Exploring Language Models: Active Preference Elicitation for Online Alignment",
+          "score": 0.0015398073924943292
+        },
+        {
+          "title": "Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF",
+          "score": 0.0015398073924943292
+        },
+        {
+          "title": "MoLEx: Mixture of Layer Experts for Finetuning with Sparse Upcycling",
+          "score": 0.0015398073924943292
+        },
+        {
+          "title": "Word-specific tonal realizations in Mandarin",
+          "score": 0.0015398073924943292
+        },
+        {
+          "title": "Time and thyme again: Connecting English spoken word duration to models of the mental lexicon",
+          "score": 0.0015398073924943292
+        }
+      ],
+      "by_authority": [
+        {
+          "title": "BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation",
+          "score": 0.47820060753677085
+        },
+        {
+          "title": "DB-LLM: Accurate Dual-Binarization for Efficient LLMs",
+          "score": 0.44237627485107095
+        },
+        {
+          "title": "SliceGPT: Compress Large Language Models by Deleting Rows and Columns",
+          "score": 0.05427178885816802
+        },
+        {
+          "title": "ARB-LLM: Alternating Refined Binarizations for Large Language Models",
+          "score": 0.009784584963187156
+        },
+        {
+          "title": "SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks",
+          "score": 0.0028450359285326285
+        },
+        {
+          "title": "Security and Privacy Challenges of Large Language Models: A Survey",
+          "score": 0.0014855920506359748
+        },
+        {
+          "title": "EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding",
+          "score": 0.0011468979526753265
+        },
+        {
+          "title": "EdgeShard: Efficient LLM Inference via Collaborative Edge Computing",
+          "score": 0.000791698774929581
+        },
+        {
+          "title": "A Survey on Mixture of Experts in Large Language Models",
+          "score": 0.000714886283355969
+        },
+        {
+          "title": "Evaluation of Retrieval-Augmented Generation: A Survey",
+          "score": 0.0006552333864752412
+        },
+        {
+          "title": "PMC-LLaMA: toward building open-source language models for medicine",
+          "score": 0.000641820713100424
+        },
+        {
+          "title": "Mobile-LLaMA: Instruction Fine-Tuning Open-Source LLM for Network Analysis in 5G Networks",
+          "score": 0.0006271635954535686
+        },
+        {
+          "title": "Harnessing LLMs for API Interactions: A Framework for Classification and Synthetic Data Generation",
+          "score": 0.0006264297605105137
+        },
+        {
+          "title": "A Survey on Large Language Models for Communication, Network, and Service Management: Application Insights, Challenges, and Future Directions",
+          "score": 0.0006139797337080852
+        },
+        {
+          "title": "Generative AI Meets Semantic Communication: Evolution and Revolution of Communication Tasks",
+          "score": 0.0006139797337080852
+        },
+        {
+          "title": "Personalized Wireless Federated Learning for Large Language Models",
+          "score": 0.0006139797337080852
+        },
+        {
+          "title": "Distributed Foundation Models for Multi-Modal Learning in 6G Wireless Networks",
+          "score": 0.000567750448286083
+        },
+        {
+          "title": "Multilingual Brain Surgeon: Large Language Models Can Be Compressed Leaving No Language behind",
+          "score": 0.0005511695243925455
+        },
+        {
+          "title": "SpeechVerse: A Large-scale Generalizable Audio Language Model",
+          "score": 0.00041750661936093916
+        },
+        {
+          "title": "WavLLM: Towards Robust and Adaptive Speech Large Language Model",
+          "score": 0.0002577634854955291
+        }
+      ]
+    }
+  }
+]

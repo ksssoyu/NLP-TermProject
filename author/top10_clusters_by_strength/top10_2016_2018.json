@@ -1,0 +1,998 @@
+{
+  "window": "2016_2018",
+  "num_clusters": 10,
+  "cluster_details": {
+    "34": [
+      {
+        "id": "Heladia Salgado"
+      },
+      {
+        "id": "S. Gama-Castro"
+      },
+      {
+        "id": "Laura Gómez-Romero"
+      },
+      {
+        "id": "Pablo Peña-Loredo"
+      },
+      {
+        "id": "J. García-Sotelo"
+      },
+      {
+        "id": "Carlos-Francisco Méndez-Cruz"
+      },
+      {
+        "id": "César Bonavides-Martínez"
+      },
+      {
+        "id": "J. Galagan"
+      },
+      {
+        "id": "J. Collado-Vides"
+      },
+      {
+        "id": "Alberto Santos-Zavaleta"
+      },
+      {
+        "id": "Mishael Sánchez-Pérez"
+      },
+      {
+        "id": "Daniela Ledezma-Tejeida"
+      },
+      {
+        "id": "Kevin Alquicira-Hernández"
+      },
+      {
+        "id": "Luis Muñiz-Rascado"
+      },
+      {
+        "id": "C. Ishida-Gutiérrez"
+      },
+      {
+        "id": "David A. Velázquez-Ramírez"
+      },
+      {
+        "id": "Victor del Moral-Chávez"
+      }
+    ],
+    "36": [
+      {
+        "id": "Samuel K. Cho"
+      },
+      {
+        "id": "Jun S. Kim"
+      },
+      {
+        "id": "E. Oermann"
+      },
+      {
+        "id": "J. Zech"
+      },
+      {
+        "id": "J. Titano"
+      },
+      {
+        "id": "A. Costa"
+      },
+      {
+        "id": "Marcus A. Badgeley"
+      },
+      {
+        "id": "J. Schefflein"
+      },
+      {
+        "id": "M. Pain"
+      },
+      {
+        "id": "Andres Su"
+      },
+      {
+        "id": "Michael Cai"
+      },
+      {
+        "id": "N. Swinburne"
+      },
+      {
+        "id": "J. Bederson"
+      },
+      {
+        "id": "J. Mocco"
+      },
+      {
+        "id": "B. Drayer"
+      },
+      {
+        "id": "J. Lehár"
+      }
+    ],
+    "5": [
+      {
+        "id": "Iryna Gurevych"
+      },
+      {
+        "id": "I. Soboroff"
+      },
+      {
+        "id": "Yiqun Liu"
+      },
+      {
+        "id": "Jian-Yun Nie"
+      },
+      {
+        "id": "M. Dras"
+      },
+      {
+        "id": "Benno Stein"
+      },
+      {
+        "id": "Josiane Mothe"
+      },
+      {
+        "id": "Mark Johnson"
+      },
+      {
+        "id": "Karin M. Verspoor"
+      },
+      {
+        "id": "N. Tintarev"
+      },
+      {
+        "id": "Steffen Eger"
+      },
+      {
+        "id": "Petr Knoth"
+      },
+      {
+        "id": "Dat Quoc Nguyen"
+      },
+      {
+        "id": "N. Fuhr"
+      },
+      {
+        "id": "R. Jones"
+      },
+      {
+        "id": "Krister Lindén"
+      },
+      {
+        "id": "Chao Li"
+      },
+      {
+        "id": "Thierry Declerck"
+      },
+      {
+        "id": "D. Q. Nguyen"
+      },
+      {
+        "id": "Richard Eckart de Castilho"
+      },
+      {
+        "id": "N. Ferro"
+      },
+      {
+        "id": "G. Grefenstette"
+      },
+      {
+        "id": "J. Konstan"
+      },
+      {
+        "id": "P. Castells"
+      },
+      {
+        "id": "E. Daly"
+      },
+      {
+        "id": "Michael D. Ekstrand"
+      },
+      {
+        "id": "Werner Geyer"
+      },
+      {
+        "id": "Julio Gonzalo"
+      },
+      {
+        "id": "T. Kuflik"
+      },
+      {
+        "id": "B. Magnini"
+      },
+      {
+        "id": "R. Perego"
+      },
+      {
+        "id": "Bracha Shapira"
+      },
+      {
+        "id": "M. Willemsen"
+      },
+      {
+        "id": "J. Zobel"
+      },
+      {
+        "id": "Paria Jamshid Lou"
+      },
+      {
+        "id": "Peter Anderson"
+      },
+      {
+        "id": "T. Margoni"
+      },
+      {
+        "id": "Florian Netzer"
+      },
+      {
+        "id": "Omid Mohamad Nezami"
+      },
+      {
+        "id": "Len Hamey"
+      },
+      {
+        "id": "Heidi Haltia"
+      },
+      {
+        "id": "Antti Laine"
+      },
+      {
+        "id": "J. Luukkonen"
+      },
+      {
+        "id": "Jussi Piitulainen"
+      },
+      {
+        "id": "Niina Väisänen"
+      },
+      {
+        "id": "Thanh Vu"
+      },
+      {
+        "id": "Giulia Dore"
+      },
+      {
+        "id": "Penny Labropoulou"
+      },
+      {
+        "id": "Anastasia Giahanou"
+      },
+      {
+        "id": "Andreas Hanselowski"
+      },
+      {
+        "id": "K. Järvelin"
+      },
+      {
+        "id": "W. Nejdl"
+      },
+      {
+        "id": "Isabella Peters"
+      },
+      {
+        "id": "D. Galanis"
+      },
+      {
+        "id": "Antonis Lempesis"
+      },
+      {
+        "id": "M. Greenwood"
+      },
+      {
+        "id": "Stavros Sachtouris"
+      },
+      {
+        "id": "Byron Georgantopoulos"
+      },
+      {
+        "id": "Lucas Anastasiou"
+      },
+      {
+        "id": "Stefania Martziou"
+      },
+      {
+        "id": "Gkirtzou Katerina"
+      },
+      {
+        "id": "Natalia Manola"
+      },
+      {
+        "id": "Stelios Piperidis"
+      },
+      {
+        "id": "Natasha Fernandes"
+      },
+      {
+        "id": "Annabelle McIver"
+      }
+    ],
+    "6": [
+      {
+        "id": "Aixin Sun"
+      },
+      {
+        "id": "Xu Tan"
+      },
+      {
+        "id": "Tao Qin"
+      },
+      {
+        "id": "Tie-Yan Liu"
+      },
+      {
+        "id": "Shafiq R. Joty"
+      },
+      {
+        "id": "Sungrim Moon"
+      },
+      {
+        "id": "Yanshan Wang"
+      },
+      {
+        "id": "Hongfang Liu"
+      },
+      {
+        "id": "Weiran Huang"
+      },
+      {
+        "id": "Shu Wang"
+      },
+      {
+        "id": "Sijia Liu"
+      },
+      {
+        "id": "Chang Xu"
+      },
+      {
+        "id": "Jiuxiang Gu"
+      },
+      {
+        "id": "S. Sohn"
+      },
+      {
+        "id": "Chenliang Li"
+      },
+      {
+        "id": "Hongwei Wang"
+      },
+      {
+        "id": "Chengyue Gong"
+      },
+      {
+        "id": "Liwei Wang"
+      },
+      {
+        "id": "S. Fu"
+      },
+      {
+        "id": "G. Wang"
+      },
+      {
+        "id": "Ke Liu"
+      },
+      {
+        "id": "S. Bhowmick"
+      },
+      {
+        "id": "E. Ryu"
+      },
+      {
+        "id": "Jianfei Cai"
+      },
+      {
+        "id": "Ming Huang"
+      },
+      {
+        "id": "Di He"
+      },
+      {
+        "id": "Siyuan Liu"
+      },
+      {
+        "id": "F. Shen"
+      },
+      {
+        "id": "Dingcheng Li"
+      },
+      {
+        "id": "Miguel Park"
+      },
+      {
+        "id": "H. Kita"
+      },
+      {
+        "id": "I. Croghan"
+      },
+      {
+        "id": "J. Castro-Rodriguez"
+      },
+      {
+        "id": "Y. Juhn"
+      },
+      {
+        "id": "Lixia Yao"
+      },
+      {
+        "id": "Wanlu Zhang"
+      },
+      {
+        "id": "Wanyi Huang"
+      },
+      {
+        "id": "Paul R. Kingsbury"
+      },
+      {
+        "id": "C. Wi"
+      },
+      {
+        "id": "Lester Y Leung"
+      },
+      {
+        "id": "Anne-Olivia Raulli"
+      },
+      {
+        "id": "David F. Kallmes"
+      },
+      {
+        "id": "Kristin A. Kinsman"
+      },
+      {
+        "id": "Kristoff B Nelson"
+      },
+      {
+        "id": "Michael S. Clark"
+      },
+      {
+        "id": "David M. Kent"
+      },
+      {
+        "id": "J. Li"
+      },
+      {
+        "id": "Jianglei Han"
+      },
+      {
+        "id": "Naveed Afzal"
+      },
+      {
+        "id": "M. Rastegar-Mojarad"
+      },
+      {
+        "id": "K. Ravikumar"
+      },
+      {
+        "id": "Vipin Chaudhary"
+      },
+      {
+        "id": "Zhiliang Ji"
+      },
+      {
+        "id": "John M. Davis III"
+      },
+      {
+        "id": "Harsheen Kaur"
+      },
+      {
+        "id": "Kay Bachman"
+      },
+      {
+        "id": "G. Voge"
+      },
+      {
+        "id": "S. Wu"
+      },
+      {
+        "id": "E. Krusemark"
+      },
+      {
+        "id": "Alicia Seabright"
+      },
+      {
+        "id": "D. Larson"
+      },
+      {
+        "id": "J. Naessens"
+      },
+      {
+        "id": "E. Habermann"
+      },
+      {
+        "id": "Xiaodi Li"
+      },
+      {
+        "id": "Yaoping Ruan"
+      }
+    ],
+    "295": [
+      {
+        "id": "K. Keutzer"
+      },
+      {
+        "id": "Michael W. Mahoney"
+      },
+      {
+        "id": "A. Gholami"
+      },
+      {
+        "id": "Z. Yao"
+      },
+      {
+        "id": "Norman Mu"
+      }
+    ],
+    "9": [
+      {
+        "id": "S. Jung"
+      },
+      {
+        "id": "Xu Shi"
+      },
+      {
+        "id": "E. Karlson"
+      },
+      {
+        "id": "I. Kohane"
+      },
+      {
+        "id": "T. Cai"
+      },
+      {
+        "id": "Tianxi Cai"
+      },
+      {
+        "id": "Ying Chen"
+      },
+      {
+        "id": "Scott Spangler"
+      },
+      {
+        "id": "Qiu-Yue Zhong"
+      },
+      {
+        "id": "Leena Mittal"
+      },
+      {
+        "id": "M. Nathan"
+      },
+      {
+        "id": "Kara M Brown"
+      },
+      {
+        "id": "Deborah Knudson González"
+      },
+      {
+        "id": "S. Finan"
+      },
+      {
+        "id": "B. Gelaye"
+      },
+      {
+        "id": "P. Avillach"
+      },
+      {
+        "id": "J. Smoller"
+      },
+      {
+        "id": "Michelle A Williams"
+      },
+      {
+        "id": "Byung-Kwon Choi"
+      },
+      {
+        "id": "Tajhal Dayaram"
+      },
+      {
+        "id": "Neha Parikh"
+      },
+      {
+        "id": "Angela D. Wilkins"
+      },
+      {
+        "id": "Meena Nagarajan"
+      },
+      {
+        "id": "Ilya B. Novikov"
+      },
+      {
+        "id": "Benjamin J. Bachman"
+      },
+      {
+        "id": "P. Haas"
+      },
+      {
+        "id": "J. Labrie"
+      },
+      {
+        "id": "C. Pickering"
+      },
+      {
+        "id": "Anbu K. Adikesavan"
+      },
+      {
+        "id": "Sam Regenbogen"
+      },
+      {
+        "id": "Linda Kato"
+      },
+      {
+        "id": "A. Lelescu"
+      },
+      {
+        "id": "Christie Buchovecky"
+      },
+      {
+        "id": "Houyin Zhang"
+      },
+      {
+        "id": "Sheng Hua Bao"
+      },
+      {
+        "id": "Stephen K. Boyer"
+      },
+      {
+        "id": "G. Weber"
+      },
+      {
+        "id": "K. Scott"
+      },
+      {
+        "id": "L. Donehower"
+      },
+      {
+        "id": "O. Lichtarge"
+      },
+      {
+        "id": "Wenjun Hou"
+      },
+      {
+        "id": "Xiyao Cheng"
+      },
+      {
+        "id": "Victoria Gamerman"
+      },
+      {
+        "id": "A. Elsässer"
+      },
+      {
+        "id": "Andrew Beam"
+      },
+      {
+        "id": "Benjamin Kompa"
+      },
+      {
+        "id": "A. Schmaltz"
+      },
+      {
+        "id": "Inbar Fried"
+      },
+      {
+        "id": "N. Palmer"
+      }
+    ],
+    "14": [
+      {
+        "id": "Christopher D. Manning"
+      },
+      {
+        "id": "Kevin Clark"
+      },
+      {
+        "id": "Siva Reddy"
+      },
+      {
+        "id": "Danqi Chen"
+      },
+      {
+        "id": "C. Langlotz"
+      },
+      {
+        "id": "David J. Cronkite"
+      },
+      {
+        "id": "D. Carrell"
+      },
+      {
+        "id": "A. Halevy"
+      },
+      {
+        "id": "K. James"
+      },
+      {
+        "id": "J. Mardekian"
+      },
+      {
+        "id": "A. Avins"
+      },
+      {
+        "id": "Yuhao Zhang"
+      },
+      {
+        "id": "W. Tan"
+      },
+      {
+        "id": "S. Hassanpour"
+      },
+      {
+        "id": "P. Heagerty"
+      },
+      {
+        "id": "S. Rundell"
+      },
+      {
+        "id": "P. Suri"
+      },
+      {
+        "id": "H. Huhdanpaa"
+      },
+      {
+        "id": "Nancy L. Organ"
+      },
+      {
+        "id": "E. Meier"
+      },
+      {
+        "id": "K. Sherman"
+      },
+      {
+        "id": "D. Kallmes"
+      },
+      {
+        "id": "P. Luetmer"
+      },
+      {
+        "id": "B. Griffith"
+      },
+      {
+        "id": "D. Nerenz"
+      },
+      {
+        "id": "J. Jarvik"
+      },
+      {
+        "id": "E. Masters"
+      },
+      {
+        "id": "A. Ramaprasan"
+      },
+      {
+        "id": "Roy E. Palmer"
+      },
+      {
+        "id": "David E. Gross"
+      },
+      {
+        "id": "M. Von Korff"
+      },
+      {
+        "id": "D. Ding"
+      },
+      {
+        "id": "Tianpei Qian"
+      },
+      {
+        "id": "F. Chokshi"
+      },
+      {
+        "id": "B. Comstock"
+      },
+      {
+        "id": "S. Nedeljkovic"
+      },
+      {
+        "id": "Xiaolan Wang"
+      },
+      {
+        "id": "Aaron Feng"
+      },
+      {
+        "id": "Behzad Golshan"
+      },
+      {
+        "id": "G. Mihaila"
+      },
+      {
+        "id": "H. Oiwa"
+      }
+    ],
+    "16": [
+      {
+        "id": "P. Daumke"
+      },
+      {
+        "id": "U. Hahn"
+      },
+      {
+        "id": "S. Decker"
+      },
+      {
+        "id": "A. Winter"
+      },
+      {
+        "id": "S. Stäubert"
+      },
+      {
+        "id": "D. Ammon"
+      },
+      {
+        "id": "Stephan Aiche"
+      },
+      {
+        "id": "O. Beyan"
+      },
+      {
+        "id": "V. Bischoff"
+      },
+      {
+        "id": "G. Funkat"
+      },
+      {
+        "id": "J. Gewehr"
+      },
+      {
+        "id": "Armin de Greiff"
+      },
+      {
+        "id": "Silke Haferkamp"
+      },
+      {
+        "id": "A. Henkel"
+      },
+      {
+        "id": "T. Kirsten"
+      },
+      {
+        "id": "Thomas Klöss"
+      },
+      {
+        "id": "J. Lippert"
+      },
+      {
+        "id": "Matthias Löbe"
+      },
+      {
+        "id": "Volker Lowitsch"
+      },
+      {
+        "id": "Oliver Maassen"
+      },
+      {
+        "id": "J. Maschmann"
+      },
+      {
+        "id": "S. Meister"
+      },
+      {
+        "id": "R. Mikolajczyk"
+      },
+      {
+        "id": "M. Nüchter"
+      },
+      {
+        "id": "Mathias W Pletz"
+      },
+      {
+        "id": "E. Rahm"
+      },
+      {
+        "id": "Morris Riedel"
+      },
+      {
+        "id": "Kutaiba Saleh"
+      },
+      {
+        "id": "A. Schuppert"
+      },
+      {
+        "id": "S. Smers"
+      },
+      {
+        "id": "André Stollenwerk"
+      },
+      {
+        "id": "S. Uhlig"
+      },
+      {
+        "id": "Thomas Wendt"
+      },
+      {
+        "id": "S. Zenker"
+      },
+      {
+        "id": "W. Fleig"
+      },
+      {
+        "id": "G. Marx"
+      },
+      {
+        "id": "A. Scherag"
+      },
+      {
+        "id": "M. Löffler"
+      }
+    ],
+    "89": [
+      {
+        "id": "M. Afshar"
+      },
+      {
+        "id": "C. Joyce"
+      },
+      {
+        "id": "Dmitriy Dligach"
+      },
+      {
+        "id": "M. Churpek"
+      },
+      {
+        "id": "Ron Price"
+      },
+      {
+        "id": "R. Cooper"
+      },
+      {
+        "id": "Anthony Oakey"
+      },
+      {
+        "id": "P. Formanek"
+      },
+      {
+        "id": "Philip Yang"
+      },
+      {
+        "id": "S. Zelisko"
+      }
+    ],
+    "31": [
+      {
+        "id": "T. Glauser"
+      },
+      {
+        "id": "T. Loddenkemper"
+      },
+      {
+        "id": "Z. Grinspan"
+      },
+      {
+        "id": "J. Mbwana"
+      },
+      {
+        "id": "R. Bailey"
+      },
+      {
+        "id": "M. Berl"
+      },
+      {
+        "id": "J. Buchhalter"
+      },
+      {
+        "id": "Adrian Bumbut"
+      },
+      {
+        "id": "Zach Danner"
+      },
+      {
+        "id": "Angie Glotstein"
+      },
+      {
+        "id": "H. Goodkin"
+      },
+      {
+        "id": "Brian Jacobs"
+      },
+      {
+        "id": "Lisa Jones"
+      },
+      {
+        "id": "B. Kroner"
+      },
+      {
+        "id": "Gardiner Lapham"
+      },
+      {
+        "id": "D. Maraganore"
+      },
+      {
+        "id": "Douglas Nordli"
+      },
+      {
+        "id": "W. Gaillard"
+      }
+    ]
+  }
+}
